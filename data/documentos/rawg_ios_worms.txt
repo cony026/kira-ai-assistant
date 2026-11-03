@@ -1,0 +1,21 @@
+JUEGO: Worms
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Xbox 360, Game Boy, PlayStation, Classic Macintosh, iOS, PC, SNES, SEGA Saturn, Jaguar, Commodore / Amiga, Genesis
+FECHA DE LANZAMIENTO: 1995-01-01
+DESARROLLADOR: Team17 Digital, Games from YovoGames !
+PUBLISHER: Microsoft Studios, Team17 Digital, Ocean Software
+GÉNEROS: Action, Strategy, Arcade
+RATING USUARIOS: 3.79/5 (260 votos)
+TIEMPO DE JUEGO MEDIO: 1 horas
+TAGS: Singleplayer, Multiplayer, 2D, Classic, Retro, Turn-Based, Turn-Based Strategy
+
+DESCRIPCIÓN:
+Worms is a turn-based strategy game developed by Team17. It is the first installment of the Worms series of games.
+
+Worms is a two-dimensional game. The gameplay is similar to the strategies of the time, such as Scorched Earth. The player controls a team of four worms. The objective of the game is to eliminate the enemy team. The player and the AI take turns on which they control a randomly selected worm from their team. During each turn, the player can use any weapon available to them or change the position of a worm. Upon hitting a worm, it's health points are taken away. The worms die on two occasions: if their health points reach zero or they hit the water. The levels are interactive and their landscapes are destructible, which affects the gameplay.
+
+Players have access to a wide variety of weapons. Apart from RPGs, grenades, and UZI, the game features unusual weapons such as banana bombs or explosive sheep. During the game, weapon crates are dropped from the sky. Players also can use tools such as a blowtorch or a drill, that affect the landscape itself.
+
+It is possible to customize the games settings, such as the available weapons, the time limit of a turn and a round.

@@ -1,0 +1,23 @@
+JUEGO: Syndicate
+
+FUENTE: IGDB
+PLATAFORMA: PC-9800 Series, PC (Microsoft Windows), Mac, DOS
+DISPONIBLE EN: PC-9800 Series, PC (Microsoft Windows), Mac, DOS, FM Towns
+GÉNEROS: Estrategia, Táctico
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Bullfrog Productions
+PUBLISHER: Electronic Arts, Electronic Arts Victor
+FECHA DE LANZAMIENTO: 1993-06-06
+NOTA DE LA CRÍTICA (IGDB): 69/100 (4 críticas)
+NOTA DE USUARIOS (IGDB): 83/100 (64 votos)
+TAMBIÉN CONOCIDO COMO: BOB, Cyber Assault, Higher Functions
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co5385.jpg
+URL: https://www.igdb.com/games/syndicate--2
+
+RESUMEN:
+Syndicate is a strategic action game set in a dystopian future where corporate entities vie for global dominance. Players control a syndicate, expanding their influence across a world map divided into territories. Starting from a European base, players deploy agents to infiltrate and conquer adjacent regions through covert operations and violence. Once a territory is captured, players can impose taxes to increase revenue, but must balance this with the risk of inciting rebellions. The game involves managing resources, dispatching agents to eliminate threats both foreign and domestic, and defending against rival syndicates' incursions. Success requires careful strategic planning, efficient resource management, and the ability to outmaneuver opponents on a global scale. The ultimate goal is to achieve world domination by controlling all territories and overcoming all challenges.
+
+JUEGOS PARECIDOS:
+Si te gusta Syndicate, también podrían gustarte: Syndicate Wars, Front Mission, Silent Storm, Messiah, Omega Strikers, Warhammer 40,000: Battlesector, Warhammer 40,000: Mechanicus, Purgatory, Wing Commander II: Vengeance of the Kilrathi, XCOM: Chimera Squad.

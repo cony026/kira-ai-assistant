@@ -1,0 +1,20 @@
+JUEGO: Kingdom Rush
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, Linux, macOS, PC, iOS, Web
+FECHA DE LANZAMIENTO: 2011-12-19
+DESARROLLADOR: Ironhide Game Studio, Ironhide
+PUBLISHER: Ironhide Game Studio, Ironhide
+GÉNEROS: Action, Strategy, Indie
+RATING USUARIOS: 4.17/5 (197 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Steam Achievements, Steam Cloud, steam-trading-cards, RPG, 2D, Fantasy, Funny, Difficult, Comedy, Tactical, Tower Defense, Touch-Friendly
+
+DESCRIPCIÓN:
+Kingdom Rush is a tower defense game, the first installment in Kingdom Rush series. The game was initially released as a flash game by Armor Games but later received ports for iOS, Android, Windows, and Linux. 
+
+###Gameplay
+The gameplay of Kingdom Rush shares many similarities with other tower-defense games. On each level, you have to defeat your town from waves of enemies crawling across the map.
+To do so, you place towers which automatically attack enemies that get in their range of attack. There four types of towers in Kingdom Rush: Ranged Towers, Melee Towers, Mage Towers, and Artillery Towers. Ranged Towers shoot arrows at any enemy that gets in their sight. Melee Towers spawn troops that march towards enemies and engage in close combat. Mage Towers fire magic bolt that is especially effective against armored enemies. Artillery Towers are the slowest and the most expensive ones, but they deal much damage and can hit several enemies with one shot. Aside from placing towers, a player can use special abilities such as meteor strikes that directly damage any emeries on the map. 
+There are 12 levels in the primary campaign and several extra levels that can be unlocked after beating the game. Additionally, there is an Endless mode with one map that lets player stand against infinite waves of enemies for as long as they can.

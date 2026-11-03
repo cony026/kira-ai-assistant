@@ -1,0 +1,27 @@
+JUEGO: Doom Eternal
+
+FUENTE: IGDB
+PLATAFORMA: Google Stadia, Xbox Series X|S, PlayStation 4, PC (Microsoft Windows)
+DISPONIBLE EN: Google Stadia, Xbox Series X|S, PlayStation 4, PC (Microsoft Windows), PlayStation 5, Xbox One, Nintendo Switch
+GÉNEROS: Shooter
+TEMAS: Acción, Fantasía, Ciencia ficción, Terror, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: id Software
+PUBLISHER: Bethesda Softworks
+FECHA DE LANZAMIENTO: 2020-03-19
+NOTA DE LA CRÍTICA (IGDB): 86/100 (14 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (767 votos)
+FRANQUICIA: Doom
+TAMBIÉN CONOCIDO COMO: DOOM Eternal, idTechLauncher.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3p5n.jpg
+URL: https://www.igdb.com/games/doom-eternal
+
+RESUMEN:
+Doom Eternal is a first-person shooter developed by id Software and the sequel to Doom (2016). Players control the Doom Slayer as he fights to end a demonic invasion of Earth. Combat is built around aggressive resource management, where health, armor, and ammo are gained by executing, igniting, or chainsawing enemies. The game introduces platforming segments, destructible enemy weak points, an expanded weapon arsenal, and a multiplayer mode called Battlemode, where one player-controlled Slayer fights two player-controlled demons.
+
+HISTORIA:
+Earth has been overrun by demons, wiping out 60% of the planet's population. The Doom Slayer returns with a satellite fortress to end the invasion by hunting down three Hell Priests who serve the Khan Maykr, an angelic being willing to sacrifice humanity for her own race's survival. As the Slayer eliminates the priests one by one, he uncovers a deeper conflict between Heaven, Hell, and an ancient pact that has fed on human souls for eons.
+
+JUEGOS PARECIDOS:
+Si te gusta Doom Eternal, también podrían gustarte: Mortal Kombat 11, Wolfenstein: Youngblood, Trepang2, Zombie Army 4: Dead War, Helldivers 2, Metro Exodus, Serious Sam 4, F.E.A.R. 2: Project Origin, Bright Memory: Infinite, Alien Rage: Unlimited.

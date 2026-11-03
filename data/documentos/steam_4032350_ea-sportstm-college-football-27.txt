@@ -1,0 +1,78 @@
+JUEGO: EA SPORTS™ College Football 27
+PLATAFORMA: PC (Steam)
+GÉNEROS: Simuladores, Deportes
+DESARROLLADOR: Tiburon
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 9 JUL 2026
+PRECIO: $69.99
+RESEÑAS DE USUARIOS (STEAM): Mixed (2449 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Adéntrate en la era moderna del fútbol universitario, donde la ambición personal se une al orgullo del programa. Equilibra las expectativas, la identidad y todo lo que exige el sábado mientras te sumerges en las tradiciones y el boato del día de partido.
+
+DESCRIPCIÓN DETALLADA:
+En EA SPORTS™ College Football 27, entra en la era moderna del fútbol americano universitario, donde la ambición personal se une al orgullo del programa. Diseña tu programa con Dynasty Blueprint, crea tu atleta, asume nuevas posiciones en Road to Glory y juega como tus mascotas favoritas en Mascot Mashup para vivir las tradiciones y el esplendor del día de partido.
+
+DYNASTY
+
+El nuevo Dynasty Blueprint te pone al control del futuro de tu programa. Gestiona las expectativas del equipo de dirección deportiva y usa los puntos de Dynasty para fichar, el NIL (derechos de nombre, imagen y semejanza), personal e instalaciones, de manera que construyas tu potencia de College Football.
+
+ROAD TO GLORY
+
+Define tu camino en Road to Glory y descubre nuevas opciones de personalización y posiciones mientras creas a tu jugador. Gana acuerdos de NIL (nombre, imagen y semejanza), persigue el Heisman, mejora tu posición en el Draft y aumenta tu puntuación de legado con cada decisión que tomes.
+​
+
+MASCOT MASHUP
+
+Juega como tu mascota favorita en Mascot Mashup. Colecciona más de 120 iconos descomunales y lleva el caos a salvajes enfrentamientos de 11 contra 11 repletos de celebraciones exageradas y payasadas de mascotas impulsadas por el puro espíritu escolar.
+​
+
+NARRATIVA Y PRESENTACIÓN
+
+Siente cada momento del día de partido y vive el fútbol americano universitario en su apogeo con el clima dinámico, el esplendor ampliado y un nuevo paquete de retransmisión que te ofrecen una inmersión más profunda, mientras que la narrativa dinámica conecta tu viaje con las vistas, sonidos y la emoción de los sábados.
+
+JUGABILIDAD
+
+Convierte cada toque en una jugada destacada. Siente la diferencia entre quienes de verdad influyen en cada jugada, desde rutas y coberturas más inteligentes hasta batallas explosivas de WR contra DB, con ajustes prejugada más optimizados y personalizables que impulsan la acción estratégica y electrizante en el campo.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 11
+
+- Procesador: Intel Core i3-10300 (4 cores, 8 threads)  / AMD Ryzen 5 2600
+
+- Memoria: 12 GB de RAM
+
+- Gráficos: Nvidia GeForce RTX 2060 / AMD Radeon RX 5600 XT  / Intel Arc A580
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Compatibilidad con RV: not supported
+
+- Notas adicionales: SSD recommended; 8 logical CPU cores minimum; Intel Arc GPUs require Resizable BAR (ReBAR) enabled to meet expected performance Estimated performance when set to &quot;Low&quot; preset: 1920x1080 @ 60 FPS
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 11
+
+- Procesador: Intel Core i7-10700 / AMD Ryzen 7 3700X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia RTX 3060Ti / AMD Radeon RX 6700 XT / Intel Arc B580	
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Compatibilidad con RV: not supported
+
+- Notas adicionales: SSD recommended; 8 logical CPU cores minimum; Intel Arc GPUs require Resizable BAR (ReBAR) enabled to meet expected performance Estimated performance when set to &quot;High&quot; preset: 2560x1440 @ 60 FPS

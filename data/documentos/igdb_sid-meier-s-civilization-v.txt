@@ -1,0 +1,24 @@
+JUEGO: Sid Meier's Civilization V
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Simulación, Estrategia, Estrategia por turnos
+TEMAS: Fantasía, Ciencia ficción, Histórico, Bélico, 4X (explore, expand, exploit, and exterminate)
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Firaxis Games
+PUBLISHER: Aspyr Media, Mastertronic, 2K Games
+FECHA DE LANZAMIENTO: 2010-09-21
+NOTA DE LA CRÍTICA (IGDB): 87/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (1168 votos)
+FRANQUICIA: Sid Meier
+TAMBIÉN CONOCIDO COMO: Civ V, Civilization V, Civ 5, Civilization 5, 시드 마이어의 문명 5
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co20up.jpg
+URL: https://www.igdb.com/games/sid-meier-s-civilization-v
+
+RESUMEN:
+Sid Meier's Civilization V is a turn-based strategy game in which players lead a civilization from the ancient era through the future. Players found cities, research technologies, build improvements, train military units, and engage in diplomacy with AI or human opponents. Victory can be achieved through domination, science, culture, diplomacy, or by having the highest score when time runs out. The game features a hex-based tile system, city-states as minor factions, and ranged combat that prevents unit stacking on a single tile.
+
+JUEGOS PARECIDOS:
+Si te gusta Sid Meier's Civilization V, también podrían gustarte: Sid Meier's Civilization IV, Sid Meier's Civilization III, Rise of Nations, Rome: Total War, Medieval II: Total War, Europa Universalis IV, Hearts of Iron III, Humankind, Total War: Rome II, Stronghold Crusader II.

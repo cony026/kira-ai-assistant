@@ -1,0 +1,32 @@
+JUEGO: Sensible World of Soccer
+
+FUENTE: IGDB
+PLATAFORMA: DOS, Amiga
+DISPONIBLE EN: DOS, Amiga
+GÉNEROS: Deportes
+TEMAS: Non-fiction
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Sensible Software
+PUBLISHER: Renegade Software, Virgin Interactive Entertainment, Inc.
+FECHA DE LANZAMIENTO: 1994-05-01
+NOTA DE LA CRÍTICA (IGDB): 80/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 90/100 (32 votos)
+TAMBIÉN CONOCIDO COMO: SWoS, Sensi v1.1a
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3pm7.jpg
+URL: https://www.igdb.com/games/sensible-world-of-soccer
+
+RESUMEN:
+Sensible World of Soccer is an enhanced version of Sensible Soccer. Virtually every important soccer league in the world is included in this game, with some countries not only having premier / first division, but 2nd, 3rd, and more divisions. All important international competitions are also included (club- and national-team based). The game has a career mode, where you may play up to 20 seasons as player manager or manager only. During a career as a coach you're not tied to one club / national team, meaning if you're good enough one (or more) big clubs make offers to you to coach their team.
+
+All teams featured in this game have real players (names, strengths, weaknesses, etc.) from the 1994/1995 season. The management part of the game allows you to buy any of these players (which number 24,000 in total) if you have enough money and a free slot in your team. Besides the player manger career, you may play friendly matches, single season of any competition, and custom competitions, which can be made from scratch or based on a real one. Teams participating in these competitions can be chosen from any country. All the teams may be played by human player or computer.
+
+The DOS version is based on Amiga version 1.1 with the data of season 1995/1996. 1.1 adds the ability to switch between player-manager and manager-only status before each match of a career and improved on-pitch skills enhanced for the player teams. Also the athletes' statistics improve by consistent goal-scoring.
+
+HISTORIA:
+The career game mode in Sensible World of Soccer enables players to manage a club through 20 seasons. Basic manager options include a transfer market (buy/sell players).
+
+Every team has a squad of 16 players, by default. Every player has individual skills (speed, tackling, heading, finishing, shooting, passing, ball control). Player prices are calculated relative to their skills. Players can be transferred from other clubs by offering an amount of money and/or own players in a part exchange deal. To be able to buy stronger players and to keep them it is necessary to earn money with success in the various competitions. Job offers from other clubs and also from a national team may roll in, depending on the success.
+
+JUEGOS PARECIDOS:
+Si te gusta Sensible World of Soccer, también podrían gustarte: FIFA 20, FIFA Soccer 2005, Tecmo World Cup '98, FIFA Street, Pro Evolution Soccer, Pro Evolution Soccer 2017, eFootball PES 2020, Pro Evolution Soccer 2019, Football Manager 2017, Backbreaker Vengeance.

@@ -1,0 +1,23 @@
+JUEGO: Contra
+
+FUENTE: IGDB
+PLATAFORMA: Nintendo Entertainment System
+DISPONIBLE EN: Nintendo Entertainment System
+GÉNEROS: Shooter, Plataformas
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Tercera persona, Vista lateral
+DESARROLLADOR: Konami
+PUBLISHER: Konami
+FECHA DE LANZAMIENTO: 1988-02-02
+NOTA DE USUARIOS (IGDB): 79/100 (81 votos)
+FRANQUICIA: Contra
+TAMBIÉN CONOCIDO COMO: Контра
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6ys0.jpg
+URL: https://www.igdb.com/games/contra--1
+
+RESUMEN:
+Contra is the NES port of the homonymous 1987 arcade game. It is a run and gun action game developed and published by Konami. The NES port was originally released in North America, and it lacks the cutscenes and other details present in the Japanese version which was released a week later.
+
+JUEGOS PARECIDOS:
+Si te gusta Contra, también podrían gustarte: Earth Defense Force 5, GunZ: The Duel, Splatoon 3, Astral Chain, Earth Defense Force: Iron Rain, Unravel Two, Alien Hominid Invasion, Super Bear Adventure, E.X. Troopers, Morphies Law.

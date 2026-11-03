@@ -1,0 +1,24 @@
+JUEGO: Transport Tycoon
+
+FUENTE: IGDB
+PLATAFORMA: iOS, DOS
+DISPONIBLE EN: iOS, DOS
+GÉNEROS: Simulación, Estrategia
+TEMAS: Gestión
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Chris Sawyer Productions
+PUBLISHER: MicroProse Software, Inc.
+FECHA DE LANZAMIENTO: 1994-11-15
+NOTA DE USUARIOS (IGDB): 88/100 (40 votos)
+TAMBIÉN CONOCIDO COMO: TT
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2rqn.jpg
+URL: https://www.igdb.com/games/transport-tycoon
+
+RESUMEN:
+Released on PC in 1994. Developed by Chris Sawyer, and coded in X86 Assembly language, it was among the first in the relatively new 'tycoon' genre of games - simulations of business empires that the player founded, grew and took full control of.
+
+Transport Tycoon saw the player running their transport empire from 1930 to 2030, with rail, road, sea and air transport available to help the player's expansion of their business. New technologies are introduced to the player at historically accurate times, and players could see first-hand how advancements changed the way their businesses were run.
+
+JUEGOS PARECIDOS:
+Si te gusta Transport Tycoon, también podrían gustarte: Lemonade Tycoon, SimTower, Startup Company, Airline Tycoon 2, Business Empire: RichMan, Capitalism Lab, Sally's Spa, Geniu$: The Tech Tycoon Game, Fiz: The Brewery Management Game, Isotower.

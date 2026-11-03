@@ -1,0 +1,100 @@
+JUEGO: ARK: Survival Ascended
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Indie, Multijugador masivo, Rol, Acceso anticipado
+DESARROLLADOR: Studio Wildcard, Grove Street Games, Instinct Games
+PUBLISHER: Studio Wildcard, Snail Games USA
+FECHA DE LANZAMIENTO: 25 OCT 2023
+PRECIO: $11.24
+RESEÑAS DE USUARIOS (STEAM): Mixed (115806 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+¡Ark se reinventa desde cero en esta próxima generación de tecnología de videojuegos con Unreal Engine 5! Forma una tribu, domestica y cría cientos de dinosaurios únicos y criaturas primitivas, exploran, cree, construyen y luchan hasta la cima de la cadena alimentaria. ¡Tu nuevo mundo te espera!
+
+DESCRIPCIÓN DETALLADA:
+Respira en una nueva experiencia de supervivencia de dinosaurios más allá de tus sueños más salvajes ... ¡ya que Ark se reinventa desde cero a la próxima generación de la tecnología de videojuegos con Unreal Engine 5! Te despiertas en una misteriosa isla, tus sentidos abrumados por la luz del sol cegador y los colores brillantes que rebotan en todas las superficies que te rodean, las aguas azules de una isla verdante que se desplaza a tus pies descalzos. Un rugido profundo resuena de la jungla brumosa, que te pone en acción, y te pones de pie, sin miedo, pero intrigado. ¿Estás listo para formar una tribu, domesticar y criar cientos de especies de dinosaurios y otras criaturas primitivas, explorar, crear, construir y luchar hasta la cima de la cadena alimentaria? Tu nuevo mundo espera ... ¡atraviesa el espejo y únete a él!
+
+
+
+CARACTERÍSTICAS
+
+
+
+ARK: Survival Ascended ha recreado y rediseñado por completo las obras de arte y los mundos de Ark para aprovechar lo último en tecnología de videojuegos, Unreal Engine 5, utilizando características gráficas de alta gama como la iluminación global totalmente dinámica (&quot;&quot;Lumen&quot;&quot;), para que la luz ligera rebota de manera realista de las superficies fuera y proporciona reflexiones realistas, y la transmisión de malla avanzada (&quot;&quot;nanita&quot;&quot;) de cientos de millones de triángulos para detalles extremos.
+
+
+
+
+
+Nuevos sistemas físicos avanzados, como el agua dinámica, para que cada criatura cree olas, ondas, salpicaduras y burbujas a medida que se mueven a través de fluidos y follaje físico totalmente interactivo donde cada espada de hierba, arbusto y árboles reacciona a personajes, explosiones, proyectos, y objetos de física. ¡Toca un árbol y vea que se estrella contra otros árboles y molesta todo el follaje en su camino hacia abajo para golpear la hierba de abajo! Detectar a un enemigo que se mueve furtivamente a través de la hierba a medida que cambia y se balancea en respuesta a su presencia. Demoler un edificio y ver las piezas separarse de manera realista, interactuando con la hierba y el agua mientras caen.
+
+
+
+
+
+ARK: La supervivencia ascendida incluye acceso a todos los mundos de Ark, incluidas la tierra quemada, la aberración, la extinción, el Ark Genesis Parte 1, el Ark Genesis Parte 2 y más. La isla se lanza ahora, con los mundos de expansión posteriores que se agregarán sin costo adicional de forma regular.
+
+
+
+
+
+La experiencia definitiva de supervivencia regresa mejor que nunca: diseñe a su sobreviviente, forme una tribu y los dinosaurios domesticados, trenes, raza y manejo dentro de un ecosistema vivo. Observe su comida, agua, temperatura y patrones climáticos. Expanda lentamente hacia afuera mientras cosecha, construye estructuras, cultiva cultivos, personaliza sus diseños visuales y procede a explorar para descubrir la verdadera naturaleza de la isla y los mundos más allá.
+
+
+
+
+
+Renovaciones exhaustivas de la calidad de vida en cada área: interfaces de usuario rediseñadas, navegación dinámica para criaturas inteligentes.
+
+
+
+Modding multiplataforma: Descargue y juegue un nuevo contenido personalizado creado por los jugadores, incluidos nuevos mapas, criaturas, elementos y modos de juego, a través de un nuevo pan de modificación dedicado directamente dentro del juego. ¡Disfruta de un flujo interminable de nuevo contenido de ARK ya que la creatividad y el talento de la comunidad se desatan por primera vez por primera vez en las plataformas de juego!
+
+
+
+
+
+Multijugador multiplataforma: forma a su tribu en línea en diferentes plataformas de juego mientras trabajan juntos para sobrevivir y prosperar en el arca.
+
+
+
+
+
+Apoya el multijugador público en línea para hasta 70 jugadores, multijugador de sesión privada para hasta 8 jugadores y pantalla dividida local para 2 jugadores.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10/11 with updates
+
+- Procesador: AMD Ryzen 5 2600X, Intel Core i7-6800K
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: AMD Radeon RX 5600 XT, NVIDIA GeForce 1080
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 180 GB de espacio disponible
+
+- Notas adicionales: SSD Required
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10/11 with updates
+
+- Procesador: AMD Ryzen 5 3600X, Intel i5-10600K
+
+- Memoria: 32 GB de RAM
+
+- Gráficos: AMD Radeon RX 6800, NVIDIA GeForce RTX 3080
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 180 GB de espacio disponible
+
+- Notas adicionales: SSD Required

@@ -1,0 +1,22 @@
+JUEGO: Pokémon Zafiro
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Sapphire
+PLATAFORMA: Game Boy Advance
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación III
+REGIÓN PRINCIPAL: Hoenn
+LANZADO JUNTO A: Pokémon Rubí
+
+DESCRIPCIÓN:
+Pokémon Zafiro es un juego de rol de la saga principal de Pokémon, de la Generación III, para Game Boy Advance. La aventura transcurre en la región de Hoenn. Se lanzó junto a Pokémon Rubí; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Treecko, Torchic y Mudkip. Su Pokédex regional reúne 202 especies de Pokémon distintas. Incluye Pokémon legendarios como Regirock, Regice, Registeel, Latias, Latios y Kyogre.
+
+POKÉDEX:
+- Hoenn Original: 202 Pokémon
+
+POKÉMON INICIALES:
+Treecko, Torchic, Mudkip
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Regirock, Regice, Registeel, Latias, Latios, Kyogre, Groudon, Rayquaza
+Singulares (míticos): Jirachi, Deoxys

@@ -1,0 +1,33 @@
+JUEGO: Doom II: Hell on Earth
+
+FUENTE: IGDB
+PLATAFORMA: PC-9800 Series, Tapwave Zodiac, PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC-9800 Series, Tapwave Zodiac, PC (Microsoft Windows), Mac, DOS
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Terror
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: id Software
+PUBLISHER: Imagineer, Virgin Interactive Entertainment (Europe) Ltd., GT Interactive Software, id Software, Bethesda Softworks, Tapwave
+FECHA DE LANZAMIENTO: 1994-09-30
+NOTA DE LA CRÍTICA (IGDB): 84/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (535 votos)
+FRANQUICIA: Doom
+TAMBIÉN CONOCIDO COMO: DOOM II: Hell on Earth, Doom 2, 毁灭战士2, DOOM II
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6iip.jpg
+URL: https://www.igdb.com/games/doom-ii-hell-on-earth
+
+RESUMEN:
+Doom II: Hell on Earth is a first-person shooter developed by id Software and released in 1994 as a sequel to the original Doom. The game continues the story, with players battling through Earth after it has been invaded by demonic forces.
+
+Gameplay remains similar to its predecessor, featuring fast-paced combat, maze-like levels, and an array of weapons, including the introduction of the powerful Super Shotgun. Doom II also adds new enemy types, such as the Arch-vile and the Mancubus, increasing the game's challenge.
+
+Initially released for MS-DOS, Doom II has since been ported to numerous platforms, becoming a cornerstone of the FPS genre.
+
+HISTORIA:
+Immediately following the events in Doom, the player once again assumes the role of the unnamed space marine. After defeating the demon invasion of the Mars moon bases and returning from Hell, Doomguy finds that Earth has also been invaded by the demons, who have killed billions of people.
+
+The humans who survived the attack have developed a plan to build massive spaceships which will carry the remaining survivors into space. Once the ships are ready, the survivors prepare to evacuate Earth. Unfortunately, Earth's only ground spaceport gets taken over by the demons, who place a flame barrier over it, preventing any ships from leaving.
+
+JUEGOS PARECIDOS:
+Si te gusta Doom II: Hell on Earth, también podrían gustarte: Quake II, Duke Nukem 3D, Half-Life, Quake 4, Quake, Doom 3, Doom, Doom 64, Painkiller, Return to Castle Wolfenstein.

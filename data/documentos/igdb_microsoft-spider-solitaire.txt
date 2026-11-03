@@ -1,0 +1,20 @@
+JUEGO: Microsoft Spider Solitaire
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Cartas y tablero
+MODOS DE JUEGO: Un jugador
+PUBLISHER: Microsoft
+FECHA DE LANZAMIENTO: 1998-06-25
+NOTA DE USUARIOS (IGDB): 70/100 (36 votos)
+TAMBIÉN CONOCIDO COMO: MS Spider Solitaire, Paciência spider
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4an2.jpg
+URL: https://www.igdb.com/games/microsoft-spider-solitaire
+
+RESUMEN:
+Spider Solitaire, also known as Microsoft Spider Solitaire (Spider in the About box in some versions), is a solitaire card game that is included in Microsoft Windows. It is a version of Spider. As of 2005, it was the most played game on Windows PCs, surpassing the shorter and less challenging Klondike-based Windows Solitaire.
+The game was first included as part of Windows 98's Microsoft Plus! package and has been since featured on most subsequent versions of Windows. Spider Solitaire was not included in Windows 2000, but was added to Windows ME and later on Windows XP; the game gained popularity subsequent to its inclusion in the latter. Windows Vista again saw a new version, which was mainly unchanged in Windows 7. Finally, Windows 8 has another updated version available in the Windows Store as part of Microsoft Solitaire Collection but not bundled with the operating system.
+
+JUEGOS PARECIDOS:
+Si te gusta Microsoft Spider Solitaire, también podrían gustarte: Mobile Phase 10, Rummikub, Cards Against Humanity Lab, Ludo King, Cribbage JD, UNO! Mobile, Canasta: Pro, Plato, Sweet Ange, Domino!.

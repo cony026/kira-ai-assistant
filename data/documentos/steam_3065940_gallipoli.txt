@@ -1,0 +1,74 @@
+JUEGO: Gallipoli
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Indie, Multijugador masivo, Simuladores, Estrategia
+DESARROLLADOR: BlackMill Games
+PUBLISHER: BlackMill Games
+FECHA DE LANZAMIENTO: 20 AGO 2026
+PRECIO: $22.49
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (2583 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+¡Desembarca en las playas de Galípoli y lucha en intensas batallas basadas en objetivos con 50 jugadores en los frentes otomanos! Vive la guerra en las trincheras y el desierto en Gallipoli, el shooter más inmersivo de la Primera Guerra Mundial, con 10 clases históricas equipadas con armamento real.
+
+DESCRIPCIÓN DETALLADA:
+¡Participa en los históricos desembarcos en Galípoli y lucha por sobrevivir en sus inclementes costas y abrasadores desiertos!Tras las trincheras llenas de barro de Verdun, las llanuras nevadas de Tannenberg y los imponentes Alpes de Isonzo, Gallipoli te sumerge en los frentes otomanos de la Primera Guerra Mundial mediante batallas inspiradas en la realidad pero accesibles.Gallipoli te pone en la piel de soldados de a pie de los imperios británico y otomano. Únete a expediciones a lo largo de Mesopotamia y la península de Galípoli para defender el territorio del Imperio otomano o captúralo para expulsar a las Potencias Centrales de la guerra. Este es un entorno de juego JcJ extremo en el que cada disparo es letal y que requiere trabajo en equipo en intensas batallas basadas en objetivos. Lucha en una variedad de inclementes campos de batalla durante la infame campaña de cuatro años en los frentes otomanos. Desembarca en las playas de la cala Anzac al amanecer para tomar los Dardanelos, ataca el fuerte del cabo Helles a bordo del SS River Clyde o avanza por las calles de Kut-al-Amara para hacer retroceder a las tropas británicas a Baja Mesopotamia.Colabora con un pelotón para obtener ventaja frente a tus oponentes en combate JcJ de 25 contra 25. Elige entre 10 clases especializadas, cada una con un papel histórico esencial en el campo de batalla. ¡Toma el mando como oficial, proporciona fuego de supresión como artillero de ametralladora pesada o francotirador y mantén con vida a tu equipo como camillero!El peso de las armas y las recargas metódicas mantienen el realismo en los combates, y se ven afectados por tu estado mental y tu grado de familiarización con cada arma. Explora arsenales auténticos de los imperios británico y otomano, que incluyen más de 50 armas y opciones de equipo altamente detalladas y siente las características históricas de cada arma.¡Únete ya a las campañas expedicionarias en los frentes otomanos y experimenta el brutal combate de Gallipoli!
+- Batallas auténticas de la Primera Guerra Mundial: Lucha a lo largo de la historia con mapas inmersivos, detallada personalización de uniformes y más de 50 armas y opciones de equipo recreadas con precisión histórica.
+- Entornos variados: Participa en batallas expedicionarias a lo largo de desfiladeros en la costa, desiertos áridos, zonas urbanas y mucho más. Desembarca en las playas de Galípoli a bordo del SS River Clyde o ponte a cubierto bajo el ancestral arco de Ctesifonte.
+- Jugabilidad inmersiva: Participa en brutales combates de la Primera Guerra Mundial, donde cada disparo es letal, centrados en batallas basadas en objetivos. Mantén el impulso mientras atraviesas las defensas enemigas.
+- Combate realista: Utiliza armas pesadas que parecen, se manejan y suenan como las reales. Adquiere mayor habilidad con la experiencia, mejorando tu puntería, tu manejo de las armas y tu capacidad de recargar mientras te suprimen.
+- Shooter en primera persona multijugador basado en clases: Elige entre 10 clases históricas con especializaciones únicas. Únete a un pelotón y trabaja en equipo en PC y consolas gracias al crossplay.
+- Nunca luches solo: En la lucha por el futuro de los frentes otomanos, se unirán bots en las partidas públicas, y tendrás opción de añadirlos en partidas personalizadas.Gallipoli es la secuela más reciente de la serie de juegos WW1, que te lleva a los frentes más importantes de la Gran Guerra. ¡Adéntrate en las trincheras del frente occidental en Verdun, carga contra sectores clave del frente oriental en Tannenberg o escala las montañas del frente alpino en Isonzo!¿Quieres enterarte de todas las novedades sobre Gallipoli? Únete a nosotros en el juego, en el Discord o síguenos en nuestras redes sociales con la barra lateral correspondiente.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11 64-Bit
+
+- Procesador: Intel Core i5-7400, AMD Ryzen 5 1600
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GTX 1660 Super, RX 5600 XT, 6GB VRAM
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 30 GB de espacio disponible
+
+- Notas adicionales: SSD highly recommended
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11 64-Bit
+
+- Procesador: Intel Core i5-11600K, AMD Ryzen 5 5600K
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce RTX 2070, AMD Radeon RX 6600 XT, 8GB VRAM
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 30 GB de espacio disponible
+
+- Notas adicionales: SSD highly recommended
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

@@ -1,0 +1,64 @@
+JUEGO: Shift At Midnight
+PLATAFORMA: PC (Steam)
+GÉNEROS: Indie, Simuladores
+DESARROLLADOR: Bun Muen
+PUBLISHER: Kwalee
+FECHA DE LANZAMIENTO: 22 JUL 2026
+PRECIO: $9.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (10172 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Una aventura cooperativa de terror y detectives para hasta 3 jugadores en línea. Colaborad en turnos generados aleatoriamente para investigar a vuestros clientes, algunos de los cuales fingen ser humanos, pero no lo son. Un solo error y os veréis obligados a encerraros, poner trampas y esconderos.
+
+DESCRIPCIÓN DETALLADA:
+Gestionar una estación de servicio requiere mucho trabajo. Hay que mantener llenos los estantes, vender suficientes productos para cumplir la cuota cada noche, recibir los pedidos y mantener el establecimiento limpio y ordenado.Ah, y además debes asegurarte de interrogar a cada cliente que atiendas, pues algunos no son humanos, sino cambiaformas. Si dejas escapar a alguno, volverá durante tu turno y tratará de mataros a ti y a tus compañeros… Si sospechas que alguno no es humano, ejecútalo directamente. Pero asegúrate de dejarlo todo bien limpio después.Si la fastidias, tendrás que poner trampas, atrancar las puertas y esconderte, pues los cambiaformas volverán convertidos en monstruos espantosos.Gestiona la estación de servicio Rellena los estantes, recibe pedidos, mantén limpio el establecimiento y atiende a los clientes. Cada turno se genera aleatoriamente… así que no hay dos iguales.No todos los clientes son humanos…Para gestionar una estación de servicio en estos tiempos, hay que hacer labores de detective… Puedes plantear cinco preguntas a cada cliente, examinar su DNI, comprobar sus datos en el ordenador y observar su comportamiento. Asegúrate de que sean humanos antes de permitirles marchar. Si no, volverán…Atranca la puerta, pon trampas y escóndeteSi una criatura consigue marcharse de la tienda, el infierno se desatará sobre ti. Atranca las puertas, pon trampas y encuentra un buen escondite. Tu supervivencia ya no está garantizada.¡Mejor con amigos!El juego es mucho más entretenido en el modo multijugador. Jugad juntos o al menos estad juntos... El chat de proximidad mejora la experiencia.Características:•	Modo multijugador•	Chat de proximidad•	Interrogatorio de clientes•	Turnos generados aleatoriamente•	Gestión de una estación de servicio•	Personalización de personajesSe prevé una gran actualización gratuita del MODO INFINITO para el último trimestre de 2026 con clientes, armas, trampas, monstruos y mucho más contenido exclusivo.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11 (64-bit)
+
+- Procesador: Intel Core i5-10400F or Equivalent
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1050 Ti or Equivalent
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 3 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11 (64-bit)
+
+- Procesador: Intel Core i5-10400 / AMD Ryzen 7 5800X or Equivalent
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1660 Ti (6GB) or Equivalent
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 3 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

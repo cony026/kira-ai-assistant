@@ -1,0 +1,46 @@
+JUEGO: Sine Mora EX
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PlayStation 4
+DISPONIBLE EN: PlayStation 4, Nintendo Switch, PC, Xbox One
+FECHA DE LANZAMIENTO: 2017-08-07
+DESARROLLADOR: THQ Nordic, Grasshopper Manufacture, Digital Reality, Gyroscope Games
+PUBLISHER: THQ Nordic
+GÉNEROS: Action, Shooter
+NOTA METACRITIC: 82
+RATING USUARIOS: 3.51/5 (70 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, steam-trading-cards, First-Person, Steam Leaderboards, Local Co-Op, Local Multiplayer, Side Scroller, Shoot 'Em Up, Bullet Hell
+
+DESCRIPCIÓN:
+Sine Mora is a Latin expression meaning “without delay.” The setting of this shoot 'em up game is described as “style-inspired dieselpunk.”
+
+###Plot
+There are two plots in the game, developing at different points in time.
+
+The first story is about a father who avenges the Empire for his son. His son, a bomber pilot, was executed by the Empire because he refused to drop a nuclear bomb during the Enkies attack.
+
+The second story is about the last survivors of the Enkie race, who also plan to take revenge on the Empire for the fact that the Empire destroyed them.
+
+Both plots of the game often develop in the same locations, but the differences between the situation in these places are very significant, because the events of different plots occur at completely different times.
+
+Everything happens on the planet Seol, which is very hike to Earth. However, the crust of this planet is very unstable, and this is the cause of the constant earthquakes. The landscape of the planet is very variable, its geography changes significantly over very short periods of time.
+
+By the time the game starts on the planet, two main factions compete: the aggressive Empire, ruled by the dictator, and the kingdom of Atarak, inhabited by the Enkie race.
+
+The Enkie race follows the teachings of the great prophet Enkie and is able to manage time. They can carry themselves and any object at any time past or future.
+
+The empire does not know how to manage time, but it is developing a machine that can do it. This machine will be able to accelerate the individual time of any object or living being, in order to bring it to the end of its existence, erasing, as soon as possible.
+
+###Gameplay
+The player controls the aircraft, the main weapon of which can be upgraded. The main weapon can be used without limitation. There is also a secondary weapon. It is more powerful, but its use is limited.
+
+The player's performance is estimated by the sum of the indicators: the destruction of enemies, the damage received, collected powerups (shielding, extra time, and upgraded weapon).
+
+Destruction of enemies with the primary weapon will increase the game's score multiplier, while use of the secondary weapon or time manipulation will reset the multiplier.
+
+The game has four difficulties: normal, challenging, hard and insane.
+
+Game modes are: Story, Arcade, Score Attack, and Boss Training.
+
+Instead of health, a player’s state is measured by time. At the beginning of each level, the player receives a certain amount of time. This time can be reduced (accelerated) due to the actions of enemies, and the destruction of enemies, on the contrary, increases, stretches time.

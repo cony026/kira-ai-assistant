@@ -1,0 +1,22 @@
+JUEGO: Crossout
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), PlayStation 5, Xbox One
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), PlayStation 5, Xbox One
+GÉNEROS: Shooter, Carreras, Simulación
+TEMAS: Acción
+MODOS DE JUEGO: Multijugador, Cooperativo, MMO
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Targem Games
+PUBLISHER: Gaijin Entertainment
+FECHA DE LANZAMIENTO: 2017-05-30
+NOTA DE LA CRÍTICA (IGDB): 65/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 61/100 (62 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3wid.jpg
+URL: https://www.igdb.com/games/crossout
+
+RESUMEN:
+Crossout - the postapocalyptic MMO action game where you can create a unique design for an armoured vehicle from dozens of parts and then drive it into multiplayer battles raging on land and in the skies alike.
+
+JUEGOS PARECIDOS:
+Si te gusta Crossout, también podrían gustarte: Onrush, Anthem, Warhammer 40,000: Speed Freeks, MudRunner, The Crew 2, Kanjozoku Game Racer, Riders Republic, Hell Let Loose, Arcadegeddon, Test Drive Unlimited Solar Crown.

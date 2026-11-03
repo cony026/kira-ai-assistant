@@ -1,0 +1,32 @@
+JUEGO: Daxter
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation Portable
+DISPONIBLE EN: PlayStation Portable
+GÉNEROS: Plataformas, Aventura
+TEMAS: Acción, Ciencia ficción, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Ready At Dawn
+PUBLISHER: Sony Computer Entertainment
+FECHA DE LANZAMIENTO: 2006-03-14
+NOTA DE LA CRÍTICA (IGDB): 90/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 79/100 (77 votos)
+FRANQUICIA: Jak and Daxter
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1pn3.jpg
+URL: https://www.igdb.com/games/daxter
+
+RESUMEN:
+Daxter is a platformer developed by Ready at Dawn and published by Sony Computer Entertainment. Released in 2006 for the PlayStation Portable (PSP), it serves as a midquel set between Jak II and Jak 3 from the Jak and Daxter series.
+
+The game follows Daxter, a comical ottsel, as he works as a pest exterminator in Haven City while searching for his captured friend, Jak. Gameplay focuses on platforming, combat, and gadget-based puzzles, with Daxter using unique tools like a bug swatter and spray gun to defeat enemies. It features detailed environments, engaging minigames, and the series' signature humor.
+
+HISTORIA:
+The game takes place in the final months of the 2-year gap presented in the opening of Jak II (and the aftermath of The Precursor Legacy), between the moment when Jak is taken prisoner by the Krimzon Guard and the time in which Daxter finally rescues him from the Krimzon Guard Fortress. The introduction shows Jak being captured while Daxter manages to escape. Almost two years later (having no luck rescuing Jak), Daxter has forgotten all about finding his friend. An old man named Osmo, whom Daxter meets, hires Daxter as an exterminator working in various parts of Haven City and occasionally its environs to exterminate bug-like Metal Heads referred to in-game as 'Metal Bugs'. During his adventures, Daxter meets a mysterious woman named Taryn, who, despite being less than impressed by Daxter's interest in her, occasionally helps him.
+
+After completing several missions for Osmo, Daxter sees Jak in a Prison Zoomer and attempts to chase after it. After being cornered by some Krimzon Guards (who had noticed Daxter's pursuit), Daxter is rescued by Osmo's son Ximon, who assists him with several more missions, including one to Baron Praxis' palace, where Daxter steals a map of the Fortress. In this prison, Jak is being held. After returning to the extermination shop, an arthropod sidekick that Daxter acquired earlier is killed by Kaeden, a bitter man who seemingly wants to steal Osmo's shop but, in actuality, is working for Kor, the Metal Head leader.
+
+When Daxter tries to stop Kaeden from escaping the shop, Kaeden suddenly blows up the shop with a bomb he placed in the shop earlier. Daxter and Osmo survive, and Daxter promises to stop Kaeden, but only after he rescues Jak. Daxter infiltrates the Fortress and finds Kaeden, who reveals himself as a giant Metal Bug. Daxter manages to defeat Kaeden, who tries to warn him that Kor is waiting outside for them. He then uses a hover platform to begin searching for Jak within the Fortress, leading into the opening cutscene from Jak II. After this, the game cuts to a point later in the timeline at Daxter's Naughty Ottsel Bar, where he recounts the story to Jak, Keira, Samos, Tess and Taryn.
+
+JUEGOS PARECIDOS:
+Si te gusta Daxter, también podrían gustarte: Crash Twinsanity, Ratchet & Clank, Ratchet & Clank: Size Matters, Spyro: Year of the Dragon, Ratchet & Clank: Up Your Arsenal, Jak and Daxter: The Precursor Legacy, 40 Winks, Crash of the Titans, Crash Bandicoot, Ratchet: Deadlocked.

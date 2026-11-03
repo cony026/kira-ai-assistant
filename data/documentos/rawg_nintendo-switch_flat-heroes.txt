@@ -1,0 +1,31 @@
+JUEGO: Flat Heroes
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Nintendo Switch
+DISPONIBLE EN: PlayStation 4, Nintendo Switch, macOS, Linux, PC
+FECHA DE LANZAMIENTO: 2016-09-08
+DESARROLLADOR: Parallel Circles, FlatHeroes
+PUBLISHER: Deck13, Deck 13, Parallel Circles
+GÉNEROS: Action, Indie, Platformer
+NOTA METACRITIC: 82
+RATING USUARIOS: 3.3/5 (46 votos)
+TIEMPO DE JUEGO MEDIO: 1 horas
+TAGS: Singleplayer, Multiplayer, Steam Cloud, Co-op, 2D, Partial Controller Support, Split Screen, Local Co-Op, Controller, Local Multiplayer, Surreal, Minimalist, party, Score Attack, Experimental
+
+DESCRIPCIÓN:
+Flat Heroes is a minimalist super intense local multiplayer game with cooperative and competitive modes for 1-4 players that features squares!
+------------------------------------------------------------------
+Flat Heroes is a minimalistic, super intense action game starring squares for 1 to 4 players. It features a delightful control that allows players to move around the scenario in a super fluid way allowing them to beat all the challenging scenarios that its cooperative mode offers.
+The game also features four completely different versus modes for players to compete against each other or against the AI, each mode highlighting a different set of skills.
+The graphic style is based on the latest graphic design trend, keeping a simple but direct aesthetic and polishing all the animations and transitions to create an eye candy experience.
+------------------------------------------------------------------FAQ:
+- Can I play the game alone?
+> Yes. The levels of the waves (cooperative) mode have been designed to be enjoyed solo as well, and the versus modes also feature bots to play against. But you can invite your friends at any moment! Call them if you get stuck! :)
+- Will the game have online multiplayer?
+> No. If the game sells well and we see an option we might consider it, but it's not a feature as of now.
+- Can I play with controllers? What if I don't have any?
+> The game has been designed to be played using controllers, so ideally you will need as many controllers as players. However, we have also added a keyboard-mouse control scheme for those who don't have a gamepad.
+- Does it have a color-blind mode?
+> Yes,  the game allows players to lock a color scheme that suits their needs, during the Early Access we'll work with the community to make sure there's a color palette for each type of color-blindness.
+- Is the waves mode too hard and frustrating?
+> It's really accessible, the first levels are easy as you get introduced to the mechanics, and the game gets more challenging on the latest levels, especially if you are playing alone. But it gets easier if you bring in more friends to help you!

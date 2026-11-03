@@ -1,0 +1,22 @@
+JUEGO: Stronghold
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia en tiempo real, Simulación, Estrategia
+TEMAS: Acción, Fantasía, Histórico, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Firefly Studios
+PUBLISHER: Take-Two Interactive
+FECHA DE LANZAMIENTO: 2001-10-19
+NOTA DE USUARIOS (IGDB): 82/100 (204 votos)
+TAMBIÉN CONOCIDO COMO: SH, Stronghold 1, FFLauncher.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7nln.jpg
+URL: https://www.igdb.com/games/stronghold
+
+RESUMEN:
+Stronghold is a historic real-time strategy game developed by Firefly Studios. While the game focuses primarily on conquest and expansion through military pursuits, Stronghold does provide space for economic strategy and development: there is both an economic and a military campaign to be played and both are discussed in the game manual. The game takes place in Medieval Britain around the time of AD 1066, though, since there is sometimes no time limit, scenarios can continue to hundreds of years beyond this date.
+
+JUEGOS PARECIDOS:
+Si te gusta Stronghold, también podrían gustarte: Stronghold Crusader, Stronghold Legends, Stronghold 2, Stronghold Crusader II, Age of Empires II: The Age of Kings, Steel Division 2, Praetorians, American Conquest, Imperial Glory, Codename: Panzers - Phase Two.

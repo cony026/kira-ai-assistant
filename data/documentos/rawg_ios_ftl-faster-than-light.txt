@@ -1,0 +1,18 @@
+JUEGO: FTL: Faster Than Light
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: PC, Linux, iOS, macOS
+FECHA DE LANZAMIENTO: 2012-09-14
+DESARROLLADOR: Subset Games
+PUBLISHER: Subset Games
+GÉNEROS: Strategy, Simulation, Indie
+NOTA METACRITIC: 84
+RATING USUARIOS: 4.25/5 (965 votos)
+TIEMPO DE JUEGO MEDIO: 6 horas
+TAGS: Singleplayer, Atmospheric, steam-trading-cards, Great Soundtrack, RPG, 2D, Sci-fi, Difficult, Survival, Pixel Graphics, Space, Replay Value, Roguelike, Roguelite, Real-Time with Pause
+
+DESCRIPCIÓN:
+FTL: Faster Than Light is a roguelike strategy game set in space civil war in the Galactic Federation. You control a spaceship that has to deliver an essential package of data to the Federation headquarters. This data can help defeat the rebel’s army and finish the war. To do so, you have to travel through eight procedurally generated space segments. Within those segments, the player can encounter other ships and NPCs both friendly and hostile as well as random events.  
+The gameplay’s key feature is that the player does not control the spaceship itself but rather the ship’s crew. During the game, the player can hire or rescue new crew members from different races. Each team member has its characteristics that affect how well he can handle different systems on the ship or his movement speed and fighting skills.  
+The game is notable for its high difficulty primarily since ship’s destruction causes save files deleting.

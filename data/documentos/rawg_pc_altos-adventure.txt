@@ -1,0 +1,90 @@
+JUEGO: Alto's Adventure
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: PC, Xbox One, iOS, macOS, Linux, Android
+FECHA DE LANZAMIENTO: 2015-02-19
+DESARROLLADOR: Noodlecake Studios, Snowman
+PUBLISHER: Snowman
+GÉNEROS: Action, Sports
+NOTA METACRITIC: 92
+RATING USUARIOS: 4.12/5 (97 votos)
+TAGS: Physics, Music, Minimalist, friends, nature, challenge, Runner, art, Endless, Unity, combos, ambient
+
+DESCRIPCIÓN:
+Above the placid ivory snow lies a sleepy mountain village, brimming with the promise of adventure.
+"A piece of interactive art"
+– WIRED
+"Best of 2015" and "15 Most Beautiful Games"
+– Apple
+"Favorite Apps of 2015"
+– The New York Times
+"One of the best mobile games"
+– The Verge
+"Alto's Adventure demands your attention"
+– IGN
+"2015 Game of the Year"
+– Product Hunt
+"Best 2D Visual Experience"
+– 2015 Unity Awards Finalist
+"One of the best-looking games on the App Store"
+– VICE
+“The visuals really are incredible”
+– TouchArcade
+“Simply stunning”
+– Red Bull
+"Best Looking Video Games of 2015"
+– TIME
+"Wonderfully tranquil and beautiful"
+– Engadget
+"Best iPhone apps of 2015"
+– Mashable
+"I couldn't let Alto's Adventure slide by me"
+– Destructoid
+"Alto’s Adventure for iOS may be the most beautiful endless runner you’ve ever played"
+– The Next Web
+"Pristine and refined"
+– LA Times
+"An engaging, relaxing, and beautiful experience."
+– MacStories
+"Satisfies the soul"
+– TechCrunch
+"Alto's Adventure is the endless runner matured
+– Kotaku
+"Alto’s Adventure is remarkably soothing"
+– The New York Observer
+"Favorite game of the year"
+– BuzzFeed
+"A joyous experience"
+– GameSpot
+"One of my favorite games"
+– AppAdvice
+"Alto is lovely"
+– Eurogamer
+"It’s seriously stunning"
+– Macworld
+"Alto's Adventure is a brilliant mobile game"
+– PocketGamer
+"A beautiful visual experience"
+– CNET
+"An elegant ride down nature's greatest landmarks"
+– Kill Screen
+"A compelling game to play"
+– The Washington Post
+"Every inch of this game is visually impressive and delightfully charming"
+– Business Insider
+Join Alto and his friends as they embark on an endless snowboarding odyssey. Journey across the beautiful alpine hills of their native wilderness, through neighbouring villages, ancient woodlands, and long-abandoned ruins.
+Along the way you'll rescue runaway llamas, grind rooftops, leap over terrifying chasms and outwit the mountain elders – all while braving the ever changing elements and passage of time upon the mountain.
+Features:
+• Fluid, graceful and exhilarating physics-based gameplay
+• Procedurally generated terrain based on real-world snowboarding
+• Fully dynamic lighting and weather effects, including thunderstorms, blizzards, fog, rainbows, shooting stars, and more
+• Easy to learn, difficult to master one button trick system
+• Chain together combos to maximize points and speed
+• Test your skills with 180 handcrafted goals
+• Discover six unique snowboarders, each with their own special attributes and abilities
+• Challenge your friends with Game Center. Compete for best high score, best distance, and best trick combo!
+• Acquire the wingsuit from Izel’s workshop for an entirely new gameplay dynamic
+• Beautifully minimalist and evocative visual design
+• Original music and handcrafted audio for an ambient and immersive experience (headphones recommended!)
+• Universal app with iCloud support. Play on your iPhone and iPad and your progress will always be in sync.

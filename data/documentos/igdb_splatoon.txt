@@ -1,0 +1,27 @@
+JUEGO: Splatoon
+
+FUENTE: IGDB
+PLATAFORMA: Wii U
+DISPONIBLE EN: Wii U
+GÉNEROS: Shooter, Plataformas
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Cooperativo
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Nintendo EAD Software Development Group No.2
+PUBLISHER: Nintendo
+FECHA DE LANZAMIENTO: 2015-05-28
+NOTA DE LA CRÍTICA (IGDB): 81/100 (14 críticas)
+NOTA DE USUARIOS (IGDB): 81/100 (154 votos)
+FRANQUICIA: Splatoon
+TAMBIÉN CONOCIDO COMO: 스플래툰
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cob8ra.jpg
+URL: https://www.igdb.com/games/splatoon
+
+RESUMEN:
+Splatoon is primarily a team-based third-person shooter which is playable by up to eight players in 4-vs-4 matches, although the game also features a single-player campaign. Players control characters called Inklings, wich can change between human form and squid form. Transforming into a squid allows players to swim through ink of their own color, even up walls and through grates, hiding from the enemy and replenishing their ink supply in the process.
+
+HISTORIA:
+After the Great Zapfish, Inkopolis' primary power supply, is stolen, Cap'n Cuttlefish employs a Splatoon of Inklings to travel to the Octarians' secret underground base and retrieve it. Players assume the role of Agent 3 of the New Squidbeak Splatoon and traverse the treacherous landscape of Octo Valley in order to reclaim various lost Zapfish, Sunken Scrolls, and Power Eggs.
+
+JUEGOS PARECIDOS:
+Si te gusta Splatoon, también podrían gustarte: Splatoon 2, Splatoon 3, Bayonetta 2, Stealth Inc 2: A Game of Clones, Captain Toad: Treasure Tracker, Yoshi's Woolly World, Runbow, Kirby and the Rainbow Curse, Sonic Lost World, Super Mario Maker.

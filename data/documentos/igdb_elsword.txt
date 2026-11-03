@@ -1,0 +1,23 @@
+JUEGO: Elsword
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: RPG, Hack and slash, Aventura
+TEMAS: Acción, Fantasía
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, MMO
+DESARROLLADOR: KOG studios
+PUBLISHER: Nexon, KOG studios, Gameforge, Gamania
+FECHA DE LANZAMIENTO: 2010-03-17
+NOTA DE LA CRÍTICA (IGDB): 60/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 65/100 (42 votos)
+FRANQUICIA: Elsword
+TAMBIÉN CONOCIDO COMO: 엘소드, ESSTEAM.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coauwy.jpg
+URL: https://www.igdb.com/games/elsword
+
+RESUMEN:
+Elsword is a Free to Play, 2.5D action MMORPG developed by the South Korean company KOG Studios. It features real-time action gameplay and includes both player vs. environment and player vs. player modes. There are several playable characters within the game, each with unique backstories and distinct abilities.
+
+JUEGOS PARECIDOS:
+Si te gusta Elsword, también podrían gustarte: Dragon Saga, Dofus, Atlantica Online, Continent of the Ninth Seal, Dungeon Fighter Online, The Secret World, Soulframe, Dragon Nest, Forced, Torchlight: Infinite.

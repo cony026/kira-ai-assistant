@@ -1,0 +1,29 @@
+JUEGO: Half-Life: Blue Shift
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, Plataformas, Puzle
+TEMAS: Acción, Ciencia ficción, Bélico
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Gearbox Software
+PUBLISHER: Sierra Studios, Valve
+FECHA DE LANZAMIENTO: 2001-06-12
+NOTA DE LA CRÍTICA (IGDB): 60/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 73/100 (391 votos)
+FRANQUICIA: Half-Life
+TAMBIÉN CONOCIDO COMO: HL: Blue Shift, hl.exe, HL: BS
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co802z.jpg
+URL: https://www.igdb.com/games/half-life-blue-shift
+
+RESUMEN:
+Half-Life: Blue Shift is an expansion pack for Valve Software's science fiction first-person shooter video game Half-Life. The game was developed by Gearbox Software with Valve Corporation and published by Sierra Entertainment on June 12, 2001. (It was originally set for release in Spring.) Blue Shift is the second expansion for Half-Life, originally intended as part of a Dreamcast version of the original game. Although the Dreamcast port was later cancelled, the PC version continued development and was released as a standalone product. The game was released on Steam on August 24, 2005.
+
+HISTORIA:
+Blue Shift begins in a similar manner to Half-Life, as Barney Calhoun rides a train through the Black Mesa facility to reach his place of work. After reporting for duty, Calhoun is instructed to assist in maintenance on a malfunctioning elevator. As Calhoun finishes repairs, however, Freeman's experiment takes place and results in a "resonance cascade", causing massive damage to the facility and teleporting alien creatures into the base. The elevator is badly damaged and fails, sending Calhoun plummeting into the depths of Black Mesa.
+Calhoun regains consciousness at the bottom of the shaft and begins to fight his way to the surface to escape. Emerging near Black Mesa's classification yards, Calhoun learns that Dr. Rosenberg and his colleagues plan to escape the facility using teleportation technology. After freeing Rosenberg from the captivity of the US Marines detachment sent to silence the facility, Calhoun escorts him to a decommissioned prototype teleportation laboratory, where several Black Mesa employees have already gathered. Rosenberg then teleports Calhoun to the Xen border world to calibrate research equipment needed to pinpoint a teleport destination outside of Black Mesa. Upon his return, Rosenberg informs Calhoun that the teleporter's battery power has been exhausted, and contact has been lost with a team sent to acquire a new power cell.
+Calhoun travels to the power generators on a lower level to find a fresh power cell while firefights rage between the Marines and the forces of Xen. After returning with a new power cell, Calhoun assists Rosenberg in evacuating the few surviving personnel through the teleporter. Calhoun is the last to enter the portal and as he does so, Marines breach the laboratory and fire on him, causing the teleporter to explode. As a result of the teleporter's destruction, Calhoun enters a "harmonic reflux", causing him to be rapidly teleported to a variety of locations in Xen and Black Mesa. At one location, he witnesses Freeman's capture by Marines mid-way through Half-Life, before eventually stabilizing at the intended teleport location with Rosenberg at the outskirts of Black Mesa, where they then escape the facility in a company SUV.
+
+JUEGOS PARECIDOS:
+Si te gusta Half-Life: Blue Shift, también podrían gustarte: Half-Life, Half-Life 2: Lost Coast, Half-Life 2, Portal, Quake 4, Quake, Cryostasis, Kingpin: Life of Crime, Counter-Strike, Penumbra: Black Plague.

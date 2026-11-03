@@ -1,0 +1,13 @@
+JUEGO: PUBG Mobile
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Android, iOS
+FECHA DE LANZAMIENTO: 2018-03-19
+DESARROLLADOR: LightSpeed Studios (Tencent Games), PUBG Studios
+PUBLISHER: Level Infinite / Krafton
+GÉNEROS: Action, Shooter, Massively Multiplayer
+TAGS: Free to Play, Battle Royale, Multiplayer, PvP, Realistic
+
+DESCRIPCIÓN:
+PUBG Mobile is the official mobile adaptation of PlayerUnknown's Battlegrounds, dropping up to 100 players onto a large map to scavenge weapons and gear while the safe zone gradually shrinks, until only one player or squad remains. It features multiple maps, vehicles, and both classic and arcade-style game modes.

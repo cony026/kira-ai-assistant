@@ -1,0 +1,21 @@
+JUEGO: Mass Effect 2
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Xbox One
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Xbox One
+GÉNEROS: Shooter, RPG, Estrategia, Aventura
+TEMAS: Acción, Ciencia ficción, Drama, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: BioWare
+FECHA DE LANZAMIENTO: 2021-05-14
+NOTA DE USUARIOS (IGDB): 88/100 (43 votos)
+FRANQUICIA: Mass Effect
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6dqa.jpg
+URL: https://www.igdb.com/games/mass-effect-2--1
+
+RESUMEN:
+A remaster of the original Mass Effect 2 included in the Mass Effect: Legendary Edition bundle.
+
+JUEGOS PARECIDOS:
+Si te gusta Mass Effect 2, también podrían gustarte: The First Descendant, Just Cause 4, Fable, Dune: Awakening, Atomic Heart, Scarlet Nexus, Anthem, Watch Dogs: Legion, The Witcher IV, Immortal: Unchained.

@@ -1,0 +1,24 @@
+JUEGO: Forza Motorsport
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PC (Microsoft Windows)
+DISPONIBLE EN: Xbox Series X|S, PC (Microsoft Windows)
+GÉNEROS: Carreras, Simulación, Deportes
+TEMAS: Non-fiction
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Turn 10 Studios
+PUBLISHER: Xbox Game Studios
+FECHA DE LANZAMIENTO: 2023-10-10
+NOTA DE LA CRÍTICA (IGDB): 88/100 (6 críticas)
+NOTA DE USUARIOS (IGDB): 80/100 (64 votos)
+FRANQUICIA: Forza
+TAMBIÉN CONOCIDO COMO: Forza Motorsport 8, Forza Motorsport Standard Edition, forza_steamworks_release_final.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6lzd.jpg
+URL: https://www.igdb.com/games/forza-motorsport--1
+
+RESUMEN:
+Out-build the competition in the new career. Race your friends in adjudicated multiplayer events. Compete in over 500 cars on world-famous tracks with cutting-edge AI, advanced physics, tire and fuel strategy, and driver and safety ratings.
+
+JUEGOS PARECIDOS:
+Si te gusta Forza Motorsport, también podrían gustarte: Race Driver: Grid, Need for Speed: Heat, Grid Legends, Dakar Desert Rally, Dirt Rally 2.0, Pro Race Driver, EA Sports WRC, Cricket 24, Grid, Gran Turismo 6.

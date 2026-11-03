@@ -1,0 +1,63 @@
+JUEGO: Escape the Backrooms
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Indie
+DESARROLLADOR: Fancy Games, Blackbird Interactive
+PUBLISHER: Secret Mode
+FECHA DE LANZAMIENTO: 23 OCT 2025
+PRECIO: $9.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (162470 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Escape the Backrooms es un juego de terror y exploración cooperativa de 1 a 4 jugadores. Recorre más de 30 niveles de salas traseras estremecedoras mientras evitas entidades y otros peligros. Tu misión es escapar, pero ten cuidado: nada te asegurará sobrevivir.
+
+DESCRIPCIÓN DETALLADA:
+Explora una extensión supuestamente infinita de niveles terroríficamente familiares en salas traseras basadas en el popular acervo «creepypasta». Cada nivel cuenta con varias formas de escapar y peligros por el camino. Los gráficos realistas, las interfaces de usuario mínimas y el ambiente sombrío se combinan para ofrecer un ambiente escalofriante. Explora las salas con un equipo de hasta 4 jugadores. Buena suerte: puede que algunos compañeros de equipo atraviesen algún muro y aparezcan en otras zonas del mapa, pero todos los miembros de tu equipo deben llegar a la salida con vida para escapar. Ningún caminante debe quedar atrás. Recorre más de 30 niveles únicos basados en el acervo de las salas traseras. No te alejes de tu equipo, ya que es muy fácil perderse en este lugar. Comprueba cada rincón por si hay entidades hostiles acechando. Cada una tiene sus propias mecánicas. Aprende rápido si quieres sobrevivir al terror. Comunícate con tus compañeros de equipo con el chat de voz de proximidad. Las entidades también pueden oírte, así que permanece en silencio siempre que haya peligro cerca.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO *: Windows 8 / 10 / 11 - 64 bit
+
+- Procesador: Intel Core i3
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 650
+
+- DirectX: Versión 11
+
+- Almacenamiento: 25 GB de espacio disponible
+
+- Tarjeta de sonido: Any
+
+- Notas adicionales: Los requisitos pueden cambiar en futuras actualizaciones..
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 11 64-bit
+
+- Procesador: Intel Core i5-10400 / AMD Ryzen 5 3600
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce RTX 2060 / AMD Radeon RX 6600
+
+- DirectX: Versión 11
+
+- Almacenamiento: 25 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: Mac OS X 10.12.4
+
+- Procesador: Intel 2.0 GHz
+
+- Gráficos: 1.5GB
+
+- Almacenamiento: 4 GB de espacio disponible
+
+- Tarjeta de sonido: Any
+
+- Notas adicionales: Los requisitos pueden cambiar en futuras actualizaciones.

@@ -1,0 +1,22 @@
+JUEGO: Human Resource Machine
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, Wii U, Linux, macOS, PC, iOS, PS Vita, Nintendo Switch
+FECHA DE LANZAMIENTO: 2015-10-14
+DESARROLLADOR: Tomorrow, Experimental Gameplay Group
+PUBLISHER: Tomorrow, Experimental Gameplay Group
+GÉNEROS: Simulation, Casual, Educational, Indie, Puzzle
+NOTA METACRITIC: 78
+RATING USUARIOS: 4.01/5 (204 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Great Soundtrack, 2D, Difficult, puzzles, Touch-Friendly, Education, Programming, Automation, tomorrow-corporation
+
+DESCRIPCIÓN:
+Human Resource Machine is an educational game in which the player assumes the role of a program algorithm. The gameplay is a metaphorical representation of a visual programming language. The protagonist represents the processor register, and the player's instructions to the character stand in for the opcodes.
+
+###Premise
+The main character is an office clerk who works in a storage department. His career lasts 40 years, each of them corresponding to an in-game puzzle. Two conveyor belts in the protagonist's office work as the input and the output devices, respectively. The input conveyor brings in the numbers and letters in the form of boxes. The protagonist is instructed to perform certain tasks and calculations with the boxes before sending them back through the output conveyor. The tasks usually require simple mathematical actions such as sorting and addition. The boxes remain stored on the office floor until the task is completed.
+
+###Gameplay
+The player controls the character using commands that remind the assembly language. The handwritten notes represent the instructions the player gives to the character. As the player progresses through the puzzles, the game introduces more complicated concepts and mechanics, such as memory addresses. This feature allows the player to order the character to perform operations in the certain place of the office. The goal of each level is to create a program. The game will test the results and inform the player if it works or not (through a supervisor character).

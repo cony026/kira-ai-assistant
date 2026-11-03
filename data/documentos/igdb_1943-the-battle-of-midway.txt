@@ -1,0 +1,24 @@
+JUEGO: 1943: The Battle of Midway
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Commodore C64/128/MAX, ZX Spectrum, Atari ST/STE
+DISPONIBLE EN: Arcade, Commodore C64/128/MAX, ZX Spectrum, Atari ST/STE, Amiga, Amstrad CPC
+GÉNEROS: Shooter, Arcade
+TEMAS: Acción, Histórico, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Capcom
+PUBLISHER: GO!, Capcom
+FECHA DE LANZAMIENTO: 1987-06-01
+NOTA DE USUARIOS (IGDB): 79/100 (47 votos)
+TAMBIÉN CONOCIDO COMO: 1943: The Battle of Valhalla, 1943: Midway Kaisen
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2oz6.jpg
+URL: https://www.igdb.com/games/1943-the-battle-of-midway
+
+RESUMEN:
+The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.
+
+JUEGOS PARECIDOS:
+Si te gusta 1943: The Battle of Midway, también podrían gustarte: 1942, 1941: Counter Attack, 19XX: The War Against Destiny, 1944: The Loop Master, Battlefield 1943, Wings of Fury, Air Gallet, Stinger, Medal of Honor: Allied Assault, Screaming Wings.

@@ -1,0 +1,25 @@
+JUEGO: Brink
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, PC (Microsoft Windows), Xbox 360
+DISPONIBLE EN: PlayStation 3, PC (Microsoft Windows), Xbox 360
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Splash Damage
+PUBLISHER: Bethesda Softworks
+FECHA DE LANZAMIENTO: 2011-05-10
+NOTA DE LA CRÍTICA (IGDB): 73/100 (8 críticas)
+NOTA DE USUARIOS (IGDB): 44/100 (79 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1pxk.jpg
+URL: https://www.igdb.com/games/brink
+
+RESUMEN:
+Brink is an immersive first-person shooter that blends single-player, co-op, and multiplayer gameplay into one seamless experience, allowing you to develop your character whether playing alone, with your friends, or against others online. You decide the combat role you want to assume in the world of Brink as you fight to save yourself and mankind's last refuge. Brink offers a compelling mix of dynamic battlefields, extensive customization options, and an innovative control system that will keep you coming back for more.
+
+HISTORIA:
+A first-person shooter built around parkour-style movement, Brink is set in the mid-21st century aboard the Ark, a vast artificial floating city conceived as an environmentally self-sustaining utopia. After rising sea levels submerged most of the world's land masses and civilization collapsed, the Ark became a refuge for tens of thousands fleeing the flooded Earth, straining its supposedly renewable resources far beyond their limits. Cut off from the outside world and believed by many to be the last habitable place on the planet, the island fractures under extreme poverty as impoverished refugees crowd makeshift slums while the original Founders enjoy its luxury districts. This inequality ignites a civil war between two factions the player can join: the Resistance, well-trained refugees rallied by Brother Chen who demand that the Ark's water and resources be shared equally, and Ark Security, the military force under Captain Mokoena that brands the Resistance as terrorists and fights to preserve the Founders' vision.
+
+JUEGOS PARECIDOS:
+Si te gusta Brink, también podrían gustarte: Aliens vs. Predator, Call of Duty 4: Modern Warfare, Homefront, Aliens: Colonial Marines, Call of Duty 2, Syndicate, Wolfenstein, MAG, Medal of Honor: Airborne, Unreal Tournament III.

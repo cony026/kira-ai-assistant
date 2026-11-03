@@ -1,0 +1,22 @@
+JUEGO: Zuma
+
+FUENTE: IGDB
+PLATAFORMA: Windows Mobile, Xbox, Web browser, PC (Microsoft Windows)
+DISPONIBLE EN: Windows Mobile, Xbox, Web browser, PC (Microsoft Windows), iOS, Mac, PlayStation Portable, Legacy Mobile Device, PlayStation 2
+GÉNEROS: Puzle, Arcade
+TEMAS: Acción, Infantil
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: PopCap Games, Oberon Media
+PUBLISHER: Sony Online Entertainment, PopCap Games, Glu Mobile
+FECHA DE LANZAMIENTO: 2003-12-12
+NOTA DE LA CRÍTICA (IGDB): 68/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 73/100 (74 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2sym.jpg
+URL: https://www.igdb.com/games/zuma
+
+RESUMEN:
+Survive the ancient temples of Zuma, the critically acclaimed action-puzzler from PopCap! Deep in the jungle lie hidden temples bursting with traps and trickery, and it's up to you to uncover their treasures. Fire magical balls from your stone frog idol to make matches of three or more and clear the deadly chain before it reaches the golden skull.
+
+JUEGOS PARECIDOS:
+Si te gusta Zuma, también podrían gustarte: Feeding Frenzy, Bejeweled 2, Peggle, Spy Chameleon, Kill the Bad Guy, Luxor 2, The Little Acre, Zuma's Revenge!, Vikings: Wolves of Midgard, Pac-Man Championship Edition 2.

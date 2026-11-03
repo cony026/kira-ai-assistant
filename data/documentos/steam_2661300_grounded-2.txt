@@ -1,0 +1,60 @@
+JUEGO: Grounded 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Acceso anticipado
+DESARROLLADOR: Obsidian Entertainment, Eidos-Montréal
+PUBLISHER: Xbox Game Studios
+FECHA DE LANZAMIENTO: 29 JUL 2025
+PRECIO: $29.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (23771 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Hace dos años, encogiste al tamaño de una hormiga. Ahora, ha vuelto a ocurrir, pero ya nada es igual...
+
+DESCRIPCIÓN DETALLADA:
+Cuando te vuelves del tamaño de una hormiga, lo que conocías bien se convierte en territorio salvaje e inexplorado. Recorre inmensos espacios artificiales cubiertos de vegetación con bichacos que pueden luchar a tu lado, desvela secretos ocultos y lucha por sobrevivir en un mundo mucho más grande que tu jardín. Aunque el parque de juegos te resulte familiar, bajo sus vivos colores y sus gigantescas estructuras se ocultan misterios a plena luz del día. ¿Te crees capaz de desvelarlos?Sobrevive, adáptate, triunfaEste mundo es implacable, pero tú también. Diseña tu aventura con arquetipos únicos, cada uno dotado de habilidades características para ajustarse a tu estilo de juego. Ya sea lo tuyo la precisión, la astucia o la fuerza bruta, te hará falta cualquier ventaja de que dispongas para sobrevivir a los peligros que acechan en el parque.Más fuertes en equipoLos peligros del parque ya intimidan cuando vas a solas, pero jugando en compañía, cada desafío se convierte en una aventura. Trabajad codo con codo para desvelar los secretos ocultos bajo la hierba. Tanto si os enfrentáis al peligro en paralelo como si continuáis la aventura en un mundo compartido, la supervivencia siempre es mejor con aliados.¿Caminar? Anda ya - Presentamos los bichacosCorretean, pelean y ahora te ayudan a sobrevivir. Empolla, cría y monta a tus propios amigos insectos, los bichacos. Súbete a ellos y cabalga por todo el parque, empléalos durante el combate o haz que te ayuden a reunir recursos. Escoger bien tu acompañante puede suponer la diferencia entre triunfar o sobrevivir a duras penas.Los malotes del parqueEl parque alberga a otras criaturas aparte de los bichos que ya conoces y adoras. AXL, la tarántula, y el lagarto son superdepredadores, y para enfrentarte a ellos necesitarás preparación, estrategia y coraje. La serpiente plantea un reto distinto. Para superarlo, tendrás que aprenderte sus rutinas de combate, montarla y cosechar sus escamas. Y no nos olvidemos del pájaro. De cada encuentro saldrás más fuerte. Hazte con materiales raros, crea potentes objetos y desbloquea mejoras que te hagan avanzar más aún en un mundo creado para abrumarte. Parques de juegosLa supervivencia no es más que el principio. Con los parques de juegos puedes crear tus propios desafíos empleando potentes herramientas para diseñar combates, rompecabezas y encuentros impredecibles. Descarga, juega y vota las creaciones de la comunidad para dar con modos nuevos de poner a prueba tus habilidades. El parque ya no es solo un sitio donde sobrevivir. Es un lugar para crear.Hogar, dulce hogarEl parque es todo tuyo. Construye desde un simple refugio hasta una enorme fortaleza para protegerte de los peligros del exterior. Pero no te limites a tierra firme. Crea bases totalmente subacuáticas para poder hacer expediciones largas, adéntrate en las profundidades y haz de cada rincón del parque un pequeño hogar acogedor. Una sombra que te sigueLa amenaza está siempre ahí: observando, aprendiendo y esperando. No sabes de dónde vendrá, solo que nunca se marcha. Cuanto más te adentres, más cerca estará de ti. Algunos misterios es mejor no desenterrarlos, pero ya es tarde. Ahora sabe que andas buscando. Y está esperando. Cada respuesta que encuentras te arrastra más abajo, cada paso que das hace que se acerque más. Nunca estuviste a solas. Pensabas que tenías el control. Te equivocabas.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11 with updates
+
+- Procesador: AMD Ryzen 5 2600 / Intel i5-8400
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: AMD RX 5700 / Nvidia GTX 1070 / Intel Arc A580
+
+- DirectX: Versión 12
+
+- Almacenamiento: 40 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11 with updates
+
+- Procesador: AMD Ryzen 5 5600X / Intel i7-10700K
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: AMD RX 6800 XT / Nvidia RTX 3080
+
+- DirectX: Versión 12
+
+- Almacenamiento: 40 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

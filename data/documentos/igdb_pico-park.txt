@@ -1,0 +1,23 @@
+JUEGO: Pico Park
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Nintendo Switch
+DISPONIBLE EN: PC (Microsoft Windows), Nintendo Switch
+GÉNEROS: Plataformas, Puzle, Indie
+TEMAS: Acción
+MODOS DE JUEGO: Multijugador, Cooperativo
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: TECOPARK
+PUBLISHER: TECOPARK
+FECHA DE LANZAMIENTO: 2019-06-08
+NOTA DE USUARIOS (IGDB): 75/100 (50 votos)
+TAMBIÉN CONOCIDO COMO: PICO PARK, pico_park.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co8yks.jpg
+URL: https://www.igdb.com/games/pico-park
+
+RESUMEN:
+Pico Park is a cooperative local/online multiplay action puzzle game for 2-8 players.
+The rule is quite simple: "Get all the keys and get to the goal and clear", but all 48 levels have special gimmicks designed specifically for multiplayer. At most levels, different gimmicks will appear as you move forward, and you will need to consult with your peers and think about new ways to cooperate.
+
+JUEGOS PARECIDOS:
+Si te gusta Pico Park, también podrían gustarte: Bokura, Degrees of Separation, Bell Ringer, Struggling, Pode, Semblance, The Perfect Pencil, Super Cable Boy, Dyo, Sayonara Umihara Kawase.

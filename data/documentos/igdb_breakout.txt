@@ -1,0 +1,22 @@
+JUEGO: Breakout
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Atari 2600, AY-3-8606, MSX
+DISPONIBLE EN: Arcade, Atari 2600, AY-3-8606, MSX
+GÉNEROS: Arcade
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Atari
+PUBLISHER: Atari, Namco, Sears, Taito
+FECHA DE LANZAMIENTO: 1976-05-13
+NOTA DE USUARIOS (IGDB): 73/100 (50 votos)
+TAMBIÉN CONOCIDO COMO: Breakaway IV, TT Block, T.T. Block, Breakaway 4, Scratch！
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co94iu.jpg
+URL: https://www.igdb.com/games/breakout
+
+RESUMEN:
+The objective of the game is to destroy a multilayered wall of bricks at the top the screen. Upon hitting the bricks with a ball which bounces off of a paddle at the bottom of the screen the bricks are destroyed. If the player misses the ball with his horizontally moveable paddle the ball is lost. After loosing five balls the game is over.
+
+JUEGOS PARECIDOS:
+Si te gusta Breakout, también podrían gustarte: Arkanoid, Arkanoid: Revenge of Doh, IonBall 2: Ionstorm, DX-Ball, Jinks, Astrosmash, First Encounters, Akka Arrh, Endless Zone, Warblade.

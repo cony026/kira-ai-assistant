@@ -1,0 +1,20 @@
+JUEGO: Super Hexagon
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: PC, Linux, iOS, macOS, Android
+FECHA DE LANZAMIENTO: 2012-08-31
+DESARROLLADOR: Terry Cavanagh
+PUBLISHER: Terry Cavanagh
+GÉNEROS: Action, Arcade, Casual, Indie
+NOTA METACRITIC: 88
+RATING USUARIOS: 3.75/5 (442 votos)
+TIEMPO DE JUEGO MEDIO: 2 horas
+TAGS: Singleplayer, Full controller support, Great Soundtrack, 2D, Difficult, Controller, controller support, Replay Value, Colorful, Fast-Paced, Music, Bullet Hell, Minimalist, Rhythm, Score Attack
+
+DESCRIPCIÓN:
+The game from the independent developer Terry Cavanagh. The final version is based on the prototype gameplay from the same developer.
+
+A player is a miniature arrow that rotates around a central hexagon. The main task is to avoid collision with hexagon limits. The position of the limits varies depending on the difficulty level. The game is considered complete after player survives for 60 seconds. Everything moves with incredible speed and the task to keep up is not a simple one. The game increases the difficulty depending on how long the player lasted.
+
+The atmosphere of the game is already aggressive, there is a lack of an easy level of difficulty and rhythmic music and a constant screen-flickering. The combination will wake anyone. Initially, the game was released for mobile devices, after it was ported to the PC.

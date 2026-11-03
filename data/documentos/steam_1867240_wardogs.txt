@@ -1,0 +1,63 @@
+JUEGO: WARDOGS
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Indie, Multijugador masivo, Simuladores, Acceso anticipado
+DESARROLLADOR: BULKHEAD
+PUBLISHER: Team17
+FECHA DE LANZAMIENTO: 10 SEP 2026
+PRECIO: $39.99
+
+RESEÑA / DESCRIPCIÓN:
+WARDOGS es un shooter de guerra total en primera persona que conjuga tiroteos tácticos y combate de armas combinadas con mecánicas de construcción y destrucción en un vasto campo de batalla tipo sandbox para hasta 100 jugadores.
+
+DESCRIPCIÓN DETALLADA:
+WARDOGS es un shooter de guerra total en primera persona que conjuga tiroteos tácticos y combate de armas combinadas con mecánicas de construcción y destrucción en un vasto campo de batalla tipo sandbox para hasta 100 jugadores. El modo de juego se inspira en la dinámica del «rey de la colina» y enfrenta a los tres equipos en una batalla por el dominio de una zona de control aleatoria de 2x2 km en un mapa de 256 km². El equipo con más jugadores en la zona de control gana puntos, y el primero en acumular 100 puntos gana la partida. Las variables en la ubicación de la zona y las tácticas de cada jugador hacen que no haya dos partidas iguales.  En WARDOGS: Cada. Decisión. Cuenta. Cada jugador inicia su andadura en WARDOGS con 10 000 $. En cada vida, tienes que adquirir tu arsenal escogiendo entre una amplia selección de armas, equipo y vehículos para ayudar a tu equipo a alzarse con la victoria. Cada acción de juego en equipo que realizas te otorga dinero. Por ejemplo, resucitar a compañeros, transportar a aliados a la zona o controlar el objetivo. No solo fomentamos el trabajo en equipo, sino que lo premiamos. Cada jugador decide cómo jugar y cómo ganará e invertirá sus recompensas. El dinero se conserva de partida a partida, por lo que hacer una gran inversión para mejorar las armas, el equipo o un vehículo en el momento adecuado tiene el potencial de decantar el rumbo de la batalla a tu favor y otorgarte ventajas increíbles.  Tú decides cómo jugar y qué recompensas cobrarte.  No existe una única manera de jugar, obtener recompensas y progresar. En lugar de eso, WARDOGS otorga a los jugadores la libertad para hacerse con la zona de control de diferentes maneras. Tanto si te gusta actuar en solitario mientras contribuyes al éxito de tu equipo como si prefieres formar parte de un escuadrón especializado, la manera de abordar el campo de batalla es cosa tuya. Puedes optar por perseguir la «zona en tensión» para duplicar tus ganancias, hacerte con un traje de camuflaje y disparar desde la distancia o lanzar provisiones a tus compañeros desde un helicóptero. También puedes fortificar un paso estratégico construyendo tu base operativa avanzada o, si te apetece volarlo todo por los aires..., montar en un tanque de artillería y desatar la destrucción sobre el enemigo. En WARDOGS, no hay nada escrito sobre cómo perseguir los objetivos. En última instancia, tu manera de actuar en el campo de batalla es cosa tuya.  Lleva el caos al combate táctico.  Destruye bloques de apartamentos con lanzacohetes o ábrete paso a través de las poblaciones en un tanque blindado. El mundo a tu alrededor reacciona a tu presencia. Por el contrario, puedes trazar una estrategia con tus compañeros para fortificar ubicaciones clave del mapa y ganar una ventaja táctica. En WARDOGS, los jugadores dan forma a cada momento. Además, el chat de voz local permite discutir tácticas con los compañeros o buscar las cosquillas a los enemigos. No es otro battle royale ni otro shooter de extracción WARDOGS es una nueva vuelta de tuerca al shooter de guerra total desde una perspectiva táctica que recompensa la toma de decisiones, la comunicación y el trabajo en equipo, y te permite jugar de la manera que quieras en un entorno bélico moderno.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10
+
+- Procesador: Intel® Core i5 8600, AMD Ryzen 5 3500
+
+- Memoria: 16 GB de RAM
+
+- Gráficos:  Nvidia GTX 1660, Radeon RX 590
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Notas adicionales: 1080p Low @ 60fps (Upscaled)
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11
+
+- Procesador: Intel® Core i7 12700k, AMD Ryzen 7 5700x
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia RTX 3070, AMD Radeon RX 6700 XT
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Notas adicionales: 1440p Medium @ 70fps+ (Native) or 4k Medium @ 60fps+ (Upscaled)
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

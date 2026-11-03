@@ -1,0 +1,23 @@
+JUEGO: Commando
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, BBC Microcomputer System, Atari 7800, PC-8800 Series
+DISPONIBLE EN: Arcade, BBC Microcomputer System, Atari 7800, PC-8800 Series, Commodore C64/128/MAX, ZX Spectrum, Wii, Intellivision, Atari ST/STE, Acorn Electron, Commodore 16, DOS, Amiga, Apple II, FM-7, Amstrad CPC, Commodore Plus/4, MSX
+GÉNEROS: Shooter
+TEMAS: Acción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Capcom
+PUBLISHER: INTV Corporation, Data East USA, ASCII Corporation, Elite Systems, Atari Corporation, Capcom
+FECHA DE LANZAMIENTO: 1985-04-02
+NOTA DE LA CRÍTICA (IGDB): 80/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 71/100 (59 votos)
+TAMBIÉN CONOCIDO COMO: Space Invasion, Wolf of the Battlefield, Senjou no Okami, Wolf of the Battlefield: Commando
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2k3z.jpg
+URL: https://www.igdb.com/games/commando
+
+RESUMEN:
+Several levels await your super-tough Commando in this arcade conversion. Armed with only a standard rifle and a few grenades you must take on hordes of enemies. Some are wandering around in the open, while others have picked out hiding places, which you must approach from certain angles. Trees, rivers and bridges create a varied combat-like terrain and must be incorporated into your thinking. Extra grenades can be collected, and will definitely be required, as they allow you to kill from distance and thus avoid some enemy shots.
+
+JUEGOS PARECIDOS:
+Si te gusta Commando, también podrían gustarte: Xevious, Front Line, Ikari Warriors, Mercs, Bloody Wolf, Conflict: Denied Ops, Contra III: The Alien Wars, Cabal, Delta Force, Contra.

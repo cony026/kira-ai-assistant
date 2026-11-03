@@ -1,0 +1,20 @@
+JUEGO: Thomas Was Alone
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, PS Vita, PlayStation 4, PlayStation 3, Wii U, macOS, PC, iOS, Xbox One, Linux, Nintendo Switch
+FECHA DE LANZAMIENTO: 2012-06-30
+DESARROLLADOR: Curve Digital, Bossa Studios, Bithell Games, Mike Bithell
+PUBLISHER: Curve Digital, Bossa Studios, Bithell Games
+GÉNEROS: Adventure, Family, Indie
+NOTA METACRITIC: 77
+RATING USUARIOS: 3.74/5 (540 votos)
+TIEMPO DE JUEGO MEDIO: 2 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Atmospheric, Great Soundtrack, Story Rich, 2D, Sci-fi, Funny, Comedy, Family Friendly, Short, Colorful, Relaxing, Puzzle-Platformer
+
+DESCRIPCIÓN:
+The player controls one or, more often, several rectangles or squares of different colours and sizes. Each shape has a name, and individual character traits, including Thomas, mentioned in the title. The relationships between the characters are conveyed to the player by the voice-over.
+
+"Thomas Was Alone" action takes place in a specific virtual space, in which some "Event" has caused the procedures of artificial intelligence with individuality and the ability to act without a specific control. Each entity is shown as a coloured rectangle. Rectangles can move to the left, right, and also know how to jump. Each of the characters has their unique abilities, in particular, large jumps or the ability to swim in the water (other rectangles die, being in it). When a player can control multiple characters, he can switch between them, controlling one aspect at a time.
+
+The player's goal is to direct the shapes to the exit points tied explicitly to each shape so that they all occupy that exit at the same time. Most often it requires particular interaction between forms for better manoeuvrability.

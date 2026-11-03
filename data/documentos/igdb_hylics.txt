@@ -1,0 +1,22 @@
+JUEGO: Hylics
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: RPG, Estrategia por turnos, Aventura, Indie
+TEMAS: Fantasía
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona, Isométrica
+DESARROLLADOR: Mason Lindroth
+PUBLISHER: Mason Lindroth
+FECHA DE LANZAMIENTO: 2015-10-02
+NOTA DE USUARIOS (IGDB): 78/100 (35 votos)
+TAMBIÉN CONOCIDO COMO: Game.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coaad2.jpg
+URL: https://www.igdb.com/games/hylics
+
+RESUMEN:
+Hylics is a recreational program with light JRPG elements.
+
+JUEGOS PARECIDOS:
+Si te gusta Hylics, también podrían gustarte: Hylics 2, Omori, Beloved Rapture, Sea of Stars, Drova: Forsaken Kin, Hypnospace Outlaw, Portal Fantasy, The Edge of Allegoria, Siralim Ultimate, Skald: Against the Black Priory.

@@ -1,0 +1,31 @@
+JUEGO: Halo 3
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Xbox 360, Xbox One
+DISPONIBLE EN: PC (Microsoft Windows), Xbox 360, Xbox One
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Sandbox, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Bungie
+PUBLISHER: Microsoft Game Studios
+FECHA DE LANZAMIENTO: 2007-09-25
+NOTA DE LA CRÍTICA (IGDB): 91/100 (4 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (854 votos)
+FRANQUICIA: Halo
+TAMBIÉN CONOCIDO COMO: H3
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1xhc.jpg
+URL: https://www.igdb.com/games/halo-3
+
+RESUMEN:
+Halo 3 is a shooter game where players primarily experience gameplay from a first-person perspective. Much of the gameplay takes place on foot, but also includes segments focused on vehicular combat. The balance of weapons and objects in the game was adjusted to better adhere to the "Golden Triangle of Halo": these are weapons, grenades, and melee attacks, which are available to a player in most situations. Players may dual-wield some weapons, forgoing the use of grenades and melee attacks in favor of the combined firepower of two weapons. Many weapons available in previous installments of the series return with minor cosmetic and power alterations. Unlike previous installments, the player's secondary weapon is visible on their player model, holstered or slung across the player's back.
+Halo 3 introduces "support weapons", which are cumbersome two-handed weapons that slow the player, but offer greatly increased firepower in return. In addition to weapons, the game contains a new class of gear called equipment; these items have various effects, ranging from defensive screens to shield regeneration and flares. Only one piece of equipment can be carried at a time. The game's vehicular component has been expanded with new drivable and AI-only vehicles.
+
+HISTORIA:
+After the events of the comic tie-in Halo: Uprising, the Master Chief crashes in eastern Africa, where he is found by Johnson and the Arbiter. The Chief, Johnson, and company fight Covenant in the jungle and arrive at a UNSC outpost. Here, Keyes and Lord Hood plan a final effort to stop the Covenant leader, the High Prophet of Truth, from activating a Forerunner artifact uncovered outside the ruins of the city of New Mombasa. The Chief clears anti-air Covenant defenses so Hood can lead the last of Earth's ships against the Prophet, but Truth activates the buried artifact, creating a slipspace portal which he and his followers enter. A Flood-infested ship crash-lands nearby; Elite forces arrive and vitrify Flood-infected areas of Earth, stopping the threat. Following a message Cortana left aboard the Flood ship, the Chief, Arbiter, Elites, Johnson, Keyes and their troops follow Truth through the portal. Joining them is 343 Guilty Spark, who aids the Chief as he has no function to fulfill after the destruction of his ringworld.
+Traveling through the portal, the humans and Elites discover an immense artificial structure known as the Ark, far beyond the edges of the Milky Way galaxy. Here, Truth can remotely activate all the Halos. The Flood arrive aboard High Charity in full force, beginning to infest the installation. Truth captures Johnson, as he needs a human to use Forerunner technology. Keyes is killed attempting a rescue, and Johnson is forced to activate the rings. Gravemind forges a truce with the Chief and Arbiter to stop Truth. The Arbiter, Master Chief, and Flood forces arrive and overwhelm Truth's guards, rescuing Johnson and halting the installations' activation. After the Arbiter kills Truth, Gravemind turns on the Chief and Arbiter.
+The Chief, Arbiter and Guilty Spark discover that the Ark is constructing another Halo to replace the one that the Chief previously destroyed. The Chief decides to activate this Halo; the ringworld would eliminate the Flood infestation on the Ark while sparing the galaxy at large from destruction. To activate the ring, the Chief rescues Cortana, who has the Activation Index of the destroyed Halo, from High Charity and destroys the city. Arriving on the new Halo, Cortana warns that Gravemind is trying to rebuild itself on the ring. The Chief, Arbiter, and Johnson travel to Halo's control room to activate the ring. Guilty Spark explains that because the ring is not yet complete, a premature activation will destroy it and the Ark. When Johnson ignores his warning, Guilty Spark fatally wounds him to protect "his" ring. The Chief destroys Guilty Spark, activates the ring, and escapes the ring's self-destruction on the UNSC frigate Forward Unto Dawn. However, the force of Halo's blast causes the slipspace portal to collapse, resulting in only the front half of Forward Unto Dawn, carrying the Arbiter, making it back to Earth.
+A memorial service is held on Earth for the fallen heroes of the Human-Covenant war, during which the Arbiter and Lord Hood briefly exchange words regarding the fallen Master Chief. After the memorial service, the Arbiter and his Elite brethren depart for their home planet, Sanghelios. Meanwhile, the rear half of the Forward Unto Dawn drifts in unknown space. Cortana drops a distress beacon, but acknowledges it may be many years before they are rescued. The Chief enters cryonic sleep, telling Cortana to "wake me, when you need me." If the game is completed at the Legendary difficulty level, the scene continues to show the piece of Forward Unto Dawn drifting towards an unknown planet, revealed in the sequel to be known as "Requiem", the primary setting of the campaign of Halo 4.
+
+JUEGOS PARECIDOS:
+Si te gusta Halo 3, también podrían gustarte: Halo 2, Halo: Reach, Halo 4, Halo Infinite, Halo 3: ODST, Call of Duty: Black Ops II, Call of Duty: WWII, Halo 5: Guardians, Call of Duty: Black Ops III, Call of Duty: Modern Warfare 2.

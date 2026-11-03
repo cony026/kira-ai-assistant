@@ -1,0 +1,22 @@
+JUEGO: Pokémon Negro 2
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Black 2
+PLATAFORMA: Nintendo DS
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación V
+REGIÓN PRINCIPAL: Unova
+LANZADO JUNTO A: Pokémon Blanco 2
+
+DESCRIPCIÓN:
+Pokémon Negro 2 es un juego de rol de la saga principal de Pokémon, de la Generación V, para Nintendo DS. La aventura transcurre en la región de Unova. Se lanzó junto a Pokémon Blanco 2; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Snivy, Tepig y Oshawott. Su Pokédex regional reúne 301 especies de Pokémon distintas. Incluye Pokémon legendarios como Tornadus, Thundurus, Landorus, Cobalion, Terrakion y Virizion.
+
+POKÉDEX:
+- Teselia Actualizado: 301 Pokémon
+
+POKÉMON INICIALES:
+Snivy, Tepig, Oshawott
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Tornadus, Thundurus, Landorus, Cobalion, Terrakion, Virizion, Reshiram, Zekrom, Kyurem
+Singulares (míticos): Victini, Keldeo, Meloetta, Genesect

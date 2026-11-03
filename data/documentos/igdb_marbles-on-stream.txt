@@ -1,0 +1,22 @@
+JUEGO: Marbles on Stream
+
+FUENTE: IGDB
+PLATAFORMA: Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Android, PC (Microsoft Windows), iOS
+GÉNEROS: Carreras, Simulación
+TEMAS: Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador, MMO, Battle Royale
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Pixel by Pixel Studios
+PUBLISHER: Pixel by Pixel Studios
+FECHA DE LANZAMIENTO: 2018-03-28
+NOTA DE USUARIOS (IGDB): 78/100 (81 votos)
+TAMBIÉN CONOCIDO COMO: MarblesOnStream.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coa97e.jpg
+URL: https://www.igdb.com/games/marbles-on-stream
+
+RESUMEN:
+Marbles on Stream is a marble racing game designed for Twitch integration. Players can simulate races solo or stream them live, allowing viewers to participate by entering their own marbles into the competition.
+
+JUEGOS PARECIDOS:
+Si te gusta Marbles on Stream, también podrían gustarte: Marble World, BeamNG.drive, Brick Rigs, MudRunner, Need for Speed II, Grid, Wedgie Simulator, Kanjozoku Game Racer, Riders Republic, Test Drive Unlimited Solar Crown.

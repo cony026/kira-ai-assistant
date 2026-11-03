@@ -1,0 +1,90 @@
+JUEGO: Heroes of Newerth
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Hack and slash, MOBA
+TEMAS: Acción, Fantasía, Histórico
+MODOS DE JUEGO: Multijugador, Cooperativo, MMO
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Frostburn Studios, S2 Games
+PUBLISHER: Frostburn Studios, S2 Games
+FECHA DE LANZAMIENTO: 2010-05-12
+NOTA DE LA CRÍTICA (IGDB): 71/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 83/100 (39 votos)
+TAMBIÉN CONOCIDO COMO: HoN
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co20xs.jpg
+URL: https://www.igdb.com/games/heroes-of-newerth
+
+RESUMEN:
+Heroes of Newerth builds upon the DotA formula and takes it to the next level by delivering cutting edge graphics, fast-paced gameplay, meticulous statistical tracking, and server-client networking that feeds gamers' competitive appetites around the world.
+
+Heroes of Newerth puts two teams of players against each other: the Legion and the Hellbourne. Both teams are based at opposite sides of a map. The standard map is split into three continuous 'lanes' (Two in one of the lesser-played maps), running from one base to the other. Defensive towers are positioned evenly through each lane, until the lanes terminate at a team's base.
+
+After 12 years of competitive release, Heroes of Newerth finally went offline on June 20th 2022.
+
+HISTORIA:
+Jeraziah watched the piles of burning bodies. His soldiers. Men and women, humans and beasts. Killed defending each other, their beliefs, their homes. Their king.
+
+Martyrs droned their prayers next to the fires, which crackled and sizzled as the corpses were consumed. A shamanic ape with blood matted in his fur sang words of sorrow for the fallen, and though Jeraziah did not understand the language he knew exactly what the words meant.
+
+The priests did this work for the souls of the dead, helping them into whatever afterlife waited for them. Not long ago Jeraziah would have joined in the ceremony. Now he simply watched the bodies burn to make sure they wouldn’t have to be killed again.
+
+He recognized faces within the flames. Friends he had shared a meal with the previous night before leading the dawn raid. They grimaced as the fire touched them. Jeraziah knew it was the heat pulling the dead flesh and muscles taut, but he still fought the urge to reach into the pyres and drag them free. A shred of life might still remain within them, a dim light that could be held in his cupped hands, nursed back to brightness, and returned to an anguished family.
+
+The faces reddened, blistered, and blackened. The king did not look away. Only when the flesh was gone and empty skulls stared back at him did he turn to the other fires, set apart from the dead Legion warriors. The daemon bodies gave off a foul, acrid smoke and burned stubbornly. Most of the creatures were born in fire and required attention from the Pyromancers to succumb to the flames.
+
+“Whatever it takes,” Jeraziah had told them. “Nothing left but ash. Then douse it with blessed water and bury everything.”
+
+The Hellbourne piles were smaller than the Legion. This gave no indication of the true toll, since the daemons had a habit of eating their dead even in the chaos of battle, but Jeraziah knew he had lost too many. He also knew it could have been much worse.
+
+The raid had been successful. It was one of several initiatives brought forth by the Paragons, whose presence had immediately shifted the tide of war. They had also shifted alliances within the Legion itself—the Sacred Order found their presence blasphemous, and some of the king’s War Council found their cold, detached consultations and casualty estimates offensive—but Jeraziah could not dwell on that now.
+
+The Paragons were working.
+
+That was all that mattered.
+
+The URSA Corps had been muzzled by the stunning power of the Argentian sorcerers. Temporarily, perhaps, but the king cherished every moment while the self-righteous URSA licked their wounds and tried to cobble together something to counter the ancient, elemental magic of the Paragons. And as much as Jeraziah welcomed that sorcery, the knowledge of Newerth they carried was perhaps more valuable.
+
+The Paragons knew the land as it once had been, the secrets it held, and they gathered every new disturbance to Newerth, from the smallest leaf settling at the bottom of the Rulian Marsh to a monument toppling in a valley of the Sang-La Mountains. The crystals within their bodies communed with the massive rock faces of the Iron Mountains glittering with silica, the grains of sand and dust blowing across the Great Waste, the tiny fragments drawn up through roots into the flora of Caldavar, Death’s Cradle, Fúathmoor, even the enigmatic Luminary.
+
+For the Paragons, the corruption of Newerth was like a bloodstain soaking through a white shroud. They knew where it was, at all times, and where it could be thwarted. And for Jeraziah, this information was better than any Scout reconnaissance or bestial divination.
+
+The Emerald and Bloodstone Paragons had shown Jeraziah the ancient, hidden way through the Ardu foothills to the west of the Blight Fields. Thought to be unscalable, the foothills had served as a natural barrier to Hell’s Keep and the endless corruption seeping out of the Scar. While this kept the daemons from flooding across Newerth en masse, it also made it impossible for Jeraziah to wage a proper siege without looping north into the Iron Mountains or south into the Great Waste. Either option would lead to untold losses through attrition before the actual battle even began.
+
+In the aftermath of this small raid, a probing foray into Hellbourne territory, Jeraziah allowed himself to hope there was another way. He left the smoldering fires and found the two Paragons watching the sun rise over the eastern mountains. They were lightly wounded yet did not bleed, and did not need the food or wine that man craved after a near brush with death.
+
+“You would not tell me before,” the king said. “What of now? How did we not know of this path through the Ardu? My patrols have been over every crevice of these rocks.”
+
+“Over, yes,” the Lapis Lazuli sorcerer said. “Not through? Or in?”
+
+The Emerald sorceress nodded once. “The path is not available to those who have not taken it.”
+
+Jeraziah ground his teeth. The Paragons’ inclination for cryptic statements and answering questions with questions was exhausting at best, often infuriating. But he held his tongue and gathered his patience. Before he could try again, the veteran Legionnaire Cutter stepped out of the drifting smoke and stood at attention.
+
+“We have prisoners, sir.”
+
+Jeraziah’s stomach clenched, though his face remained impassive. He hoped for imps or some other soulless minion. Something that would not require a choice.
+
+“What sort?” he said.
+
+“Bloodthirsty, sir,” Cutter said, “twenty or so. Led by a half-dozen Acolytes.”
+
+Jeraziah cursed, a brief eruption that would have made the priests gasp, had they been within earshot. The Bloodthirsty were humans who followed the path of Dampeer, subsisting only on human blood until their bodies began to crave it, require it. Acolytes were possibly worse. They sold their souls in return for an apprenticeship with a Hellbourne master, seeking power and position in the lifeless world the daemons hungered for. No matter what they had done, though, they were all still human. It was Jeraziah’s royal policy to shackle any such prisoners and ship them back to Arasunia for exorcism, purification, and introduction back into civilized society.
+
+Cutter made sure his king was done blaspheming, then said, “We’re clearing out some provision wagons to take them home.” He turned to oversee the task.
+
+“Execute them,” Jeraziah said.
+
+Cutter stopped. “Sir?”
+
+“Line them up and execute them.” Jeraziah stared at the ground as he spoke. “All but one. Find the youngest among them, the least corrupted, and chop his hands off. Then send him back to his new masters and comrades. Let them see what happens when they forsake their fellow man.”
+
+Cutter hesitated. “My king, are you—”
+
+“It was their choice. I am merely responding accordingly.”
+
+“Sir,” Cutter said, and walked away. His king was changing. Necessary, Cutter knew, but the thought of losing every shred of the boy he’d guarded since before the wee lad could sit upright threatened to break his heart. The Legionnaire packed that notion away for another time, when dwelling on such things wouldn’t get him or someone else killed. He thumbed the edge of his axe. It would need sharpening before the king’s work began.
+
+JUEGOS PARECIDOS:
+Si te gusta Heroes of Newerth, también podrían gustarte: Dota 2, Tibia, Guild Wars, Vainglory, Ultima Online, Diablo II, MapleStory, Diablo, The Immortal, Champions: Return to Arms.

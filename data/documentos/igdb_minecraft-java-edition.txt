@@ -1,0 +1,27 @@
+JUEGO: Minecraft: Java Edition
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Simulación, Aventura
+TEMAS: Fantasía, Supervivencia, Sandbox, Infantil, Mundo abierto
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida, MMO
+PERSPECTIVA: Primera persona, Tercera persona, Realidad virtual
+DESARROLLADOR: Mojang Studios
+PUBLISHER: Mojang Studios
+FECHA DE LANZAMIENTO: 2011-11-18
+NOTA DE LA CRÍTICA (IGDB): 84/100 (14 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (2077 votos)
+FRANQUICIA: Minecraft
+TAMBIÉN CONOCIDO COMO: 마크, 我的世界, 當個創世神, Minecraft
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coa77e.jpg
+URL: https://www.igdb.com/games/minecraft-java-edition
+
+RESUMEN:
+Minecraft focuses on allowing the player to explore, interact with, and modify a dynamically generated map made of one-cubic-meter-sized blocks. In addition to blocks, the environment features plants, mobs, and items. Some activities in the game include mining for ore, fighting hostile mobs, and crafting new blocks and tools by gathering various resources found in the game. The game's open-ended model allows players to create structures, creations, and artwork on various multiplayer servers or their single-player maps. Other features include redstone circuits for logic computations and remote actions, minecarts and tracks, and a mysterious underworld called the Nether. A designated but completely optional goal of the game is to travel to a dimension called the End, and defeat the ender dragon.
+
+HISTORIA:
+Minecraft: Java Edition (previously known as Minecraft) is the original version of Minecraft, developed by Mojang Studios for Windows, macOS, and Linux. Notch began development on May 10, 2009, publicly releasing Minecraft on May 17, 2009. The full release of the game was on November 18, 2011, at MINECON 2011.
+
+JUEGOS PARECIDOS:
+Si te gusta Minecraft: Java Edition, también podrían gustarte: Terraria, Wurm Online, Animal Crossing: Wild World, Nightingale, Graveyard Keeper, The Elder Scrolls V: Skyrim, Rust, Far Cry 3, Planet Crafter, Castle Crashers.

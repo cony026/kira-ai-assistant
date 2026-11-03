@@ -1,0 +1,18 @@
+JUEGO: Human: Fall Flat
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, Linux, macOS, PC, iOS, PlayStation 4, Xbox One, Nintendo Switch
+FECHA DE LANZAMIENTO: 2016-07-22
+DESARROLLADOR: 505 Games, Curve Digital, No Brakes Games
+PUBLISHER: 505 Games, Curve Digital
+GÉNEROS: Action, Indie, Puzzle
+NOTA METACRITIC: 70
+RATING USUARIOS: 3.82/5 (1037 votos)
+TIEMPO DE JUEGO MEDIO: 5 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Full controller support, Steam Cloud, Co-op, Open World, cooperative, Funny, Sandbox, Survival, Split Screen, Local Co-Op, Local Multiplayer, stats
+
+DESCRIPCIÓN:
+Human: Fall Flat is a low-poly adventure game with platforming elements and physics-based puzzles. You play as Bob, a fully customizable character that travels from one dream to another. Bob has neither no background nor superpowers. His abilities don’t differ from yours: he can grab things, climb ledges and so on. 
+
+Every level consists of multiple puzzles that can be solved in different ways. You can push and pull carts, break walls and interact with everything else comparable to your own size. The game heavily focuses on physics. Puzzles’ solutions are intuitive and make you act like in real life. In their core levels are quite linear: you need to reach the door at another side of the location to get into the next dream. While at the first levels you need to find exits from tiny rooms, the further you go, the larger locations become. There is a lot of content in the game in general, and it clearly references the sandbox genre where you can do almost everything you want.

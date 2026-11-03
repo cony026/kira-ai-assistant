@@ -1,0 +1,27 @@
+JUEGO: Crash Bandicoot N. Sane Trilogy
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Xbox One, Nintendo Switch
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Xbox One, Nintendo Switch
+GÉNEROS: Plataformas, Aventura
+TEMAS: Acción, Fantasía, Ciencia ficción, Histórico
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Vicarious Visions
+PUBLISHER: Activision
+FECHA DE LANZAMIENTO: 2017-06-30
+NOTA DE LA CRÍTICA (IGDB): 78/100 (18 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (372 votos)
+FRANQUICIA: Crash Bandicoot
+TAMBIÉN CONOCIDO COMO: Crash Bandicoot: N. Sane Trilogy
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1v62.jpg
+URL: https://www.igdb.com/games/crash-bandicoot-n-sane-trilogy
+
+RESUMEN:
+Crash Bandicoot N. Sane Trilogy is a platform game compilation that remasters the first three entries in the Crash Bandicoot series: Crash Bandicoot (1996), Cortex Strikes Back (1997), and Warped (1998). Players control Crash or his sister Coco through linear 3D levels, spinning to defeat enemies, jumping across platforms, and breaking crates to collect Wumpa Fruit. The compilation features completely rebuilt visuals with enhanced lighting and textures, a re-orchestrated soundtrack, time trials with online leaderboards, and a unified save system across all three games. Originally developed without access to the original source code, the games were reconstructed nearly from scratch using polygon meshes and cross-referencing video footage of the originals.
+
+HISTORIA:
+Crash Bandicoot, an anthropomorphic marsupial, faces off against the villainous Doctor Neo Cortex and his henchmen across three adventures. In the first game, Crash must rescue his girlfriend Tawna from Cortex's island fortress. In the sequel, Cortex manipulates Crash into collecting crystals under false pretenses, and in the third, Crash and his sister Coco travel through time to gather powerful crystals before Cortex can use them to dominate the world.
+
+JUEGOS PARECIDOS:
+Si te gusta Crash Bandicoot N. Sane Trilogy, también podrían gustarte: Raji: An Ancient Epic, Unravel Two, Life Is Strange 2, Planet Alpha, I Am Alive, Kingdom Hearts IV, Ice Age: Scrat's Nutty Adventure, South of Midnight, Monster Boy and the Cursed Kingdom, Star Wars Jedi: Survivor.

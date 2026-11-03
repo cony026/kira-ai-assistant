@@ -1,0 +1,23 @@
+JUEGO: Counter-Strike: Global Offensive
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: PlayStation 3, Linux, PC (Microsoft Windows), Mac, Xbox 360
+GÉNEROS: Shooter, Táctico
+TEMAS: Acción, Bélico
+MODOS DE JUEGO: Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve, Hidden Path Entertainment
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2012-08-21
+NOTA DE LA CRÍTICA (IGDB): 81/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (1347 votos)
+TAMBIÉN CONOCIDO COMO: Counter-Strike: Ofensiva Global, Counterstrike: Global Offensive, CSGO, CS:GO, CS: Global Offensive
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coc32n.jpg
+URL: https://www.igdb.com/games/counter-strike-global-offensive
+
+RESUMEN:
+Counter-Strike: Global Offensive is a team-based multiplayer first-person shooter developed by Valve and Hidden Path Entertainment. Two teams, Terrorists and Counter-Terrorists, compete in objective-based rounds across various game modes including bomb defusal, hostage rescue, and deathmatch. The game features an economy system where players purchase weapons and equipment at the start of each round based on performance in previous rounds. Competitive matchmaking, community servers, and a robust skin trading ecosystem support a large active player base.
+
+JUEGOS PARECIDOS:
+Si te gusta Counter-Strike: Global Offensive, también podrían gustarte: Rainbow Six Siege, Counter-Strike: Condition Zero, Counter-Strike, Sniper: Ghost Warrior 2, Call of Duty: Modern Warfare 2, Call of Duty: Black Ops II, America's Army: Proving Grounds, Battlefield: Bad Company 2, PUBG: Battlegrounds, Nuclear Dawn.

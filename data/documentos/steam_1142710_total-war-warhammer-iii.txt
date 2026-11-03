@@ -1,0 +1,107 @@
+JUEGO: Total War: WARHAMMER III
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Estrategia
+DESARROLLADOR: CREATIVE ASSEMBLY, Feral Interactive
+PUBLISHER: SEGA, Feral Interactive
+FECHA DE LANZAMIENTO: 16 FEB 2022
+PRECIO: $8.99
+NOTA METACRITIC: 86/100
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (147547 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+El final cataclísmico de la trilogía de Total War™: WARHAMMER® ha llegado. Reagrupa a tus fuerzas y adéntrate en el Reino del Caos, una dimensión de terrores horripilantes en la que se decidirá el destino del mundo. ¿Conquistarás a tus demonios... o los dirigirás?
+
+DESCRIPCIÓN DETALLADA:
+El último rugido de un dios moribundo rompe la barrera entre los mundos al abrir un portal al Reino del Caos. De este Gran Remolino, emergen los cuatro Poderes Ruinosos —Khorne, Nurgle, Tzeentch y Slaanesh—, que extienden la oscuridad y la desesperación. 
+
+Los aguerridos guerreros de Kislev y el vasto imperio de la Gran Catai se encuentran en el umbral mientras un vengativo Príncipe Demonio jura destruir a aquellos que lo corrompieron. El conflicto que se avecina repercutirá en todo cuanto existe. ¿Conquistarás a tus demonios o los liderarás? 
+
+Con siete razas únicas y cientos de unidades a tus órdenes, crea un ejército capaz de dominar en épicas batallas en tiempo real en un mundo de escala y espectáculo impresionantes.
+
+Sumérgete en una historia cautivadora que te llevará en un viaje de ida y vuelta al intrincado Reino del Caos en el título de Total War más ambicioso hasta la fecha. Forja tu imperio en un sandbox de estrategia que garantiza que nunca habrá dos campañas iguales.
+
+¡Elige entre 10 Señores legendarios! ¿Te aliarás con los Dioses del Caos y encarnarás a uno de sus Paladines Demoníacos? ¿Jugarás como la ancestral Dragona cambiaformas de la Gran Catai? ¿Defenderás la gélida nación de Kislev con la Reina de Hielo? ¿O te convertirás en el villano definitivo escogiendo al Príncipe Demonio?
+
+Personaliza al Príncipe Demonio a tu gusto con una gran variedad de apéndices corporales y poderes, lo que posibilita la creación de millones de combinaciones con el fin de adaptarse a tu estilo de juego.
+
+El multijugador es mayor que nunca. La gran campaña multijugador Reino del Caos para 8 jugadores, el intenso modo Dominación 1 contra 1, las campañas multijugador narrativas en torno a la historia de Kislev y la Gran Catai, así como las batallas clasificatorias y personalizadas. Formas de sembrar el caos con amigos no van a faltar.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO *: Windows 7 64-bit
+
+- Procesador: Intel i3/Ryzen 3 series
+
+- Memoria: 6 GB de RAM
+
+- Gráficos: Nvidia GTX 900/AMD RX 400 series | Intel Iris Xe Graphics
+
+- DirectX: Versión 11
+
+- Almacenamiento: 120 GB de espacio disponible
+
+- Notas adicionales: This game may be updated over time and have paid for and free. additional content released for it. Please be aware that this may increase the minimum requirements for running the game above the specification stated here. Microsoft no longer supports Windows 10 or older versions.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10 64-bit
+
+- Procesador: Intel i5/Ryzen 5 series
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Nvidia GeForce GTX 1660 Ti/AMD RX 5600-XT/Intel Arc A750
+
+- DirectX: Versión 11
+
+- Almacenamiento: 120 GB de espacio disponible
+
+- Notas adicionales: 8GB Memory if using integrated GPU. Microsoft no longer supports Windows 10 or older versions.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: macOS 13.4
+
+- Procesador: Apple M1 (8‑Core CPU) or better
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Apple M1 (7‑Core GPU) or better
+
+- Almacenamiento: 125 GB de espacio disponible
+
+- Notas adicionales: The game is officially supported on all Mac models released since November 2020 with an Apple M1 chip or better. To check your Mac model and when it was released, select About This Mac from the Apple menu on your menu bar. ——— The following Macs are capable of running the game but do not consistently meet the standards required for official support: 
+-  * All Mac models with an AMD GPU that support macOS 13.4
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- SO: Ubuntu 24.04 LTS
+
+- Procesador: 3.4GHz Intel Core i3-4130 or AMD Ryzen CPU equivalent
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 970 4GB or AMD Radeon RX 470 4GB
+
+- Almacenamiento: 125 GB de espacio disponible
+
+- Notas adicionales: Requires Vulkan, NVIDIA driver version 470.xx or later required (tested), AMD Mesa driver version 23.2.1 or later required (tested), Intel GPUs are not supported at the time of release
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:
+
+- SO: Ubuntu 24.04 LTS
+
+- Procesador: 3.4GHz Intel Core i7-4770 or AMD Ryzen CPU equivalent
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1070 8GB or AMD Radeon RX 5700 XT 8GB
+
+- Almacenamiento: 125 GB de espacio disponible
+
+- Notas adicionales: Requires Vulkan, NVIDIA driver version 470.xx or later required (tested), AMD Mesa driver version 23.2.1 or later required (tested), Intel GPUs are not supported at the time of release

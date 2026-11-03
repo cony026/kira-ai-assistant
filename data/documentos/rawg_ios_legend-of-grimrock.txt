@@ -1,0 +1,19 @@
+JUEGO: Legend of Grimrock
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: PC, Linux, iOS, macOS
+FECHA DE LANZAMIENTO: 2012-04-10
+DESARROLLADOR: Almost Human Games, Almost Human
+PUBLISHER: Almost Human Games, Almost Human, Almost Human Oy
+GÉNEROS: Adventure, RPG, Indie
+NOTA METACRITIC: 82
+RATING USUARIOS: 3.8/5 (298 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Atmospheric, RPG, First-Person, Fantasy, Difficult, Tactical, Retro, Steam Workshop, role-playing, Includes level editor, Moddable, Character Customization, Replay Value
+
+DESCRIPCIÓN:
+For all your misdeeds, you are sentenced to die at the top of Mount Grimrock. No one ever returned from this gruesome prison alive, but you can try and be the first to escape. On the inside, Mount Grimrock is full of dungeons that can allow the prisoners to slowly descend to the earth level. The dungeons are filled with intricate traps to evade, puzzles to solve, and hungry monsters to fight in real-time mode. 
+Legend of Grimrock has a strong old-school dungeon crawler feel to it, and its creators proudly admit that they were inspired by the traditional first-person RPGs like Dungeon Master and Eye of the Beholder. The player assumes control over a party of four customizable characters that are divided into three traditional D&D classes (fighter, rogue, and mage) and four quite non-traditional races (besides Human, there are Minotaur, Lizardman, and Insectoid). 
+
+There's a bit of Portal to Legend of Grimrock, in that the prisoners are instructed by a disembodied and unreliable voice that promises them a cheerful party if they make it through the dungeon. Your party can also stumble upon records left by a previous prisoner, Toorum, which don't really inspire hope. There's an achievement that unlocks Toorum as a playable character.

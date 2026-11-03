@@ -1,0 +1,17 @@
+JUEGO: UnMetal
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Nintendo Switch
+DISPONIBLE EN: PlayStation 4, Nintendo Switch, PC, PS Vita, Xbox One
+FECHA DE LANZAMIENTO: 2021-09-28
+DESARROLLADOR: @unepic_fran
+PUBLISHER: Versus Evil, @unepic_fran
+GÉNEROS: Action, Adventure, Indie
+NOTA METACRITIC: 82
+RATING USUARIOS: 3.69/5 (46 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, 2D, Funny, Stealth, Pixel Graphics, Retro, Military
+
+DESCRIPCIÓN:
+In 1972 a crack commando unit threw you in prison for a crime you didn't commit. You promptly escaped from a maxumum-security stockade to the underground trying to survive from these soldiers of fortune.
+UnMetal is a 2D stealth/action game (with a bit of humor) where the goal is to escape from an enemy military base. But what started as a simple break out ended up being an inside operation to prevent a massive attack against the NATO.

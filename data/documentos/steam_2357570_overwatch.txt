@@ -1,0 +1,64 @@
+JUEGO: Overwatch®
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Free to Play
+DESARROLLADOR: Blizzard Entertainment, Inc.
+PUBLISHER: Blizzard Entertainment, Inc.
+FECHA DE LANZAMIENTO: 10 AGO 2023
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Mostly Negative (419306 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Overwatch®, ¡UN FUTURO POR EL QUE VALE LA PENA LUCHAR! Overwatch® es un juego de acción por equipos, gratuito, siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6.
+
+DESCRIPCIÓN DETALLADA:
+Overwatch es un shooter por equipos de héroes gratuito siempre activo y en constante evolución que está ambientado en un futuro optimista en el que todas las partidas ofrecen contiendas definitivas 5c5 o 6c6. ¡Disfruta de héroes y mapas nuevos, diferentes formas de jugar y cosméticos únicos! Ponte en la piel de uno de los más de 40 héroes de Overwatch y lidera la carga, embosca a los enemigos o ayuda a tus aliados. Únete a tus amigos y salta al campo de batalla en más de 25 mapas futuristas inspirados en ubicaciones del mundo real y domina modos de juego únicos.Reinado de Talon: Temporada 4, Héroes de BusánSacad los héroes que lleváis dentroDamos la bienvenida al combate a D.Mon, la nueva heroína tanque que defenderá Busán en una temporada ideada para que cada héroe dé lo mejor de sí mismo en el campo de batalla.Los chatarreros y Talon arremeten contra Busán, así que la nueva heroína tanque, D.Mon, decide acompañar a D.Va y el resto del escuadrón MEKA para proteger sus hogares. Elije a tu piloto favorito en el evento Estrella fugaz: Mi locura MEKA, consigue estrellas y descubre la historia del escuadrón mientras tu apoyo les ayuda a subir a lo más alto de las clasificaciones mundiales. Déjate sorprender por un pase de batalla renovado con una progresión flexible y la opción de intercambiar una recompensa legendaria de tu elección. Además, podrás explorar las nuevas versiones de Busán, Paraíso y Eichenwalde antes de enfrentarte a Ofensivas por equipos, un modo en el que los equipos avanzan juntos y los comentarios en combate mejorados hacen que ver el impacto de cada jugador sea más fácil que nunca. Corona la jugada desbloqueando a un Genji mítico o el arma mítica de Sojourn, así como otros cosméticos, y completa tu colección.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows® 10 64-bit (actualizado con el último service pack)
+
+- Procesador: Intel® Core™ i3 o AMD Phenom™ X3 8650
+
+- Memoria: 6 GB de RAM
+
+- Gráficos: Serie NVIDIA® GeForce® GTX 600, serie AMD Radeon™ HD 7000
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO *: Windows® 7 / Windows® 8 / Windows® 10 64-bit (actualizado con el último service pack)
+
+- Procesador: Intel® Core™ i5 o AMD Phenom™ II X3 o superior
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 1060/ GeForce® GTX 1650 o AMD R9 380/AMD RX 6400 o Intel® Arc™ A770
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

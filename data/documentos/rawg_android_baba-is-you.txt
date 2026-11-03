@@ -1,0 +1,18 @@
+JUEGO: Baba Is You
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, Nintendo Switch, Linux, macOS, PC, iOS
+FECHA DE LANZAMIENTO: 2019-03-13
+DESARROLLADOR: Hempuli Oy, Hempuli
+PUBLISHER: Hempuli Oy, Hempuli
+GÉNEROS: Indie, Puzzle
+NOTA METACRITIC: 86
+RATING USUARIOS: 4.38/5 (540 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Full controller support, Steam Cloud, 2D, Horror, Includes level editor, puzzles
+
+DESCRIPCIÓN:
+Baba Is You is a puzzle game where you can change the rules by which you play. In every level, the rules themselves are lying as blocks you can interact with; by manipulating them, you can change how the level works and cause surprising, unexpected interactions! With some simple block-pushing you can turn yourself into a rock, turn patches of grass into dangerously hot obstacles, and even change the goal you need to reach to something entirely different.
+The game has over 100 levels that experiment with the game's mechanics in a multitude of ways, requiring the player to understand and manipulate the rules of the game and figure out devious ways to make the objects in the game world interact. The game will also feater a level editor for making your own levels and campaigns.
+The game was originally created for & won the Nordic Game Jam 2017. The event had 142 entries in total. The game was made using Multimedia Fusion 2 by Clickteam.

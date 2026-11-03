@@ -1,0 +1,17 @@
+JUEGO: Door Kickers
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: iOS, PC, macOS, Linux, Android
+FECHA DE LANZAMIENTO: 2014-10-19
+DESARROLLADOR: KillHouse Games
+PUBLISHER: KillHouse Games
+GÉNEROS: Action, Strategy, Simulation, Indie
+NOTA METACRITIC: 83
+RATING USUARIOS: 3.78/5 (216 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Steam Cloud, steam-trading-cards, cooperative, 2D, Difficult, Tactical, Steam Workshop, Includes level editor, Moddable, Replay Value, RTS, Top-Down, overlay
+
+DESCRIPCIÓN:
+Door Kickers is a real-time strategy about SWAT operations, where each mission present players with a top-down layout of a map, covered in a fog of war. Commanding units with top-down perspective allow players to plan ahead and Players form a professional team with five different classes and can deploy up to ten operatives based on mission conditions. The game has more than 80 single missions, six multilevel missions, randomly generated missions, and community-generated content. 
+Missions are based on different in-game objectives, from total elimination to saving a VIP and disarming bombs. Each mission will be rated after the completion with a three-star rating. On top of the actual missions, players can try out to complete challenges, like completing a mission with only a squad member or complete it with a perfectly executed plan. The difficulty arises with the fact, that enemy positions are switched every time mission starts.

@@ -1,0 +1,80 @@
+JUEGO: Wallpaper Engine
+PLATAFORMA: PC (Steam)
+GÉNEROS: Casual, Indie, Animación y modelado, Diseño e ilustración, Edición fotográfica, Utilidades
+DESARROLLADOR: Wallpaper Engine Team
+PUBLISHER: Wallpaper Engine Team
+FECHA DE LANZAMIENTO: 16 NOV 2018
+PRECIO: $4.99
+RESEÑAS DE USUARIOS (STEAM): Overwhelmingly Positive (1011758 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Pon increíbles fondos animados en tu escritorio. Anima tus propias imágenes para crear nuevos fondos o importa vídeos/páginas web y compártelos en Steam Workshop.
+
+DESCRIPCIÓN DETALLADA:
+Wallpaper Engine te permite utilizar fondos de pantalla animados en el escritorio de Windows. Es compatible con varios tipos de fondos, incluyendo animaciones 3D y 2D, páginas web, vídeos e incluso aplicaciones. Elige un fondo de pantalla ya preparado o crea el tuyo propio y compártelo en Steam Workshop. Además, puedes utilizar la aplicación gratuita de Wallpaper Engine para Android y así transferirte tus fondos de pantalla favoritos a tu dispositivo y llevártelos a todas partes.
+
+NOVEDAD: Usa la aplicación de Android para transferirte tus fondos favoritos a un dispositivo Android.
+
+- Da vida a tus fondos de escritorio con gráficos, vídeos, aplicaciones o páginas web en tiempo real.
+
+- Usa salvapantallas animados mientras no estés en el ordenador.
+
+- Personaliza los fondos de pantalla animados con tus colores favoritos.
+
+- Usa fondos de pantalla interactivos que puedes controlar con el ratón.
+
+- Es compatible con muchas relaciones de aspecto y resoluciones nativas como, por ejemplo, 16:9, 21:9, 16:10, 4:3.
+
+- Es compatible con el uso de varios monitores.
+
+- Los fondos de pantalla se pausarán cuando jueges para que no afecten al rendimiento.
+
+- Crea tus propios fondos de pantalla animados con el editor de Wallpaper Engine.
+
+- Anima fondos de pantalla a partir de imágenes básicas o importa archivos HTML o de vídeo para el fondo de pantalla.
+
+- Usa Steam Workshop para compartir y descargar fondos de pantalla de forma gratuita.
+
+- Puedes usar Wallpaper Engine al mismo tiempo que cualquier otro juego o aplicación de Steam.
+
+- Formatos de vídeo compatibles: mp4, WebM, avi, m4v, mov, wmv (para archivos locales, Workshop solo admite mp4).
+
+- Usa la aplicación gratis para Android y llévate tus fondos de pantalla de escena o de vídeo favoritos a cualquier parte.
+
+- Compatible con Razer Chroma y Corsair iCUE.
+
+Wallpaper Engine tiene como objetivo ofrecer una experiencia de entretenimiento empleando la menor cantidad posible de recursos del sistema. Puedes elegir poner en pausa automáticamente o detener por completo el fondo mientras utilizas otra aplicación o la pantalla completa (incluido el modo de ventana sin bordes), para no distraerte o que no te afecte mientras juegas o trabajas. Las opciones para retocar la calidad y el rendimiento a tu gusto te permiten adaptar el fondo a tu equipo a la perfección. Por lo general, los fondos 3D, 2D y de vídeo funcionan mejor, mientras que las páginas web y las aplicaciones requerirán más recursos del sistema. Es muy recomendable tener una GPU dedicada, aunque no es obligatorio.Elige entre más de 1 000 000 de fondos gratuitos en Steam Workshop: ¡los usuarios suben fondos nuevos todos los días! ¿No encuentras el fondo perfecto para ti? Pues deja volar tu imaginación con el editor de Wallpaper Engine para crear tus propios fondos animados a partir de imágenes, vídeos, páginas web o aplicaciones. La gran selección de valores predeterminados y efectos te permitirá animar las imágenes y compartirlas en Steam Workshop o crearlas para tu uso personal.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10, Windows 11
+
+- Procesador: 1.66 GHz Intel i5 or equivalent
+
+- Memoria: 1024 MB de RAM
+
+- Gráficos: HD Graphics 4000 or above
+
+- DirectX: Versión 11
+
+- Almacenamiento: 512 MB de espacio disponible
+
+- Notas adicionales: Las versiones N de Windows requieren el &quot;Media Feature Pack&quot; de Microsoft.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10, Windows 11
+
+- Procesador: 2.0 GHz Intel i7 or equivalent
+
+- Memoria: 2048 MB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 660, AMD HD7870, 2 GB VRAM or above
+
+- DirectX: Versión 11
+
+- Almacenamiento: 1024 MB de espacio disponible
+
+- Notas adicionales: La aplicación móvil es compatible con Android 10 o superior

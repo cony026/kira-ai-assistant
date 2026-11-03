@@ -1,0 +1,22 @@
+JUEGO: WorldBox
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Linux, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: RPG, Simulación, Indie
+TEMAS: Sandbox
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Maxim Karpenko
+PUBLISHER: Maxim Karpenko
+FECHA DE LANZAMIENTO: 2018-10-02
+NOTA DE USUARIOS (IGDB): 66/100 (59 votos)
+TAMBIÉN CONOCIDO COMO: Super WorldBox, WorldBox - God Sandbox, WorldBox: God Simulator, worldbox.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3uwi.jpg
+URL: https://www.igdb.com/games/worldbox
+
+RESUMEN:
+WorldBox is the ultimate god simulator and sandbox game. Create your own world or destroy it using different powers. Watch civilizations grow, form kingdoms, colonize new lands and sail to far continents. Towns will rebel, empires will fall. It's your choice to help or watch them fight.
+
+JUEGOS PARECIDOS:
+Si te gusta WorldBox, también podrían gustarte: Rise of Industry, Townscaper, TheoTown, Bronze Age, Weapon Shop Fantasy, Songs of Syx, Transport Fever 2, Uncharted Waters: New Horizons, The Universim, The Sims Mobile.

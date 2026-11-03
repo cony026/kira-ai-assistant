@@ -1,0 +1,20 @@
+JUEGO: Teardown
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PlayStation 5
+DISPONIBLE EN: PC, PlayStation 5
+FECHA DE LANZAMIENTO: 2022-04-21
+DESARROLLADOR: Tuxedo Labs
+PUBLISHER: Tuxedo Labs
+GÉNEROS: Action, Strategy, Simulation, Indie
+NOTA METACRITIC: 80
+RATING USUARIOS: 4.16/5 (224 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, First-Person, Sandbox, Physics, Destruction, Heist, Voxel
+
+DESCRIPCIÓN:
+Plan the perfect heist using creative problem solving, brute force and everything around you. Teardown features a fully destructible and truly interactive environment where player freedom and emergent gameplay are the driving mechanics.
+
+Tear down walls with explosives or vehicles to create shortcuts no one thought were possible. Stack objects, build structures or use floating objects to your advantage. Take your time to create the most efficient path through the level and get ready to run.
+
+The moment you pick up your first target an alarm goes off and the heat is on. Run, jump, drive, slingshot, do whatever you need to collect all of the targets and escape before security arrives.

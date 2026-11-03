@@ -1,0 +1,27 @@
+JUEGO: Duke Nukem 3D
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac, DOS
+DISPONIBLE EN: PC (Microsoft Windows), Mac, DOS
+GÉNEROS: Shooter, Puzle
+TEMAS: Acción, Ciencia ficción, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: 3D Realms
+PUBLISHER: MacSoft Games, 3D Realms, U.S. Gold, FormGen
+FECHA DE LANZAMIENTO: 1996-04-19
+NOTA DE LA CRÍTICA (IGDB): 75/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (450 votos)
+FRANQUICIA: Duke Nukem
+TAMBIÉN CONOCIDO COMO: Duke3D
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1y7x.jpg
+URL: https://www.igdb.com/games/duke-nukem-3d
+
+RESUMEN:
+Duke Nukem 3D is a first-person shooter in which players move through levels from the protagonist's viewpoint, fighting aliens and mutated foes with a varied arsenal. Its environments are highly interactive and destructible, and levels are designed in a non-linear way, letting players use air ducts, back routes, and hidden areas to explore or avoid enemies. Set across recognizable real-world style locations, the game is known for its satirical humor and references to action films and pop culture.
+
+HISTORIA:
+Returning to Earth in his space cruiser hoping for a vacation, action hero Duke Nukem is shot down over Los Angeles by unknown attackers. As he sends out a distress signal, he learns that aliens are invading the city and have mutated the local police. With his plans ruined, Duke ejects and vows to do whatever it takes to stop the invasion, fighting his way through a besieged city and beyond as he uncovers the scope of the alien threat.
+
+JUEGOS PARECIDOS:
+Si te gusta Duke Nukem 3D, también podrían gustarte: Doom II: Hell on Earth, Quake II, Shadow Warrior 2, Wolfenstein: The New Order, Prey, Dead Space, Max Payne 3, Serious Sam 3: BFE, F.E.A.R., Tomb Raider.

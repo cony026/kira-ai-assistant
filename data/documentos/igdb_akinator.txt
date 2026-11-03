@@ -1,0 +1,21 @@
+JUEGO: Akinator
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Windows Phone, Android, iOS
+DISPONIBLE EN: Web browser, Windows Phone, Android, iOS
+GÉNEROS: Trivia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Texto
+DESARROLLADOR: Elokence
+PUBLISHER: SCIMOB, Elokence
+FECHA DE LANZAMIENTO: 2007-08-01
+NOTA DE USUARIOS (IGDB): 55/100 (33 votos)
+TAMBIÉN CONOCIDO COMO: Akinator, the Web Genie, Akinator, the web Genius
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4v6g.jpg
+URL: https://www.igdb.com/games/akinator
+
+RESUMEN:
+Akinator, the Web Genie (formerly Akinator, the web Genius) is an internet game and mobile app based on Twenty Questions that attempts to determine which character the player is thinking of by asking them a series of questions. It is an artificial intelligence program that can find and learn the best questions to ask the player. Created by three French programmers in 2007, it became popular worldwide in November 2008, according to Google Trends. In Europe popularity peak was reached in 2009 and Japan in 2010 with the launch of mobile apps by French mobile company SCIMOB, reaching highest ranks on app store . While playing "Akinator", questions are asked by a cartoon genie.
+
+JUEGOS PARECIDOS:
+Si te gusta Akinator, también podrían gustarte: 20Q, Paint Park, Jeopardy!, GoMoku Narabe, Heads Up!, 2 in 1 Trivia All-Stars, JNKPlat Slots, Super Snowball Sunday, Solicheck, Finger Connection.

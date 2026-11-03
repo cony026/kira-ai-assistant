@@ -1,0 +1,22 @@
+JUEGO: Muck
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Aventura, Indie
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Dani
+PUBLISHER: Dani
+FECHA DE LANZAMIENTO: 2021-06-05
+NOTA DE USUARIOS (IGDB): 61/100 (81 votos)
+TAMBIÉN CONOCIDO COMO: Muck.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co610v.jpg
+URL: https://www.igdb.com/games/muck
+
+RESUMEN:
+Muck is a survival-roguelike. Collect resources, find items & build a base to survive for as long as you can.
+
+JUEGOS PARECIDOS:
+Si te gusta Muck, también podrían gustarte: The Highrise, Serious Sam 4, Bigfoot, Gunfire Reborn, Paranormal Cleanup, Forewarned, The Greatest Penguin Heist of All Time, Sign of Silence, Tasty Planet: Back for Seconds, Machine Hunt.

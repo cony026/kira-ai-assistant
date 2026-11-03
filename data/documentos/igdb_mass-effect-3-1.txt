@@ -1,0 +1,22 @@
+JUEGO: Mass Effect 3
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Xbox One
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Xbox One
+GÉNEROS: Shooter, RPG, Estrategia, Aventura
+TEMAS: Acción, Ciencia ficción, Drama, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: BioWare
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 2021-05-14
+NOTA DE USUARIOS (IGDB): 89/100 (34 votos)
+FRANQUICIA: Mass Effect
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6dqb.jpg
+URL: https://www.igdb.com/games/mass-effect-3--1
+
+RESUMEN:
+A remaster of the original Mass Effect 3 included in the Mass Effect: Legendary Edition bundle.
+
+JUEGOS PARECIDOS:
+Si te gusta Mass Effect 3, también podrían gustarte: Red Faction: Guerrilla, Xenowerk, Concord, Bullet Echo, Outlaws of the Old West, Wall World, Stalzone, Star Wars: Hunters, Hood: Outlaws & Legends, Age of Water.

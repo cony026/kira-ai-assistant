@@ -1,0 +1,24 @@
+JUEGO: LEGO Star Wars - The Complete Saga
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Android, Xbox 360, Nintendo DS, PC, iOS, Wii, macOS, PlayStation 3, Xbox One
+FECHA DE LANZAMIENTO: 2007-11-06
+DESARROLLADOR: Feral Interactive, Warner Bros. Interactive, Traveller's Tales
+PUBLISHER: Warner Bros. Interactive, Disney Interactive, LucasArts Entertainment
+GÉNEROS: Action, Adventure
+NOTA METACRITIC: 77
+RATING USUARIOS: 4.1/5 (644 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Multiplayer, Full controller support, Steam Cloud, Great Soundtrack, Co-op, Open World, cooperative, Sci-fi, Funny, Classic, Comedy, Split Screen, Local Co-Op, Controller
+
+DESCRIPCIÓN:
+Lego Star Wars: The Video Game is an action-adventure game based on Star Wars set of Lego constructors. This is the first installment in the Lego Star Wars video game series.  
+ 
+###Plot and art style 
+The game uses characters from the movie series and loosely retells the story of episodes I-III. It consists of several chapters each recreates a certain part of the movie.  
+Aside from terrain, backgrounds and special effects, all of the in-game objects consist of Lego pieces thus the name.  
+
+###Gameplay 
+In each level, you play as a group of characters from the movie and have to complete a specific task. You control only one character at a time while AI commands your teammates, but you can instantly switch between them.
+The game also supports multiplayer for two with drop-in/drop-out system so the second player can join you without going back to the main menu. The gameplay mostly consists of solving puzzles, exploring environments for secrets and fighting enemies and bosses. There are many characters to unlock as well as other collectibles. Different characters have different abilities and weapons the can be used in combat, puzzle-solving or accessing previously closed parts of the map. There is no game over in Lego Star Wars. Running out of lives makes you lose some in-game currency/points before instantly respawn.

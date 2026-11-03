@@ -1,0 +1,28 @@
+JUEGO: Halo: Reach
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Xbox 360, Xbox One
+DISPONIBLE EN: PC (Microsoft Windows), Xbox 360, Xbox One
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Bungie
+PUBLISHER: Microsoft Game Studios
+FECHA DE LANZAMIENTO: 2010-09-14
+NOTA DE LA CRÍTICA (IGDB): 89/100 (9 críticas)
+NOTA DE USUARIOS (IGDB): 84/100 (680 votos)
+FRANQUICIA: Halo
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1xha.jpg
+URL: https://www.igdb.com/games/halo-reach
+
+RESUMEN:
+Halo: Reach is a first-person shooter set in 2552, serving as a prequel to Halo: Combat Evolved. Players control Noble Six, a member of Noble Team, an elite squad of Spartan supersoldiers defending the human colony world of Reach from a Covenant invasion. The game features campaign gameplay playable solo or cooperatively, with armor abilities replacing single-use equipment from previous entries. Multiplayer includes competitive modes, a Firefight survival mode, and Forge World, a large-scale level editor. The game also introduces space combat dogfight sequences to the series.
+
+HISTORIA:
+In the year 2552, humanity is losing its war against the Covenant, an alliance of alien races bent on extermination. The colony world of Reach, the United Nations Space Command's primary military stronghold and home to over 700 million civilians, comes under sudden attack when Covenant forces are discovered on the planet's surface.
+
+Noble Six, the newest member of Noble Team, a squad of elite Spartan supersoldiers, joins the fight to defend Reach. As the invasion intensifies and the planet's defenses crumble, Noble Team is entrusted with delivering an artificial intelligence and vital data to the UNSC ship Pillar of Autumn, a mission that demands sacrifice from every member of the squad. One by one, the team gives everything to ensure the ship's escape, carrying with it the last hope for humanity's survival.
+
+JUEGOS PARECIDOS:
+Si te gusta Halo: Reach, también podrían gustarte: Halo 4, Halo 3, Halo 2, Halo Infinite, Halo 3: ODST, Gears of War, Call of Duty: WWII, Destiny 2, Call of Duty: Black Ops II, Halo Wars.

@@ -1,0 +1,22 @@
+JUEGO: Tetris
+
+FUENTE: IGDB
+PLATAFORMA: Nintendo 3DS, Game Boy
+DISPONIBLE EN: Nintendo 3DS, Game Boy
+GÉNEROS: Puzle
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Nintendo
+PUBLISHER: Nintendo, Gradiente, Playtronic, ELORG, Mani
+FECHA DE LANZAMIENTO: 1989-06-14
+NOTA DE USUARIOS (IGDB): 84/100 (141 votos)
+FRANQUICIA: Tetris
+TAMBIÉN CONOCIDO COMO: TETRIS
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2ufl.jpg
+URL: https://www.igdb.com/games/tetris--1
+
+RESUMEN:
+Tetris is a puzzle video game for the Game Boy released in 1989. It is a portable version of Alexey Pajitnov's original Tetris and it was bundled in the North American and European releases of the Game Boy itself. It was the first game compatible with the Game Link Cable, a pack-in accessory that allowed two Game Boys to link together for multiplayer purposes.
+
+JUEGOS PARECIDOS:
+Si te gusta Tetris, también podrían gustarte: Pokémon Red Version, Magic Jewelry, Puyo Puyo Tetris 2, Q Remastered, Super Mario World, Unravel Two, Mario's Picross, 7 Wonders of the Ancient World, Bluey: The Videogame, Pode.

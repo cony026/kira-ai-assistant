@@ -1,0 +1,21 @@
+JUEGO: Roundguard
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Nintendo Switch
+DISPONIBLE EN: iOS, Nintendo Switch, macOS, PlayStation 4, Xbox One, PC
+FECHA DE LANZAMIENTO: 2020-03-13
+DESARROLLADOR: Wonderbelly Games
+PUBLISHER: The Quantum Astrophysicists Guild, Wonderbelly Games
+GÉNEROS: Action, RPG, Strategy, Casual, Indie
+NOTA METACRITIC: 80
+RATING USUARIOS: 3.41/5 (16 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, RPG, 2D, Steam Leaderboards, role-playing, Cute, Colorful, Physics, Roguelike, Roguelite, Hand-drawn
+
+DESCRIPCIÓN:
+A bouncy, physics-based roguelite with a cast of oddballs, procedural dungeons, and lots of loot. Like if Peggle played D&D in the basement.FEATURES Intuitive physics-based gameplay.
+Play as three different classes (Warrior, Sorcerer, and Rogue) with unique skills, weapons, armor, and trinkets to mix and match.
+Roll a new procedural dungeon on every run.
+Explore different enemy biomes and discover special rooms hiding treasure and rare elite monsters.
+Chat with the castle’s ridiculous crew to pick up quests and learn why some rats want their king dead, what’s irritating the local teenage skeleton today, or what the Warrior will do if you can’t get to a bathroom quickly enough.
+Compete on the leaderboards and stream the game with integrated Twitch interactivity for added chaos.

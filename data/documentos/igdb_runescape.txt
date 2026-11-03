@@ -1,0 +1,22 @@
+JUEGO: RuneScape
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: Web browser, Linux, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: RPG, Aventura
+TEMAS: Acción, Fantasía, Gestión, Sandbox, Mundo abierto
+MODOS DE JUEGO: Multijugador, MMO
+PERSPECTIVA: Tercera persona, Isométrica
+DESARROLLADOR: Jagex
+PUBLISHER: Jagex
+FECHA DE LANZAMIENTO: 2001-01-04
+NOTA DE USUARIOS (IGDB): 78/100 (144 votos)
+TAMBIÉN CONOCIDO COMO: Rune Scape, RS, RuneScape - Fantasy MMORPG, RuneScape.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cobbep.jpg
+URL: https://www.igdb.com/games/runescape
+
+RESUMEN:
+RuneScape is a high fantasy open world MMORPG. Explore an ever changing and evolving living world where new challenges, skills, and quests await. Featuring unprecedented player freedom, you choose how to play, adventure, and grow.
+
+JUEGOS PARECIDOS:
+Si te gusta RuneScape, también podrían gustarte: Old School RuneScape, Pax Dei, Dofus, Tera, The Seven Deadly Sins: Origin, Hytale, Eve Online, Aion 2, Atlantica Online, Hero Siege.

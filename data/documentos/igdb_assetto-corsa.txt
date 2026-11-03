@@ -1,0 +1,23 @@
+JUEGO: Assetto Corsa
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Xbox One
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Xbox One
+GÉNEROS: Carreras, Simulación, Deportes, Indie
+TEMAS: Non-fiction
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona, Tercera persona, Isométrica, Vista lateral, Realidad virtual
+DESARROLLADOR: Kunos Simulazioni
+PUBLISHER: 505 Games, Kunos Simulazioni
+FECHA DE LANZAMIENTO: 2014-12-19
+NOTA DE LA CRÍTICA (IGDB): 64/100 (10 críticas)
+NOTA DE USUARIOS (IGDB): 78/100 (110 votos)
+TAMBIÉN CONOCIDO COMO: 아세토 코르사, AssettoCorsa.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coaauq.jpg
+URL: https://www.igdb.com/games/assetto-corsa
+
+RESUMEN:
+Assetto Corsa features an advanced DirectX 11 graphics engine that recreates an immersive environment, dynamic lighthing and realistic materials and surfaces. The advanced physics engine is being designed to provide a very realistic driving experience, including features and aspects of real cars, never seen on any other racing simulator such as tyre flat spots, heat cycles including graining and blistering, very advanced aerodynamic simulation with active movable aerodynamics parts controlled in real time by telemetry input channels, hybrid systems with kers and energy recovery simulation. Extremely detailed with single player and multiplayer options, exclusive licensed cars reproduced with the best accuracy possible, thanks to the official cooperation of Car Manufacturers.
+
+JUEGOS PARECIDOS:
+Si te gusta Assetto Corsa, también podrían gustarte: Race Driver: Grid, Dirt Rally 2.0, Live for Speed, Rennsport, Dirt Rally, F1 2015, Dakar Desert Rally, EA Sports WRC, Cricket 24, Wreckfest.

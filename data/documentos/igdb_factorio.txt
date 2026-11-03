@@ -1,0 +1,26 @@
+JUEGO: Factorio
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Nintendo Switch 2, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, Nintendo Switch 2, PC (Microsoft Windows), Mac, Nintendo Switch
+GÉNEROS: Simulación, Estrategia, Indie
+TEMAS: Ciencia ficción, Supervivencia, Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Wube Software
+PUBLISHER: Wube Software
+FECHA DE LANZAMIENTO: 2020-08-14
+NOTA DE LA CRÍTICA (IGDB): 86/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 86/100 (309 votos)
+TAMBIÉN CONOCIDO COMO: 팩토리오
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1tfy.jpg
+URL: https://www.igdb.com/games/factorio
+
+RESUMEN:
+You will be mining resources, researching technologies, building infrastructure, automating production and fighting enemies. Use your imagination to design your factory, combine simple elements into ingenious structures, apply management skills to keep it working and finally protect it from the creatures who don't really like you.
+
+HISTORIA:
+You crash land on an alien planet and must research a way to get yourself a rocket out of the planet. Defend yourself from the natives who dislike the pollution your production generates.
+
+JUEGOS PARECIDOS:
+Si te gusta Factorio, también podrían gustarte: RimWorld, Terraformers, Endless Space 2, TheoTown, Cosmoteer: Starship Architect & Commander, Door Kickers, Airships: Conquer the Skies, Last Call BBS, Nova Lands, Parkitect.

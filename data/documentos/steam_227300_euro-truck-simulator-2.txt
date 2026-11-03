@@ -1,0 +1,109 @@
+JUEGO: Euro Truck Simulator 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Indie, Simuladores
+DESARROLLADOR: SCS Software
+PUBLISHER: SCS Software
+FECHA DE LANZAMIENTO: 12 OCT 2012
+PRECIO: $19.99
+NOTA METACRITIC: 79/100
+RESEÑAS DE USUARIOS (STEAM): Overwhelmingly Positive (938885 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.
+
+DESCRIPCIÓN DETALLADA:
+Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore from the UK, Belgium, Germany, Italy, the Netherlands, Poland, and many more, your endurance, skill and speed will all be pushed to their limits. If you’ve got what it takes to be part of an elite trucking force, get behind the wheel and prove it! Key Features: 
+- Transport a vast variety of cargo across more than 60 European cities. 
+- Run your own business which continues to grow even as you complete your freight deliveries. 
+- Build your own fleet of trucks, buy garages, hire drivers, manage your company for maximum profits. 
+- A varied amount of truck tuning that range from performance to cosmetic changes. 
+- Customize your vehicles with optional lights, bars, horns, beacons, smoke exhausts, and more. 
+- Thousands of miles of real road networks with hundreds of famous landmarks and structures. 
+- Play, deliver and chat online together with your friends in the Convoy multiplayer mode! World of Trucks:Take advantage of additional features of Euro Truck Simulator 2 by joining our online community on World of Trucks, our center for virtual truckers all around the world interested in Euro Truck Simulator 2 and future SCS Software's truck simulators.
+- Use in-game Photo Mode to capture the best moments and share them with thousands of people who love trucks. 
+- Favorite the images you like the most and return to them anytime in the future.  
+- Discuss the screenshots with everyone using World of Trucks.  
+- See the best images hand-picked by the game creators in Editor's Pick updated almost every day. Try to get your own screenshot on this list! 
+- Upload and use your custom avatar and license plate in the game.  World of Trucks is an optional service, registration on World of Trucks isn't required to play the game.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Minimum:
+
+- OS: Windows 10 64-bit
+
+- Processor: Intel Core i5-6400 or AMD Ryzen 3 1200 or similar
+
+- Memory: 8 GB RAM
+
+- Graphics: NVIDIA GeForce GTX 660 or AMD Radeon RX 460 or Intel HD 630 (2GB VRAM)
+
+- Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recommended:
+
+- OS: Windows 10 64-bit
+
+- Processor: Intel Core i5-9600 or AMD Ryzen 5 3600 or similar
+
+- Memory: 12 GB RAM
+
+- Graphics: NVIDIA GeForce GTX 1660 or AMD Radeon RX 590 (2GB VRAM)
+
+- Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)
+
+REQUISITOS MÍNIMOS (MAC):
+Minimum:
+
+- OS: macOS 11 (Big Sur)
+
+- Processor: Quad core CPU 3.3 GHz
+
+- Memory: 8 GB RAM
+
+- Graphics: Intel HD 630 or similar (2GB VRAM)
+
+- Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)
+
+REQUISITOS RECOMENDADOS (MAC):
+Recommended:
+
+- OS: macOS 11 (Big Sur)
+
+- Processor: Quad core CPU 4.6 GHz
+
+- Memory: 12 GB RAM
+
+- Graphics: NVIDIA GeForce GTX 1660 or similar (2 GB VRAM)
+
+- Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)
+
+REQUISITOS MÍNIMOS (LINUX):
+Minimum:
+
+- OS: Linux Ubuntu 12.04
+
+- Processor: Quad core CPU 3.3 GHz
+
+- Memory: 8 GB RAM
+
+- Graphics: Intel HD 630 or similar (2GB VRAM)
+
+- Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)
+
+- Additional Notes: recent binary ATI or NVidia drivers (MESA may not work reliably)
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recommended:
+
+- OS: Linux Ubuntu 12.04
+
+- Processor: Quad core CPU 4.6 GHz
+
+- Memory: 12 GB RAM
+
+- Graphics: NVIDIA GeForce GTX 1660 or similar (2 GB VRAM)
+
+- Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)
+
+- Additional Notes: recent binary ATI or NVidia drivers (MESA may not work reliably)

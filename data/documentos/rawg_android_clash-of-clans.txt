@@ -1,0 +1,13 @@
+JUEGO: Clash of Clans
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, iOS, PC
+FECHA DE LANZAMIENTO: 2012-08-02
+DESARROLLADOR: Supercell
+PUBLISHER: Supercell
+GÉNEROS: Strategy, Massively Multiplayer
+TAGS: Free to Play, Multiplayer, Base Building, Clans, PvP
+
+DESCRIPCIÓN:
+Clash of Clans is a mobile strategy game where players build and upgrade a village, train troops, and join Clans to attack and defend against other players. Progression revolves around resource management, base design and raiding opponents' villages, alongside recurring Clan Wars and seasonal events.

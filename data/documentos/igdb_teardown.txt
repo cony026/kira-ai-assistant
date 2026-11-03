@@ -1,0 +1,22 @@
+JUEGO: Teardown
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+DISPONIBLE EN: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+GÉNEROS: Puzle, Simulación, Estrategia, Indie
+TEMAS: Acción, Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Tuxedo Labs
+PUBLISHER: Tuxedo Labs
+FECHA DE LANZAMIENTO: 2022-04-21
+NOTA DE LA CRÍTICA (IGDB): 83/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 80/100 (59 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7avn.jpg
+URL: https://www.igdb.com/games/teardown
+
+RESUMEN:
+Prepare the perfect heist in this simulated and fully destructible voxel world. Tear down walls with vehicles or explosives to create shortcuts. Stack objects to reach higher. Use the environment to your advantage in the most creative way you can think of.
+
+JUEGOS PARECIDOS:
+Si te gusta Teardown, también podrían gustarte: Wobbly Life, Besiege, One-Armed Robber, Drug Dealer Simulator 2, Escape the Backrooms, Space Engineers, Go-Go Town!, My Time at Sandrock, Tales of Seikyu, MudRunner.

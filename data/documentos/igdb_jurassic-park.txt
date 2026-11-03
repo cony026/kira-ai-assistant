@@ -1,0 +1,23 @@
+JUEGO: Jurassic Park
+
+FUENTE: IGDB
+PLATAFORMA: Sega Mega Drive/Genesis
+DISPONIBLE EN: Sega Mega Drive/Genesis
+GÉNEROS: Shooter, Plataformas
+TEMAS: Acción, Ciencia ficción, Terror, Supervivencia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: BlueSky Software
+PUBLISHER: Sega, Tec Toy
+FECHA DE LANZAMIENTO: 1993-08-26
+NOTA DE USUARIOS (IGDB): 84/100 (55 votos)
+FRANQUICIA: Jurassic Park
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2zdt.jpg
+URL: https://www.igdb.com/games/jurassic-park
+
+RESUMEN:
+Jurassic Park is a SEGA Genesis/Mega Drive game based on the first movie.
+The game was playable as either Dr. Alan Grant or a Velociraptor (presumably the The Big One). Grant is the default character but can be changed using the 'Player' option on the game's main menu to swich to the raptor.
+
+JUEGOS PARECIDOS:
+Si te gusta Jurassic Park, también podrían gustarte: The Lost World: Jurassic Park, Aliens: Fireteam Elite, Jurassic Park Part 2: The Chaos Continues, RoboCop 3, Skeleton Warriors, Jurassic Park: Survival, Jurassic Park, The Lost Wild, Prehistoric Isle, Resident Evil Re:Verse.

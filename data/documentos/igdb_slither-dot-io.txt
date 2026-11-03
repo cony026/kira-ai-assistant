@@ -1,0 +1,22 @@
+JUEGO: Slither.io
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Android, iOS
+DISPONIBLE EN: Web browser, Android, iOS
+GÉNEROS: Simulación, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Multijugador, MMO
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Steve Howse
+PUBLISHER: Lowtech Studios
+FECHA DE LANZAMIENTO: 2016-03-25
+NOTA DE USUARIOS (IGDB): 66/100 (43 votos)
+TAMBIÉN CONOCIDO COMO: Slither
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7d3d.jpg
+URL: https://www.igdb.com/games/slither-dot-io
+
+RESUMEN:
+Slither.io is a massively multiplayer browser game where players control a snake-like avatar, which consumes multicolored pellets from other players, and ones that naturally spawn on the map in the game to grow in size. The objective of the game is to grow the longest snake in the server.
+
+JUEGOS PARECIDOS:
+Si te gusta Slither.io, también podrían gustarte: Feeding Frenzy, Agar.io, Pixel Gun 3D, Feeding Frenzy 2: Shipwreck Showdown, D4DJ Groovy Mix, Hungry Shark Evolution, Table Top Racing, Dan the Man, Mad Riders, Flappy Bird.

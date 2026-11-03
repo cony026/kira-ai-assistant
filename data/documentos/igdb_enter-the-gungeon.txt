@@ -1,0 +1,26 @@
+JUEGO: Enter the Gungeon
+
+FUENTE: IGDB
+PLATAFORMA: Google Stadia, PlayStation 4, Linux, Android
+DISPONIBLE EN: Google Stadia, PlayStation 4, Linux, Android, PC (Microsoft Windows), iOS, Mac, Xbox One, Nintendo Switch
+GÉNEROS: Shooter, Aventura, Indie, Arcade
+TEMAS: Acción, Fantasía
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Dodge Roll
+PUBLISHER: Devolver Digital
+FECHA DE LANZAMIENTO: 2016-04-05
+NOTA DE LA CRÍTICA (IGDB): 82/100 (13 críticas)
+NOTA DE USUARIOS (IGDB): 76/100 (342 votos)
+TAMBIÉN CONOCIDO COMO: ETG, Enter the Gungeon: Advanced Gungeons & Dragons
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cobl6c.jpg
+URL: https://www.igdb.com/games/enter-the-gungeon
+
+RESUMEN:
+Enter the Gungeon is a top-down bullet hell roguelike where players take control of one of several characters known as Gungeoneers and fight their way through the procedurally generated floors of the Gungeon. Combat revolves around shooting bullet-shaped enemies with an extensive arsenal of both conventional and exotic firearms, while using dodge rolls, table flips, and environmental cover to avoid dense patterns of projectiles. The game features permadeath, meaning all items and weapons are lost upon dying, and players must start again from the first floor. Between runs, a hub area called the Breach allows players to unlock new items and interact with non-player characters.
+
+HISTORIA:
+A group of misfits, each burdened by deep personal regret, descends into the Gungeon, a sprawling, ever-shifting fortress inhabited by hostile creatures made of ammunition called the Gundead. Their shared goal is to reach the deepest level of this labyrinth and claim its legendary treasure: a mythical gun said to have the power to kill the past. Each Gungeoneer carries their own reasons for seeking this weapon, hoping that by undoing their greatest mistake, they might find absolution.
+
+JUEGOS PARECIDOS:
+Si te gusta Enter the Gungeon, también podrían gustarte: Nuclear Throne, Butcher, Lara Croft and the Guardian of Light, NeuroVoider, Wizard of Legend, Lara Croft and the Temple of Osiris, Hyper Light Drifter, Drova: Forsaken Kin, Risk of Rain 2, Figment.

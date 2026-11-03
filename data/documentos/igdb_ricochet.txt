@@ -1,0 +1,22 @@
+JUEGO: Ricochet
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, Puzle
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2000-11-01
+NOTA DE USUARIOS (IGDB): 71/100 (34 votos)
+TAMBIÉN CONOCIDO COMO: hl.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2r4z.jpg
+URL: https://www.igdb.com/games/ricochet
+
+RESUMEN:
+A futuristic action game that challenges your agility as well as your aim, Ricochet features one-on-one and team matches played in a variety of futuristic battle arenas.
+
+JUEGOS PARECIDOS:
+Si te gusta Ricochet, también podrían gustarte: Deathmatch Classic, Far Cry, Combat Master, Space Beast Terror Fright, Warmode, Krunker, Imscared, Serious Sam 4, Alien Rage: Unlimited, Serious Sam: The First Encounter.

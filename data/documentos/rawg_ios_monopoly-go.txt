@@ -1,0 +1,13 @@
+JUEGO: Monopoly GO!
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Android, iOS
+FECHA DE LANZAMIENTO: 2023-04-11
+DESARROLLADOR: Scopely
+PUBLISHER: Scopely
+GÉNEROS: Casual, Board Games, Family
+TAGS: Free to Play, Multiplayer, Board Game, Social, Events
+
+DESCRIPCIÓN:
+Monopoly GO! is a mobile reimagining of the classic Monopoly board game, built around single-player board runs instead of a traditional multiplayer match. Players roll dice to move around the board, build sets of properties, and take part in limited-time events and mini-games with friends, such as raiding shields or trading stickers to complete albums.

@@ -1,0 +1,22 @@
+JUEGO: Dwarf Fortress
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: RPG, Simulación, Estrategia, Estrategia por turnos, Indie
+TEMAS: Fantasía, Supervivencia, Sigilo, Sandbox, Mundo abierto, 4X (explore, expand, exploit, and exterminate)
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica, Texto
+DESARROLLADOR: Bay 12 Games
+PUBLISHER: Bay 12 Games
+NOTA DE LA CRÍTICA (IGDB): 84/100 (0 críticas)
+NOTA DE USUARIOS (IGDB): 87/100 (51 votos)
+TAMBIÉN CONOCIDO COMO: Slaves to Armok 2: Dwarf Fortress, Slaves to Armok II: Dwarf Fortress, Slaves to Armok: God of Blood Chapter II: Dwarf Fortress, Dwarf Fortress Classic, DF
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2yqt.jpg
+URL: https://www.igdb.com/games/dwarf-fortress
+
+RESUMEN:
+Dwarf Fortress is a single-player fantasy game. You can control a dwarven outpost or an adventurer in a randomly generated, persistent world.
+
+JUEGOS PARECIDOS:
+Si te gusta Dwarf Fortress, también podrían gustarte: Perfect World, Terraria, The Elder Scrolls II: Daggerfall, Baldur's Gate II: Shadows of Amn, Project Zomboid, Heroes of Might and Magic III: The Restoration of Erathia, Diablo, Cataclysm: Dark Days Ahead, Expeditions: Conquistador, Dungeon Crawl Stone Soup.

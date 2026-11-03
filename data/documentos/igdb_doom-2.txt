@@ -1,0 +1,27 @@
+JUEGO: Doom
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Xbox One
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Xbox One
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Terror
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: id Software
+PUBLISHER: Bethesda Softworks
+FECHA DE LANZAMIENTO: 2016-05-12
+NOTA DE LA CRÍTICA (IGDB): 87/100 (28 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (1927 votos)
+FRANQUICIA: Doom
+TAMBIÉN CONOCIDO COMO: Doom (2016), Doom 4, Doom IV, Doom Classic, DOOM
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1nc7.jpg
+URL: https://www.igdb.com/games/doom--2
+
+RESUMEN:
+Developed by id software, the studio that pioneered the first-person shooter genre and created multiplayer Deathmatch, Doom returns as a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat – whether you’re obliterating demon hordes through the depths of Hell in the single-player campaign, or competing against your friends in numerous multiplayer modes. Expand your gameplay experience using Doom SnapMap game editor to easily create, play, and share your content with the world.
+
+HISTORIA:
+You’ve come here for a reason. The Union Aerospace Corporation’s massive research facility on Mars is overwhelmed by fierce and powerful demons, and only one person stands between their world and ours. As the lone DOOM Marine, you’ve been activated to do one thing – kill them all.
+
+JUEGOS PARECIDOS:
+Si te gusta Doom, también podrían gustarte: Quake II, Prey, Dead Space, Wolfenstein: The New Order, Aliens vs. Predator, Outlast, Shadow Warrior 2, Prey, Dead Space 2, Spec Ops: The Line.

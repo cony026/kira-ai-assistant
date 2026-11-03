@@ -1,0 +1,33 @@
+JUEGO: Adventure
+
+FUENTE: IGDB
+PLATAFORMA: Atari 2600
+DISPONIBLE EN: Atari 2600
+GÉNEROS: Aventura
+TEMAS: Fantasía
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica, Texto
+DESARROLLADOR: Atari
+PUBLISHER: Sears, Polyvox
+FECHA DE LANZAMIENTO: 1980-03-01
+NOTA DE USUARIOS (IGDB): 76/100 (41 votos)
+TAMBIÉN CONOCIDO COMO: Adventure 1-2-3, Aventura, Atari Adventure
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coc4k2.jpg
+URL: https://www.igdb.com/games/adventure
+
+RESUMEN:
+Adventure is a video game for the Atari 2600 video game console, released in 1980. In the game, the player controls a square avatar whose quest is to hunt an open world environment for a magical chalice, returning it to the golden castle. The game world is populated by roaming enemies: dragons, which can eat the avatar; and a bat, which randomly steals and hides items around the game world.
+
+Adventure was designed and programmed by Atari employee Warren Robinett, and published by Atari, Inc. At the time, Atari programmers were generally given full control on the creative direction and development cycle for their games, and this required them to plan for their next game as they neared completion of their current one to stay productive.
+
+Robinett submitted the source code for Adventure to Atari management in June 1979 and soon left Atari. Atari released the game in early 1980.
+
+HISTORIA:
+According to the game's instructions, an evil magician has stolen the Enchanted Chalice and hidden it somewhere in the kingdom. The player's goal is to find the Chalice and return it to the Golden Castle. The player character, represented by a square avatar, explores a multi-screen landscape containing castles, mazes, and various rooms, with thirty rooms in all. Hidden throughout the world are a sword, keys that unlock each of the three castles (golden, black, and white), a magic bridge that allows the avatar to travel through barriers, and a magnet that attracts the other items toward it.
+
+Roaming the world are three dragons. Yorgle, the yellow dragon, is afraid of the gold key and will run from it. He roams the game freely, but can guard the Chalice or help the other dragons guard items. Grundle, the green dragon, guards the magnet, the bridge, the black key, and the chalice. Rhindle, the red dragon, is the fastest and most aggressive. He guards the white key and chalice.
+
+The dragons have four possible states, all indicated with different sprites: chasing the player, biting, having swallowed the player's avatar, and death. When initially encountered, a dragon is in the chase state. When a dragon collides with the avatar, it will enter the bite state, freezing in place. After a fraction of the second, the dragon completes the bite. If the dragon has a second collision with the avatar at that moment, it swallows the avatar, who becomes trapped in the dragon's belly.
+
+JUEGOS PARECIDOS:
+Si te gusta Adventure, también podrían gustarte: Silver, Hob, Brown Dust II, Fallen London, Ico, Drova: Forsaken Kin, Pyramida, Sands of Salzaar, Final Fantasy: Brave Exvius, Hero of the Kingdom.

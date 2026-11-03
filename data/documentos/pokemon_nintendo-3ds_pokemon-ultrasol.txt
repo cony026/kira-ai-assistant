@@ -1,0 +1,26 @@
+JUEGO: Pokémon Ultrasol
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Ultra Sun
+PLATAFORMA: Nintendo 3DS
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación VII
+REGIÓN PRINCIPAL: Alola
+LANZADO JUNTO A: Pokémon Ultraluna
+
+DESCRIPCIÓN:
+Pokémon Ultrasol es un juego de rol de la saga principal de Pokémon, de la Generación VII, para Nintendo 3DS. La aventura transcurre en la región de Alola. Se lanzó junto a Pokémon Ultraluna; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Rowlet, Litten y Popplio. Su Pokédex regional reúne 403 especies de Pokémon distintas. Incluye Pokémon legendarios como Código Cero, Silvally, Zygarde, Tapu Koko, Tapu Lele y Tapu Bulu.
+
+POKÉDEX:
+- Alola Actualizado: 403 Pokémon
+- Melemele Actualizado: 150 Pokémon
+- Akala Actualizado: 160 Pokémon
+- Ula-Ula Actualizado: 160 Pokémon
+- Poni Actualizado: 130 Pokémon
+
+POKÉMON INICIALES:
+Rowlet, Litten, Popplio
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Código Cero, Silvally, Zygarde, Tapu Koko, Tapu Lele, Tapu Bulu, Tapu Fini, Cosmog, Cosmoem, Solgaleo, Lunala, Necrozma
+Singulares (míticos): Magearna, Marshadow, Zeraora

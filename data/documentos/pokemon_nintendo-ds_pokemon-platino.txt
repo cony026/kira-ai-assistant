@@ -1,0 +1,21 @@
+JUEGO: Pokémon Platino
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Platinum
+PLATAFORMA: Nintendo DS
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación IV
+REGIÓN PRINCIPAL: Sinnoh
+
+DESCRIPCIÓN:
+Pokémon Platino es un juego de rol de la saga principal de Pokémon, de la Generación IV, para Nintendo DS. La aventura transcurre en la región de Sinnoh. Los Pokémon iniciales que se pueden elegir al comenzar son Turtwig, Chimchar y Piplup. Su Pokédex regional reúne 210 especies de Pokémon distintas. Incluye Pokémon legendarios como Uxie, Mesprit, Azelf, Dialga, Palkia y Giratina.
+
+POKÉDEX:
+- Sinnoh Extendido: 210 Pokémon
+
+POKÉMON INICIALES:
+Turtwig, Chimchar, Piplup
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Uxie, Mesprit, Azelf, Dialga, Palkia, Giratina
+Singulares (míticos): Manaphy

@@ -1,0 +1,39 @@
+JUEGO: Half-Life 2
+
+FUENTE: IGDB
+PLATAFORMA: Xbox, PlayStation 3, Linux, Android
+DISPONIBLE EN: Xbox, PlayStation 3, Linux, Android, PC (Microsoft Windows), Mac, Xbox 360
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Terror
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve
+PUBLISHER: Valve, NVIDIA Lightspeed Studios, Electronic Arts, Sierra Entertainment
+FECHA DE LANZAMIENTO: 2004-11-16
+NOTA DE LA CRÍTICA (IGDB): 79/100 (7 críticas)
+NOTA DE USUARIOS (IGDB): 90/100 (3471 votos)
+FRANQUICIA: Half-Life
+TAMBIÉN CONOCIDO COMO: HL2, Half Life 2, HL 2, HλLF-LIFE², hl2.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1nmw.jpg
+URL: https://www.igdb.com/games/half-life-2
+
+RESUMEN:
+1998. HALF-LIFE sends a shock through the game industry with its combination of pounding action and continuous, immersive storytelling.
+
+NOW. By taking the suspense, challenge and visceral charge of the original, and adding startling new realism and responsiveness, Half-Life 2 opens the door to a world where the player's presence affects everything around them, from the physical environment to the behaviors even the emotions of both friends and enemies.
+
+HISTORIA:
+Gordon Freeman is brought out of stasis by the G-Man, who inserts him into a train arriving at City 17. After arriving at the station and eluding Combine forces, Gordon joins Lambda resistance members including Barney Calhoun, a former Black Mesa security guard now working undercover as a Combine CP officer, and Alyx Vance, the daughter of one of Gordon's former colleagues, Dr. Eli Vance. After a failed attempt to teleport Gordon to Black Mesa East from Dr. Kleiner's makeshift laboratory, Gordon, re-equipped with the HEV suit and a crowbar, is forced to embark on foot through the city's old canal system. After obtaining an airboat, he battles his way to Black Mesa East, several miles from the city.
+
+Gordon is reintroduced to Eli and meets Dr. Judith Mossman. Alyx introduces Gordon to her large pet robot D0g and gives him a "Gravity Gun", a weapon which allows Gordon to pick up and move any large object with ease. Black Mesa East soon comes under Combine attack and Eli and Mossman are captured to be taken to a Combine prison, Nova Prospekt. Gordon and Alyx are forced to take separate paths to Nova Prospekt; Gordon takes a detour through the town of Ravenholm, receiving help from its last survivor, Father Grigori. After making his way through the town and a mine, Gordon makes his way to a Resistance outpost. Gordon is provided with a Dune Buggy, which he uses to travel along a crumbling coastal road to Nova Prospekt. Along the way, Gordon encounters frequent Combine patrols, and helps one of the resistance leaders, Colonel Odessa Cubbage, to defend a Resistance base from a Combine gunship.
+
+After crossing an antlion-infested beach, Gordon enters Nova Prospekt, where he is reunited with Alyx. They manage to locate Eli, but also discover that Mossman is a Combine informant. Before they can stop her, she teleports herself and Eli back to City 17's Citadel. The Combine teleporter explodes as Gordon and Alyx use it to escape Nova Prospekt.
+
+Upon reaching Kleiner's lab, a shaken Dr. Kleiner reveals to Gordon and Alyx that they were caught in a "slow teleport", during which a week had passed. In their absence, the Resistance, who heard about what had happened at Nova Prospekt, has mobilized against the Combine, turning City 17 into a battleground. During the fighting, Alyx is captured by the Combine and taken to the Citadel, and Gordon fights through the city with the aid of D0g and Barney to reach it. Inside the Citadel, he is caught in a Combine confiscation chamber that destroys all of his weapons except for the Gravity Gun, the energy enhancing its capabilities and allowing Gordon to escape and dispatch platoons of Combine soldiers.
+
+Eventually, Gordon is captured riding in a Combine transport pod and is taken to Dr. Breen's office, where he and Dr. Mossman are waiting with Eli and Alyx in captivity. Dr. Breen begins to explain his plans for further conquest of the humans by the Combine, contrary to what he had told Dr. Mossman. Angered, Mossman frees Gordon, Alyx, and Eli before Breen teleports them off-world. Dr. Breen tries to escape through a portal, but Gordon pursues him and destroys the portal reactor with the super-charged Gravity Gun. Breen appears to be annihilated in the resulting explosion.
+
+Just before Gordon and Alyx are presumably met with a similar fate, time is frozen. The G-Man reappears, praising Gordon for his actions in City 17 and the Citadel. Making vague mention of "offers for [Gordon's] services", the G-Man places him back into stasis.
+
+JUEGOS PARECIDOS:
+Si te gusta Half-Life 2, también podrían gustarte: Splitgate, Wolfenstein: Youngblood, Metro Exodus, Helldivers 2, Left 4 Dead 2, Trepang2, Half-Life, Rage 2, Crysis 2, Serious Sam 4.

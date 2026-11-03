@@ -1,0 +1,27 @@
+JUEGO: XCOM: Enemy Unknown
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: PlayStation 3, Linux, Android, PC (Microsoft Windows), iOS, Mac, Xbox 360
+GÉNEROS: RPG, Simulación, Estrategia, Estrategia por turnos, Táctico
+TEMAS: Acción, Ciencia ficción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Firaxis Games
+PUBLISHER: 2K Games, Feral Interactive
+FECHA DE LANZAMIENTO: 2012-10-09
+NOTA DE LA CRÍTICA (IGDB): 88/100 (12 críticas)
+NOTA DE USUARIOS (IGDB): 83/100 (560 votos)
+FRANQUICIA: X-COM
+TAMBIÉN CONOCIDO COMO: X-COM: Enemy Unknown, XComGame.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co29i2.jpg
+URL: https://www.igdb.com/games/xcom-enemy-unknown
+
+RESUMEN:
+XCOM: Enemy Unknown is a turn-based tactics game with a strategic management layer, and a reimagining of the 1994 strategy title UFO: Enemy Unknown. Players lead a squad of soldiers through turn-based combat missions against alien forces, using cover, positioning, and class-based abilities, where fallen soldiers can be lost permanently. Between missions, players oversee a central base: researching recovered alien technology, building facilities, managing funds, and deciding which global threats to respond to as they try to keep member nations from abandoning the project.
+
+HISTORIA:
+Set in an alternate version of 2015, the game begins as an alien force launches a coordinated invasion of Earth. In response, a coalition of nations forms XCOM, an elite multinational military and scientific organization tasked with defending the planet. The player takes the role of XCOM's commander, directing soldiers against an enemy with far more advanced technology while studying the aliens to understand their purpose and turn their own discoveries against them.
+
+JUEGOS PARECIDOS:
+Si te gusta XCOM: Enemy Unknown, también podrían gustarte: XCOM 2, X-COM: UFO Defense, Dead Space, Spec Ops: The Line, The Bureau: XCOM Declassified, Tomb Raider, Gears of War, Deus Ex: Human Revolution, Call of Duty 4: Modern Warfare, X-COM: Terror From the Deep.

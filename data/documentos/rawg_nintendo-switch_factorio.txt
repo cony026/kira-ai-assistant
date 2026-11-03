@@ -1,0 +1,26 @@
+JUEGO: Factorio
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Nintendo Switch
+DISPONIBLE EN: Linux, macOS, PC, Nintendo Switch
+FECHA DE LANZAMIENTO: 2020-08-14
+DESARROLLADOR: Wube Software
+PUBLISHER: Wube Software
+GÉNEROS: Strategy, Simulation, Casual, Indie
+NOTA METACRITIC: 83
+RATING USUARIOS: 4.35/5 (814 votos)
+TIEMPO DE JUEGO MEDIO: 20 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Steam Cloud, Co-op, Open World, cooperative, Sci-fi, Sandbox, Survival, Online multiplayer, Local Multiplayer, Early Access, Cross-Platform Multiplayer, Includes level editor
+
+DESCRIPCIÓN:
+Factorio is an isometric space real-time strategy developed by Wube Software. 
+
+###Story
+An astronaut is stranded on the surface of a distant unknown planet, that is full with low life forms and fossil fuels. His main objective now is to survive and build a rocket to leave the planet. Luckily, the main character has a scientific background, hence why he can build any machinery from steam engines to exoskeletons, power grids, and oil plants. The planet's inhabitants start to think that they got infected by the astronaut and try to eliminate the threat as soon as possible.
+
+###Gameplay
+The player controls only one character that can move around the map freely by walking at first and using vehicles later into the game. The unknown planet that the players explore is rich with oil, minerals, water, and other fauna.
+
+The player controlled character can mine the resources by himself and the tools that can be crafted or by building specific mining equipment. The latter will be much more effective. The same thing goes for resource processing and other stages of item development as from the game's beginning, the players can't keep up with all the things they have to do simultaneously.
+
+The game features a Tower Defence aspect, as the planet's inhabitants set out to kill the player and eliminate the cause of damage to their planet. The players have to build a sophisticated defense network of turrets and mines to protect themselves.

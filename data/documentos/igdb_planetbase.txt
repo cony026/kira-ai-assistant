@@ -1,0 +1,23 @@
+JUEGO: Planetbase
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Mac, Xbox One
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Mac, Xbox One
+GÉNEROS: Simulación, Estrategia, Indie
+TEMAS: Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Madruga Works
+PUBLISHER: Madruga Works
+FECHA DE LANZAMIENTO: 2015-10-16
+NOTA DE LA CRÍTICA (IGDB): 75/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 77/100 (35 votos)
+TAMBIÉN CONOCIDO COMO: Planetbase.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1mn1.jpg
+URL: https://www.igdb.com/games/planetbase
+
+RESUMEN:
+Guide a group of space settlers trying to establish an outpost on a remote planet. Grow food, collect energy, mine resources, manufacture bots, and build a fully self-sufficient colony.
+
+JUEGOS PARECIDOS:
+Si te gusta Planetbase, también podrían gustarte: Jurassic World Evolution 2, Hardspace: Shipbreaker, Dawn of Man, Surviving Mars, Terraformers, The Last Starship, Supermarket Simulator, Infraspace, Against the Storm, Disco Simulator.

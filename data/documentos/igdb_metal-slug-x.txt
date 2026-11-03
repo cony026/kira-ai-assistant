@@ -1,0 +1,24 @@
+JUEGO: Metal Slug X
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Neo Geo AES, Web browser, Neo Geo MVS
+DISPONIBLE EN: Arcade, Neo Geo AES, Web browser, Neo Geo MVS, Linux, Wii, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: Shooter, Plataformas, Aventura, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: SNK
+PUBLISHER: SNK, SNK Playmore, D4 Enterprise
+FECHA DE LANZAMIENTO: 1999-03-10
+NOTA DE LA CRÍTICA (IGDB): 80/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 78/100 (141 votos)
+FRANQUICIA: Metal Slug
+TAMBIÉN CONOCIDO COMO: Metal Slug X: Super Vehicle-001, Metal Slug X - Super Vehicle-001, mslugx.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co8ish.jpg
+URL: https://www.igdb.com/games/metal-slug-x
+
+RESUMEN:
+Metal Slug X is upgraded version of Metal Slug 2 (Metal Slug 2: Super Vehicle-001/I), which was released in March 1999 for the Neo Geo MVS. It fixed slowdown problems from the original game, and increased the difficulty. Metal Slug X also introduced some new elements to the game system.
+
+JUEGOS PARECIDOS:
+Si te gusta Metal Slug X, también podrían gustarte: River City Girls, Metal Slug, Gunslugs 2, Super Bear Adventure, Soul Knight, Sky Racket, Mecho Tales, Degrees of Separation, Super Chicken Jumper, Gonner2.

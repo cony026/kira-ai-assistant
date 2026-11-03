@@ -1,0 +1,22 @@
+JUEGO: Forza Motorsport
+
+FUENTE: IGDB
+PLATAFORMA: Xbox
+DISPONIBLE EN: Xbox
+GÉNEROS: Carreras, Simulación, Deportes
+MODOS DE JUEGO: Un jugador, Multijugador, Pantalla dividida
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Turn 10 Studios
+PUBLISHER: Microsoft Game Studios
+FECHA DE LANZAMIENTO: 2005-05-03
+NOTA DE LA CRÍTICA (IGDB): 88/100 (4 críticas)
+NOTA DE USUARIOS (IGDB): 84/100 (36 votos)
+FRANQUICIA: Forza
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co91qc.jpg
+URL: https://www.igdb.com/games/forza-motorsport
+
+RESUMEN:
+Racing sim from Microsoft, targeted at gamers who are passionate about cars and racing. Own, customize, and race your favorite cars in the most technologically advanced and realistic driving sim yet. Use race earnings to buy upgrades and aftermarket parts, so you can transform real production cars into high-performance racers. On the track, experience an impressively accurate simulation, while putting your performance-tuned creations to the test against the online gaming world on Xbox Live. Features car models from more than 60 top car manufacturers, customization via decals and team paint-schemes, and vehicle tuning that really affects performance.
+
+JUEGOS PARECIDOS:
+Si te gusta Forza Motorsport, también podrían gustarte: Forza Motorsport 2, Gran Turismo 2, Forza Motorsport 4, Project Gotham Racing 2, Gran Turismo 3: A-Spec, Need for Speed: ProStreet, Project Gotham Racing 3, Gran Turismo, Project Gotham Racing, F1 Career Challenge.

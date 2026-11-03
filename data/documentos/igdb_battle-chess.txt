@@ -1,0 +1,25 @@
+JUEGO: Battle Chess
+
+FUENTE: IGDB
+PLATAFORMA: Acorn Archimedes, Amiga CD32, Apple IIGS, PC-9800 Series
+DISPONIBLE EN: Acorn Archimedes, Amiga CD32, Apple IIGS, PC-9800 Series, Sharp X68000, Commodore C64/128/MAX, Atari ST/STE, PC (Microsoft Windows), 3DO Interactive Multiplayer, Commodore CDTV, DOS, FM Towns, Amiga, Apple II
+GÉNEROS: Estrategia, Estrategia por turnos, Cartas y tablero
+TEMAS: Fantasía, Histórico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Tercera persona, Isométrica
+DESARROLLADOR: Interplay
+PUBLISHER: Fujitsu Interactive, Pack-In-Video, Electronic Arts, Dice Multi Media Europe, GameTap Entertainment, Krisalis Software
+FECHA DE LANZAMIENTO: 1988-10-01
+NOTA DE USUARIOS (IGDB): 71/100 (61 votos)
+TAMBIÉN CONOCIDO COMO: dosbox.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co26el.jpg
+URL: https://www.igdb.com/games/battle-chess
+
+RESUMEN:
+Battle Chess was developed by Interplay as their first project after severing ties with Electronic Arts. They designed it for the Amiga in 1988, and it was released on the majority of the other systems in the late 1980s and early 1990s as well. It was widely successful, and resulted in two follow-ups, many copy-cat games, and a remake for Steam on PC. The only significant criticism the game received was the weak chess AI, as it was not until the mid 1990s that chess ai began to consistently win against strong opponents.
+
+HISTORIA:
+The basic gameplay of Battle Chess remains true to the board game, with the added feature of unique battle animations for each capture. These animations varied for every combination of attack vs defender, making part of the enjoyment of Battle Chess in simply discovering the various animations.
+
+JUEGOS PARECIDOS:
+Si te gusta Battle Chess, también podrían gustarte: Battle Chess 4000, Battle Chess II: Chinese Chess, Gloomhaven, Archon, Card Hunter, Check vs. Mate, Disciples: Sacred Lands, Fire Emblem: Three Houses, Arcadian Atlas, King's Bounty: Armored Princess.

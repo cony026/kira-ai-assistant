@@ -1,0 +1,22 @@
+JUEGO: Gartic Phone
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Android, iOS
+DISPONIBLE EN: Web browser, Android, iOS
+GÉNEROS: Trivia
+TEMAS: Party
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Texto
+DESARROLLADOR: Onrizon
+PUBLISHER: Onrizon
+FECHA DE LANZAMIENTO: 2020-10-02
+NOTA DE USUARIOS (IGDB): 80/100 (44 votos)
+TAMBIÉN CONOCIDO COMO: Gartic
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cobw2s.jpg
+URL: https://www.igdb.com/games/gartic-phone
+
+RESUMEN:
+Gartic Phone is a free online multiplayer party game based on the pen-and-paper game Telephone Pictionary. Players take turns writing prompts and drawing pictures in alternating rounds, with each participant only able to see the previous player's contribution. The humor comes from how messages become distorted as they pass through the chain of drawings and descriptions. The game offers various modes including Normal, Animation, and Crowd, and supports play through web browsers on PCs, tablets, and smartphones.
+
+JUEGOS PARECIDOS:
+Si te gusta Gartic Phone, también podrían gustarte: Scribble It!, You Don't Know Jack Vol. 6: The Lost Gold, Monopoly Go!, Quiplash, Draw & Guess, Splendor, The Jackbox Party Pack 8, Make it Meme, The Jackbox Party Pack 7, Drawful 2.

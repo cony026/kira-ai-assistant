@@ -1,0 +1,20 @@
+JUEGO: Pokémon Community Game
+
+FUENTE: IGDB
+PLATAFORMA: Web browser
+DISPONIBLE EN: Web browser
+GÉNEROS: RPG, Estrategia por turnos
+TEMAS: Fantasía, Infantil
+MODOS DE JUEGO: Multijugador
+PERSPECTIVA: Vista lateral, Texto
+FECHA DE LANZAMIENTO: 2020-05-24
+NOTA DE USUARIOS (IGDB): 85/100 (39 votos)
+TAMBIÉN CONOCIDO COMO: PCG
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4hej.jpg
+URL: https://www.igdb.com/games/pokemon-community-game
+
+RESUMEN:
+The Pokémon Community Game is a free to play extension for Twitch. Streamers who add this extension to their stream can have their chat catch, trade, and battle their favorite Pokémon.
+
+JUEGOS PARECIDOS:
+Si te gusta Pokémon Community Game, también podrían gustarte: Pokémon This Gym of Mine, Pokémon Crater, Pokémon Realidea System, Pokémon Insurgence, Pokémon Añil, Pokémon Revolution Online, Last Origin, Epic Seven, Pokémon Mystery Dungeon: Explorers of Time, Pokemon Daycare.

@@ -1,0 +1,13 @@
+JUEGO: Clash Royale
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, iOS, PC
+FECHA DE LANZAMIENTO: 2016-03-02
+DESARROLLADOR: Supercell
+PUBLISHER: Supercell
+GÉNEROS: Strategy, Action, Massively Multiplayer
+TAGS: Free to Play, Multiplayer, PvP, Card Game, Tower Defense, Real-Time Strategy
+
+DESCRIPCIÓN:
+Clash Royale is a real-time strategy game that blends tower defense, collectible card mechanics and light MOBA elements. Players build a deck of cards representing troops, spells and buildings from the Clash universe, then deploy them in short head-to-head matches to destroy the opponent's towers while defending their own.

@@ -1,0 +1,26 @@
+JUEGO: Helldivers 2
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+DISPONIBLE EN: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+GÉNEROS: Shooter, Táctico
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Arrowhead Game Studios
+PUBLISHER: Sony Interactive Entertainment
+FECHA DE LANZAMIENTO: 2024-02-08
+NOTA DE LA CRÍTICA (IGDB): 88/100 (7 críticas)
+NOTA DE USUARIOS (IGDB): 81/100 (314 votos)
+TAMBIÉN CONOCIDO COMO: HELLDIVERS 2, Helldivers™ 2, Helldivers II, bin\helldivers2.exe, 絕地戰兵2
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coabbf.jpg
+URL: https://www.igdb.com/games/helldivers-2
+
+RESUMEN:
+Helldivers 2 is a cooperative third-person shooter in which squads of up to four players are deployed from orbit onto hostile planets to complete strategic missions. Players select loadouts of weapons, armor, and stratagems that allow them to call in orbital strikes, supply drops, vehicles, and turrets during combat. Friendly fire is always active, requiring coordination between teammates. The game features a persistent galactic war where community-wide performance determines which planets are liberated or lost.
+
+HISTORIA:
+Set a century after humanity's victory in the First Galactic War, the Federation of Super Earth harvests a valuable resource called E-710 from insectoid creatures known as Terminids across colonized worlds. When containment of the Terminids is breached, they overrun multiple planets. Simultaneously, a mechanical army called the Automatons emerges with the goal of destroying humanity. Players serve as Helldivers, elite shock troops deployed from orbit to reclaim lost territory and repel both threats in an ongoing galactic conflict shaped by the collective actions of all players.
+
+JUEGOS PARECIDOS:
+Si te gusta Helldivers 2, también podrían gustarte: MechWarrior 5: Mercenaries, Star Wars: Battlefront II, Call of Duty: Modern Warfare II, Overwatch, Directive 8020, The First Descendant, Serious Sam 4, Alien Rage: Unlimited, Serious Sam: The First Encounter, Gears 5.

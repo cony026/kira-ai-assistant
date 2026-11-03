@@ -1,0 +1,23 @@
+JUEGO: Antichamber
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Plataformas, Puzle, Aventura, Indie
+TEMAS: Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Alexander Bruce
+PUBLISHER: Demruth
+FECHA DE LANZAMIENTO: 2013-01-31
+NOTA DE LA CRÍTICA (IGDB): 83/100 (6 críticas)
+NOTA DE USUARIOS (IGDB): 81/100 (208 votos)
+TAMBIÉN CONOCIDO COMO: Hazard: The Journey of Life, UDK.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coado3.jpg
+URL: https://www.igdb.com/games/antichamber
+
+RESUMEN:
+Antichamber is a single-player first-person puzzle-platform video game. Many of the puzzles are based on phenomena that occur within the Impossible Objects created by the game engine, such as passages that lead the player to different locations depending on which way they face, and structures that seem otherwise impossible within normal three-dimensional space. The game includes elements of psychological exploration through brief messages of advice to help the player figure out solutions to the puzzles as well as adages for real life.
+
+JUEGOS PARECIDOS:
+Si te gusta Antichamber, también podrían gustarte: MirrorMoon EP, Pony Island, A Story About My Uncle, Gone Home, The Swapper, The Talos Principle, The Witness, Magnetic: Cage Closed, The Room, Closure.

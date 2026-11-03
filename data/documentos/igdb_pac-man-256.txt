@@ -1,0 +1,27 @@
+JUEGO: Pac-Man 256
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: PlayStation 4, Linux, Android, PC (Microsoft Windows), iOS, Mac, Xbox One
+GÉNEROS: Puzle, Estrategia, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Hipster Whale
+PUBLISHER: Bandai Namco Entertainment
+FECHA DE LANZAMIENTO: 2015-08-19
+NOTA DE LA CRÍTICA (IGDB): 75/100 (10 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (36 votos)
+FRANQUICIA: Pac-Man
+TAMBIÉN CONOCIDO COMO: PAC-MAN 256, PAC-MAN 256: бесконечный аркадный лабиринт, PAC-MAN 256: Labyrinthe infini style arcade, PAC-MAN 256: Laberinto sin fin, PAC-MAN 256: 无尽的迷宫
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1mw3.jpg
+URL: https://www.igdb.com/games/pac-man-256
+
+RESUMEN:
+Pac-Man 256 is inspired by the glitched 256th level of Pac-Man. In the game, the player must continuously navigate an endless maze while avoiding ghosts and using power-ups and power pellets to combat them. Fruits grant a temporary multiplier, and as Pac-Man eats dots, it is up to the player to try to top their high score.
+
+HISTORIA:
+"On PAC-MAN's 35th anniversary, we are collaborating with Hipster Whale (the makers of Crossy Road) to bring you a hilariously addictive endless maze chase inspired by the infamous level 256 glitch from the original PAC-MAN! The free-to-play game will be available for smartphones and tablets in summer 2015."
+
+JUEGOS PARECIDOS:
+Si te gusta Pac-Man 256, también podrían gustarte: Super Blood Hockey, Clash of Clans, Besiege, Sky Force Reloaded, Transformers: Battlegrounds, Puyo Puyo Tetris 2, Xeno Crisis, Arcade Paradise, Warhammer 40,000: Battlesector, Songs of Conquest.

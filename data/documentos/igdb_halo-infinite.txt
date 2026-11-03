@@ -1,0 +1,27 @@
+JUEGO: Halo Infinite
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PC (Microsoft Windows), Xbox One
+DISPONIBLE EN: Xbox Series X|S, PC (Microsoft Windows), Xbox One
+GÉNEROS: Shooter, Aventura
+TEMAS: Acción, Ciencia ficción, Mundo abierto, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: 343 Industries
+PUBLISHER: Xbox Game Studios
+FECHA DE LANZAMIENTO: 2021-12-08
+NOTA DE LA CRÍTICA (IGDB): 88/100 (9 críticas)
+NOTA DE USUARIOS (IGDB): 80/100 (306 votos)
+FRANQUICIA: Halo
+TAMBIÉN CONOCIDO COMO: Halo 6, Halo: Infinite, HaloInfinite.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2dto.jpg
+URL: https://www.igdb.com/games/halo-infinite
+
+RESUMEN:
+Halo Infinite is a first-person shooter and the sixth mainline entry in the Halo series. The game features a semi-open world campaign set on the Forerunner ringworld Zeta Halo, where players control the supersoldier Master Chief in combat against the Banished, a mercenary faction of aliens and humans. Players traverse the environment on foot and in vehicles, capturing forward operating bases, rescuing Marines, and completing story missions that advance the narrative. Equipment such as the Grappleshot adds traversal and combat options. The multiplayer component is free-to-play and includes various competitive modes in 4v4 and 12v12 formats.
+
+HISTORIA:
+Six months after being defeated in battle by Atriox, the leader of the Banished mercenary organization, the Master Chief is recovered from space by a stranded UNSC pilot. Together they travel to Zeta Halo, a damaged Forerunner ringworld now under Banished control. On the ring, Chief discovers the Weapon, an AI created to capture and delete his former partner Cortana. Though the Weapon reports success in her mission, she has inexplicably failed to self-delete as programmed. As Master Chief rallies scattered human forces and contends with Escharum, the Banished war chief leading operations on the ring, a new threat emerges: the Harbinger, an alien who claims her imprisoned people were unjustly sealed away by the ancient Forerunners. She seeks to rebuild a facility that will free them, and the Banished intend to weaponize the Halo ring itself against humanity.
+
+JUEGOS PARECIDOS:
+Si te gusta Halo Infinite, también podrían gustarte: Halo 3, Halo 4, Halo: Reach, Halo 2, Destiny 2, Halo 5: Guardians, Call of Duty: Infinite Warfare, Call of Duty: Black Ops III, No Man's Sky, Halo 3: ODST.

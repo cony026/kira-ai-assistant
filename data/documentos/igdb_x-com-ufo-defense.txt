@@ -1,0 +1,24 @@
+JUEGO: X-COM: UFO Defense
+
+FUENTE: IGDB
+PLATAFORMA: Amiga CD32, PC (Microsoft Windows), DOS, Amiga
+DISPONIBLE EN: Amiga CD32, PC (Microsoft Windows), DOS, Amiga, PlayStation
+GÉNEROS: Estrategia, Estrategia por turnos, Táctico
+TEMAS: Ciencia ficción, Terror, Bélico
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Mythos Games
+PUBLISHER: 2K Games, Mediaquest, MicroProse Software, Inc.
+FECHA DE LANZAMIENTO: 1994-03-01
+NOTA DE LA CRÍTICA (IGDB): 85/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (135 votos)
+FRANQUICIA: X-COM
+TAMBIÉN CONOCIDO COMO: X-COM - Enemy Unknown, Laser Squad 2, UFO: Der unbekannte Gegner, X-COM: Michi Naru Shinryakusha, X-COM: Terran Defense Force
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cobqqd.jpg
+URL: https://www.igdb.com/games/x-com-ufo-defense
+
+RESUMEN:
+X-COM: UFO Defense is a strategy game that combines tactical combat with base management and global defense. Players lead an international organization tasked with defending Earth from an alien invasion. The game unfolds on two levels: a global view where players manage resources, research alien technology, and intercept UFOs, and a tactical combat mode where squad-based battles occur. Players recruit and train soldiers, build bases, and develop new weapons and equipment based on recovered alien technology. Missions involve turn-based combat against aliens in various environments, with permadeath adding tension to each engagement. As the alien threat escalates, players must balance research, defense, and offensive operations to protect Earth's nations from panic and alien infiltration. X-COM: UFO Defense's blend of strategic depth, tactical combat, and atmospheric tension creates a compelling gameplay experience in the face of a global alien threat.
+
+JUEGOS PARECIDOS:
+Si te gusta X-COM: UFO Defense, también podrían gustarte: X-COM: Terror From the Deep, X-COM: Apocalypse, X-COM: Interceptor, Xenonauts, XCOM 2, Advance Wars, Invisible, Inc., Destroy All Humans! 2, UFO: Aftermath, The Bureau: XCOM Declassified.

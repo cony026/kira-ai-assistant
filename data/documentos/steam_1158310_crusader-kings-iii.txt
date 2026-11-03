@@ -1,0 +1,109 @@
+JUEGO: Crusader Kings III
+PLATAFORMA: PC (Steam)
+GÉNEROS: Rol, Simuladores, Estrategia
+DESARROLLADOR: Paradox Development Studio
+PUBLISHER: Paradox Interactive
+FECHA DE LANZAMIENTO: 1 SEP 2020
+PRECIO: $49.99
+NOTA METACRITIC: 91/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (143074 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Ama, lucha, planea y reclama la grandeza. Determina el legado de tu casa nobiliaria en la gran estrategia en expansión de Crusader Kings III. La muerte solo es el comienzo mientras lideras el linaje de tu dinastía en esta completa simulación realista de la Edad Media.
+
+DESCRIPCIÓN DETALLADA:
+Tu legado aguarda. Elige una casa nobiliaria y lidera a tu dinastía a la grandeza en una epopeya de la Edad Media de varias generaciones. La guerra es una de las muchas herramientas que tienes para establecer tu reinado, ya que la estrategia real requiere diplomacia experta, conocimiento del reino y verdadera astucia. Crusader Kings III continúa la famosa saga creada por Paradox Development Studio, que combina la aclamada gran estrategia con un juego de rol medieval dramático y profundo.  
+-  Toma el control de tu casa y amplía tu dinastía durante una Edad Media documentada al detalle. Empieza en 867, 1066 o 1178, y reclama territorios, títulos y vasallos para conseguir un reino digno de tu sangre real. Tu muerte solo es un detalle, pues tu linaje continúa con nuevos herederos jugables, dispuestos o no por ti.  
+-  Descubre un mundo simulado en expansión lleno de plebeyos y caballeros, cortesanos, espías, truhanes y bufones, y romances secretos. Un reparto bien nutrido de personajes históricos que puedes enamorar, traicionar, ejecutar o influir sutilmente.   
+-  Explora un gran mapa medieval que va desde los territorios nevados del norte hasta el Cuerno de África, y desde las islas británicas al oeste hasta las riquezas exóticas de Birmania al este. Reclama, conquista y gobierna a miles de países, ducados, reinos e imperios únicos.  
+-  Cada personaje es más profundo de lo que imaginas, ya que sus rasgos y elecciones vitales determinarán sus acciones y planificaciones. Gobierna con el miedo con tu puño de hierro o inspira a tus súbditos con tus hazañas magnánimas. La genética es innegable y tus hijos heredaran una inteligencia desbordante o una estupidez incapacitante.  
+-  Consigue los tutores adecuados para tu heredero o edúcalo tú mismo. Si tienen aspiraciones, cásalos o líbrate de ellos por otros medios.  
+-  Personaliza a tu gobernante y su casa nobiliaria, tanto su apariencia como sus atributos, y crea a un monarca digno de todas sus virtudes y vicios heredados. 
+-  Gobierna un reino que evoluciona constantemente y concede títulos a quien tú prefieras; o vence al señor feudal y reclama la corona para ti. Ten cuidado con las amenazas, que pueden ser desde sirvientes descontentos hasta concubinas vengativas.  
+-  Las sombras se agitan con frecuencia y el peligro acecha en cada esquina oscura. Recluta a agentes y a otros personajes indeseables para debilitar, chantajear o asesinar a quienes se interponen en tu camino. O déjate inspirar por las canciones de los bardos y consigue poder e influencia mediante la seducción. 
+-  Correrá la sangre. Reúne a unidades de soldados y caballeros poderosos. Gestiona a tus ejércitos y tus tácticas en la batalla. Asalta y saquea territorios cercanos o contrata a mercenarios y a órdenes sagradas para las guerras importantes.  
+-  Encarna a un rey piadoso para atraer a los poderes religiosos o diseña tu propia religión mientras te debates entre la fama o la condenación eternas.
+-  Introduce innovaciones en la cultura y levanta poderosos castillos y bastiones para aumentar la riqueza, el prestigio y la seguridad de tu reino. 
+-  Puedes seguir una cantidad ilimitada de caminos: disfruta de miles de eventos dinámicos y toma decisiones fundamentales adaptadas a todas las situaciones y personajes concebibles. Hay incontables formas de garantizar tu paso a la posteridad.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows® 10 Home 64 bit
+
+- Procesador: Intel Core i5-750 | AMD FX 4300
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 660 | AMD Radeon HD 7870 | Intel Arc A310 | Intel Iris Plus G7 | AMD Radeon Vega 11
+
+- Almacenamiento: 20 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows® 10 Home 64 bit or Windows® 11
+
+- Procesador: Intel Core i5-8400 | AMD Ryzen 5 1600X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 970 | AMD Radeon RX 480 | Intel Arc A580
+
+- Almacenamiento: 20 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: macOS Sequoia v15 or newer
+
+- Procesador: Intel Core i5-6500 or newer | Apple M1 or newer
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: AMD Radeon R9 M380 2GB or better (for Intel systems) | Intel Iris Plus G7 | AMD Radeon Vega 11 | Apple M1 integrated GPU
+
+- Almacenamiento: 20 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: macOS Sequoia v15 or newer
+
+- Procesador: Intel® Core™ i5-7600K
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: AMD® Radeon™ PRO 580 (8GB)
+
+- Almacenamiento: 8 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- SO: Ubuntu 24.04 LTS
+
+- Procesador: Intel Core i5-750 | AMD FX 4300
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 660 | AMD Radeon HD 7870 | Intel Arc A310 | Intel Iris Plus G7 | AMD Radeon Vega 11
+
+- Almacenamiento: 20 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:
+
+- SO: Ubuntu 24.04 LTS
+
+- Procesador: Intel Core i5-8400 | AMD Ryzen 5 1600X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 970 | AMD Radeon RX 480 | Intel Arc A580
+
+- Almacenamiento: 20 GB de espacio disponible

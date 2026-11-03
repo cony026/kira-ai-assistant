@@ -1,0 +1,29 @@
+JUEGO: Unreal Tournament
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac, Dreamcast
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac, Dreamcast, PlayStation 2
+GÉNEROS: Shooter
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Epic Games
+PUBLISHER: GT Interactive Software, Infogrames, MacSoft Games
+FECHA DE LANZAMIENTO: 1999-11-22
+NOTA DE LA CRÍTICA (IGDB): 100/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 84/100 (287 votos)
+FRANQUICIA: Unreal
+TAMBIÉN CONOCIDO COMO: UT , UT Classic, UT99, Unreal Tournament 99, Нереален Турнир
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2k3b.jpg
+URL: https://www.igdb.com/games/unreal-tournament
+
+RESUMEN:
+Unreal Tournament is a first-person arena shooter video game developed by Epic Games and Digital Extremes. It was the second installment in the Unreal series.
+
+It is an arena first-person shooter, with head-to-head multiplayer deathmatches being the primary focus of the game. Other game modes include TDM. CTF, Assault, Domination, Last man Standing etc.
+
+HISTORIA:
+During the Human/Skaarj war, the New Earth Government was formed. Mining was the primary method of financing the war, though was unpopular with the working class, who grew weary of the working conditions and the war. The humans were losing the war, and riots broke out. The Terran system was surrounded by Skaarj forces, but a government team destroyed their mothership, and the Skaarj withdrew. Afterward, mining incidents were on the increase, and efforts to deal with them were unsuccessful. The government then came up with the idea of giving the violence an outlet instead. "Consensual murder" was legalized in the year 2291, enabling people to fight to the death under organized conditions. Mining conglomerates worked with the government and organized leagues, which proved successful. One such company, the Liandri Mining Corporation, capitalized on the fights by tri-casting them; this proved to be more popular than the combat itself, their popularity increasing with brutality. By 2341, what is now called the "Tournament" became a professional sport more profitable than mining. Liandri Mining Corporation annually hosts the "Grand Tournament", the most popular event in the sport.
+
+JUEGOS PARECIDOS:
+Si te gusta Unreal Tournament, también podrían gustarte: Call of Duty: Modern Warfare II, Call of Duty: Modern Warfare, Call of Duty: Black Ops 4, Serious Sam 4, Roboquest, Call of Duty: Black Ops Cold War, Splitgate, Generation Zero, Pavlov VR, Wolfenstein: Youngblood.

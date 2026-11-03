@@ -1,0 +1,87 @@
+JUEGO: FINAL FANTASY XIV Online
+PLATAFORMA: PC (Steam)
+GÉNEROS: Multijugador masivo, Rol
+DESARROLLADOR: Square Enix
+PUBLISHER: Square Enix
+FECHA DE LANZAMIENTO: 18 FEB 2014
+PRECIO: $19.99
+NOTA METACRITIC: 83/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (85529 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Únete a más de 30 millones de aventureros de todo el mundo y forma parte de un alucinante viaje en un increíble FINAL FANTASY en constante evolución. Disfruta de una historia inolvidable, emocionantes batallas y numerosos escenarios cautivadores que explorar.
+
+DESCRIPCIÓN DETALLADA:
+La prueba gratuita de FINAL FANTASY XIV Online incluye cuatro títulos premiados, FINAL FANTASY XIV: A Realm Reborn, el juego principal, y la primera, segunda y tercera expansión: FINAL FANTASY XIV: Heavensward, FINAL FANTASY XIV: Stormblood y FINAL FANTASY XIV: Shadowbringers. Esta edición también incluye un periodo de juego gratuito de 30 días.*Únete a más de 30 millones de aventureros de todo el mundo y forma parte de un alucinante viaje en un increíble FINAL FANTASY en constante evolución. Disfruta de todas las características distintivas de esta exitosa franquicia: una historia inolvidable, emocionantes batallas y numerosos escenarios cautivadores que explorar.¡Forma equipo con tus amigos o juega en solitario! Adéntrate en todas las mazmorras de la historia principal en solitario y busca la ayuda de los NPC aliados para que luchen a tu lado.Tu viaje te lleva todavía más lejos en FINAL FANTASY XIV: Heavensward:• Da tus primeros pasos en la solitaria nación de Ishgard, envuelta en una lucha eterna contra los dragones.• Tres oficios adicionales: canaliza la magia celestial para curar a tus aliados con el astrólogo místico. Ataca desde lejos utilizando armas de fuego y mecánicas del audaz maquinista. Blande una poderosa espada y el poder de la oscuridad con el valiente Caballero oscuro.Reaviva el fuego de la esperanza en FINAL FANTASY XIV: Stormblood: • Viaja a Oriente y álzate contra el poder del imperio Garleano.• Dos oficios adicionales: domina el equilibrio entre las artes marciales y arcanas con el Mago rojo. Desenfunda tu katana y deja que suene el acero con el noble samurái.Conviértete en la oscuridad en FINAL FANTASY XIV: Shadowbringers:• Viaja a un mundo en el que la luz lo arrastra todo al olvido. Pero no todo está perdido, porque donde hay luz hay sombra.• Dos oficios adicionales: empuña el sable pistola cargado de éter que domina el Gunbreaker. Da pasos letales y deja al enemigo boquiabierto al ritmo del Dancer.IMPORTANTE:• *El periodo de 30 días gratuito incluido en la compra solo se puede activar una vez en cada plataforma y con una sola cuenta de servicio.• Las cuentas de Square Enix registradas en la FINAL FANTASY XIV Online - Starter Edition no podrán realizar la prueba gratis de FINAL FANTASY XIV Online. Ciertas funciones incluidas actualmente en la FINAL FANTASY XIV Online - Starter Edition, así como contenido adicional, podrán estar disponibles en la prueba gratuita de FINAL FANTASY XIV Online en un futuro. • Todas las ediciones del juego requieren que el usuario se registre. Todas las ediciones del juego, a excepción de la prueba gratuita, requieren una suscripción de pago activa para poder jugar.Los paquetes del juego FINAL FANTASY XIV Online disponibles en Steam solo se pueden registrar y añadir a una cuenta de Square Enix que tenga el juego principal FINAL FANTASY XIV Online - Starter Edition (antes FINAL FANTASY XIV: A Realm Reborn) comprado en Steam. • Para ver tu código de registro de 20 dígitos después de la compra, haz clic derecho en &quot;Ver código CD&quot; en el cliente de Steam. Los códigos siempre serán accesibles desde esa ubicación si alguna vez necesitas esa referencia.• Los códigos de registro se pueden canjear de inmediato en Mog Station. Si es la primera vez que instalas y registras FINAL FANTASY XIV Online, puedes canjear los códigos de registro durante el proceso de instalación inicial. • Se aplican restricciones de edad y otros términos y condiciones. Consulta el Acuerdo de usuario y los Términos y condiciones de las cuentas de Square Enix para conocer los términos y condiciones de registro y servicio.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows® 11 64 bits
+
+- Procesador: Intel® Core™i7-7700 o superior
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: GeForce GTX 970 de NVIDIA o superior, Radeon RX 480 de AMD o superior
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 140 GB de espacio disponible
+
+- Tarjeta de sonido: DirectSound® supported sound card
+
+- Notas adicionales: System Requirements may be subject to change. If you are using a router, please set up your ports so that the below packets can pass through. [Ports that may be used] TCP：80, 443, 54992～54994, 55006～55007, 55021～55040
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows® 11 64 bits
+
+- Procesador: Intel® Core™i7-9700 o superior
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: GeForce RTX 2060 de NVIDIA o superior, Radeon RX 5600 XT de AMD o superior
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 140 GB de espacio disponible
+
+- Tarjeta de sonido: DirectSound® supported sound card
+
+- Notas adicionales: System Requirements may be subject to change. If you are using a router, please set up your ports so that the below packets can pass through. [Ports that may be used] TCP：80, 443, 54992～54994, 55006～55007, 55021～55040
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: macOS Mojave 10.14.3
+
+- Procesador: iMac (Retina 5K, 27-inch Late 2014) or higher
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: AMD Radeon™ R9 M295X or higher
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 60 GB de espacio disponible
+
+- Notas adicionales: If you are using a router, please set up your ports so that the below packets can pass through. [Ports that may be used] TCP：80, 443, 54992 - 54994, 55006 - 55007, 55021 - 55040
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

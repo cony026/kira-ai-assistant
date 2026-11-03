@@ -1,0 +1,22 @@
+JUEGO: Cooking Simulator
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Xbox One, Nintendo Switch
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Xbox One, Nintendo Switch
+GÉNEROS: Simulación, Indie, Arcade
+TEMAS: Non-fiction
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Big Cheese Studio
+PUBLISHER: Forever Entertainment S.A., Big Cheese Studio, PlayWay
+FECHA DE LANZAMIENTO: 2019-06-06
+NOTA DE USUARIOS (IGDB): 71/100 (57 votos)
+TAMBIÉN CONOCIDO COMO: CookingSim.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co20ud.jpg
+URL: https://www.igdb.com/games/cooking-simulator
+
+RESUMEN:
+Cooking Simulator is a single-player simulation game that recreates restaurant cooking using a physics-based engine and detailed kitchen mechanics. Players prepare a wide range of recipes from many ingredients, handling ovens, stoves, pots, pans, and utensils in a fully interactive kitchen. It includes several modes, such as a career mode where players run a kitchen and build up fame by filling orders, a free-form sandbox with no time limits, and a set of tutorials that teach the mechanics. Additional content adds themed kitchens and specialties like pizza, cakes, and cookies.
+
+JUEGOS PARECIDOS:
+Si te gusta Cooking Simulator, también podrían gustarte: House Flipper, PC Building Simulator, Gas Station Simulator, Telling Lies, Supermarket Simulator, Crime Scene Cleaner, Infliction, Access Denied, Prison Simulator, Ravenous Devils.

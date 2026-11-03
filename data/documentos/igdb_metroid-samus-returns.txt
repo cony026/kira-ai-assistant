@@ -1,0 +1,26 @@
+JUEGO: Metroid: Samus Returns
+
+FUENTE: IGDB
+PLATAFORMA: Nintendo 3DS
+DISPONIBLE EN: Nintendo 3DS
+GÉNEROS: Plataformas, Aventura
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Nintendo Entertainment Planning & Development, MercurySteam, Nintendo EPD Production Group No. 7
+PUBLISHER: Nintendo
+FECHA DE LANZAMIENTO: 2017-09-15
+NOTA DE LA CRÍTICA (IGDB): 88/100 (14 críticas)
+NOTA DE USUARIOS (IGDB): 83/100 (112 votos)
+FRANQUICIA: Metroid
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3j82.jpg
+URL: https://www.igdb.com/games/metroid-samus-returns
+
+RESUMEN:
+Metroid: Samus Returns is a remake of Metroid 2: Return of Samus.
+It uses a 3D graphic style with a side view camera that zooms in and changes for cutscenes. It also has new mechanics, items, and abilities.
+
+"Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy adventure. Samus Aran’s arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it’s available only on the Nintendo 3DS family of systems."
+
+JUEGOS PARECIDOS:
+Si te gusta Metroid: Samus Returns, también podrían gustarte: Mini Ghost, Exile's End, Metroid Dread, Iconoclasts, Metroid Prime 4: Beyond, Lone Fungus, Ghost 1.0, Xeodrifter, Prince of Persia: The Lost Crown, Orphan.

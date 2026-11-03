@@ -1,0 +1,27 @@
+JUEGO: Biped
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), PlayStation 5, Xbox One
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), PlayStation 5, Xbox One, Nintendo Switch
+GÉNEROS: Simulación, Deportes, Estrategia, Aventura, Indie
+TEMAS: Acción, Ciencia ficción, Infantil
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Tercera persona, Vista lateral
+DESARROLLADOR: NExT Studios
+PUBLISHER: META Publishing
+FECHA DE LANZAMIENTO: 2020-03-26
+NOTA DE LA CRÍTICA (IGDB): 81/100 (4 críticas)
+NOTA DE USUARIOS (IGDB): 71/100 (29 votos)
+TAMBIÉN CONOCIDO COMO: 只只大冒險, Biped.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co62i1.jpg
+URL: https://www.igdb.com/games/biped
+
+RESUMEN:
+Biped is a coop action game with physics. Take Aku and Sila on a fun and bonding adventure, overcoming original challenges and saving Earth from going dark.
+
+- 30 exotic stages to explore, many secrets to uncover
+- supports both local 2 player coop and solo play
+- collect treasures and customize your bipeds
+
+JUEGOS PARECIDOS:
+Si te gusta Biped, también podrían gustarte: My Time at Sandrock, Unravel Two, Moving Out, Growtopia, Wobbly Life, Pile Up! Box by Box, Shieldwall, Degrees of Separation, Heavenly Bodies, Bluey: The Videogame.

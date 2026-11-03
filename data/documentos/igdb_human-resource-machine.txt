@@ -1,0 +1,25 @@
+JUEGO: Human Resource Machine
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Linux, Android, PC (Microsoft Windows), iOS, Mac, Wii U, Nintendo Switch
+GÉNEROS: Puzle, Simulación, Estrategia, Indie
+TEMAS: Comedia, Educativo
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Tomorrow Corporation
+PUBLISHER: Tomorrow Corporation, Experimental Gameplay Group
+FECHA DE LANZAMIENTO: 2015-10-15
+NOTA DE LA CRÍTICA (IGDB): 74/100 (6 críticas)
+NOTA DE USUARIOS (IGDB): 78/100 (55 votos)
+TAMBIÉN CONOCIDO COMO: Human Resource Machine.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1u3r.jpg
+URL: https://www.igdb.com/games/human-resource-machine
+
+RESUMEN:
+"Human Resource Machine is a puzzle game. In each level, your boss gives you a job. Automate it by programming your little office worker! If you succeed, you'll be promoted up to the next level for another year of work in the vast office building. Congratulations!
+
+Don't worry if you've never programmed before - programming is just puzzle solving. If you strip away all the 1's and 0's and scary squiggly brackets, programming is actually simple, logical, beautiful, and something that anyone can understand and have fun with!"
+
+JUEGOS PARECIDOS:
+Si te gusta Human Resource Machine, también podrían gustarte: 7 Billion Humans, Minami Lane, The Farmer Was Replaced, Bronze Age, Another Brick in the Mall, Fly Corp, Rise of Industry, 112 Operator, Little Big Workshop, Software Inc..

@@ -1,0 +1,73 @@
+JUEGO: Mount & Blade II: Bannerlord
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Indie, Rol, Simuladores, Estrategia
+DESARROLLADOR: TaleWorlds Entertainment
+PUBLISHER: TaleWorlds Entertainment
+FECHA DE LANZAMIENTO: 25 OCT 2022
+PRECIO: $49.99
+NOTA METACRITIC: 77/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (296453 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.
+
+DESCRIPCIÓN DETALLADA:
+The horns sound, the ravens gather. An empire is torn by civil war. Beyond its borders, new kingdoms rise. Gird on your sword, don your armour, summon your followers and ride forth to win glory on the battlefields of Calradia. Establish your hegemony and create a new world out of the ashes of the old.
+
+Mount & Blade II: Bannerlord is the eagerly awaited sequel to the critically acclaimed medieval combat simulator and role-playing game, Mount & Blade: Warband. 
+
+Create and develop a character that matches your play style as you explore, raid and conquer your way across a vast medieval sandbox where no two playthroughs are the same. 
+
+Raise armies, engage in politics, trade, craft weapons, recruit companions and manage your fiefdom as you attempt to establish your clan among the nobility of Calradia. 
+
+Command and fight alongside your troops in first- or third-person in huge real-time battles using Mount & Blade’s deep but intuitive skill-based directional combat system.
+
+Put your combat prowess to the test against players from all over the world in multi-player PvP, including ranked matchmaking and casual game modes, or host your own server with the Mount & Blade II: Dedicated Server files. 
+
+Customise the game to experience an entirely different adventure using the Mount & Blade II: Bannerlord - Modding Kit and share your creations with others through Steam Workshop.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO *: Windows 7 (64-bit only)
+
+- Procesador: Intel® Core™ i3-8100 / AMD Ryzen™ 3 1200 / Snapdragon X Elite
+
+- Memoria: 6 GB de RAM
+
+- Gráficos: Intel® UHD Graphics 630 / NVIDIA® GeForce® GTX 660 2GB / AMD Radeon™ HD 7850 2GB
+
+- Almacenamiento: 60 GB de espacio disponible
+
+- Notas adicionales: Integrated GPUs require additional 2GB of system RAM.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64-bit only)
+
+- Procesador: Intel® Core™ i5-9600K / AMD Ryzen™ 5 3600X
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 1060 3GB / AMD Radeon™ RX 580
+
+- Almacenamiento: 60 GB de espacio disponible
+
+- Notas adicionales:
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

@@ -1,0 +1,65 @@
+JUEGO: Warhammer 40,000: Space Marine 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Rol
+DESARROLLADOR: Saber Interactive
+PUBLISHER: Focus Entertainment
+FECHA DE LANZAMIENTO: 9 SEP 2024
+PRECIO: $59.99
+NOTA METACRITIC: 82/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (222963 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Usa las habilidades y brutalidad sobrehumanas de los marines espaciales. Usa habilidades letales y armamento devastador para aniquilar a los incesantes enjambres tiránidos. Defiende el Imperium en el modo solitario o multijugador en tercera persona.
+
+DESCRIPCIÓN DETALLADA:
+Usa la brutalidad y habilidades sobrehumanas de los marines espaciales. Aniquila a los incesantes enjambres tiránidos haciendo uso de habilidades letales y un armamento devastador. Defiende el Imperium en solitario o multijugador en tercera persona y disfruta de la acción espectacular.  Lucha contra los enemigos de la humanidad como el teniente Demetrian Titus en esta secuela del Space Marine de 2011 y demuestra tu lealtad una vez más al reincorporarte en los Ultramarines. Mantén a raya los horrores de la galaxia en batallas épicas libradas en planetas lejanos y descubre secretos oscuros para repeler la noche eterna.  ¡Vive una guerra de proporciones galácticas! Disfruta de la acción frenética, sangrienta e intensa con cientos de enemigos en pantalla y purga a los incesantes enjambres tiránidos gracias al motor de enjambre de Saber.  Pasa a la acción en los brutales y rejugables modos JcE y JcJ con tus propios marines espaciales, desbloqueando habilidades y cosméticos nuevos mientras juegas. Juega con una de las 7 clases únicas, desbloquea hasta 25 ventajas por clase, añade ventajas a tus armas y personaliza tu apariencia con un amplio abanico de cosméticos de armaduras y armas.   Ábrete paso entre un sinfín de oleadas tiránidas y del Caos y lucha por sobrevivir todo lo que puedas en el despiadado modo Asedio para 3 jugadores. Acumula puntos por cada oleada derrotada para gastar en munición, cargas de equipo, estimulantes medicae y mucho más... O úsalos para invocar refuerzos como cadianos, marines espaciales o el poderoso dreadnought.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (1903 min)/11 64-bit
+
+- Procesador: AMD Ryzen 5 2600X / Intel Core i5-8600K
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: 6 GB VRAM, AMD Radeon RX 580 / Nvidia GeForce GTX 1060
+
+- DirectX: Versión 12
+
+- Almacenamiento: 75 GB de espacio disponible
+
+- Notas adicionales: SSD required. 30 FPS in 1920x1080 with &quot;Low&quot; preset.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (1903 min)/11 64-bit
+
+- Procesador: AMD Ryzen 7 5800X / Intel Core i7-12700
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: 8 GB VRAM, AMD Radeon RX 6800 XT / Nvidia GeForce RTX 3070
+
+- DirectX: Versión 12
+
+- Almacenamiento: 75 GB de espacio disponible
+
+- Notas adicionales: SSD required. 60 FPS in 1920x1080 with the &quot;Ultra&quot; preset.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

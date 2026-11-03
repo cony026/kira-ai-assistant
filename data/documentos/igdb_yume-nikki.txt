@@ -1,0 +1,29 @@
+JUEGO: Yume Nikki
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, PC (Microsoft Windows)
+DISPONIBLE EN: Web browser, PC (Microsoft Windows)
+GÉNEROS: Aventura, Indie
+TEMAS: Terror
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Kikiyama
+PUBLISHER: DeNA Co., Ltd., PLAYISM
+FECHA DE LANZAMIENTO: 2004-06-26
+NOTA DE USUARIOS (IGDB): 79/100 (101 votos)
+TAMBIÉN CONOCIDO COMO: Dream Diary, Yume Nikki, 夢日記, RPG_RT.exe, RPG_RT.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co81f2.jpg
+URL: https://www.igdb.com/games/yume-nikki
+
+RESUMEN:
+Yume Nikki is a 32-Bit freeware game created by Kikiyama, a Japanese solo game designer. The game was made using RPGMaker 2003. The game is regarded as one of the most original applications of RPGMaker 2003, and the start of a possible new genre of games.
+
+"Yume Nikki" means "Dream Diary" in Japanese, and the game follows a young girl named Madotsuki as she dreams. The goal is to seek out and acquire all 24 'Effects'.
+
+The game otherwise has no plot, and nearly the entire game is left up to speculation.
+
+HISTORIA:
+The story of Yume Nikki is mostly up to the player's interpretation. All we know for sure is that Madotsuki, the game's silent protagonist, lives alone in her apartment which she refuses to leave and which contains a desk, a single Famicom game console, a balcony, and, most importantly, a bed. Upon going to bed, Madotsuki explores her dreams, a surreal world full of illogically connected, smaller worlds to gather "effects." What exactly these dreams and effects represent in Madotsuki's personal life is, again, up to interpretation. Even Madotsuki's name, a name that isn't a real name in Japan, is entirely up to interpretation.
+
+JUEGOS PARECIDOS:
+Si te gusta Yume Nikki, también podrían gustarte: Yume 2kki, Lisa: The First, Off, Ib, Sanitarium, Doki Doki Literature Club!, The Static Speaks My Name, Mad Father, LSD: Dream Emulator, Celeste.

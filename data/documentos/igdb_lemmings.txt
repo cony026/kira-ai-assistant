@@ -1,0 +1,23 @@
+JUEGO: Lemmings
+
+FUENTE: IGDB
+PLATAFORMA: Acorn Archimedes, Amiga CD32, Commodore CDTV, Amiga
+DISPONIBLE EN: Acorn Archimedes, Amiga CD32, Commodore CDTV, Amiga
+GÉNEROS: Puzle
+TEMAS: Acción, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador, Pantalla dividida
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: DMA Design
+PUBLISHER: Krisalis Software, Psygnosis
+FECHA DE LANZAMIENTO: 1991-02-14
+NOTA DE LA CRÍTICA (IGDB): 68/100 (0 críticas)
+NOTA DE USUARIOS (IGDB): 76/100 (167 votos)
+FRANQUICIA: Lemmings
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co25u8.jpg
+URL: https://www.igdb.com/games/lemmings
+
+RESUMEN:
+Lemmings is a puzzle-platform game developed by DMA Design and published by Psygnosis in 1991. Players guide a group of lemmings through hazardous levels to a designated exit. The gameplay involves assigning specific skills, such as digging or building, to overcome obstacles and avoid traps. Each level has a time limit and requires saving a minimum number of lemmings to progress. The game was released on multiple platforms and is regarded as a classic of the puzzle genre.
+
+JUEGOS PARECIDOS:
+Si te gusta Lemmings, también podrían gustarte: Jetpack, Lemmings 3D, Street Fighter II, Blackthorne, Tyrian, Crystal Caves, Digger, Worms, Dig Dug, Commander Keen in Keen Dreams.

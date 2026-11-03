@@ -1,0 +1,42 @@
+JUEGO: Half-Life: Alyx
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: PC
+FECHA DE LANZAMIENTO: 2020-03-23
+DESARROLLADOR: Valve Software
+PUBLISHER: Valve
+GÉNEROS: Action, Shooter, Adventure
+NOTA METACRITIC: 93
+RATING USUARIOS: 4.34/5 (513 votos)
+TIEMPO DE JUEGO MEDIO: 5 horas
+TAGS: Singleplayer, Steam Achievements, Atmospheric, Great Soundtrack, Story Rich, First-Person, Sci-fi, Horror, FPS, Female Protagonist, Steam Workshop, Zombies, Includes level editor, Captions available, Futuristic
+
+DESCRIPCIÓN:
+Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2.
+
+Playing as Alyx Vance, you are humanity’s only chance for survival. The Combine’s control of the planet since the Black Mesa incident has only strengthened as they corral the remaining population in cities. Among them are some of Earth’s greatest scientists: you and your father, Dr. Eli Vance.
+
+As founders of a fledgling resistance, you’ve continued your clandestine scientific activity—performing critical research, and building invaluable tools for the few humans brave enough to defy the Combine.
+
+Every day, you learn more about your enemy, and every day you work toward finding a weakness.
+
+ABOUT GAMEPLAY IN VR:
+
+Valve’s return to the Half-Life universe that started it all was built from the ground up for virtual reality. VR was built to enable the gameplay that sits at the heart of Half-Life.
+
+Immerse yourself in deep environmental interactions, puzzle solving, world exploration, and visceral combat.
+
+Lean to aim around a broken wall and under a Barnacle to make an impossible shot. Rummage through shelves to find a healing syringe and some shotgun shells. Manipulate tools to hack alien interfaces. Toss a bottle through a window to distract an enemy. Rip a Headcrab off your face and throw it at a Combine soldier.
+
+Extra content for Index owners
+
+Customers who have purchased Valve Index hardware by the end of 2019 will have access to unique bonuses starting early next year:
+
+Explore environments from Half-Life: Alyx in your SteamVR Home space
+Alternate gun skins to embellish Alyx's arsenal
+Special Half-Life: Alyx-themed content for Counter-Strike: Global Offensive and Dota 2
+
+Community-built environments
+
+A set of Source 2 tools for building new environments will ship with the game, enabling any player to build and contribute new environments for the community to enjoy. Hammer, Valve’s level authoring tool, has been updated with all of the game’s virtual reality gameplay tools and components.

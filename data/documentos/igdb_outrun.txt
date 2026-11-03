@@ -1,0 +1,24 @@
+JUEGO: OutRun
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Sharp X68000
+DISPONIBLE EN: Arcade, Sharp X68000
+GÉNEROS: Carreras, Arcade
+TEMAS: Acción, Non-fiction
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Sega AM2
+PUBLISHER: Sega Enterprises, Ltd.
+FECHA DE LANZAMIENTO: 1986-09-25
+NOTA DE USUARIOS (IGDB): 71/100 (97 votos)
+TAMBIÉN CONOCIDO COMO: Out Run, Auto Ran
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2oj4.jpg
+URL: https://www.igdb.com/games/outrun
+
+RESUMEN:
+OutRun is a racing game originating in the arcades. The player can race across varied terrain in a readily available Ferrari, complete with a female passenger, over a series of short tracks.
+
+Gameplay is viewed form just above and behind the car. The roads are full of sharp bends and hazards, contact with which can cause the car to roll and lose the player's time. On each section of track there is a fork in the road, allowing the player to choose which direction he or she wishes to go in. The player has to to complete five track sections in total, out of the fifteen in the game.
+
+JUEGOS PARECIDOS:
+Si te gusta OutRun, también podrían gustarte: OutRun 2019, Turbo OutRun, OutRunners, Ridge Racer 7, Pole Position II, Ridge Racer 2, WEC Le Mans 24, Sega Rally Championship, Ridge Racer V, Power Drift.

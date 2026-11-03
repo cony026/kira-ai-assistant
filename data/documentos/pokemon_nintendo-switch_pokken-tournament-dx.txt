@@ -1,0 +1,10 @@
+JUEGO: Pokkén Tournament DX
+PLATAFORMA: Nintendo Switch
+GÉNEROS: Lucha
+NOTA METACRITIC: 74
+
+RESEÑA / DESCRIPCIÓN:
+Juego de lucha de Pokémon en tiempo real. Controla tu Pokémon favorito, realiza combos especiales y derrota a otros Pokémon en batallas uno contra uno. Modo Historia, Torneo y multijugador en línea.
+
+REQUISITOS MÍNIMOS:
+Nintendo Switch

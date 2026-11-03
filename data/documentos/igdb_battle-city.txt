@@ -1,0 +1,24 @@
+JUEGO: Battle City
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Sharp X1, Nintendo 3DS, Wii
+DISPONIBLE EN: Arcade, Sharp X1, Nintendo 3DS, Wii, Family Computer, Wii U, FM-7, Nintendo Entertainment System
+GÉNEROS: Peleas, Shooter
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Namco
+PUBLISHER: Bandai Namco Games, Dempa Shimbunsha, Namco, Namco Bandai Games, Bandai Namco Entertainment
+FECHA DE LANZAMIENTO: 1985-09-09
+NOTA DE USUARIOS (IGDB): 78/100 (105 votos)
+TAMBIÉN CONOCIDO COMO: Боен град, Tank, BattleCity
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2f7d.jpg
+URL: https://www.igdb.com/games/battle-city
+
+RESUMEN:
+Battle City, also known as Tank 1990 or Tank in some pirate multicart releases, is a multi-directional shooter video game for the Family Computer produced and published in 1985 by Namco. The game was later released for the Game Boy and was included in the Japanese version of Star Fox: Assault. It is a port of the arcade game Tank Battalion with additional features (including two player simultaneous play and a level edit feature). There was also a rendition for Nintendo's Vs. System arcade cabinets.
+
+The player, controlling a tank, must destroy enemy tanks in each level, which enter the playfield from the top of the screen. The enemy tanks attempt to destroy the player's base (represented on the map as a bird, eagle or Phoenix), as well as the human tank itself. A level is completed when the player destroys all 20 enemy tanks, but the game ends if the player's base is destroyed or the player loses all available lives.
+
+JUEGOS PARECIDOS:
+Si te gusta Battle City, también podrían gustarte: Army Men: RTS, Urban Champion, Summer Games II, Clu Clu Land, Mach Rider, Running With Rifles, Baseball, Mega Force, Zaxxon, Mega Man X.

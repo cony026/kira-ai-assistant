@@ -1,0 +1,24 @@
+JUEGO: Cars
+
+FUENTE: IGDB
+PLATAFORMA: Xbox, Nintendo GameCube, PlayStation 2
+DISPONIBLE EN: Xbox, Nintendo GameCube, PlayStation 2
+GÉNEROS: Carreras, Aventura
+TEMAS: Acción, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador, Pantalla dividida
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Rainbow Studios
+PUBLISHER: THQ
+FECHA DE LANZAMIENTO: 2006-06-06
+NOTA DE LA CRÍTICA (IGDB): 65/100 (4 críticas)
+NOTA DE USUARIOS (IGDB): 65/100 (49 votos)
+FRANQUICIA: Cars, Disney, Pixar
+TAMBIÉN CONOCIDO COMO: Disney Pixar Cars
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co57b4.jpg
+URL: https://www.igdb.com/games/cars
+
+RESUMEN:
+Play as Lightning McQueen, a rookie racecar looking to win fame and fortune at the Piston Cup Championship, in the video game adaptation of Disney Pixar's Cars.
+
+JUEGOS PARECIDOS:
+Si te gusta Cars, también podrían gustarte: Ratatouille, Madagascar, Crash of the Titans, Over the Hedge, Shrek the Third, Juiced 2: Hot Import Nights, The Fairly OddParents: Breakin' da Rules, G-Force, Transformers: The Game, Bee Movie Game.

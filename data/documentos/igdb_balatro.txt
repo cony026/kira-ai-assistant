@@ -1,0 +1,22 @@
+JUEGO: Balatro
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PlayStation 4, Nintendo Switch 2, Android
+DISPONIBLE EN: Xbox Series X|S, PlayStation 4, Nintendo Switch 2, Android, PC (Microsoft Windows), iOS, PlayStation 5, Mac, Xbox One, Nintendo Switch
+GÉNEROS: Estrategia, Estrategia por turnos, Indie, Cartas y tablero
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: LocalThunk
+PUBLISHER: Playstack
+FECHA DE LANZAMIENTO: 2024-02-20
+NOTA DE LA CRÍTICA (IGDB): 91/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 86/100 (403 votos)
+TAMBIÉN CONOCIDO COMO: Balatro+, Balatro.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co9f4g.jpg
+URL: https://www.igdb.com/games/balatro
+
+RESUMEN:
+Balatro is a deck-building roguelite in which players construct poker hands to earn chips and overcome enemy blinds. The game features mechanics for enhancing a deck of playing cards, purchasing Jokers that modify hand effects, and discovering synergies to progress through increasingly challenging encounters.
+
+JUEGOS PARECIDOS:
+Si te gusta Balatro, también podrían gustarte: Ash of Gods: Redemption, Terraformers, Lost Eidolons: Veil of the Witch, Crown Trick, Warhammer 40,000: Mechanicus, RollerCoaster Tycoon Classic, Drova: Forsaken Kin, Inscryption, Fell Seal: Arbiter's Mark, Minami Lane.

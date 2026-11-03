@@ -1,0 +1,28 @@
+JUEGO: Wolfenstein 3D
+
+FUENTE: IGDB
+PLATAFORMA: DOS
+DISPONIBLE EN: DOS
+GÉNEROS: Shooter
+TEMAS: Acción, Fantasía, Ciencia ficción, Terror, Histórico
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: id Software
+PUBLISHER: id Software, Apogee Software
+FECHA DE LANZAMIENTO: 1992-05-05
+NOTA DE USUARIOS (IGDB): 80/100 (37 votos)
+FRANQUICIA: Wolfenstein
+TAMBIÉN CONOCIDO COMO: Wolfenstein 3-D
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6yw5.jpg
+URL: https://www.igdb.com/games/wolfenstein-3d--1
+
+RESUMEN:
+Wolfenstein 3D is a first-person shooter presented with rudimentary 3D graphics and a follow-up to the top-down infiltration game Castle Wolfenstein. The game is broken up into levels, each of which is a flat plane divided into areas and rooms by a grid-based pattern of walls and doors, all of equal height. Each level is themed after Nazi bunkers and buildings. To finish a level, the player must traverse through the area to reach an elevator. Levels are grouped together into named episodes, with the final level focusing on a boss fight with a particularly difficult enemy. While traversing the levels, the player must fight Nazi guards and soldiers, dogs, and other enemies while managing supplies of ammunition and health.
+
+While later releases of the game included the Nocturnal Missions expansion, this initial release did not.
+
+HISTORIA:
+The game follows B.J. Blazkowicz, an American spy during World War II and his efforts to destroy the Nazi regime. Wolfenstein 3D is divided into two sets of three episodes. In "Escape", Blazkowicz has been captured while trying to find the plans for Operation Eisenfaust (Iron Fist) and imprisoned in Castle Wolfenstein, from which he must escape. "Operation: Eisenfaust" follows his discovery and thwarting of the Nazi plan to create an army of undead mutants in Castle Hollehammer, while in "Die, Führer, Die!" he infiltrates a bunker under the Reichstag, culminating in a battle with Adolf Hitler in a robotic suit equipped with four chain guns.
+
+JUEGOS PARECIDOS:
+Si te gusta Wolfenstein 3D, también podrían gustarte: Hrot, Far Cry, Trepang2, Project Warlock II, Last Rites, SiN Episodes: Emergence, The X-Files: Resist or Serve, F.E.A.R. 2: Project Origin, Devilated, Scathe.

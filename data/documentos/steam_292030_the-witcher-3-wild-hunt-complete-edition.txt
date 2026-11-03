@@ -1,0 +1,46 @@
+JUEGO: The Witcher 3: Wild Hunt - Complete Edition
+PLATAFORMA: PC (Steam)
+GÉNEROS: Rol
+DESARROLLADOR: CD PROJEKT RED
+PUBLISHER: CD PROJEKT RED
+FECHA DE LANZAMIENTO: 18 MAY 2015
+PRECIO: $49.99
+NOTA METACRITIC: 93/100
+RESEÑAS DE USUARIOS (STEAM): Overwhelmingly Positive (882809 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Eres Geralt de Rivia, cazador de monstruos. En un continente devastado por la guerra e infestado de criaturas, tu misión es encontrar a Ciri, la niña de la profecía, un arma viviente que puede alterar el mundo tal y como lo conocemos.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO *: 64-bit Windows 7, 64-bit Windows 8 (8.1)
+
+- Procesador: Intel CPU Core i5-2500K 3.3GHz / AMD A10-5800K APU (3.8GHz)
+
+- Memoria: 6 GB de RAM
+
+- Gráficos: Nvidia GPU GeForce GTX 660 / AMD GPU Radeon HD 7870
+
+- DirectX: Versión 11
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Notas adicionales: *System requirements will change on 2026.09.29.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: 64-bit Windows 10/11
+
+- Procesador: Intel Core i5-7400 / Ryzen 5 1600
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Nvidia GTX 1070 / Radeon RX 480
+
+- DirectX: Versión 12
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Notas adicionales: *System requirements will change on 2026.09.29.

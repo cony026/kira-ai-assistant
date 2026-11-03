@@ -1,0 +1,23 @@
+JUEGO: Inzoi
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5, Mac
+DISPONIBLE EN: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5, Mac
+GÉNEROS: Simulación, Aventura
+TEMAS: Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Krafton
+PUBLISHER: Krafton
+FECHA DE LANZAMIENTO: 2025-03-28
+NOTA DE LA CRÍTICA (IGDB): 90/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 50/100 (32 votos)
+TAMBIÉN CONOCIDO COMO: inZOI
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co8pfe.jpg
+URL: https://www.igdb.com/games/inzoi
+
+RESUMEN:
+InZOI is a life simulation game in which the player takes on the role of an intern at a virtual reality company, managing a neighborhood of simulated characters called "Zoi." Gameplay takes place across open world environments including a dense metropolis inspired by Seoul and a coastal city inspired by Santa Monica. Players direct their characters through careers, relationships, education, and daily needs, while also customizing homes and editing the broader city environment. The game features AI-driven character behaviors, generative AI tools for creating patterns and objects, mod support, and a community content-sharing platform called Canvas.
+
+JUEGOS PARECIDOS:
+Si te gusta Inzoi, también podrían gustarte: Drug Dealer Simulator 2, Critter Cove, Go-Go Town!, My Time at Sandrock, Summer in Mara, Towerborne, Grow: Song of the Evertree, Wobbly Life, Godfall, Tribe: Primitive Builder.

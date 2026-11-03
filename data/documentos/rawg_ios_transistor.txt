@@ -1,0 +1,28 @@
+JUEGO: Transistor
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Nintendo Switch, PlayStation 4, PC, iOS, macOS, Linux
+FECHA DE LANZAMIENTO: 2014-05-20
+DESARROLLADOR: Supergiant Games
+PUBLISHER: Supergiant Games
+GÉNEROS: Action, RPG, Indie
+NOTA METACRITIC: 83
+RATING USUARIOS: 4.16/5 (1473 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, Atmospheric, steam-trading-cards, Great Soundtrack, RPG, Story Rich, 2D, Sci-fi, Female Protagonist, Action RPG, Tactical, role-playing
+
+DESCRIPCIÓN:
+Transistor is a cyberpunk game that uses isometric point-of-view as its primary mechanic. Following the story of Red, she discovers a body of an unknown man with a sword in his chest called Transistor. Sword has possessed the mind and voice of its previous owner and now able to speak with Red, navigating her in a city called Cloudbank, as the Process attacked the city and still searches for Red to kill her and return the sword back to them for unknown reasons. 
+
+Despite having real-time battles, Red can freeze the time with her ability called Turn that draws her action bar. Until it is fully restored, no abilities can be used if only you don't have the upgrades. As an addition, Red can retrieve Functions from her fallen enemies - new powers for her weapon with a passive, persistent effect or other. Beautiful design and interesting lore give this game a unique atmosphere being doubled by the soundtrack, done by Darren Korb.
+
+**Key Features**:
+• An all-new world from the team that created Bastion
+• Configure the powerful Transistor with thousands of possible Function combinations
+• Action-packed real-time combat fused with a robust strategic planning mode
+• Vibrant hand-painted artwork in full 1080p resolution
+• Original soundtrack changes dynamically as the action unfolds
+• Hours of reactive voiceover create a deep and atmospheric story
+• 'Recursion' option introduces procedural battles after finishing the story
+• Fully customizable controls custom-tailored for PC

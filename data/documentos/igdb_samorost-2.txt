@@ -1,0 +1,22 @@
+JUEGO: Samorost 2
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: Web browser, Linux, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: Point and click, Puzle, Aventura, Indie
+TEMAS: Fantasía, Ciencia ficción, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Amanita Design
+PUBLISHER: Amanita Design
+FECHA DE LANZAMIENTO: 2005-12-08
+NOTA DE USUARIOS (IGDB): 76/100 (96 votos)
+TAMBIÉN CONOCIDO COMO: Samorost2.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co8ey2.jpg
+URL: https://www.igdb.com/games/samorost-2
+
+RESUMEN:
+Samorost2, the sequel to free browser based game Samorost1 is a short point-and-click adventure in which you must help out a little space gnome as he searches for his dog, which has been taken away by aliens.
+
+JUEGOS PARECIDOS:
+Si te gusta Samorost 2, también podrían gustarte: Samorost 3, The Many Pieces of Mr. Coo, Botanicula, Pilgrims, Gorogoa, Thank Goodness You're Here!, Deponia, Machinarium, The Book of Unwritten Tales 2, Creaks.

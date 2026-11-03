@@ -1,0 +1,24 @@
+JUEGO: SimCity 3000
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Simulación, Estrategia
+TEMAS: Gestión
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Maxis
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 1999-01-31
+NOTA DE LA CRÍTICA (IGDB): 85/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 81/100 (162 votos)
+FRANQUICIA: Sim, SimCity
+TAMBIÉN CONOCIDO COMO: Sim City 3000
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1o4e.jpg
+URL: https://www.igdb.com/games/simcity-3000
+
+RESUMEN:
+SimCity 3000, released in 1999 as the third major installment in the SimCity series, continues its successful course as a city building simulation game. In SimCity 3000 new tools have been introduced to create and control the city build-ups. Recreate the world's greatest cities using predefined landscapes such as San Francisco or Berlin and landmark buildings like the Empire State Building or Big Ben. Negotiate and barter with neighbouring cities to strengthen your metropolis and seal contracts to import water or get rid of huge amounts of waste.
+
+JUEGOS PARECIDOS:
+Si te gusta SimCity 3000, también podrían gustarte: SimCity DS, SimCity, Capitalism Lab, SimCity BuildIt, SimCity 4, SimCity Creator, Construction Simulator, RollerCoaster Tycoon 2, Big Ambitions, Anno 2070.

@@ -1,0 +1,93 @@
+JUEGO: The Elder Scrolls® Online
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Multijugador masivo, Rol
+DESARROLLADOR: ZeniMax Online Studios
+PUBLISHER: Bethesda Softworks
+FECHA DE LANZAMIENTO: 22 MAY 2017
+PRECIO: $19.99
+NOTA METACRITIC: 80/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (161454 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Toda leyenda comienza por alguna parte, y, en el caso de The Elder Scrolls Online, lo hace por ti. Únete a millones de jugadores en un RPG de fantasía online ambientado en el gigantesco y vibrante mundo de The Elder Scrolls.
+
+DESCRIPCIÓN DETALLADA:
+Incluye el juego base de The Elder Scrolls Online más las aventuras de Morrowind, Imperial City, Orsinium, Thieves Guild y Dark Brotherhood.The Elder Scrolls Online empieza por ti. Escribe un capítulo de la historia casi mil años antes de TES V: Skyrim. La llegada de las temporadas nos traerá recompensas y aventuras gratis cada tres meses para que el mundo evolucione a tu lado.LLEGAN LAS TEMPORADAS: vive nuevas historias y contenidos experimentales inspirados en la historia de TES cada tres meses. Desbloquea recompensas con los tomos de Tamriel.UN MUNDO DE FANTASÍA DIVERSO: viaja por Tamriel para descubrir un mundo de aventuras. Explora bosques de setas en Morrowind, lucha contra los daedra en Oblivion o enfréntate a otros jugadores en el JcJ.HISTORIAS FASCINANTES SOBRE UN TAPIZ CONJUNTO: sumérgete en una narrativa elaborada con el mismo espíritu de tus juegos favoritos de TES. Descubre un mundo en crecimiento con tus amigos o por tu cuenta.UN SENTIDO EN CADA SENDA: elige entre una vasta colección de misiones y desafíos adaptados a tus deseos y ambiciones. Este es tu lugar.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-bit
+
+- Procesador: Intel® Core™ i5 2300 or AMD FX4350
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: Direct X 11.0 compliant video card with 1GB RAM (NVIDIA® GeForce® 560 or AMD Radeon™ 6870)
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 150 GB de espacio disponible
+
+- Tarjeta de sonido: DirectX compatible sound card
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-bit
+
+- Procesador: Intel® Core™ i5 2300 or AMD FX4350
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Direct X 11.0 compliant video card with 4GB of RAM (NVIDIA® GeForce® GTX 970 or AMD Radeon™ RX 570) or higher
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 150 GB de espacio disponible
+
+- Tarjeta de sonido: DirectX compatible sound card
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: Mac® High Sierra v 10.13
+
+- Procesador: Intel Core i5 processor
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: AMD Radeon
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 150 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: Mac® High Sierra v 10.13
+
+- Procesador: Intel i7 processor
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: AMD Radeon
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 150 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

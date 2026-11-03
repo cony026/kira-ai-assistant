@@ -1,0 +1,29 @@
+JUEGO: SoulCalibur II
+
+FUENTE: IGDB
+PLATAFORMA: Arcade
+DISPONIBLE EN: Arcade
+GÉNEROS: Peleas
+TEMAS: Acción, Fantasía, Histórico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Project Soul
+PUBLISHER: Namco
+FECHA DE LANZAMIENTO: 2002-07-10
+NOTA DE LA CRÍTICA (IGDB): 95/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (192 votos)
+FRANQUICIA: SoulCalibur
+TAMBIÉN CONOCIDO COMO: SCII, SC2, Soul Calibur II, Soul Calibur 2
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co62a6.jpg
+URL: https://www.igdb.com/games/soulcalibur-ii
+
+RESUMEN:
+SoulCalibur II is the third installment in the Soul series and continues the tradition of his predecessors with improved graphics, new characters and new levels. A majority of the action takes place in Weapon Master mode where you have to choose a character and travel a set map to fight the many other warriors through different levels and challenges. Console ports were released, including guest characters from other franchises.
+
+The Arcade version has a unique mode called "Conquest Mode". This mode, which uses a name and password system to save data, allows the player to select one army among four. The player then fights against enemies in a series of eight 1-round battles, win or lose (the first seven are based on the player's rank, and the eighth is chosen by the player – this can only be interrupted by a Versus challenger.) After each round, the player earns EXP and can be promoted, and the game also rates the player in four categories: Soul, Power, Wisdom and Skill. The game also keeps track of which moves the player knows and uses most often. After the eight battles, territory control is updated and the player has the option to fight a bonus round against their character played by the AI.
+
+HISTORIA:
+Four years have passed since the spirit sword SoulCalibur defeated the evil Soul Edge. At the end of that fateful battle, the shards of the shattered Soul Edge were scattered across the world and SoulCalibur was lost to the void. Now, the evil that still resides in the scattered shards of Soul Edge threatens again to engulf the world in darkness.
+
+JUEGOS PARECIDOS:
+Si te gusta SoulCalibur II, también podrían gustarte: SoulCalibur III, SoulCalibur IV, SoulCalibur, Soul Edge, Tekken 3, Tekken, Tekken 4, Tekken 6, SoulCalibur V, Tekken Tag Tournament.

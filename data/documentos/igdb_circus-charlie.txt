@@ -1,0 +1,22 @@
+JUEGO: Circus Charlie
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Commodore C64/128/MAX, Family Computer, Nintendo Entertainment System
+DISPONIBLE EN: Arcade, Commodore C64/128/MAX, Family Computer, Nintendo Entertainment System, MSX
+GÉNEROS: Plataformas, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Konami
+PUBLISHER: Konami, Centuri, Soft Pro International
+FECHA DE LANZAMIENTO: 1984-02-01
+NOTA DE USUARIOS (IGDB): 70/100 (61 votos)
+TAMBIÉN CONOCIDO COMO: Цирк Чарли
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6o3d.jpg
+URL: https://www.igdb.com/games/circus-charlie
+
+RESUMEN:
+An action/platform game in which the player controls a clown named Charlie who partakes in various circus attractions.
+
+JUEGOS PARECIDOS:
+Si te gusta Circus Charlie, también podrían gustarte: Alex Kidd: The Lost Stars, Gyroscope, Pitfall: The Mayan Adventure, Jet Set Willy, Mario Clash, Congo Bongo, Catch 'Em, Mega Man Xtreme 2, Gorilla Tag, Despicable Me: Minion Rush.

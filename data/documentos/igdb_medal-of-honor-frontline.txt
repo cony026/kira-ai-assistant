@@ -1,0 +1,25 @@
+JUEGO: Medal of Honor: Frontline
+
+FUENTE: IGDB
+PLATAFORMA: Xbox, Nintendo GameCube, PlayStation 2
+DISPONIBLE EN: Xbox, Nintendo GameCube, PlayStation 2
+GÉNEROS: Shooter
+TEMAS: Acción, Histórico, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Pantalla dividida
+PERSPECTIVA: Primera persona
+DESARROLLADOR: EA Los Angeles
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 2002-05-28
+NOTA DE LA CRÍTICA (IGDB): 93/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 77/100 (128 votos)
+TAMBIÉN CONOCIDO COMO: Medal of Honor: En Première Ligne, MOHF
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co30sk.jpg
+URL: https://www.igdb.com/games/medal-of-honor-frontline
+
+RESUMEN:
+Frontline is a first-person shooter where players take control of the protagonist player character in a first-person perspective where they fight through levels set during the Second World War against the Wehrmacht using historical weaponry of the era, performing a series of military operations. Briefings take place at the start of each mission, which advance the plot and introduce new characters. Each mission is structured through a number of linear levels, each with differing locations, levels of action and styles of gameplay. Initially the player character begins on the frontlines during D-Day backed up by other computer AI-controlled soldiers with an emphasis on fast action-orientated gun-based gameplay. As the story progress however, the player character is sent on a variety of other missions including a number of covert and undercover operations in locations such as military based, German-occupied towns and manors, submarines and countryside settings. The player character is tasked with objectives during levels that range from infiltration, espionage, rescue and recon. Because of the variety between missions and locations, gameplay also changes pace. While many missions involve Allied assaults on German targets others include elements of stealth and exploration. For example one selections of missions has the player detach from an allied raid to infiltrate a German U-Boat in order to get to a secret facility while another has them rendezvous and sneak into a German headquarters in disguise to rescue an operative. Many missions are performed solo yet some include an AI companion for backup. Health is determined by a health bar that can be replenished using a selection "medikits" found throughout levels with varying degrees of effect.
+
+During missions, players can earn medals by the end of each level be meeting requirements such as completions of objectives, eliminating an amount of enemies and maintaining a percentage of health throughout, all represented by a bronze, silver or gold star.
+
+JUEGOS PARECIDOS:
+Si te gusta Medal of Honor: Frontline, también podrían gustarte: Medal of Honor, Medal of Honor: Underground, Call of Duty: Roads to Victory, Medal of Honor: Vanguard, Medal of Honor: Pacific Assault, Medal of Honor: Rising Sun, Killzone, Medal of Honor: European Assault, Brothers in Arms DS, Medal of Honor: Airborne.

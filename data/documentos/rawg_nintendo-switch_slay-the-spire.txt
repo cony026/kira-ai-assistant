@@ -1,0 +1,23 @@
+JUEGO: Slay the Spire
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Nintendo Switch
+DISPONIBLE EN: Xbox One, iOS, PC, macOS, Linux, Nintendo Switch, PlayStation 4, Android
+FECHA DE LANZAMIENTO: 2019-01-22
+DESARROLLADOR: Humble Bundle, Mega Crit
+PUBLISHER: Humble Bundle, Mega Crit Games
+GÉNEROS: RPG, Strategy, Card, Indie
+NOTA METACRITIC: 86
+RATING USUARIOS: 4.35/5 (1096 votos)
+TIEMPO DE JUEGO MEDIO: 12 horas
+TAGS: Singleplayer, Steam Achievements, 2D, Steam Leaderboards, Early Access, stats, role-playing, Dungeon Crawler
+
+DESCRIPCIÓN:
+We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire!
+
+Features:
+
+- Dynamic Deck Building: Choose your cards wisely! Discover hundreds of cards to add to your deck with each attempt at climbing the Spire. Select cards that work together to efficiently dispatch foes and reach the top. 
+- An Ever-changing Spire: Whenever you embark on a journey up the Spire, the layout differs each time. 
+- Choose a risky or safe path, face different enemies, choose different cards, discover different relics, and even fight different bosses!
+- Powerful Relics to Discover: Powerful items known as relics can be found throughout the Spire. The effects of these relics can greatly enhance your deck through powerful interactions. But beware, obtaining a relic may cost you more than just gold...

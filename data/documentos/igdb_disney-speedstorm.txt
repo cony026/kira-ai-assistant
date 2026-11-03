@@ -1,0 +1,24 @@
+JUEGO: Disney Speedstorm
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PlayStation 4, Nintendo Switch 2, Android
+DISPONIBLE EN: Xbox Series X|S, PlayStation 4, Nintendo Switch 2, Android, PC (Microsoft Windows), iOS, PlayStation 5, Xbox One, Nintendo Switch
+GÉNEROS: Carreras, Simulación, Deportes, Aventura, Arcade
+TEMAS: Acción, Fantasía, Infantil
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Gameloft
+PUBLISHER: Gameloft
+FECHA DE LANZAMIENTO: 2023-07-31
+NOTA DE LA CRÍTICA (IGDB): 70/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 57/100 (36 votos)
+FRANQUICIA: Disney, Pixar
+TAMBIÉN CONOCIDO COMO: Speedstorm, Disney_Speedstorm_x64_rtl.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6dth.jpg
+URL: https://www.igdb.com/games/disney-speedstorm
+
+RESUMEN:
+Drift into the ultimate hero-based combat racing game, set on high-speed circuits inspired by Disney and Pixar worlds. Master each character’s unique skills on the racetrack and claim victory in this thrilling arcade racing experience.
+
+JUEGOS PARECIDOS:
+Si te gusta Disney Speedstorm, también podrían gustarte: Descenders, Unravel Two, Jumanji: The Video Game, Skylanders: Trap Team, Team Sonic Racing, Disney Dreamlight Valley, Riders Republic, Devil May Cry 5, Cat Quest II, Crash Drive 3.

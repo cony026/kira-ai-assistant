@@ -1,0 +1,23 @@
+JUEGO: Stellaris
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PlayStation 4, Linux, PC (Microsoft Windows)
+DISPONIBLE EN: Xbox Series X|S, PlayStation 4, Linux, PC (Microsoft Windows), PlayStation 5, Mac, Xbox One
+GÉNEROS: Estrategia en tiempo real, Simulación, Estrategia
+TEMAS: Ciencia ficción, 4X (explore, expand, exploit, and exterminate)
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Paradox Development Studio
+PUBLISHER: Paradox Interactive, DMM GAMES
+FECHA DE LANZAMIENTO: 2016-05-09
+NOTA DE LA CRÍTICA (IGDB): 79/100 (11 críticas)
+NOTA DE USUARIOS (IGDB): 78/100 (279 votos)
+TAMBIÉN CONOCIDO COMO: dowser.exe, Stellaris: Console Edition
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coaaru.jpg
+URL: https://www.igdb.com/games/stellaris
+
+RESUMEN:
+Stellaris is a real-time 4X grand strategy game set in a procedurally generated galaxy. Players control an interstellar civilization, exploring star systems connected by hyperlane networks, colonizing habitable worlds, and managing their empire's economy across resources like energy, minerals, and alloys. The game emphasizes empire customization through species traits, ethics, government types, and civics that shape both aesthetics and mechanics. Gameplay progresses through diplomacy, trade, and warfare with other civilizations, while mid-game and late-game galactic crises introduce escalating threats such as extragalactic invasions or hostile artificial intelligence awakenings. Players can pursue ascension paths including genetic engineering, cybernetic augmentation, or psionic abilities. Originally released for PC, the game later received a console edition and has been supported with numerous expansions adding megastructures, new empire types, espionage mechanics, and additional crisis scenarios.
+
+JUEGOS PARECIDOS:
+Si te gusta Stellaris, también podrían gustarte: Terraformers, Surviving Mars, Distant Worlds: Universe, Yu-Gi-Oh! Master Duel, Jurassic World Evolution 2, Crusader Kings III, Cosmoteer: Starship Architect & Commander, Planetbase, Distant Worlds 2, Dune: Spice Wars.

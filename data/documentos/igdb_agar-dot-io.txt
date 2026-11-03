@@ -1,0 +1,22 @@
+JUEGO: Agar.io
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: Web browser, Linux, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: Estrategia, Indie
+TEMAS: Acción
+MODOS DE JUEGO: MMO
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Matheus Valadares
+PUBLISHER: Miniclip.com
+FECHA DE LANZAMIENTO: 2015-04-28
+NOTA DE USUARIOS (IGDB): 71/100 (84 votos)
+TAMBIÉN CONOCIDO COMO: Agario
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co8728.jpg
+URL: https://www.igdb.com/games/agar-dot-io
+
+RESUMEN:
+Agar.io is a massively multiplayer online game where players control a cell in a colorful, grid-like environment. The main goal is to grow your cell by consuming smaller cells scattered throughout the map, while avoiding being eaten by larger cells controlled by other players.
+
+JUEGOS PARECIDOS:
+Si te gusta Agar.io, también podrían gustarte: Slither.io, AirBuccaneers, Ultimate Epic Battle Simulator 2, McDroid, Earthbreakers, AI: Rampage, First Strike Final Hour, Wakfu, Thetan Arena, The Con.

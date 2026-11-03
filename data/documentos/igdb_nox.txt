@@ -1,0 +1,27 @@
+JUEGO: Nox
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: RPG, Hack and slash, Aventura
+TEMAS: Acción, Fantasía, Sigilo
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Westwood Studios
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 2000-01-31
+NOTA DE USUARIOS (IGDB): 74/100 (67 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co21ek.jpg
+URL: https://www.igdb.com/games/nox
+
+RESUMEN:
+An excellent action/RPG hybrid with very unique gameplay. Your name is Jack Mower, a 20th century dude who just happened to be sucked into the world of Nox via his TV set. The world is in danger and you have to save it! But before you embark on your epic journey you must choose your path: warrior, wizard, or conjurer.
+Choose the path of a warrior, and you will be able to equip and use all manner of swords, battle-axes, war hammers, and chakrams - though you’ll leave the magical mumbo-jumbo up to the Conjurer and Wizard classes. An enchanted weapon is the closest a Warrior gets to magic but that’s OK, because magic is for sissies.
+As a Wizard you will explore the mystical art of spell casting, ranging from enemy-confounding illusions to devastating displays of metaphysical force. You’ll also learn to set magical traps containing deadly spell combinations to thwart the unsuspecting foe. Although you’ll have to renounce the use of ungainly swords and armor in the name of your art, you will still be able to wield a staff as a last-ditch physical defense.
+If you choose a Conjurer you will be able to magically charm and summon creatures to do your bidding. You can even create a magical creature called a bomber which can wreak sorcerous havoc on your enemies. You’ll also get plenty of experience wielding staves and bows to fend off the few enemies who manage to slip past your minions.
+
+HISTORIA:
+Some decades before Jack's arrival to the Land of Nox (the eponymous fictional setting of the game), a group of Necromancers attempted to seize control over the world but was stopped by the legendary hero Jandor wielding an artifact weapon named "the Staff of Oblivion". Following the Necromancers' defeat, Jandor trapped their souls within the magical Orb, which the Arch-Wizard Horvath then transported to another dimension later revealed to be modern Earth. One of Jandor's last deeds of the war was saving a female infant he found in the Necromancers' lair: unsure what to do with a possible Necromancer offspring, he left the girl in the care of an Ogre village. He then disassembled the Staff and gave each piece to one of the three powerful factions in the game: the Fire Knights of the fortress Dün Mir (the Halberd of Horrendous), the wizards of Castle Galava (the Heart of Nox), and the conjurers' Temple of Ix (the Weirdling Beast). After this, he assumed the nickname "Airship Captain", under which he plays mentor role to the player throughout the game.
+
+JUEGOS PARECIDOS:
+Si te gusta Nox, también podrían gustarte: Dungeon Keeper 2, Darkstone, Dungeons & Dragons: Shadow over Mystara, Torchlight II, Hero Siege, Dragon's Crown, Magicka 2, Mystic Towers, The Lord of the Rings: The Third Age, Path of Exile.

@@ -1,0 +1,23 @@
+JUEGO: Dr. Mario
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Family Computer, Wii U, Nintendo Entertainment System
+DISPONIBLE EN: Arcade, Family Computer, Wii U, Nintendo Entertainment System
+GÉNEROS: Puzle, Estrategia
+TEMAS: Fantasía, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador, Pantalla dividida
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Nintendo
+PUBLISHER: Nintendo, Playtronic
+FECHA DE LANZAMIENTO: 1990-07-27
+NOTA DE USUARIOS (IGDB): 72/100 (208 votos)
+FRANQUICIA: Mario
+TAMBIÉN CONOCIDO COMO: Д-р Марио, Virus, Doctor Mario
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cobnx1.jpg
+URL: https://www.igdb.com/games/dr-mario
+
+RESUMEN:
+Dr. Mario is a falling block tile-matching video game, in which Mario assumes the role of a doctor, dropping two-colored medical capsules into a medicine bottle representing the playing field. This area is populated by viruses of three colors: red, yellow, and blue. In a manner and style considered similar to Tetris, the player manipulates each capsule as it falls, moving it left or right and rotating it such that it is positioned alongside the viruses and any existing capsules. When four or more capsule halves or viruses of matching color are aligned in vertical or horizontal configurations, they are removed from play. The main objective is to complete levels, which is accomplished by eliminating all viruses from the playing field. A game over occurs if capsules fill up the playing field in a way that obstructs the bottle's narrow neck.
+
+JUEGOS PARECIDOS:
+Si te gusta Dr. Mario, también podrían gustarte: Dig Dug II: Trouble in Paradise, Columns, Yoshi's Cookie, Wario's Woods, Tetris Party, Nuts & Milk, Dr. Mario 64, Mother, Yoshi, Tetris Worlds.

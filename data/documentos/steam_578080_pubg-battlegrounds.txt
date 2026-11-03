@@ -1,0 +1,64 @@
+JUEGO: PUBG: BATTLEGROUNDS
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Multijugador masivo, Free to Play
+DESARROLLADOR: PUBG Corporation
+PUBLISHER: KRAFTON, Inc.
+FECHA DE LANZAMIENTO: 21 DIC 2017
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Mixed (2746570 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+¡PUBG: BATTLEGROUNDS, el shooter con mucho que perder y todo que ganar que empezó el boom de los Battle Royale, es gratuito! Aterriza en mapas muy diversos, saquea armas y suministros únicos, y sobrevive en una zona menguante en la que cada turno podría ser el último.
+
+DESCRIPCIÓN DETALLADA:
+ATERRIZA,  Aterriza en una selección de mapas con constantes cambios y nuevas incorporaciones para que siempre tengas un reto por delante. ¿Aterrizarás en la seguridad de los alrededores y te arriesgarás a no conseguir un buen botín? ¿O caerás en la densidad de la ciudad y te liarás a tiros nada más tocar el suelo? Cada aterrizaje es diferente y dependerá de ti arreglártelas con lo que encuentres. SAQUEA  ¡Contarás con armas únicas, una gran variedad de suministros y herramientas especiales para burlar a tus oponentes! ¡Tú decides cómo y con qué equiparte! Añade accesorios poderosos a tus armas favoritas o arriésgate y hazte con los codiciados packs de ayuda para conseguir un botín único que te dará la ventaja necesaria para ganar. Y SOBREVIVE  Abastecerse bien es solo el principio. Con el tiempo, la zona segura se irá encogiendo y el riesgo de que te cruces con otros supervivientes aumentará cada vez más. Si mueres, estás fuera. Tendrás que ser más inteligente, más veloz o tener mejor puntería que tus oponentes si quieres quedar en pie al final y hacerte con la gran victoria.  HAY MUCHAS MANERAS DE JUGAR  Calienta en Combate a muerte por equipos, prueba modos de juego en el Arcade que están siempre cambiando, déjate caer por el último evento de temporada o crea tu lobby personalizado y reta a tus amigos a algo único. Y CADA PARTIDA ES ÚNICA  No hay dos batallas iguales, todo dependerá de las decisiones que tomes al aterrizar, saquear y sobrevivir. Aterriza en los campos de batalla, donde la victoria depende de cada movimiento y decisión, y combate para quedar en pie cuando todos hayan caído. Es posible realizar compras en el juego opcionales.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: 64-bit Windows 10
+
+- Procesador: Intel Core i5-4430 / AMD FX-6300
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 40 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: 64-bit Windows 10
+
+- Procesador: Intel Core i5-6600K / AMD Ryzen 5 1600
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

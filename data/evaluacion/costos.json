@@ -1,0 +1,37 @@
+{
+  "supuestos": {
+    "usuarios_activos_mes": 1000,
+    "consultas_por_dia": 10,
+    "dias": 30,
+    "consultas_mes": 300000,
+    "consultas_que_llaman_al_llm": 300000,
+    "modelo": "gemini-3.5-flash-lite",
+    "precio_entrada_mtok": 0.3,
+    "precio_salida_mtok": 2.5,
+    "tokens_por_consulta": {
+      "fuente": "evaluación resultados_20261031_2306.json",
+      "entrada": 2389,
+      "salida": 122
+    }
+  },
+  "llm": {
+    "millones_tokens_entrada": 716.7,
+    "millones_tokens_salida": 36.6,
+    "costo_entrada": 215.01,
+    "costo_salida": 91.5,
+    "subtotal": 306.51
+  },
+  "embeddings": {
+    "tokens_corpus": 4235284,
+    "costo_kira": 0.0,
+    "costo_si_fuera_api": 1.99
+  },
+  "infraestructura": {
+    "Servidor (2 vCPU, 4 GB RAM): contenedores app + nginx + MariaDB": 24.0,
+    "Disco adicional y respaldos diarios (object storage)": 5.0,
+    "Dominio y certificado HTTPS (Let's Encrypt es gratis; dominio .cl prorrateado)": 1.0,
+    "subtotal": 30.0
+  },
+  "total_mensual": 336.51,
+  "costo_por_consulta": 0.00112
+}

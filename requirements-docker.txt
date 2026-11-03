@@ -1,0 +1,4 @@
+# Solo para la imagen Docker (Linux). En Windows no se necesita.
+gunicorn
+# Modelo de spaCy en español (detectar nombres para enmascarar datos personales)
+es_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.8.0/es_core_news_sm-3.8.0-py3-none-any.whl

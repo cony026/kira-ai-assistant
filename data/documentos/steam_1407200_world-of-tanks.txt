@@ -1,0 +1,66 @@
+JUEGO: World of Tanks
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Multijugador masivo, Simuladores, Free to Play
+DESARROLLADOR: Wargaming Group Limited
+PUBLISHER: Wargaming Group Limited
+FECHA DE LANZAMIENTO: 28 ABR 2021
+PRECIO: Gratis
+NOTA METACRITIC: 80/100
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (100643 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+World of Tanks es un juego de acción táctico cuya jugabilidad varía según el tipo y el rol del vehículo elegido. Además de combates clásicos JcJ, hay modos competitivos y de clanes, eventos JcE y JcJcE y más. Tanto como si quieres dominar en batalla como fluir, la diversión está asegurada.
+
+DESCRIPCIÓN DETALLADA:
+World of Tanks tiene opciones para todos: ¡prueba distintas tácticas, vehículos y modos!ACCIÓN Y TÁCTICASWorld of Tanks tiene un ritmo singular. Sus vehículos blindados alcanzan una velocidad que llama a la acción, pero no es suficiente como para impedir que elabores una buena estrategia. Siempre conviene tener reflejos, pero, en muchos casos, las batallas se deciden por astucia y maniobras osadas. Detecta puntos débiles en las defensas enemigas, toma una posición ventajosa en el momento indicado o lanza una emboscada. ¡Te sentirás como una estrella!
+JUGABILIDAD VARIADATú controlas el ritmo del juego: hay cinco tipos de vehículos con estilos de juego muy distintos. Por lo general, los carros ligeros destacan por su velocidad y sigilo, los pesados dependen de su blindaje y los medios son especialmente versátiles. Los cazacarros (CT) infunden temor por el daño que causan, mientras que la artillería autopropulsada (AAP) lanza proyectiles a los enemigos a larga distancia usando una visión al estilo de los juegos estrategia a tiempo real (RTS). Hay más de 800 vehículos divididos en 11 niveles y 11 naciones, y casi todos tienen algo especial.DESARROLLO Y PERSONALIZACIÓNEmpieza con carros clásicos y progresa hasta alcanzar las máquinas de mayor nivel. Usa las cualificaciones de la tripulación, el equipamiento y Mejora de campo para ajustar el rendimiento de los carros según tus preferencias de juego. Y, como toque final, puedes personalizar su aspecto: da color a tus vehículos con pintura, estilos y muchas otras opciones.GRÁFICOS Y SONIDO MODERNOSDesde su lanzamiento en 2010, los gráficos y la física de World of Tanks han recibido múltiples mejoras. Los mapas presentan puntos destacados y una serie de objetos que se pueden destruir. Los vehículos se mojan al pasar por el agua, y los proyectiles enemigos los agujerean si perforan su blindaje o dejan una marca cuando rebotan. Las explosiones de los cañones y los proyectiles incluyen sonidos auténticos que varían según el calibre y la riqueza del ambiente acústico facilita la inmersión.VARIEDAD DE MODOS: JCJ Y MÁSEl modo básico es el de Batallas aleatorias de 15 contra 15. Hay otros modos importantes, como Asedio (7 contra 7 con habilidades especiales), Línea del frente (30 contra 30 en mapas masivos con varias opciones tácticas, como ataques aéreos) y Cazador de acero (un modo todos contra todos en vehículos específicos del modo con mejoras). También hay eventos temáticos JcE y JcJ con recompensas únicas, el Mapa global exclusivo de clanes, las Fortalezas para clanes y mucho más.APTO PARA PRINCIPIANTESLleva tiempo dominar World of Tanks, pero aprender a jugar es fácil y divertido desde la primera batalla. Si eres principiante, aprende los aspectos fundamentales en los escenarios del Campo de entrenamiento, enfréntate a enemigos fáciles en batallas de nivel bajo y completa las misiones de la Academia acorazada para ganar recompensas. Si conoces a algún veterano, te puede inscribir en el Programa de reclutamiento, donde ambos recibiréis beneficios.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11 (solo de 64 bits)
+
+- Procesador: Intel Core i5-3330 / AMD FX-6300
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 660 / AMD Radeon R9 270, resolución de pantalla de 1280x768
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 120 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11 (solo de 64 bits)
+
+- Procesador: Intel Core i3-9100F / AMD Ryzen 3 3100
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia GTX 1650 / AMD Radeon RX 580
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 120 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

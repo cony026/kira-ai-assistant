@@ -1,0 +1,26 @@
+JUEGO: Worms
+
+FUENTE: IGDB
+PLATAFORMA: Amiga CD32, Super Nintendo Entertainment System, Sega Mega Drive/Genesis, PC (Microsoft Windows)
+DISPONIBLE EN: Amiga CD32, Super Nintendo Entertainment System, Sega Mega Drive/Genesis, PC (Microsoft Windows), Mac, DOS, Amiga, Atari Jaguar, Sega Saturn, PlayStation, PlayStation Portable
+GÉNEROS: Estrategia
+TEMAS: Acción, Comedia, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Team17
+PUBLISHER: Telegames, Ocean Software, Sold Out Sales & Marketing, GT Interactive Software, Tec Toy, Team17
+FECHA DE LANZAMIENTO: 1995-06-01
+NOTA DE LA CRÍTICA (IGDB): 80/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 76/100 (212 votos)
+FRANQUICIA: Worms
+TAMBIÉN CONOCIDO COMO: Total Wormage, Worms 1, Worms: Original
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1xqn.jpg
+URL: https://www.igdb.com/games/worms
+
+RESUMEN:
+Worms is a turn-based strategy game that combines tactical decision-making with elements of randomness. Players control teams of worms and take turns using a wide range of weapons and tools to defeat opposing teams, resulting in varied gameplay outcomes.
+The game offers numerous possible strategies and scenarios, contributing to high replayability. While the basic mechanics are simple, players may require some time to become familiar with controls, weapons, and tactics. Worms supports both single-player and multiplayer modes.
+Team17 planned on producing Worms for the Virtual Boy back in 1995. Though after a few weeks, they cancelled this plan due to the lack of interest of the publisher and the expected failure of the Virtual Boy.
+
+JUEGOS PARECIDOS:
+Si te gusta Worms, también podrían gustarte: Worms 3D, Worms: Open Warfare, Worms: Open Warfare 2, Worms Armageddon, Worms: A Space Oddity, Worms World Party, Worms 2, Worms 4: Mayhem, Worms 2: Armageddon, Worms Forts: Under Siege.

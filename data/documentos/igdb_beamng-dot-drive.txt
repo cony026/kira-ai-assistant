@@ -1,0 +1,22 @@
+JUEGO: BeamNG.drive
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), PlayStation 5
+DISPONIBLE EN: PC (Microsoft Windows), PlayStation 5
+GÉNEROS: Carreras, Simulación
+TEMAS: Acción, Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona, Tercera persona, Realidad virtual
+DESARROLLADOR: BeamNG
+PUBLISHER: BeamNG
+FECHA DE LANZAMIENTO: 2015-04-05
+NOTA DE USUARIOS (IGDB): 75/100 (96 votos)
+TAMBIÉN CONOCIDO COMO: BeamNG.drive.exe, BeamNG Drive, Drive
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1sym.jpg
+URL: https://www.igdb.com/games/beamng-dot-drive
+
+RESUMEN:
+BeamNG.drive is a sandbox vehicle simulation game built around soft-body physics that simulate realistic vehicle handling, deformation, and damage in real time. The game originated as a spiritual successor to the open-source project Rigs of Rods and was initially released as a tech demo in 2013 before moving to Steam Early Access in 2015. Players can engage in campaigns, time trials, and free roam across various open-world maps, experimenting with vehicle collisions, environmental physics, and user-created mods. The game supports VR, features an integration with the car-building game Automation, and has native modding support with a community repository.
+
+JUEGOS PARECIDOS:
+Si te gusta BeamNG.drive, también podrían gustarte: Need for Speed II, Dirt Rally 2.0, The Need for Speed, Grid, Teardown, Drug Dealer Simulator 2, Dakar Desert Rally, The Italian Job, V-Racer Hoverbike, Assetto Corsa Competizione.

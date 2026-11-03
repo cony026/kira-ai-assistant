@@ -1,0 +1,23 @@
+JUEGO: World of Warships
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Shooter, Estrategia en tiempo real, Simulación, Táctico
+TEMAS: Acción, Histórico, Bélico
+MODOS DE JUEGO: Multijugador, Cooperativo, MMO
+PERSPECTIVA: Primera persona, Tercera persona, Isométrica, Vista lateral
+DESARROLLADOR: Wargaming.net
+PUBLISHER: Wargaming.net
+FECHA DE LANZAMIENTO: 2015-09-17
+NOTA DE LA CRÍTICA (IGDB): 82/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 69/100 (96 votos)
+TAMBIÉN CONOCIDO COMO: WoWS, 战舰世界, World of Battleships, WorldOfWarships.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cod0v3.jpg
+URL: https://www.igdb.com/games/world-of-warships
+
+RESUMEN:
+World of Warships is a free to play online naval combat game by Wargaming.net. Players compete in a variety of historic warships from numerous national origins. Take control of Destroyers, Cruisers, Battleships, Submarines and Aircraft Carriers in competitive game modes, or cooperatively sail into historic operations.
+
+JUEGOS PARECIDOS:
+Si te gusta World of Warships, también podrían gustarte: World of Tanks, Hell Let Loose, Men of War: Assault Squad 2, Squad 44, Holdfast: Nations At War, Steel Division 2, World of Warplanes, World of Tanks: Blitz, Sudden Strike 4, War Thunder.

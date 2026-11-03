@@ -1,0 +1,19 @@
+JUEGO: Portal
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: macOS, PC, Android, PlayStation 3, Xbox 360, Linux, Nintendo Switch
+FECHA DE LANZAMIENTO: 2007-10-09
+DESARROLLADOR: Valve Software, NVIDIA Lightspeed Studios
+PUBLISHER: Valve, Buka Entertainment, NVIDIA, CyberFront
+GÉNEROS: Action, Puzzle
+NOTA METACRITIC: 90
+RATING USUARIOS: 4.49/5 (5049 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Steam Achievements, Atmospheric, Great Soundtrack, Story Rich, First-Person, Sci-fi, Partial Controller Support, FPS, Funny, Classic, Female Protagonist, Comedy, Includes level editor, Captions available
+
+DESCRIPCIÓN:
+Every single time you click your mouse while holding a gun, you expect bullets to fly and enemies to fall. But here you will try out the FPS game filled with environmental puzzles and engaging story. 
+Silent template for your adventures, Chell, wakes up in a testing facility. She’s a subject of experiments on instant travel device, supervised by snarky and hostile GLaDOS.
+Players will have to complete the tests, room by room, expecting either reward, freedom or more tests. By using the gun, that shoots portals (Portal-Gun™), players will move blocks, travel great distance quickly and learn about your current situation, which is unraveled through environmental storytelling. What you will be told might be different from what you will see.
+White environments will guide the player’s portal placement, forcing them to pay attention to the surroundings.  Portal creates tension, allowing either solving puzzles at your own leisure or moving quickly, due to the time limit or threats.

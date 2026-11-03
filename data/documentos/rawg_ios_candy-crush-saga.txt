@@ -1,0 +1,13 @@
+JUEGO: Candy Crush Saga
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Android, iOS, PC
+FECHA DE LANZAMIENTO: 2012-11-14
+DESARROLLADOR: King
+PUBLISHER: King (Activision Blizzard)
+GÉNEROS: Puzzle, Casual
+TAGS: Free to Play, Match 3, Single-Player, Casual, Level-Based
+
+DESCRIPCIÓN:
+Candy Crush Saga is a match-three puzzle game where players swap colored candies to clear boards across thousands of individually designed levels, each with its own objective and obstacle layout. Limited lives and optional boosters encourage short, repeated play sessions, and new level packs are released on a regular basis.

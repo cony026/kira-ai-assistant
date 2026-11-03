@@ -1,0 +1,28 @@
+JUEGO: RimWorld
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia en tiempo real, Simulación, Estrategia, Indie
+TEMAS: Ciencia ficción, Supervivencia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Ludeon Studios
+PUBLISHER: Ludeon Studios
+FECHA DE LANZAMIENTO: 2018-10-17
+NOTA DE LA CRÍTICA (IGDB): 74/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (307 votos)
+TAMBIÉN CONOCIDO COMO: リムワールド, 림월드, RimWorldWin.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coaaqj.jpg
+URL: https://www.igdb.com/games/rimworld
+
+RESUMEN:
+A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.
+
+HISTORIA:
+RimWorld follows three survivors from a crashed space liner as they build a colony on a frontier world at the rim of known space. Inspired by the space western vibe of Firefly, the deep simulation of Dwarf Fortress, and the epic scale of Dune and Warhammer 40,000.
+
+Manage colonists' moods, needs, thoughts, individual wounds, and illnesses. Engage in deeply-simulated small-team gunplay. Fashion structures, weapons, and apparel from metal, wood, stone, cloth, or exotic, futuristic materials. Fight pirate raiders, hostile tribes, rampaging animals and ancient killing machines. Discover a new generated world each time you play. Build colonies in biomes ranging from desert to jungle to tundra, each with unique flora and fauna. Manage and develop colonists with unique backstories, traits, and skills. Learn to play easily with the help of an intelligent and unobtrusive AI tutor.
+
+JUEGOS PARECIDOS:
+Si te gusta RimWorld, también podrían gustarte: Stardeus, Oxygen Not Included, Songs of Syx, Empires of the Undergrowth, The Universim, Blacksmith Master, Cosmoteer: Starship Architect & Commander, Planetbase, Factorio, The Spatials: Galactology.

@@ -1,0 +1,22 @@
+JUEGO: Tibia
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: RPG, Aventura
+TEMAS: Acción, Fantasía
+MODOS DE JUEGO: Cooperativo, MMO
+PERSPECTIVA: Isométrica
+DESARROLLADOR: CipSoft
+PUBLISHER: CipSoft
+FECHA DE LANZAMIENTO: 1997-01-09
+NOTA DE USUARIOS (IGDB): 79/100 (83 votos)
+TAMBIÉN CONOCIDO COMO: Tib
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co255g.jpg
+URL: https://www.igdb.com/games/tibia
+
+RESUMEN:
+One of the earliest and most successful massively multiplayer online role-playing games (MMORPGs) in history, Tibia is a two-dimensional tile-based game set in a fantasy world with pixel art graphics and a top-down perspective. There are currently 68 game servers online, of which 24 in Europe, 25 in North America, and 19 in South America.
+
+JUEGOS PARECIDOS:
+Si te gusta Tibia, también podrían gustarte: Wurm Online, Ember, King's Bounty, The Temple of Elemental Evil, Tales of the Unknown: Volume I - The Bard's Tale, Heroes of Might and Magic III: The Restoration of Erathia, Ultima Online, The Elder Scrolls II: Daggerfall, Torchlight, Scribblenauts Unlimited.

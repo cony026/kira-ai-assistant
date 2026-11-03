@@ -1,0 +1,22 @@
+JUEGO: Populous
+
+FUENTE: IGDB
+PLATAFORMA: Acorn Archimedes, PC-9800 Series, Sharp X68000, Super Nintendo Entertainment System
+DISPONIBLE EN: Acorn Archimedes, PC-9800 Series, Sharp X68000, Super Nintendo Entertainment System, Sega Mega Drive/Genesis, Atari ST/STE, PC (Microsoft Windows), TurboGrafx-16/PC Engine, Mac, DOS, Amiga, Sega Master System/Mark III
+GÉNEROS: Estrategia en tiempo real, RPG, Simulación, Estrategia
+TEMAS: Fantasía, Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Bullfrog Productions
+PUBLISHER: Electronic Arts, Hudson Soft, Imagineer, Tec Toy
+FECHA DE LANZAMIENTO: 1989-06-05
+NOTA DE USUARIOS (IGDB): 74/100 (47 votos)
+TAMBIÉN CONOCIDO COMO: Populous.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2jjf.jpg
+URL: https://www.igdb.com/games/populous
+
+RESUMEN:
+Populous is a real-time strategy game where the player takes the role of a deity influencing the development of civilizations. You shape terrain, guide followers, and use natural disasters like floods, volcanoes, and earthquakes to influence or eliminate opposing tribes. The game features an isometric perspective and includes 500 levels (worlds), each with different challenges. Originally developed by Bullfrog and designed by Peter Molyneux, it is considered one of the earliest examples of the god-game genre.
+
+JUEGOS PARECIDOS:
+Si te gusta Populous, también podrían gustarte: Dragon Force, Black & White 2, SimCity 4, Little King's Story, SpellForce: The Order of Dawn, Blue Archive, Manor Lords, Blacksmith Master, The Guild 2, Potionomics.

@@ -1,0 +1,23 @@
+JUEGO: Sunless Sea
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Linux, iOS, PC, macOS
+FECHA DE LANZAMIENTO: 2015-02-05
+DESARROLLADOR: Failbetter Games
+PUBLISHER: Failbetter Games
+GÉNEROS: Adventure, RPG, Indie
+NOTA METACRITIC: 81
+RATING USUARIOS: 3.7/5 (243 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Steam Cloud, Atmospheric, steam-trading-cards, Great Soundtrack, RPG, Story Rich, Open World, 2D, Horror, Exploration, Sandbox, Survival, Dark
+
+DESCRIPCIÓN:
+###The help from Kickstarter backers
+This is a role-playing game with roguelike elements from the independent British studio Failbetter Games. The money was collected on Kickstarter, just 4 271 backers supported the game, and donated a little over a hundred thousand pounds to its development. The game is available for solo completion on PC, Mac, and Linux.
+
+###Story and setting
+The player tries on the role of the captain of the ship. Captain's backstory is fully customizable. The game is a spin-off for the browser game Fallen London from the same developers: the action takes place in the same universe and at the same time. The game mixes the Victorian era and the mystical atmosphere of Lovecraft's books. The player sails between different islands of the underground sea, facing different dangers. To win, you need to achieve a certain goal: for example, to find a treasure or to gain the title of the most famous seafarer by transporting goods and opening new lands.
+
+###Key Features
+Death is permanent in the game - the player starts all over again after each defeat. Developers have added the ability to inherit some of the property or team of the predecessor. The game world is randomly generated, although the location of the main ports and islands remains unchanged.

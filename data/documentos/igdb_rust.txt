@@ -1,0 +1,23 @@
+JUEGO: Rust
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, RPG, Aventura, Indie
+TEMAS: Acción, Supervivencia, Sandbox, Mundo abierto
+MODOS DE JUEGO: Multijugador, Cooperativo, MMO
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Facepunch Studios
+PUBLISHER: Facepunch Studios
+FECHA DE LANZAMIENTO: 2018-02-08
+NOTA DE LA CRÍTICA (IGDB): 78/100 (4 críticas)
+NOTA DE USUARIOS (IGDB): 69/100 (276 votos)
+TAMBIÉN CONOCIDO COMO: 러스트, rust.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coajjj.jpg
+URL: https://www.igdb.com/games/rust
+
+RESUMEN:
+The only aim in Rust is to survive. Everything wants you to die - the island’s wildlife, other inhabitants, the environment, and other survivors. Do whatever it takes to last another night.
+
+JUEGOS PARECIDOS:
+Si te gusta Rust, también podrían gustarte: Planet Crafter, Mr. Prepper, Nightingale, Hydroneer, Barony, Minecraft: Java Edition, Team Fortress 2, Red Dead Redemption 2, Graveyard Keeper, Stranded Deep.

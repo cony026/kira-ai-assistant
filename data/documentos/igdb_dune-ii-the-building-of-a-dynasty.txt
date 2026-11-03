@@ -1,0 +1,28 @@
+JUEGO: Dune II: The Building of a Dynasty
+
+FUENTE: IGDB
+PLATAFORMA: Acorn Archimedes, Sega Mega Drive/Genesis, DOS, Amiga
+DISPONIBLE EN: Acorn Archimedes, Sega Mega Drive/Genesis, DOS, Amiga
+GÉNEROS: Estrategia en tiempo real, Estrategia
+TEMAS: Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Westwood Studios
+PUBLISHER: Virgin Games
+FECHA DE LANZAMIENTO: 1992-12-01
+NOTA DE USUARIOS (IGDB): 90/100 (109 votos)
+FRANQUICIA: Frank Herbert's Dune
+TAMBIÉN CONOCIDO COMO: Dune II: Der Kampf um Arrakis, 沙丘魔堡II :王朝的建立, Dune II: Kampf um den Wüstenplaneten, Dune: The Battle for Arrakis, הקרב על אראקיס :II חולית
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4vw0.jpg
+URL: https://www.igdb.com/games/dune-ii-the-building-of-a-dynasty
+
+RESUMEN:
+Dune II is often considered the first mainstream modern real-time strategy game and established many conventions of the genre. Even though set in Frank Herbert's famous Dune universe, the game is only loosely connected to the plot of any of the books or the films based from them. Controlling either of the three Houses, the player must fight a number of battles against the other Houses. In the early levels, the goal is simply to earn a certain number of credits, while in the later missions, all enemies must be destroyed.
+
+The single resource in the game is the Spice, which must be collected by harvesters. The spice is converted to credits in a refinery, which are then spent to construct additional buildings and units. There are two terrain types: buildings can only be constructed on stone, while the Spice is only found on sand. However, units moving on sand attract the large sandworms of Dune, who are virtually indestructible and can swallow even large units whole. As levels progress, new and more advanced buildings and units are made available, including structures like a radar station, a repair facility or defense turrets and, for units, various ground troops, light vehicles and tanks. Each House can construct one unique special unit, and, after building a palace improvement, can unleash a unique palace effect.
+
+HISTORIA:
+The Emperor has proposed a challenge, to each of the houses: "The House that produces the most spice will control Dune. There are no set territories, and no rules of engagement." Vast armies have arrived. Now, three Houses fight for control of Dune; The Noble Atreides, The Insidious Ordos, The Evil Harkonnen.
+
+JUEGOS PARECIDOS:
+Si te gusta Dune II: The Building of a Dynasty, también podrían gustarte: Dune, Emperor: Battle for Dune, Star Wars: Empire at War, Command & Conquer: Tiberian Sun, Total Annihilation, Command & Conquer 4: Tiberian Twilight, Star Wars: Galactic Battlegrounds, Earth 2150, Star Trek: Armada 2, Original War.

@@ -1,0 +1,29 @@
+JUEGO: GoldenEye 007
+
+FUENTE: IGDB
+PLATAFORMA: Nintendo 64
+DISPONIBLE EN: Nintendo 64
+GÉNEROS: Shooter
+TEMAS: Acción, Sigilo
+MODOS DE JUEGO: Un jugador, Multijugador, Pantalla dividida
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Rare
+PUBLISHER: Nintendo, Gradiente
+FECHA DE LANZAMIENTO: 1997-08-23
+NOTA DE LA CRÍTICA (IGDB): 88/100 (0 críticas)
+NOTA DE USUARIOS (IGDB): 86/100 (422 votos)
+FRANQUICIA: James Bond
+TAMBIÉN CONOCIDO COMO: 007 GoldenEye
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cocckw.jpg
+URL: https://www.igdb.com/games/goldeneye-007
+
+RESUMEN:
+GoldenEye 007 is a first-person shooter based on the 1995 James Bond film. The game features a single-player campaign with 20 missions across multiple difficulty levels, emphasizing stealth, varied objectives and mission-based progression. Players can use a range of weapons and gadgets while navigating diverse environments inspired by the movie.
+
+The local split-screen multiplayer mode supports up to four players and offers competitive scenarios such as deathmatch, team modes and character selection from the James Bond universe. The multiplayer component became widely recognized for its influence on console FPS design and is considered a landmark feature of the game.
+
+HISTORIA:
+Set during the Cold War and its aftermath, GoldenEye 007 follows James Bond, an agent of the British Secret Intelligence Service. The story opens with a covert operation at a Soviet chemical weapons facility, where Bond and fellow 00-agent Alec Trevelyan infiltrate the site before the mission goes wrong. Years later, Bond is drawn into an investigation surrounding GoldenEye, a space-based weapon capable of firing an electromagnetic pulse that disables electronics across a targeted area. As the trail leads through Russia and beyond, Bond works alongside computer programmer Natalya Simonova to uncover who controls the weapon and to stop the criminal syndicate known as Janus from turning it against the world.
+
+JUEGOS PARECIDOS:
+Si te gusta GoldenEye 007, también podrían gustarte: Star Wars: Episode I - Racer, Rambo: The Video Game, Star Fox 64, Call of Duty: Roads to Victory, James Bond 007: Agent Under Fire, Kill.Switch, Medal of Honor: Frontline, Call of Duty: Modern Warfare 2, Darkwatch, Turok 3: Shadow of Oblivion.

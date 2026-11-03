@@ -1,0 +1,21 @@
+JUEGO: Audiosurf
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Música, Puzle, Indie
+TEMAS: Acción, Party
+MODOS DE JUEGO: Un jugador, Cooperativo
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Dylan Fitterer
+FECHA DE LANZAMIENTO: 2008-02-15
+NOTA DE LA CRÍTICA (IGDB): 90/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 75/100 (143 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1ud3.jpg
+URL: https://www.igdb.com/games/audiosurf
+
+RESUMEN:
+Audiosurf is a puzzle/rhythm hybrid game created by Invisible Handlebar, a personal company created by Dylan Fitterer. It's track-like stages visually mimic the music the player chooses, while the player races across several lanes collecting colored blocks that appear in sync with the music. The music used in the game is chosen from the user's own library, from almost any DRM-free format, as well as standard redbook CDs; in addition, Audiosurf includes the entire soundtrack to The Orange Box as part of the download.
+
+JUEGOS PARECIDOS:
+Si te gusta Audiosurf, también podrían gustarte: Audiosurf 2, Beat Hazard, The Polynomial, Bit.Trip Beat, Symphony, Critical Mass, Rush, Waves, Geometry Wars: Retro Evolved 2, Soundodger+.

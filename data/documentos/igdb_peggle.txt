@@ -1,0 +1,22 @@
+JUEGO: Peggle
+
+FUENTE: IGDB
+PLATAFORMA: Windows Mobile, BlackBerry OS, Zeebo, PlayStation 3
+DISPONIBLE EN: Windows Mobile, BlackBerry OS, Zeebo, PlayStation 3, Android, PC (Microsoft Windows), iOS, Mac, PlayStation Portable, Xbox 360, Legacy Mobile Device
+GÉNEROS: Puzle, Arcade
+TEMAS: Acción, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: PopCap Games
+PUBLISHER: Magmic, Sony Online Entertainment, PopCap Games
+FECHA DE LANZAMIENTO: 2007-02-27
+NOTA DE LA CRÍTICA (IGDB): 87/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 74/100 (119 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coajt4.jpg
+URL: https://www.igdb.com/games/peggle
+
+RESUMEN:
+Take your best shot with energizing arcade fun! Aim, shoot, clear the orange pegs, then sit back and cheer as 10 whimsical teachers guide you to Peggle greatness. Conquer 55 fanciful levels with 10 mystical Magic Powers, racking up bonus points and shots you'll smile about for weeks. Face off against your friends in Duel Mode, or tackle 75 extra-tricky challenges. It's luck and skill and joyous thrills, and amidst all this fevered action only one question remains: Can you become a Peggle Master?
+
+JUEGOS PARECIDOS:
+Si te gusta Peggle, también podrían gustarte: Worms W.M.D, Guilty Gear: Strive, Peggle Nights, The Baconing, Save the Ninja Clan, Lethal League Blaze, Leo's Fortune, Angry Birds 2, Return to Monkey Island, Tennis in the Face.

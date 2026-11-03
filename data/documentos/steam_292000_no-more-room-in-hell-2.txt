@@ -1,0 +1,69 @@
+JUEGO: No More Room in Hell 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Indie
+DESARROLLADOR: Torn Banner Studios
+PUBLISHER: Torn Banner Studios
+FECHA DE LANZAMIENTO: 11 AGO 2026
+PRECIO: $29.99
+NOTA METACRITIC: 77/100
+RESEÑAS DE USUARIOS (STEAM): Mixed (25545 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+No More Room in Hell 2 es un intenso juego de disparos de zombis para 8 jugadores. Vence a la interminable horda de muertos vivientes. Evita la infección. Sobrevivid juntos al infierno.
+
+DESCRIPCIÓN DETALLADA:
+En No More Room in Hell 2, te metes en la piel de un Responder, un miembro del servicio de emergencias, y te adentras en la escalofriante oscuridad de diversos lugares infestados de zombis. Únete a otros y completa misiones cruciales para ayudar a la humanidad a sobrevivir. Pero ten cuidado: cada encuentro con la horda puede provocar una infección, o incluso la muerte definitiva de tu Responder. Cada combate es una lucha, cada victoria, un paso más para alejarse del borde del apocalipsis.INTENSA EXPERIENCIA COOPERATIVA PARA 8 JUGADORESOcho jugadores deben valerse de su ingenio y enormes reflejos para sobrevivir a las implacables fuerzas de los no muertos. Encuentra a tus compañeros de equipo usando el chat de voz de proximidad y aunad esfuerzos. La comunicación y la estrategia son fundamentales para sobrevivir cuando te enfrentas a amenazas demoledoras, con unos recursos demasiados escasos como para no compartirlos. Sírvete de todas las estrategias y herramientas a tu alcance para burlar a la horda y salir de una pieza. Cada decisión que tomes y cada acción que realices influirá en la reacción de la horda, lo que puede acarrear consecuencias devastadoras o la pérdida de tu Responder y de su progreso individual.DOS MODOS DE JUEGO DIFERENTESEn el modo escenario (Scenario Mode), los Responders se adentran en el epicentro del brote para equiparse, cumplir objetivos cruciales y recuperar suministros. Descubre cómo el reciente apocalipsis ha afectado a la costa noreste de Estados Unidos a través de 6 detallados mapas, cada uno de los cuales ofrece una perspectiva diferente del colapso de la sociedad. Desde los centros urbanos de Lewiston (Maine) y Broadway (Nueva York) hasta la periferia industrial de Pensilvania e instalaciones como el Beaulieu Hospital y un búnker del gobierno, cada localización está ambientada en un momento del día diferente y cuenta con objetivos temáticos que completar. Encuentra equipo por el camino para aumentar tus probabilidades de supervivencia y poder restaurar la infraestructura necesaria para mantener viva a la humanidad.MUERTE PERMANENTE E INFECCIÓNEn cada misión, tu personaje corre el riesgo de morir para siempre. Los no muertos pueden infectarte y trastornar tu mente, situándote en una carrera por tu vida hasta encontrar pastillas o una cura con terapia génica, todo ello antes de que tu cuerpo muerto se alce contra tus aliados. Saquear suministros beneficia a tu equipo, pero tu Responder debe sobrevivir para poder disfrutar de todas las recompensas. Por cada misión que completes con éxito, tus posibilidades de sobrevivir aumentarán gracias a las mejoras en el equipo inicial y a las ventajas obtenidas en tus experiencias anteriores. ¿Pondrás en juego la vida de tu personaje con tal de salvar a un compañero? Las recompensas aumentan cuantos más compañeros salgan de la zona de peligro, pero el riesgo de morir permanentemente siempre está presente.UNA HORDA DINÁMICA Y REACTIVASi bien un zombi supone una amenaza, una multitud puede convertirse rápidamente en un obstáculo insuperable. Los no muertos conservan sus sentidos, y cualquier ruido que hagas en la silenciosa oscuridad puede desencadenar un conflicto. Los diversos tipos de zombi te obligarán a ir un paso por delante o a sufrir un final espantoso, incluida la posibilidad de que tu personaje se una a la horda de los no muertos. CREA UN ARSENALLa munición escasea, los zombis suponen un peligro y los jugadores son frágiles. Vive en tus carnes una experiencia de terror apasionante con un gran arsenal de armas (algunas profesionales y otras improvisadas) para mantener a raya y burlar a los no muertos. Hunde una palanca en el cráneo de un zombi usando el combate cuerpo a cuerpo o descarga el último cartucho de una escopeta contra una horda en movimiento. El sistema dinámico de sangre y vísceras te permite ver y sentir el aterrador impacto de cada uno de tus ataques contra los no muertos. Sobrevive planificando tus combates o utilizando herramientas, como las bombas de proximidad o los cócteles molotov, y haz valer la astucia por encima de la fuerza. Equipa complementos de armas como miras, visores y silenciadores para aumentar su eficacia. Mejora las habilidades de tu Responder a lo largo de múltiples misiones; cada extracción mejora sus capacidades y te permite obtener ventajas únicas con las que personalizar tu equipamiento para futuros despliegues.SOBREVIVIR AL INFIERNO JUNTOS
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10, 64-bit
+
+- Procesador: Intel Core i5-6600 or Ryzen 3 1200
+
+- Memoria: 12 GB de RAM
+
+- Gráficos: GeForce GTX 1650 (4 GB) or Radeon RX 570 (4GB) or Intel Arc 580
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 35 GB de espacio disponible
+
+- Notas adicionales: Experience: 1080p 30 HZ on Low Graphics Settings with Performance Super Sampling
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10, 64-bit
+
+- Procesador: Core i7-10700K or Ryzen 5 5500GT
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: GeForce RTX 2070 (8 GB) or Radeon RX 5700 XT (8 GB)
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 35 GB de espacio disponible
+
+- Notas adicionales: Experience: 1080p 60 HZ on High Graphics Settings with Quality Super Sampling
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

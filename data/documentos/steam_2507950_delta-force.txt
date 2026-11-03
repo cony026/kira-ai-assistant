@@ -1,0 +1,62 @@
+JUEGO: Delta Force
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Multijugador masivo, Free to Play
+DESARROLLADOR: Team Jade
+PUBLISHER: TiMi Studio Group
+FECHA DE LANZAMIENTO: 4 DIC 2024
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Mixed (193266 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Play for free in operator-based extraction and full-scale combined arms warfare. Become elite Operators, customize an ever-expanding arsenal of weapons, and deploy into thrill-packed missions across multiple modes.
+
+DESCRIPCIÓN DETALLADA:
+OPERATOR-BASED EXTRACTION SHOOTERJoin the G.T.I. and select from elite Operators, each equipped with unique tactical gadgets and traits. Whether you favor Detection Arrows, Magnetic Bombs, or Motorized Exoskeletons, coordinate your squad's abilities to outmaneuver rivals in high-stakes missions.LOOTING HAS NEVER BEEN THIS FUNRediscover the thrill of looting. Explore dynamic maps to decipher entry codes, scale heights for Bird Nests, or dive deep to salvage Clams. Every raid offers a new treasure hunt, turning simple looting into an adrenaline-fueled adventure.OUTSMART BOSSES. OUTGUN THE PLAYERSTake on heavily armed mercenaries and ruthless bosses guarding high-value loot. But stay sharp—the deadliest threat comes from rival Operator squads hunting the same prize. Fortune awaits those who can survive the crossfire and extract. No risk, no reward.CHOOSE YOUR EXIT STRATEGYExtraction is an art form. Forget standard exit zones—launch a massive Rocket Extraction, base jump with a wingsuit, or crawl through long sewer pipes to slip away unseen. Adapt your escape plan to the chaos and exfil in spectacular style.EXFIL AND UPGRADE YOUR OPERATIONS CENTERSurvival is just the beginning. Put your loot to good use-upgrade your Operations Center to enhance physical attributes, expand stash capacity, and unlock new gear. Every improvement opens more tactical possibilities, ensuring you return to the field stronger and better equippedDOMINATE LAND, SEA & AIR IN ALL-OUT WARFAREDive into Warfare, where 64 players clash in massive battles. Command tanks and helicopters across urban streets, mountain peaks, and expansive island terrain. Experience seamless combat on maps designed for total destruction.EXTENSIVE ARMORY, EXTREME CUSTOMIZATIONGuided by military advisors, customize real-world weapons to create and share unique builds. Go beyond firearms by modifying land, sea, and air vehicles. Tailor your entire arsenal to dominate the battlefield on your terms.Words from the Game Director, Shadow GuoAs a player:Delta Force was the first shooter I ever played, sparking my love for the genre. I'm grateful for the opportunity to help shape its future and share that same sense of excitement with more players. This new Delta Force is the tactical FPS I dreamed of all those years ago. As a Game Director:We're leveraging Unreal Engine to deliver a truly cross-platform experience bringing players worldwide into an immersive, destructive battlefield filled with tactical depth and thrill-packed action… everything you want from the Delta Force name.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64 bit
+
+- Procesador: Intel Core i3-4150 / AMD FX-6300
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Nvidia Geforce GTX 660 / AMD HD 7870 / Intel Arc A380
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 88 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64 bit
+
+- Procesador: Intel Core i5-6500 / AMD Ryzen 5 1500x
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia Geforce GTX 1060 5G / AMD RX5500 XT / Intel Arc A580
+
+- DirectX: Versión 12
+
+- Almacenamiento: 88 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

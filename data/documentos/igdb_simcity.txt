@@ -1,0 +1,24 @@
+JUEGO: SimCity
+
+FUENTE: IGDB
+PLATAFORMA: Acorn Archimedes, BBC Microcomputer System, PC-9800 Series, Sharp X68000
+DISPONIBLE EN: Acorn Archimedes, BBC Microcomputer System, PC-9800 Series, Sharp X68000, Commodore C64/128/MAX, ZX Spectrum, Atari ST/STE, PC (Microsoft Windows), Acorn Electron, Mac, DOS, FM Towns, Amiga, Amstrad CPC
+GÉNEROS: Simulación, Estrategia
+TEMAS: Gestión, Sandbox
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Maxis
+PUBLISHER: Fujitsu Interactive, Superior Interactive, Infogrames, Krisalis Software, Imagineer, Maxis
+FECHA DE LANZAMIENTO: 1989-10-03
+NOTA DE LA CRÍTICA (IGDB): 59/100 (0 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (147 votos)
+FRANQUICIA: Sim, SimCity
+TAMBIÉN CONOCIDO COMO: SimCity Classic, Sim City, The SimCity
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1vwv.jpg
+URL: https://www.igdb.com/games/simcity
+
+RESUMEN:
+SimCity, later renamed SimCity Classic, is a city-building simulation video game, first released on February 2, 1989, and designed by Will Wright for the Macintosh computer. SimCity was Maxis's second product, which has since been ported into various personal computers and game consoles, and spawned several sequels including SimCity 2000 in 1993, SimCity 3000 in 1999, SimCity 4 in 2003, SimCity DS, SimCity Societies in 2007, and SimCity in 2013. Until the release of The Sims in 2000, the SimCity series was the best-selling line of computer games made by Maxis.
+
+JUEGOS PARECIDOS:
+Si te gusta SimCity, también podrían gustarte: Capitalism Lab, SimCity 3000, SimCity DS, SimCity Creator, Airline Tycoon 2, Norland, Workers & Resources: Soviet Republic, SimCity BuildIt, RollerCoaster Tycoon, Hotel Architect.

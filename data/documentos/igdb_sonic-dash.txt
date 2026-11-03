@@ -1,0 +1,26 @@
+JUEGO: Sonic Dash
+
+FUENTE: IGDB
+PLATAFORMA: Windows Phone, Android, iOS
+DISPONIBLE EN: Windows Phone, Android, iOS
+GÉNEROS: Plataformas, Carreras, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Hardlight
+PUBLISHER: Sega Games, Sega Corporation
+FECHA DE LANZAMIENTO: 2013-03-07
+NOTA DE LA CRÍTICA (IGDB): 60/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 70/100 (34 votos)
+FRANQUICIA: Sonic The Hedgehog
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co49nz.jpg
+URL: https://www.igdb.com/games/sonic-dash
+
+RESUMEN:
+Sonic Dash is an endless runner platformer video game developed by Hardlight and published by Sega. It was released exclusively on mobile phones, and is the second game in the Sonic the Hedgehog series developed by Hardlight for the platform, the first being the remake of Sonic Jump in 2012. The game was released on March 7, 2013, for iOS, November 26, 2013, for Android, and December 3, 2014, for Windows.
+
+HISTORIA:
+Sonic Dash is played as an endless runner, similar to the Temple Run and Rayman Jungle Run video games.In the game, the player directs Sonic through levels, collecting rings and avoiding obstacles and enemies. Unlike other games in the series, Sonic automatically moves forward at all times, similar to Sonic and the Secret Rings. Players are able to share and compete for accomplishments such as "fastest time" or "longest distance".
+
+JUEGOS PARECIDOS:
+Si te gusta Sonic Dash, también podrían gustarte: Temple Run, Sonic Runners, Hill Climb Racing, Temple Run 2, Pac-Man 256, Crossy Road, Subway Surfers, Angry Birds 2, Buck Up and Drive!, Asphalt 8: Airborne.

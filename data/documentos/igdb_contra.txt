@@ -1,0 +1,27 @@
+JUEGO: Contra
+
+FUENTE: IGDB
+PLATAFORMA: Arcade
+DISPONIBLE EN: Arcade
+GÉNEROS: Shooter, Plataformas, Arcade
+TEMAS: Acción, Ciencia ficción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Tercera persona, Vista lateral
+DESARROLLADOR: Konami
+PUBLISHER: Konami
+FECHA DE LANZAMIENTO: 1987-02-01
+NOTA DE LA CRÍTICA (IGDB): 50/100 (0 críticas)
+NOTA DE USUARIOS (IGDB): 80/100 (263 votos)
+FRANQUICIA: Contra
+TAMBIÉN CONOCIDO COMO: Kontora, 魂斗羅
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4ben.jpg
+URL: https://www.igdb.com/games/contra
+
+RESUMEN:
+Contra (also known as Gryzor in Oceania and Europe), is a 1987 run and gun action game developed and published by Konami originally released as a coin-operated arcade game on February 20, 1987. The game had multiple ports, including for various computer formats. Several Contra sequels were produced following the original game.
+
+HISTORIA:
+In Contra, the player controls one of two armed military commandos named Bill "Mad Dog" Rizer and Lance "Scorpion" Bean, who are sent on a mission to neutralize a terrorist group called the Red Falcon Organization that is planning to take over the Earth. Details of the game's setting varies between supplementary materials: the Japanese versions sets the game in the year 2633 on the fictional "Galuga archipelago" near New Zealand, whereas the manual for the American NES version sets the game during the present in an unnamed South American island. The American storyline also changes the identity of "Red Falcon" from being the name of a terrorist organization to the name of an alien entity.
+
+JUEGOS PARECIDOS:
+Si te gusta Contra, también podrían gustarte: Contra 4, Contra III: The Alien Wars, Contra ReBirth, Metal Slug 3, Contra: Shattered Soldier, Contra Force, Xevious, Contra: Hard Corps, Gunstar Heroes, Neo Contra.

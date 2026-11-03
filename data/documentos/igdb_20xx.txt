@@ -1,0 +1,23 @@
+JUEGO: 20XX
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Xbox One, Nintendo Switch
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Xbox One, Nintendo Switch
+GÉNEROS: Shooter, Plataformas, Aventura, Indie, Arcade
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Fire Hose Games, Batterystaple Games
+PUBLISHER: Batterystaple Games
+FECHA DE LANZAMIENTO: 2017-08-16
+NOTA DE LA CRÍTICA (IGDB): 75/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 70/100 (30 votos)
+TAMBIÉN CONOCIDO COMO: Echoes of Eridu, 20XX.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co22jc.jpg
+URL: https://www.igdb.com/games/20xx
+
+RESUMEN:
+20XX is a co-op-friendly action platformer roguelite. Explore procedurally generated levels, collect new weapons and abilities, purchase upgrades, and crush ferocious bosses! If you are a fan of roguelikes or Mega Man, 20XX is for you!
+
+JUEGOS PARECIDOS:
+Si te gusta 20XX, también podrían gustarte: Brawlhalla, Duck Game, SpeedRunners, Azure Striker Gunvolt 2, Lovers in a Dangerous Spacetime, Huntdown, Degrees of Separation, Ghost 1.0, Mekazoo, Alien Hominid Invasion.

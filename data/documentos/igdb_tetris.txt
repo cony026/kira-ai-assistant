@@ -1,0 +1,23 @@
+JUEGO: Tetris
+
+FUENTE: IGDB
+PLATAFORMA: Nintendo Entertainment System
+DISPONIBLE EN: Nintendo Entertainment System
+GÉNEROS: Puzle, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Nintendo
+PUBLISHER: Nintendo, Playtronic
+FECHA DE LANZAMIENTO: 1989-11-01
+NOTA DE USUARIOS (IGDB): 86/100 (943 votos)
+FRANQUICIA: Tetris
+TAMBIÉN CONOCIDO COMO: Тетрис
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2ufk.jpg
+URL: https://www.igdb.com/games/tetris
+
+RESUMEN:
+Tetris is a puzzle video game created by Soviet software engineer Alexey Pajitnov in the mid-1980s. Players arrange falling pieces made of four connected blocks, called tetrominoes, into complete horizontal lines within a rectangular playfield. Completed lines disappear and award points, while the speed of the falling pieces increases over time. The game ends when stacked pieces reach the top of the field. With over 520 million sales across approximately 220 versions and at least 70 platforms, it is the second-best-selling video game series.
+
+JUEGOS PARECIDOS:
+Si te gusta Tetris, también podrían gustarte: Part Time UFO, TTV2, Master Spy, Magic Jewelry, Void Scrappers, Semblance, Witch Hunter, NecroWorm, Octogeddon, Degrees of Separation.

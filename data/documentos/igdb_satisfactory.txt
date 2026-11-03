@@ -1,0 +1,28 @@
+JUEGO: Satisfactory
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+DISPONIBLE EN: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+GÉNEROS: Simulación, Estrategia, Aventura
+TEMAS: Ciencia ficción, Sandbox, Mundo abierto
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Coffee Stain Studios
+PUBLISHER: Coffee Stain Publishing
+FECHA DE LANZAMIENTO: 2024-09-10
+NOTA DE LA CRÍTICA (IGDB): 95/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 73/100 (211 votos)
+TAMBIÉN CONOCIDO COMO: 새티스팩토리, FactoryGameSteam.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co8tfy.jpg
+URL: https://www.igdb.com/games/satisfactory
+
+RESUMEN:
+Satisfactory is a first-person factory simulation game set on an alien planet. Players take the role of a Pioneer, an employee of the megacorporation FICSIT Inc., tasked with harvesting natural resources and constructing increasingly complex automated production lines. The goal is to manufacture components for "Project Assembly," delivered via a space elevator to an orbital platform. The game features a hand-crafted open world spanning approximately 30 square kilometers across multiple biomes, a tiered technology progression system, cooperative multiplayer, and extensive logistics management through conveyor belts, pipelines, and vehicles.
+
+HISTORIA:
+An unnamed Pioneer employed by the megacorporation FICSIT Inc. is dropped from orbit onto the surface of an alien planet designated MASSAGE-2(AB)b. The drop pod malfunctions, and the Pioneer barely survives the landing, awakening with no memories. Guided by FICSIT's artificial intelligence, ADA, the Pioneer learns she is one of few to have landed successfully in the region. ADA instructs her to begin constructing infrastructure for ""Project Assembly,"" described only as part of a larger initiative called the Save the Day Program, intended to rescue Earth from an unspecified catastrophe.
+
+As the Pioneer builds deeper into the planet's wilderness, she discovers mysterious alien artifacts that trigger strange mental contact with an unknown intelligence. Something on this world is trying to communicate, and the true nature of both the planet and FICSIT's mission may be more complex than a simple resource extraction operation.
+
+JUEGOS PARECIDOS:
+Si te gusta Satisfactory, también podrían gustarte: Drug Dealer Simulator 2, Green Hell, Techtonica, Raft, Space Engineers, Avatar: Frontiers of Pandora, Hardspace: Shipbreaker, Carrier Command 2, Starship EVO, Call of the Wild: The Angler.

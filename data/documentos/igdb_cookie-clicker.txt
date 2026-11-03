@@ -1,0 +1,26 @@
+JUEGO: Cookie Clicker
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, Web browser, PlayStation 4, Linux
+DISPONIBLE EN: Xbox Series X|S, Web browser, PlayStation 4, Linux, Android, PC (Microsoft Windows), PlayStation 5, Mac, Xbox One, Nintendo Switch
+GÉNEROS: Point and click, Simulación, Estrategia, Indie
+TEMAS: Fantasía, Ciencia ficción, Comedia, Gestión
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Texto
+DESARROLLADOR: Orteil
+PUBLISHER: Orteil, Playsaurus
+FECHA DE LANZAMIENTO: 2013-08-10
+NOTA DE LA CRÍTICA (IGDB): 85/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 73/100 (109 votos)
+TAMBIÉN CONOCIDO COMO: Cookie Clicker.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co8e5m.jpg
+URL: https://www.igdb.com/games/cookie-clicker
+
+RESUMEN:
+Cookie Clicker is a Javascript-based browser video game written by French programmer Julien Thiennot, better known as "Orteil". The point of the game is to bake cookies as fast as possible, to have a large number of cookies, and to have a lot of milk; notably, however, there is no true end to the gameplay. At the beginning of the game, the player bakes cookies solely by clicking on a giant cookie, gaining one cookie each time it is clicked. Once the player has enough cookies, they can use them to buy items that will bake more cookies automatically. The seemingly endless gameplay makes it a game that can last an indefinite amount of time.
+
+HISTORIA:
+Interpretatively, the closer you get to making more cookies than there are people to consume them, the more you turn the world into nothing but a race of sentient cookies, and aliens. The story can also be perceived as symbolism for corporations or monopolies getting carried-away, and forgetting all sense of their origins, or otherwise destroying their own foundations from within, when nothing but the next job/production is all that can be seen in life.
+
+JUEGOS PARECIDOS:
+Si te gusta Cookie Clicker, también podrían gustarte: Death and Taxes, AdVenture Capitalist, 911 Operator, Two Point Campus, Two Point Hospital, Prison Architect, Idle Cave Miner, Little Big Workshop, Hollywood Animal, Hypnospace Outlaw.

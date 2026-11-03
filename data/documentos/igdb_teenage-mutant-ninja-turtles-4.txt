@@ -1,0 +1,28 @@
+JUEGO: Teenage Mutant Ninja Turtles
+
+FUENTE: IGDB
+PLATAFORMA: Commodore C64/128/MAX, ZX Spectrum, Atari ST/STE, DOS
+DISPONIBLE EN: Commodore C64/128/MAX, ZX Spectrum, Atari ST/STE, DOS, Amiga, Amstrad CPC, MSX
+GÉNEROS: Plataformas, Aventura
+TEMAS: Acción, Ciencia ficción, Infantil
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Konami
+PUBLISHER: Ultra Software Corporation, Image Works
+FECHA DE LANZAMIENTO: 1989-12-31
+NOTA DE USUARIOS (IGDB): 65/100 (49 votos)
+FRANQUICIA: Teenage Mutant Ninja Turtles
+TAMBIÉN CONOCIDO COMO: Tartarughe Ninja, Костенурките Нинджа, TMNT, "Les Tortues Ninja", Tortugas Ninja
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6q7i.jpg
+URL: https://www.igdb.com/games/teenage-mutant-ninja-turtles--4
+
+RESUMEN:
+A Port of "Teenage Mutant Ninja Turtles" for home computers.
+
+Teenage Mutant Ninja Turtles is an action-platform game. It is based on the first Teenage Mutant Ninja Turtles animated series which began airing in late 1987.
+
+HISTORIA:
+The Ninja Turtles (Leonardo, Raphael, Michelangelo, and Donatello) are on a mission to retrieve the Life Transformer Gun from Shredder, a device that could restore their sensei Splinter back to his human form. The Turtles' first objective is to rescue their reporter friend April O'Neil, who is being held captive by Bebop and Rocksteady somewhere in the city. After rescuing April, the turtles must swim underwater to disarm a series of bombs set to destroy a dam, rescue Splinter from the Mecha Turtle, destroy a giant Mouser, find the Technodrome and eventually defeat Shredder.
+
+JUEGOS PARECIDOS:
+Si te gusta Teenage Mutant Ninja Turtles, también podrían gustarte: Replaced, Biota, Lucky Luke, RunMan: Race Around the World, Street Fighter 2010: The Final Fight, Solar Ash, Soda Crisis, 1 Screen Platformer, Khimera: Destroy All Monster Girls, Saboteur!.

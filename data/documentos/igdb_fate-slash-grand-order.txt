@@ -1,0 +1,23 @@
+JUEGO: Fate/Grand Order
+
+FUENTE: IGDB
+PLATAFORMA: Android, iOS
+DISPONIBLE EN: Android, iOS
+GÉNEROS: RPG, Aventura, Novela visual
+TEMAS: Acción, Fantasía, Ciencia ficción, Drama
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Delightworks, Lasengle
+PUBLISHER: Aniplex, Aniplex of America, TYPE-MOON
+FECHA DE LANZAMIENTO: 2015-07-30
+NOTA DE USUARIOS (IGDB): 92/100 (76 votos)
+FRANQUICIA: Fate, Nasuverse
+TAMBIÉN CONOCIDO COMO: 페그오, Fate/GO, F/GO, FGO
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1qq4.jpg
+URL: https://www.igdb.com/games/fate-slash-grand-order
+
+RESUMEN:
+Fate/Grand Order is a turn-based role-playing game with some visual novel elements set in the Fate/ franchise, for iOS and Android.
+
+JUEGOS PARECIDOS:
+Si te gusta Fate/Grand Order, también podrían gustarte: Honkai Impact 3rd, Heaven Burns Red, Honkai: Star Rail, Blue Archive, Zenless Zone Zero, Arknights, Limbus Company, Snowbreak: Containment Zone, Another Eden, Forgotton Anne.

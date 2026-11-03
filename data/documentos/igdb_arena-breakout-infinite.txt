@@ -1,0 +1,22 @@
+JUEGO: Arena Breakout: Infinite
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Shooter, Estrategia, Táctico
+TEMAS: Acción, Supervivencia, Bélico
+MODOS DE JUEGO: Multijugador, Cooperativo, MMO
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Morefun Studio Group
+PUBLISHER: Morefun Studio Group
+FECHA DE LANZAMIENTO: 2025-09-15
+NOTA DE USUARIOS (IGDB): 80/100 (146 votos)
+TAMBIÉN CONOCIDO COMO: 暗区突围, arena_breakout_infinite_launcher.exe, abi, ABI
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cocrs8.jpg
+URL: https://www.igdb.com/games/arena-breakout-infinite
+
+RESUMEN:
+Arena Breakout: Infinite is a tactical extraction shooter featuring PvPvE combat. Players enter raids where they fight both AI enemies and other players, collect loot, and attempt to escape the map alive. Failing to extract means losing all acquired gear. The game emphasizes realistic visuals and sound design.
+
+JUEGOS PARECIDOS:
+Si te gusta Arena Breakout: Infinite, también podrían gustarte: Gray Zone Warfare, Escape from Tarkov, Arma Reforger, Battle Teams, Blood Strike, Delta Force, Polygon, Squad 44, Thunder Tier One, Zero Hour.

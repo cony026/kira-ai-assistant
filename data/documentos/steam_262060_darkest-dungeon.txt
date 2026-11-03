@@ -1,0 +1,124 @@
+JUEGO: Darkest Dungeon®
+PLATAFORMA: PC (Steam)
+GÉNEROS: Indie, Rol, Estrategia
+DESARROLLADOR: Red Hook Studios
+PUBLISHER: Red Hook Studios
+FECHA DE LANZAMIENTO: 19 ENE 2016
+PRECIO: $3.74
+NOTA METACRITIC: 84/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (161672 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Darkest Dungeon es un desafiante juego de rol gótico en mazmorras y por turnos que gira en torno al esfuerzo psicológico de la aventura. Recluta, entrena y lidera a un equipo de héroes imperfectos a través de enrevesados bosques, laberintos olvidados, criptas en ruinas y más allá.
+
+DESCRIPCIÓN DETALLADA:
+Darkest Dungeon es un desafiante juego de rol gótico en mazmorras y por turnos que gira en torno al esfuerzo psicológico de la aventura.
+
+Recluta, entrena y lidera a un equipo de héroes imperfectos a través de enrevesados bosques, laberintos olvidados, criptas en ruinas y más allá. Te enfrentarás no solo a enemigos inimaginables, sino al esfuerzo, el hambre, la enfermedad y la siempre acechante oscuridad. Descubre extraños misterios y enfrenta a los héroes a una serie de temibles monstruos con un innovador sistema de combate estratégico por turnos.
+
+-  3 modos de juego y más de 80 horas de duración
+
+-  Compatibilidad con Steam Workshop para uso de modificaciones
+
+-  Sistema de aflicción: ¡enfréntate no solo a monstruos, sino al esfuerzo! ¡Lidia con la paranoia, el masoquismo, el miedo, la irracionalidad y una serie de peculiaridades que afectarán a la dinámica de juego!
+
+-  Impresionante estilo de ilustraciones góticas dibujadas a mano.
+
+-  El innovador combate por turnos te enfrenta a una horda de monstruos diabólicos.
+
+-  ¡16 clases de héroes seleccionables (¡y más que se añadirán!), entre ellos la doctora de plagas, la diabla e incluso un leproso!
+
+-  Acampa para curar heridas o dar discursos inspiradores.
+
+-  Permite que tus agotados personajes descansen en la ciudad, la taberna o la abadía para que el esfuerzo no les afecte.
+
+-  Características de los clásicos juegos de rol y mazmorras, como la muerte permanente, las mazmorras generadas por procedimientos e increíbles posibilidades de volver a jugar
+¿Puedes contener la horda de horrores y espíritus que están surgiendo en el feudo ancestral de tu familia?
+
+¡Desciende bajo tu propio riesgo!Premios y menciones
+- PG Gamer: Best RPG of 2016
+- Game Informer - Best RPGs of 2016: 3 Awards
+- IGN - Best of 2016: 2 Nominations
+- IGF 2016 - 3 Nominations
+- Rock Paper Shotgun - 50 Best RPGs of All Time
+- PAX 10 - 2015
+- Game Debate Best Indie Game 2016
+- SXSW Gamer's Choice Nominee 2015
+- MMORPG - Best Indie RPG (Pax East 2014), Best RPG Nomination PAX Prime 2014
+- Indie Megabooth Selection - PAX East 2014, PAX Prime 2015
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO *: Windows XP
+
+- Memoria: 2 GB de RAM
+
+- Gráficos: Open GL 3.2+ Compliant
+
+- Almacenamiento: 2 GB de espacio disponible
+
+- Notas adicionales: 1080p, 16:9 recommended
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO *: Windows 7+
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: Open GL 3.2+ Compliant
+
+- Almacenamiento: 2 GB de espacio disponible
+
+- Notas adicionales: 1080p, 16:9 recommended
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: OSX 10.9+
+
+- Memoria: 2 GB de RAM
+
+- Gráficos: Open GL 3.2+ Compliant
+
+- Almacenamiento: 2 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: OSX 10.9+
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: Open GL 3.2+ Compliant
+
+- Almacenamiento: 2 GB de espacio disponible
+
+- Notas adicionales: 1080p, 16:9 recommended
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- SO: Ubuntu 18.04
+
+- Memoria: 2 GB de RAM
+
+- Gráficos: Open GL 3.2+ Compliant
+
+- Almacenamiento: 2 GB de espacio disponible
+
+- Notas adicionales: 1080p, 16:9 recommended
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:
+
+- SO: Ubuntu 18.04
+
+- Memoria: 2 GB de RAM
+
+- Gráficos: Open GL 3.2+ Compliant
+
+- Almacenamiento: 2 GB de espacio disponible
+
+- Notas adicionales: 1080p, 16:9 recommended

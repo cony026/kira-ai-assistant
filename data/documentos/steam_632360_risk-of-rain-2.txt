@@ -1,0 +1,75 @@
+JUEGO: Risk of Rain 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Indie
+DESARROLLADOR: Hopoo Games
+PUBLISHER: Gearbox Publishing, 2K
+FECHA DE LANZAMIENTO: 11 AGO 2020
+PRECIO: $8.24
+NOTA METACRITIC: 85/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (351812 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Lucha contra hordas de monstruos enloquecidos junto a tus amigos o en solitario para lograr escapar de un planeta alienígena sumido en el caos. Combina el botín de maneras asombrosas y domina cada personaje hasta encarnar la destrucción que tanto te aterraba tras tu primer aterrizaje forzoso.
+
+DESCRIPCIÓN DETALLADA:
+SOBREVIVE EN UN PLANETA ALIENÍGENA
+Te esperan un montón de ubicaciones diseñadas al detalle. Todas están repletas de monstruos desafiantes y enormes jefes empeñados en poner fin a tu existencia. Ábrete paso hasta derrotar al jefe final y escapa o continúa la partida de forma indefinida para comprobar cuánto tiempo logras sobrevivir. Un sistema de ajuste exclusivo propicia que tanto tú como los enemigos os hagáis más fuertes de forma ilimitada en el transcurso de una partida.
+
+DESCUBRE OBJETOS NUEVOS DE GRAN PODER
+Los más de 110 objetos que hay disponibles permiten que cada partida sea única y esté llena de nuevos desafíos. Cuantos más objetos consigas, más efectos se combinarán, lo que resultará en combinaciones de lo más sorprendentes. Al recoger objetos podrás acceder a más entradas del diario y descubrir nuevas historias y estrategias.
+
+DESBLOQUEA NUEVAS FORMAS DE JUGAR 
+Desbloquea a una tripulación de once supervivientes a los que podrás controlar. Cada uno cuenta con un estilo de combate único y habilidades alternativas que dominar. Descubre los secretos de los artefactos para activar modificadores que alteran el sistema de juego, como el fuego amigo, la aparición de supervivientes al azar, la selección de objetos y más. Gracias a la aleatoriedad de las fases, los enemigos, los jefes y los objetos, no habrá dos partidas iguales.
+
+JUEGA EN SOLITARIO O CON AMIGOS
+Emprende esta aventura en solitario o con hasta tres amigos en el modo cooperativo en línea. Asimismo, puedes competir en el desafío rotativo de las pruebas prísmicas. Hay incorporaciones completamente nuevas, como el Capitán y MUL-TI, que se unen al plantel de supervivientes clásicos compuesto por personajes como el Ingeniero, la Cazadora y, por supuesto, el Comando.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO *: Windows 7 or newer, 64-bit
+
+- Procesador: Intel Core i3-6100 / AMD FX-8350
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: GTX 580 / AMD HD 7870
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 4 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO *: Windows 7 or newer, 64-bit
+
+- Procesador: Intel Core i5-4670K / AMD Ryzen 5 1500X
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: GTX 680 / AMD HD 7970
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 4 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

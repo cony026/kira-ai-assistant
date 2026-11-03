@@ -1,0 +1,34 @@
+JUEGO: Wallpaper Engine
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, PC
+FECHA DE LANZAMIENTO: 2016-10-10
+GÉNEROS: Casual
+RATING USUARIOS: 4.05/5 (263 votos)
+TIEMPO DE JUEGO MEDIO: 13 horas
+TAGS: steam, Utilities, Software, android, Photo Editing, pc, tool, animated, desktop, program, aesthetic, customizable, wallpaper, background
+
+DESCRIPCIÓN:
+'Wallpaper Engine' is a customizable desktop wallpaper software available for PC via Steam. Developed and published by Wallpaper Engine Team on October 10th, 2016, it dedicates the program towards the user's tastes and preference for their desktop wallpaper. It features high-definition static images, slideshow backgrounds, as well as animated live wallpapers, with a backlog presenting hundreds of default options and DIY tools. It also has a specialized Android app of the same name, which allows users to transfer wallpapers to their phones.
+
+Official Description
+-
+Wallpaper Engine enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. Choose an existing wallpaper or create your own and share it on the Steam Workshop! In addition to that, you can use the free Wallpaper Engine companion app for Android to transfer your favorite wallpapers to your Android mobile device and take your live wallpapers on the go.
+
+Features:
+-
+• Bring your desktop wallpapers alive with realtime graphics, videos, applications or websites.
+• Use animated screensavers while you are away from your computer.
+• Personalize animated wallpapers with your favorite colors.
+• Use interactive wallpapers that can be controlled with your mouse.
+• Many aspect ratios and native resolutions supported including 16:9, 21:9, 16:10, 4:3.
+• Multi monitor environments are supported.
+• Wallpapers will pause while playing games to save performance.
+• Create your own animated wallpapers in the Wallpaper Engine Editor.
+• Animate new live wallpapers from basic images or import HTML or video files for the wallpaper.
+• Use the Steam Workshop to share and download wallpapers for free.
+• Wallpaper Engine can be used at the same time as any other Steam game or application.
+• Supported video formats: mp4, WebM, avi, m4v, mov, wmv (for local files, Workshop only allows mp4).
+• Use the free Android companion app to take your favorite scene and video wallpapers on the go.
+• Support for Razer Chroma and Corsair iCUE.

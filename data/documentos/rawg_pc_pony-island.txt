@@ -1,0 +1,23 @@
+JUEGO: Pony Island
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: PC, macOS, Linux
+FECHA DE LANZAMIENTO: 2016-01-04
+DESARROLLADOR: Daniel Mullins Games
+PUBLISHER: Daniel Mullins Games
+GÉNEROS: Adventure, Arcade, Indie, Puzzle
+NOTA METACRITIC: 86
+RATING USUARIOS: 3.96/5 (346 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Atmospheric, steam-trading-cards, Great Soundtrack, Story Rich, 2D, Horror, Funny, Gore, Pixel Graphics, Dark, stats, Cute, Short
+
+DESCRIPCIÓN:
+###Arcade soul
+Game by the authorship of one person: Daniel Mullins. The developer conceived it as an interactive arcade machine, which was called Pony Island. According to the idea, the player soon learns that the machine is infected with a certain demon, which captures the souls of players.
+
+###Key features
+The main character gets help from the soul of a player already captured: he could not cope with the devil's trials. Pony Island is a point-and-click game that simulates the operating system using the user interface. The main task of the player is to study the internal software shell of the gaming machine, where he got stuck and tried to escape the demon. The gameplay of the game changes constantly and the player needs to participate in mini-games like endless runner and shoot-em-up.
+
+###Money for the dream
+Prior to Pony Island, Daniel Mullins was already trying to release the game: right after college, in 2014, he collected the necessary money to develop his first game Catch Monsters. The successful crowdfunding experience allowed Daniel to pursue his dream and not work on boring work in the office. Pony Island was developed in just 48 hours, during the Ludum Game Jam, and later appeared on the platform for indie games Steam Greenlight. After that, the popular YouTube PewDiePie recorded and published a let's play of the game, after which the game gained enough votes, and a full release happened.

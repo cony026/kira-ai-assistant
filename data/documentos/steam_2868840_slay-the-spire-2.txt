@@ -1,0 +1,108 @@
+JUEGO: Slay the Spire 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Indie, Estrategia, Acceso anticipado
+DESARROLLADOR: Mega Crit
+PUBLISHER: Mega Crit
+FECHA DE LANZAMIENTO: 5 MAR 2026
+PRECIO: $24.99
+RESEÑAS DE USUARIOS (STEAM): Mixed (197696 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+El emblemático roguelike de creación de mazos está de vuelta. ¡Construye un mazo único, enfréntate a extrañas criaturas y descubre poderosas reliquias en Slay the Spire 2!
+
+DESCRIPCIÓN DETALLADA:
+LA TORRE HA DESPERTADO¡Vuelve el roguelike de creación de mazos definitivo!
+
+Durante 1000 años la Torre ha permanecido inactiva, con sus secretos enterrados y sus horrores olvidados. Pero ahora que sus puertas vuelven a estar abiertas, es más peligrosa que nunca y devorará sin miramientos a aquellos que osen merodear por sus pasillos.
+
+Los nuevos peligros exigen estrategias más afinadas, una astucia incansable y una determinación inquebrantable. Usa esa cabecita para superar las brutales pruebas de la Torre y descubre la verdad oculta en su cima.
+
+¿Te atreverás a entrar a la Torre en solitario, o pedirás ayuda a tus compañeros de aventuras?UNA TORRE EN CAMBIO CONSTANTEAdéntrate en la nueva versión de la Torre, un laberinto retorcido y repleto de enemigos tan extraños como peligrosos. Adáptate a un arsenal de cartas, reliquias y pociones totalmente nuevas capaces de darle la vuelta a una partida... o de acarrear consecuencias nefastas.
+
+Asciende por la Torre con un elenco que cuenta tanto con viejos conocidos como con personajes nuevos, cada uno con sus propias cartas, objetivos y secretos.
+
+No habrá dos ascensiones iguales. A aquellos lo suficientemente valientes (o insensatos) como para adentrarse en la Torre les esperan desafíos impredecibles a los que tendrán que hacer frente adaptando sus estrategias.ASCIENDE EN SOLITARIO O CON ALIADOSAsciende en solitario o enfréntate a la Torre con un grupo de hasta 4 jugadores en el nuevo modo cooperativo. Descubre cartas especiales del modo multijugador y poderosas sinergias de equipo y conduce a tus amigos a la victoria... o deja que se encarguen ellos.VIEJOS CONOCIDOS Y PERSONAJES NUEVOSElige uno de los cinco personajes y embárcate en esta misión para llegar a lo más alto de la Torre. Verás caras familiares, pero también conocerás a dos nuevos aventureros. Descubre el estilo de juego de cada personaje, su historia y cómo alcanzar su máximo potencial mientras te enfrentas a todo enemigo que se interponga en tu camino.DESCUBRE LA HISTORIA DE LA TORREAhora hay nuevas maneras de descubrir la historia de la Torre y de sus habitantes, ya sean amigos o enemigos. Desbloquea fragmentos de su misteriosa cronología y encuentra a sus residentes más antiguos durante tus innumerables incursiones.MÁS CONTENIDO EN EL ACCESO ANTICIPADOLa Torre es una entidad en constante cambio. Durante el Acceso anticipado se añadirán y retocarán cartas, eventos, escenarios, enemigos y mucho más. ¡Únete a este viaje desde el principio para formar parte de la evolución de la Torre!
+
+¿Y por qué lanzar el juego en Acceso anticipado? ¡Porque nuestra comunidad es la responsable del éxito de Slay the Spire! Suena un poco sentimentaloide, pero podemos seguir trabajando en esto gracias al esfuerzo que muchos pusisteis en informar de errores, traducir contenido o anuncios, grabar vídeos larguísimos, crear tier lists excelentes (y otras no tanto) y deleitarnos con vuestro arte, desde dibujitos graciosetes hasta obras de arte espectaculares. ¡Nos encanta nuestro trabajo, gracias!
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64-bit)
+
+- Procesador: Dual-core 2.0 GHz
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: DirectX 12 or Vulkan compatible, 1 GB VRAM
+
+- Almacenamiento: 4 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64-bit)
+
+- Procesador: Quad-core 3.0 GHz
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: DirectX 12 or Vulkan compatible, 2 GB VRAM
+
+- Almacenamiento: 4 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: macOS 12.0 (Monterey)
+
+- Procesador: Intel Core i5 (dual-core)
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: Metal-compatible GPU, 1 GB VRAM
+
+- Almacenamiento: 4 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: macOS 15.0 (Sequoia)
+
+- Procesador: Apple Silicon M1 / Intel Core i5 (quad-core)
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Metal-compatible GPU, 2 GB VRAM
+
+- Almacenamiento: 4 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- SO: Ubuntu 20.04 LTS / SteamOS 3.0
+
+- Procesador: Dual-core CPU, 2.0 GHz (x86_64)
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: Vulkan 1.0 or OpenGL 3.3 compatible, 1 GB VRAM
+
+- Almacenamiento: 4 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:
+
+- SO: Ubuntu 22.04 LTS / SteamOS 3.0
+
+- Procesador: Quad-core CPU, 3.0 GHz (x86_64)
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Vulkan 1.0 or OpenGL 3.3 compatible, 2 GB VRAM
+
+- Almacenamiento: 4 GB de espacio disponible

@@ -1,0 +1,87 @@
+JUEGO: DAVE THE DIVER
+PLATAFORMA: PC (Steam)
+GÉNEROS: Aventura, Casual, Rol, Simuladores
+DESARROLLADOR: MINTROCKET
+PUBLISHER: MINTROCKET
+FECHA DE LANZAMIENTO: 28 JUN 2023
+PRECIO: $9.99
+NOTA METACRITIC: 90/100
+RESEÑAS DE USUARIOS (STEAM): Overwhelmingly Positive (161013 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+DAVE THE DIVER es un juego casual de rol y aventuras para un solo jugador que incluye elementos de pesca y exploración del fondo marino durante el día y de gestión de un restaurante de sushi durante la noche. Ayuda a Dave y a sus extraños amigos a destapar los secretos de la misteriosa Fosa Azul.
+
+DESCRIPCIÓN DETALLADA:
+・Un híbrido entre juego de aventura, rol y gestiónExplora y resuelve los misterios de la Fosa Azul durante el día y gestiona un exótico y popular restaurante de sushi durante la noche.
+¡Déjate atrapar por el gratificante bucle de Dave the Diver!
+
+・El juego combina la recolección de materiales y el combate casual con elementos aleatoriosSumérgete en la siempre cambiante Fosa Azul y utiliza un arpón u otras armas para atrapar peces y varias otras criaturas.
+Crea y mejora tu equipo con los recursos que recojas y las ganancias del restaurante de sushi y prepárate para los peligros que acechan en territorio desconocido.
+¡Si te quedas sin oxígeno, perderás los objetos y peces que recojas!
+
+・Personajes excéntricos y una narrativa desenfadadaPersonajes estrafalarios pero encantadores y una historia llena de chistes, parodias y humor ofrecen una experiencia de juego cercana y agradable.
+
+・Un precioso entorno marino con atractivas animaciones 2D/3DEl atractivo estilo de animación, mezcla de gráficos 3D y pixel art, refleja asombrosos paisajes submarinos.
+Esta aventura oceánica se desarrolla en el entorno marino real de una Fosa Azul llena de más de 200 tipos de criaturas marinas.
+
+・Abundante contenido adicional que acompaña a la historia principalLos minijuegos, misiones secundarias y múltiples tramas ofrecen abundantes horas de entretenimiento y un juego variado.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10 64 bit
+
+- Procesador: Intel Core i3 Dual Core
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA Geforce GTS 450 / AMD Radeon HD 5570
+
+- DirectX: Versión 11
+
+- Almacenamiento: 10 GB de espacio disponible
+
+- Tarjeta de sonido: Windows Compatible Audio Device
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10 64 bit
+
+- Procesador: Intel Core i5 (Hexa Core) / i7 (Quad Core)
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GTX 1060 3GB / AMD RX 480
+
+- DirectX: Versión 11
+
+- Almacenamiento: 10 GB de espacio disponible
+
+- Tarjeta de sonido: Windows Compatible Audio Device
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: Big Sur 11.0
+
+- Procesador: Intel Core i3 Quad Core 3.6GHz
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Radeon Pro 555X
+
+- Almacenamiento: 11 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: Big Sur 11.0
+
+- Procesador: Apple M2
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Apple M2 integrated graphics
+
+- Almacenamiento: 11 GB de espacio disponible

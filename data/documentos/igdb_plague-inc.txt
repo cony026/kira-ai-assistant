@@ -1,0 +1,22 @@
+JUEGO: Plague Inc.
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Windows Phone, Android, iOS
+DISPONIBLE EN: Web browser, Windows Phone, Android, iOS
+GÉNEROS: Estrategia en tiempo real, Simulación, Estrategia, Táctico
+TEMAS: Ciencia ficción, Terror, Bélico
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Ndemic Creations
+PUBLISHER: Ndemic Creations
+FECHA DE LANZAMIENTO: 2012-05-26
+NOTA DE LA CRÍTICA (IGDB): 80/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 73/100 (128 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2qyq.jpg
+URL: https://www.igdb.com/games/plague-inc
+
+RESUMEN:
+As a new disease, it is your job to destroy the entire human species by evolving to a deadly plague.
+
+JUEGOS PARECIDOS:
+Si te gusta Plague Inc., también podrían gustarte: Kingdom Rush, Ultimate General: Civil War, Men of War: Assault Squad 2, Phoenix Point, Distant Worlds: Universe, Dune: Spice Wars, Desperados III, Girls' Frontline, Sudden Strike 4, Homeworld 3.

@@ -1,0 +1,65 @@
+JUEGO: Destiny 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Free to Play
+DESARROLLADOR: Bungie
+PUBLISHER: Bungie
+FECHA DE LANZAMIENTO: 1 OCT 2019
+PRECIO: Gratis
+NOTA METACRITIC: 83/100
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (661394 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Explora los misterios del sistema solar y vive la experiencia de combate de un shooter en primera persona en Destiny 2. Desbloquea poderosas habilidades y colecciona equipamiento único en misiones de historia, así como en los modos cooperativo y PvP.
+
+DESCRIPCIÓN DETALLADA:
+Explora los misterios del sistema solar y vive la experiencia de combate de un shooter en primera persona en Destiny 2. Consigue poderosas habilidades elementales y colecciona equipamiento único para personalizar tanto el aspecto como el estilo de juego de tu guardián. Métete de lleno en la historia cinemática de Destiny 2, misiones cooperativas desafiantes y diferentes modos PvP, ya sea en solitario o con amigos. Descárgalo gratis hoy y haz que tu historia quede grabada en el firmamento.Una historia envolventeFormas parte de los guardianes, defensores de la Última Ciudad de la humanidad en un sistema solar sitiado. Mira a las estrellas y enfréntate a la Oscuridad. Tu leyenda empieza ahora.Clases de guardianesElige entre los férreos titanes, los misteriosos hechiceros y los escurridizos cazadores.TitanesLos titanes, disciplinados y orgullosos, atacan con agresividad y defienden con lealtad. Enciende la mecha de tu percutor, ilumina los cielos con tus rayos y enfréntate a cualquier rival. Tu equipo se mantendrá firme tras tu poderoso escudo.HechicerosLos hechiceros empuñan los misterios del universo para defenderse y aplastar a sus enemigos. Haz que la desolación caiga sobre el campo de batalla y acaba con hordas de enemigos en un abrir y cerrar de ojos. Quienes te acompañen conocerán el verdadero poder de la Luz.CazadoresLos cazadores, ágiles y atrevidos, son rápidos corriendo y más rápidos desenfundando. No le des tregua al percutor de tu arma dorada, corre entre tus enemigos como el viento y ataca desde la Oscuridad. Encuentra al enemigo, apunta y termina la batalla antes de que empiece.Un multijugador competitivo y cooperativoJuega con o contra tus amigos y otros guardianes en varios modos de juego PvE y PvP.Multijugador cooperativoTe esperan emocionantes operaciones cooperativas repletas de poderosas e insólitas recompensas. Sumérgete en la historia gracias a las misiones, las aventuras y las patrullas. Crea una pequeña escuadra y asegura el cofre que encontrarás al final de un asalto rápido o pon a prueba las habilidades de tu equipo en incursiones que duran varias horas: el desafío definitivo de cualquier escuadra. Tú eliges cómo progresa tu leyenda.Multijugador competitivoEnfréntate a otros jugadores en frenéticas escaramuzas todos contra todos, arenas de equipo y competiciones híbridas PvE/PvP.Armas y armadura excepcionalesMiles de armas, millones de opciones. Descubre nuevas combinaciones de equipamiento y define tu propio estilo personal. Que comience la búsqueda del arsenal perfecto.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows® 10 64-bit (latest Service Pack)
+
+- Procesador: Intel® Core™ i3 3250 3.5 GHz or Intel Pentium G4560 3.5 GHz / AMD FX-4350 4.2 GHz
+
+- Memoria: 6 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2GB
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 105 GB de espacio disponible
+
+- Notas adicionales: Beginning on June 4, 2024, Destiny 2 is ending support for Windows 7, Windows 8, and Windows 8.1 operating systems.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows® 10 64-bit (latest Service Pack)
+
+- Procesador: Processor Intel® Core™ i5 2400 3.4 GHz or i5 7400 3.5 GHz / AMD Ryzen R5 1600X 3.6 GHz
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 390 8GB Memory 8 GB RAM
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 105 GB de espacio disponible
+
+- Notas adicionales: Beginning on June 4, 2024, Destiny 2 is ending support for Windows 7, Windows 8, and Windows 8.1 operating systems.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

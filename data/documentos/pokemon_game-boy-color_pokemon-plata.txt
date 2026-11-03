@@ -1,0 +1,22 @@
+JUEGO: Pokémon Plata
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Silver
+PLATAFORMA: Game Boy Color
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación II
+REGIÓN PRINCIPAL: Kanto, Johto
+LANZADO JUNTO A: Pokémon Oro
+
+DESCRIPCIÓN:
+Pokémon Plata es un juego de rol de la saga principal de Pokémon, de la Generación II, para Game Boy Color. La aventura transcurre en las regiones de Kanto y Johto. Se lanzó junto a Pokémon Oro; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Chikorita, Cyndaquil y Totodile. Su Pokédex regional reúne 251 especies de Pokémon distintas. Incluye Pokémon legendarios como Articuno, Zapdos, Moltres, Raikou, Entei y Suicune.
+
+POKÉDEX:
+- Johto Original: 251 Pokémon
+
+POKÉMON INICIALES:
+Chikorita, Cyndaquil, Totodile
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Articuno, Zapdos, Moltres, Raikou, Entei, Suicune, Lugia, Ho-Oh, Mewtwo
+Singulares (míticos): Mew, Celebi

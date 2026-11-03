@@ -1,0 +1,25 @@
+JUEGO: Call of Duty 2
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: macOS, PC, Xbox 360, iOS, Xbox One
+FECHA DE LANZAMIENTO: 2005-10-25
+DESARROLLADOR: Infinity Ward
+PUBLISHER: Aspyr, Activison
+GÉNEROS: Shooter
+NOTA METACRITIC: 86
+RATING USUARIOS: 4.22/5 (954 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Multiplayer, Atmospheric, Co-op, Story Rich, cooperative, First-Person, FPS, Classic, Zombies, War, Historical, World War II
+
+DESCRIPCIÓN:
+Call of Duty 2 is a first-person shooter, a second installment in the Call of Duty series.
+
+###Plot and location
+The game is set during one of the most troubling periods of the 20 century: the 2nd World War. The player can take command of various soldiers from Allied armies, and take part in various campaigns in Europe and Africa. The three playable campaigns focus on the Soviet, American and British soldiers fighting the Axis, each encompassing traditional battlegrounds such as Stalingrad, El Alamein and Hill 400.
+
+###Gameplay
+Call of Duty 2 focuses on combining realism and entertainment in warfare simulation. The playable character can carry two firearms, unique for each country, utilizing each of them in different situations. UI has been changed drastically, removing the visible health bar and overhauling compass HUD. The difficulty system can provide a cinematic experience while keeping the gameplay realistic - on Veteran, each bullet can be fatal.
+
+###Visuals and other features
+The game boasts a refined graphics engine, with smooth textures, good performance, and stunning effects. Explosions and falling buildings, bullets flying and artillery blasting the ground, every detail is done to ensure the immersion on the battlegrounds of World War II. Multiplayer features include different playing modes, up to 64 players fighting in different locations and using a variety of American, British, Soviet and German weapons.

@@ -1,0 +1,20 @@
+JUEGO: Limbo
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: PC, Android, PS Vita, PlayStation 4, PlayStation 3, Xbox 360, Linux, macOS, iOS, Xbox One, Nintendo Switch
+FECHA DE LANZAMIENTO: 2010-07-21
+DESARROLLADOR: Double Eleven, Playdead, 鱼俞
+PUBLISHER: Microsoft Studios, Playdead, 鱼俞
+GÉNEROS: Action, Adventure, Indie, Puzzle, Platformer
+NOTA METACRITIC: 88
+RATING USUARIOS: 4.14/5 (3411 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Full controller support, Atmospheric, 2D, Horror, Difficult, Action-Adventure, Pixel Graphics, Controller, Dark, controller support, Short, Dark Fantasy, Cinematic, Physics
+
+DESCRIPCIÓN:
+This popular 2D puzzle-platformer creates the atmosphere of isolation, where the player alone can guide the nameless protagonist to his destination. Hostile environments and one-hit deaths may seem difficult, but the game implements a fair amount of checkpoints. The monochrome color palette showcases cartoony proportions of every living thing while making lack of details threatening. Limbo shows you exactly what you encounter, but never how it looks.
+
+Limbo uses the atmosphere and sound design of the horror genre while avoiding tropes of the modern horror games. The overarching theme and unique style compensated for the rather short game with an abrupt ending, making Limbo one of the most impactful games for the genre.
+
+The simple controls and easy-to-pick-up mechanics help to make a clear distinction, which part of the stage players can interact with, and which part can lead to the quick death. Even though the game is in black and white, this separation is intuitive and natural, so the player would know exactly where to go or what to do.

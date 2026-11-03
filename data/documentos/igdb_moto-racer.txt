@@ -1,0 +1,21 @@
+JUEGO: Moto Racer
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), PlayStation
+DISPONIBLE EN: PC (Microsoft Windows), PlayStation
+GÉNEROS: Carreras, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Delphine Software
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 1997-08-01
+NOTA DE USUARIOS (IGDB): 78/100 (34 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co8a4j.jpg
+URL: https://www.igdb.com/games/moto-racer
+
+RESUMEN:
+Moto Racer is an arcade style motorcycle racing game developed by Delphine Software International and published by Electronic Arts for Microsoft Windows and PlayStation. It features both dirt and street bikes, and a variety of tracks.
+
+JUEGOS PARECIDOS:
+Si te gusta Moto Racer, también podrían gustarte: American Chopper, RedLine Racer, Motor Psycho, Prime Mover, Crazyracing Kartrider, Raging Thunder II, Road Rash: Jailbreak, Reckless Racing 3, Asphalt: Xtreme, Grand Prix.

@@ -1,0 +1,26 @@
+JUEGO: The Elder Scrolls: Legends
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Nintendo Switch
+DISPONIBLE EN: Nintendo Switch, iOS, PC, macOS, Android
+FECHA DE LANZAMIENTO: 2017-03-22
+DESARROLLADOR: Bethesda Softworks, Dire Wolf Digital
+PUBLISHER: Bethesda Softworks
+GÉNEROS: Strategy, Card
+NOTA METACRITIC: 82
+RATING USUARIOS: 3.2/5 (283 votos)
+TIEMPO DE JUEGO MEDIO: 2 horas
+TAGS: Singleplayer, Multiplayer, steam-trading-cards, Great Soundtrack, RPG, Fantasy, Free to Play, Online multiplayer, Cross-Platform Multiplayer, In-App Purchases, online, achievements, battle, city, Card Game
+
+DESCRIPCIÓN:
+The Elder Scrolls: Legends is a card-based game set in The Elder Scrolls universe developed by Dire Wolf Digital.
+
+###Story
+The game's story serves as a tutorial for the player. The game takes place during the Great War between the Mid Empire and the Third Aldmer Dominion. The main antagonist of the game is one of the admirals of the Dominion - an altmer named Naarifin who is a Daedric cult adept. He invades the Empire trying to open the gates of Oblivion. The player has to prevent such an event from happening and make difficult choices as these decisions affect the cards the player gets upon completing the story mode.
+
+###Gameplay
+The game centers around turn-based card matches between two opponents. Several game modes are available: Duel and Arena. In Duel, the players start with their own hand of cards, while in Arena each player picks the hand out of a limited number of cards.
+
+The cards are divided into four categories: Creatures, Supports, Actions, and Items. The players decide which Tamriel race they want to play as. This choice affects the additional cards that will be dropped as a reward after leveling up.
+
+At the beginning of the match, each player starts out with one magic point and three cards. On each turn, one magic point is granted to the players. The first player to get his enemies health to less than 1 wins.

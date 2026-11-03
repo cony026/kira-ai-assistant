@@ -1,0 +1,22 @@
+JUEGO: Town of Salem
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Web browser, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: RPG, Estrategia, Indie
+TEMAS: Acción, Supervivencia, Histórico, Misterio
+MODOS DE JUEGO: Multijugador, Cooperativo
+PERSPECTIVA: Isométrica, Texto
+DESARROLLADOR: BlankMediaGames
+PUBLISHER: BlankMediaGames
+FECHA DE LANZAMIENTO: 2014-12-15
+NOTA DE USUARIOS (IGDB): 69/100 (57 votos)
+TAMBIÉN CONOCIDO COMO: TownOfSalem.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2hr6.jpg
+URL: https://www.igdb.com/games/town-of-salem
+
+RESUMEN:
+Town of Salem is a game that challenges players on their ability to convincingly lie as well as detect when other players are lying. The game ranges from 7 to 15 players. These players are randomly divided into alignments - Town, Mafia, Serial Killers, Arsonists and Neutrals. If you are a Town member (the good guys) you must track down the Mafia and other villains before they kill you. The catch? You don't know who is a Town member and who is a villain. If you are an evil role, such as a Serial Killer, you secretly murder town members in the veil of night and try to avoid getting caught.
+
+JUEGOS PARECIDOS:
+Si te gusta Town of Salem, también podrían gustarte: Blood on the Clocktower, Among Us, Town of Salem 2, Shroud of the Avatar: Forsaken Virtues, Goose Goose Duck, Soul Knight, Forced, Feign, Kingdom Two Crowns, Wasteland 3.

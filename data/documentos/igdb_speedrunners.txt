@@ -1,0 +1,25 @@
+JUEGO: SpeedRunners
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: PlayStation 4, Linux, Android, PC (Microsoft Windows), iOS, Mac, Xbox One, Nintendo Switch
+GÉNEROS: Plataformas, Carreras, Indie, Arcade
+TEMAS: Acción, Party
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: DoubleDutch Games
+PUBLISHER: tinyBuild
+FECHA DE LANZAMIENTO: 2016-04-19
+NOTA DE USUARIOS (IGDB): 76/100 (117 votos)
+TAMBIÉN CONOCIDO COMO: SpeedRunners: Online PVP, SpeedRunners.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co86z8.jpg
+URL: https://www.igdb.com/games/speedrunners
+
+RESUMEN:
+Cut-throat multiplayer running game that pits 4 players against each other, locally and/or online. Run, jump, swing around, and use devious weapons and pick-ups to knock opponents off-screen
+
+HISTORIA:
+In a city filled with superheroes, getting to crimes becomes a competition on its own. Fortunately there are enough rockets, bombs, grappling hooks, spikes, and other goodies lying around -- to make the competition fun and fast. Welcome to SpeedRunners.
+
+JUEGOS PARECIDOS:
+Si te gusta SpeedRunners, también podrían gustarte: Brawlhalla, Nuclear Throne, Just Shapes & Beats, Duck Game, Move or Die, Lovers in a Dangerous Spacetime, Huntdown, Death Squared, 20XX, Armello.

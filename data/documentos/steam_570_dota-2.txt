@@ -1,0 +1,77 @@
+JUEGO: Dota 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Estrategia, Free to Play
+DESARROLLADOR: Valve
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 9 JUL 2013
+PRECIO: Gratis
+NOTA METACRITIC: 90/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (2765135 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Cada día, millones de jugadores de todo el mundo entran en batalla como uno de los más de cien héroes de Dota. Y no importa si es su décima hora de juego o la milésima, siempre hay algo nuevo que descubrir.
+
+DESCRIPCIÓN DETALLADA:
+El juego más jugado en Steam.
+Cada día, millones de jugadores de todo el mundo entran en batalla como uno de los más de cien héroes de Dota. Y no importa si es su décima hora de juego o la milésima, siempre hay algo nuevo que descubrir. Con frecuentes actualizaciones que garantizan una evolución constante de jugabilidad, características y héroes, Dota 2 realmente ha cobrado vida propia.
+
+Un campo de batalla. Infinitas posibilidades.
+Cuando se trata de variedad de héroes, habilidades y poderosos objetos, Dota no tiene límite. No hay dos partidas iguales. Cada héroe puede desempeñar varios roles, y hay multitud de objetos para ayudar a satisfacer las necesidades de cada partida. Dota no pone límites a tu forma de jugar, te da el poder de expresar tu propio estilo.
+
+Todos los héroes son gratuitos.
+El equilibrio competitivo es la joya de la corona de Dota, y para garantizar que todo el mundo juegue en un campo de batalla equilibrado, el contenido principal del juego —como el vasto grupo de héroes— está disponible para todos los jugadores. Los fans pueden coleccionar objetos cosméticos para los héroes y divertidos complementos para el mundo en que estos habitan, pero todo lo necesario para jugar ya está ahí antes de que te unas a tu primera partida.
+
+Trae a tus amigos y forma un equipo.
+Dota es complejo y evoluciona constantemente, pero nunca es tarde para unirse. 
+Aprende los conceptos básicos jugando en modo cooperativo contra bots. Mejora tus habilidades en el modo de prueba de héroes. Entra en el sistema de emparejamiento basado en el comportamiento y la habilidad que se encarga de hacer que juegues con los jugadores adecuados en cada partida.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO *: Windows 7 o posterior
+
+- Procesador: Intel o AMD de doble núcleo a 2,8 GHz
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: NVIDIA GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 60 GB de espacio disponible
+
+- Tarjeta de sonido: Compatible con DirectX
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: macOS 10.13 o posterior
+
+- Procesador: Doble núcleo de Intel
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: NVIDIA 320M o superior, Radeon HD 2400 o superior, o Intel HD 3000 o superior
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 60 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- SO: Ubuntu 12.04 o posterior
+
+- Procesador: Intel o AMD de doble núcleo a 2,8 GHz
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: NVIDIA GeForce 8600/9600GT (controlador v331), AMD HD 2xxx-4xxx (controlador Mesa 10.5.9), AMD HD 5xxx+ (controlador Mesa 10.5.9 o Catalyst 15.7), Intel HD 3000 (controlador Mesa 10.6)
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 60 GB de espacio disponible
+
+- Tarjeta de sonido: Tarjeta de sonido compatible con OpenAL

@@ -1,0 +1,10 @@
+JUEGO: Pokémon Champions
+
+FUENTE: PokeAPI
+GENERACIÓN: Generación IX
+
+DESCRIPCIÓN:
+Pokémon Champions es un juego de la franquicia Pokémon, de la Generación IX. Su Pokédex regional reúne 231 especies de Pokémon distintas.
+
+POKÉDEX:
+- Champions: 231 Pokémon

@@ -1,0 +1,18 @@
+JUEGO: Pokémon Escarlata: La máscara turquesa
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Scarlet: The Teal Mask
+PLATAFORMA: Nintendo Switch
+GÉNEROS: Expansión (DLC), RPG, Aventura
+GENERACIÓN: Generación IX
+REGIÓN PRINCIPAL: Paldea
+LANZADO JUNTO A: Pokémon Púrpura: La máscara turquesa
+
+DESCRIPCIÓN:
+Pokémon Escarlata: La máscara turquesa es una expansión descargable (DLC) de Pokémon Escarlata y Pokémon Púrpura, de la Generación IX, para Nintendo Switch. La aventura transcurre en la región de Paldea. Se lanzó junto a Pokémon Púrpura: La máscara turquesa; cada versión tiene algunos Pokémon exclusivos. Su Pokédex regional reúne 200 especies de Pokémon distintas. Incluye Pokémon legendarios como Okidogi, Munkidori, Fezandipiti y Ogerpon.
+
+POKÉDEX:
+- Kitakami: 200 Pokémon
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Okidogi, Munkidori, Fezandipiti, Ogerpon

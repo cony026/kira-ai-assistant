@@ -1,0 +1,26 @@
+JUEGO: Cuphead
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Mac, Xbox One
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Mac, Xbox One, Nintendo Switch
+GÉNEROS: Shooter, Plataformas, Aventura, Indie, Arcade
+TEMAS: Acción, Fantasía, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Isométrica, Vista lateral
+DESARROLLADOR: Studio MDHR
+PUBLISHER: Studio MDHR
+FECHA DE LANZAMIENTO: 2017-09-29
+NOTA DE LA CRÍTICA (IGDB): 87/100 (17 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (926 votos)
+TAMBIÉN CONOCIDO COMO: 茶杯头, Cuphead.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co62ao.jpg
+URL: https://www.igdb.com/games/cuphead
+
+RESUMEN:
+Cuphead is a run-and-gun action game focused primarily on boss battles. Its visual style is modeled after 1930s cartoons, using traditional hand-drawn cel animation, watercolor backgrounds, and original jazz recordings. Players control Cuphead or Mugman in single-player or local co-op, traversing themed worlds, acquiring new weapons, and unlocking super moves. The game includes both boss encounters and side-scrolling platforming stages.
+
+HISTORIA:
+Not applicable (minimal narrative, boss-rush focused).
+
+JUEGOS PARECIDOS:
+Si te gusta Cuphead, también podrían gustarte: Enter the Gungeon, Hollow Knight, Sonic Mania, Axiom Verge, Downwell, Castle Crashers, Celeste, Hollow Knight: Silksong, Blazing Chrome, Unepic.

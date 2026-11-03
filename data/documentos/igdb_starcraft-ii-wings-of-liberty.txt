@@ -1,0 +1,31 @@
+JUEGO: StarCraft II: Wings of Liberty
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia en tiempo real, Estrategia
+TEMAS: Acción, Ciencia ficción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Blizzard Entertainment
+PUBLISHER: Blizzard Entertainment
+FECHA DE LANZAMIENTO: 2010-07-27
+NOTA DE LA CRÍTICA (IGDB): 89/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 87/100 (1142 votos)
+FRANQUICIA: starcraft
+TAMBIÉN CONOCIDO COMO: StarCraft II, SC2, StarCraft II: Flügel der Freiheit, 星际争霸II：自由之翼, StarCraft II: Asas da Liberdade
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnn.jpg
+URL: https://www.igdb.com/games/starcraft-ii-wings-of-liberty
+
+RESUMEN:
+StarCraft II: Wings of Liberty is a science fiction real-time strategy game and the sequel to the original StarCraft. Set four years after the events of Brood War, the game revolves around three species: the Terrans, the Zerg, and the Protoss. The single-player campaign focuses on the Terrans, following Jim Raynor as he leads an insurgent group against the autocratic Terran Dominion. The campaign is non-linear, with players taking missions for money and using those funds to buy additional units and upgrades between missions aboard the battlecruiser Hyperion.
+
+The game features competitive multiplayer with a matchmaking ladder system, a map editor for user-created content, and support for three playable races with distinct units and abilities. Wings of Liberty has been free-to-play since November 2017 and was followed by two expansion packs: Heart of the Swarm, focusing on the Zerg, and Legacy of the Void, focusing on the Protoss.
+
+HISTORIA:
+Jim Raynor, a marshal turned rebel, leads a vigilante crusade against the Terran Dominion and its ruler Arcturus Mengsk. Haunted by betrayal and the memory of allies lost, Raynor operates on the fringes of space, building his forces and searching for a way to bring down the regime.
+
+When old promises and new threats converge, Raynor is drawn into a conflict that stretches beyond the politics of the Dominion, forcing him to confront enemies both human and alien in a war that will determine the fate of the sector.
+
+JUEGOS PARECIDOS:
+Si te gusta StarCraft II: Wings of Liberty, también podrían gustarte: Homeworld 3, Battlefleet Gothic: Armada 2, ZeroSpace, Total War: Warhammer III, Conflict of Nations: World War 3, Steel Division 2, Total War: Three Kingdoms, Age of Empires IV, Cosmoteer: Starship Architect & Commander, Eximius: Seize the Frontline.

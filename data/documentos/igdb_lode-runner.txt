@@ -1,0 +1,22 @@
+JUEGO: Lode Runner
+
+FUENTE: IGDB
+PLATAFORMA: Commodore VIC-20, Arcade, SG-1000, BBC Microcomputer System
+DISPONIBLE EN: Commodore VIC-20, Arcade, SG-1000, BBC Microcomputer System, Atari 8-bit, PC-9800 Series, PC-8800 Series, Commodore C64/128/MAX, ZX Spectrum, WonderSwan, Sharp X1, Windows Phone, Atari ST/STE, Mac, DOS, Apple II, FM-7, NEC PC-6000 Series, Amstrad CPC, MSX
+GÉNEROS: Plataformas, Puzle
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Brøderbund Software, Irem
+PUBLISHER: Banpresto, Microsoft Studios, Sony, Brøderbund Software, SystemSoft, Soft Pro International, Software Projects, Irem, Sega Enterprises, Ltd.
+FECHA DE LANZAMIENTO: 1983-10-30
+NOTA DE LA CRÍTICA (IGDB): 80/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 77/100 (58 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6s9v.jpg
+URL: https://www.igdb.com/games/lode-runner
+
+RESUMEN:
+Lode Runner is a 1983 puzzle video game, first published by Brøderbund. It is one of the first games to include a level editor, a feature that allows players to create their own levels for the game. This feature bolstered the game's popularity, as magazines such as Computer Gaming World held contests to see who could build the best level.
+
+JUEGOS PARECIDOS:
+Si te gusta Lode Runner, también podrían gustarte: Planet Alpha, Soda Crisis, Boor, Semblance, Bionic Bay, Elasto Mania, Vesper, Emuurom, Seen, Tanglewood.

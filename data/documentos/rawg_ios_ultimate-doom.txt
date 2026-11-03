@@ -1,0 +1,27 @@
+JUEGO: Ultimate Doom
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Xbox One, iOS, PC, macOS, Nintendo Switch, Xbox 360, PlayStation 4, Classic Macintosh
+FECHA DE LANZAMIENTO: 1995-12-31
+DESARROLLADOR: id Software, Nerve Software, Lion Entertainment
+PUBLISHER: Bethesda Softworks, Activison, id Software, GT Interactive Software, GT Interactive, Active Software
+GÉNEROS: Action, Shooter
+RATING USUARIOS: 4.43/5 (297 votos)
+TIEMPO DE JUEGO MEDIO: 1 horas
+TAGS: Singleplayer, Multiplayer, Steam Cloud, Great Soundtrack, First-Person, Sci-fi, Horror, FPS, Gore, Difficult, Classic, Violent, Retro, Zombies, Moddable
+
+DESCRIPCIÓN:
+The Ultimate Doom is a standalone expansion pack for Doom developed by id Software. Apart from the base game, it includes a completely new episode that continues the story of the game.
+
+###Plot
+The game's plot seems loosely connected to the base game as id Software was busy with developing Quake. The simply players set out on a journey to kill off four guardians of hell. This episode serves as a prequel to Doom 2.
+
+###Gameplay
+Minor additions were made to Doom's engine, as it now featured several Doom 2's engine features, such as the ability to use flickering lights and fast working doors. Apart from that, the game is still the base Doom. 
+
+Players traverse vast levels killing any Hell creature they encounter on their way. A wide range of weapons is as the player's disposal, starting with a brass knuckle and finishing with an experimental energy weapon, BFG9000.
+
+The one and only objective of the player is to find the exit of the level. Sometimes a keycard is required to unlock the exit. Upon the completion of the level, the player's performance is evaluated and points are accumulated based on how fast did the player pass the level, how ruthless they did it, how many demons got killed and how many secrets were found. 
+
+At the end of each episode, the players will encounter a Boss - a unique and powerful enemy that has to be defeated to complete the level.

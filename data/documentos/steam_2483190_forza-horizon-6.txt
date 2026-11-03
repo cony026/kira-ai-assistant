@@ -1,0 +1,68 @@
+JUEGO: Forza Horizon 6
+PLATAFORMA: PC (Steam)
+GÉNEROS: Carreras, Simuladores, Deportes
+DESARROLLADOR: Playground Games
+PUBLISHER: Xbox Game Studios
+FECHA DE LANZAMIENTO: 18 MAY 2026
+PRECIO: $59.49
+RESEÑAS DE USUARIOS (STEAM): Very Positive (94998 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Descubre los asombrosos paisajes de Japón con más de 550 coches reales y conviértete en una leyenda del automovilismo en la mayor aventura de conducción en mundo abierto de Forza Horizon.
+
+DESCRIPCIÓN DETALLADA:
+Descubre los asombrosos paisajes de Japón con más de 550 coches reales y conviértete en una leyenda del automovilismo en el Festival Horizon. Comienza tu viaje como turista y explora un mundo lleno de la mejor música y cultura japonesa. Construye una propiedad en el valle, obtén increíbles casas y exhibe tu preciada colección de coches en garajes personalizables. Recorre las carreteras con tus amigos, únete a concentraciones de coches por todo Japón, da rienda suelta a tu imaginación con EventLab y construid juntos en Horizon CoLab.Tu viaje para convertirte en leyenda de Horizon comienza aquí: ¡Japón te espera!DISFRUTA DE TOKIO, LA CIUDAD MÁS GRANDE DE HORIZONTe damos la bienvenida a Japón, un lugar de impresionantes contrastes entre lo rural y lo urbano donde descubrirás los secretos ocultos en el mapa más extenso de Horizon hasta la fecha, lleno de verticalidad, biomas diversos y espectaculares experiencias de conducción. Recorre los suburbios y las emblemáticas calles del centro o ponte a prueba en los muelles y distritos industriales de Tokio, la urbe más grande jamás vista en un juego de Forza Horizon y el hogar de todo fan del mundo del motor.ADÉNTRATE EN LA CULTURA AUTOMOVILÍSTICA JAPONESAConduce más de 550 coches reales, como algunos clásicos del país nipón muy apreciados, con un sonido de motor de última generación y nuevas animaciones de giro con hasta 540 grados de rotación del volante. Mientras exploras Japón, reúne coches Forza Edition especiales con modificaciones extremas y encuentra modelos en el mercado de ocasión insólitos para que los pruebes y los compres. En tu camino hacia la fama, conocerás a las leyendas del Festival Horizon, participarás en batallas de Touge y vivirás auténticas historias arraigadas en la legendaria cultura automovilística de Japón.COMPITE Y DESCUBRE JAPÓNEn Forza Horizon 6, tendrás por delante una enorme campaña de descubrimiento y un festival de carreras que podrás disfrutar en solitario o junto a tus amigos. Comenzarás como turista y deberás demostrar que tienes lo que hay que tener para unirte al Festival Horizon como principiante, todo ello mientras descubres Japón y completas tu diario de coleccionista. Clasifícate al festival en el Evento por invitación de Horizon y ve escalando posiciones en coches cada vez más rápidos para obtener nuevas pulseras y convertirte en leyenda de Horizon. Tu nuevo estatus te permitirá acceder a la Isla Legendaria, un lugar para los mejores pilotos.CÓMETE EL MUNDODurante tu viaje, irás comprando casas increíbles en Japón, cada una con garajes personalizables en los que podrás crear espacios perfectos para exhibir tu colección de coches o descargar diseños compartidos en línea con la comunidad. Desbloquea la propiedad, un valle montañoso en el que podrás construir en mundo abierto y crear prácticamente todo lo que puedas imaginar. También podrás mejorar tus coches favoritos con carrocerías, nuevas opciones aerodinámicas de Forza y acabados especiales en las ventanas.ÚNETE A LA COMUNIDAD EN MULTIJUGADORUn festival siempre es más divertido con amigos. Participa y triunfa en circuitos Contrarreloj y Retos de aceleración, o haz alarde de tus vehículos en las concentraciones de coches. Consigue nuevas maniobras de Enlace cooperando con otros jugadores, compite en campeonatos de Carreras monomarca o diviértete en los modos multijugador de Horizon que tanto te gustan, como el Eliminador y el trepidante juego del Escondite.CONSTRUID JUNTOS EN CUALQUIER LUGAR DE JAPÓNConstruye en cualquier lugar de Japón y crea eventos personalizados con tus amigos en CoLab, la versión mejorada de EventLab, que ahora cuenta con modo multijugador* y la capacidad de construir en cualquier parte del mundo. Comparte tus obras maestras para que otros puedan jugar y disfrutar de un catálogo que siempre cuenta con nuevo contenido de la comunidad.EL FESTIVAL PARA CADA PILOTODomina la carretera en nuestro juego de Horizon más accesible hasta la fecha. Entre las opciones de personalización se incluyen el modo de alto contraste granular, un radar de proximidad de coches, lenguaje de signos estadounidense y británico, o la función de conducción automática. Todo esto permite a los jugadores disfrutar de coches preciosos, la mejor música y los asombrosos escenarios del Festival Horizon.Descubre tu leyenda y explora los contrastes y la cultura de Japón.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 22H2 (version 19045) or higher
+
+- Procesador: Intel i5-8400 OR AMD Ryzen 5 1600
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia GTX 1650 OR AMD RX 6500 XT OR Intel Arc A380
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 167 GB de espacio disponible
+
+- Notas adicionales: SSD Required
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 22H2 (version 19045) or higher
+
+- Procesador: Intel i5-12400F OR AMD Ryzen 5 5600X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA RTX 3060 Ti OR AMD RX 6700 XT OR Intel Arc A580
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 167 GB de espacio disponible
+
+- Notas adicionales: SSD Required
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

@@ -1,0 +1,23 @@
+JUEGO: Killing Floor
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Terror, Supervivencia
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Tripwire Interactive
+PUBLISHER: Tripwire Interactive
+FECHA DE LANZAMIENTO: 2009-05-14
+NOTA DE LA CRÍTICA (IGDB): 68/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 73/100 (166 votos)
+TAMBIÉN CONOCIDO COMO: KF, 킬링 플로어, 킬플, KillingFloor.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2sn9.jpg
+URL: https://www.igdb.com/games/killing-floor
+
+RESUMEN:
+Killing Floor is a Co-op Survival Horror FPS set in the devastated cities and countryside of England after a series of cloning experiments for the military goes horribly wrong. You and your friends are members of the military dropped into these locations with a simple mission: Survive long enough to cleanse the area of the failed experiments!
+
+JUEGOS PARECIDOS:
+Si te gusta Killing Floor, también podrían gustarte: Left 4 Dead, Nuclear Dawn, Killing Floor 2, Aliens vs. Predator, Dead Island, Unturned, F.E.A.R. 3, Serious Sam 3: BFE, Call of Duty: Black Ops III, Dying Light.

@@ -1,0 +1,32 @@
+JUEGO: Gradius
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Sharp X68000
+DISPONIBLE EN: Arcade, Sharp X68000
+GÉNEROS: Shooter, Arcade
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Konami
+PUBLISHER: Konami
+FECHA DE LANZAMIENTO: 1985-05-29
+NOTA DE LA CRÍTICA (IGDB): 74/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 69/100 (48 votos)
+FRANQUICIA: Gradius
+TAMBIÉN CONOCIDO COMO: Scramble 2
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co231h.jpg
+URL: https://www.igdb.com/games/gradius
+
+RESUMEN:
+One of the defining characteristics of the Gradius series is the use of a "power meter." The power meter is powered by a power-up item, whose purpose, when collected, is to move a highlight to the next power-up on the power meter. When a power-up that the player wants becomes highlighted, he or she may activate it, also causing the highlight to reset.
+
+HISTORIA:
+Gradius, our mother planet. Bacterian, a cluster of stars located in subspace, has invaded this dazzling planet and exposed it to a series of vicious battles.
+Threatened with extinction in the face of such an onslaught, the planet Gradius decides to deploy its final hope: the super-dimensional fighter Vic Viper.
+Its destination is the enemy fortress of Xaerous.
+The only way to put an end to this conflict is to plunge deep into the enemy's stronghold and destroy the core that lies at its center.
+Prepare to launch!
+And so, Vic Viper takes off into the vast blackness of space.
+
+JUEGOS PARECIDOS:
+Si te gusta Gradius, también podrían gustarte: Far Cry, Matterfall, Thunder Cross, Encounter at L-5, Moon Shuttle, Atlantis, Neptunia Shooter, Hyper Dyne: Side Arms, Major Stryker, Skunny: Lost in Space.

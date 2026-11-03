@@ -1,0 +1,26 @@
+JUEGO: Pokémon Sol
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Sun
+PLATAFORMA: Nintendo 3DS
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación VII
+REGIÓN PRINCIPAL: Alola
+LANZADO JUNTO A: Pokémon Luna
+
+DESCRIPCIÓN:
+Pokémon Sol es un juego de rol de la saga principal de Pokémon, de la Generación VII, para Nintendo 3DS. La aventura transcurre en la región de Alola. Se lanzó junto a Pokémon Luna; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Rowlet, Litten y Popplio. Su Pokédex regional reúne 302 especies de Pokémon distintas. Incluye Pokémon legendarios como Código Cero, Silvally, Zygarde, Tapu Koko, Tapu Lele y Tapu Bulu.
+
+POKÉDEX:
+- Alola Original: 302 Pokémon
+- Melemele Original: 120 Pokémon
+- Akala Original: 130 Pokémon
+- Ula-Ula Original: 130 Pokémon
+- Poni Original: 100 Pokémon
+
+POKÉMON INICIALES:
+Rowlet, Litten, Popplio
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Código Cero, Silvally, Zygarde, Tapu Koko, Tapu Lele, Tapu Bulu, Tapu Fini, Cosmog, Cosmoem, Solgaleo, Lunala, Necrozma
+Singulares (míticos): Magearna, Marshadow

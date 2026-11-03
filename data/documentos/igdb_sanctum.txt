@@ -1,0 +1,23 @@
+JUEGO: Sanctum
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, Estrategia, Indie
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Coffee Stain Studios
+PUBLISHER: Coffee Stain Studios
+FECHA DE LANZAMIENTO: 2011-04-15
+NOTA DE LA CRÍTICA (IGDB): 70/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 60/100 (32 votos)
+TAMBIÉN CONOCIDO COMO: SanctumGame-Win32-Shipping.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2hky.jpg
+URL: https://www.igdb.com/games/sanctum
+
+RESUMEN:
+An inventive tower defense/ first person shooter hybrid that pits elite soldier Skye against various forms of alien life on a small set of unique maps. Skye must build and upgrade defensive structures while jumping into the fray to help her creations take down the hostile invaders.
+
+JUEGOS PARECIDOS:
+Si te gusta Sanctum, también podrían gustarte: Sanctum 2, Murder Miners, Shattered Horizon, Oil Rush, Steel Storm: Burning Retribution, Abiotic Factor, Payday: The Heist, Orcs Must Die! 2, Time Clickers, E.Y.E: Divine Cybermancy.

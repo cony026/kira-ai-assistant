@@ -1,0 +1,22 @@
+JUEGO: Half-Life 2: Lost Coast
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2005-10-27
+NOTA DE USUARIOS (IGDB): 67/100 (155 votos)
+FRANQUICIA: Half-Life
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co25r5.jpg
+URL: https://www.igdb.com/games/half-life-2-lost-coast
+
+RESUMEN:
+Originally planned as a section of the Highway 17 chapter of Half-Life 2, Lost Coast is a playable technology showcase that introduces High Dynamic Range lighting to the Source engine.
+
+JUEGOS PARECIDOS:
+Si te gusta Half-Life 2: Lost Coast, también podrían gustarte: Half-Life 2: Deathmatch, Half-Life, Unreal II: The Awakening, Half-Life 2, Robot Alchemic Drive, Dead Space 2, Crossfire, Kingpin: Life of Crime, Second Sight, You Are Empty.

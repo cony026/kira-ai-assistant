@@ -1,0 +1,23 @@
+JUEGO: Day of Defeat: Source
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter
+TEMAS: Acción, Bélico
+MODOS DE JUEGO: Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2005-09-26
+NOTA DE LA CRÍTICA (IGDB): 85/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 71/100 (79 votos)
+TAMBIÉN CONOCIDO COMO: DoD:S, dod.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co610o.jpg
+URL: https://www.igdb.com/games/day-of-defeat-source
+
+RESUMEN:
+Day of Defeat offers intense online action gameplay set in Europe during WWII. Assume the role of infantry, sniper or machine-gunner classes, and more. DoD:S features enhanced graphics and sounds design to leverage the power of Source, Valve's new engine technology.
+
+JUEGOS PARECIDOS:
+Si te gusta Day of Defeat: Source, también podrían gustarte: Day of Defeat, Half-Life 2: Deathmatch, Team Fortress Classic, Red Orchestra: Ostfront 41-45, Counter-Strike: Condition Zero, Worms W.M.D, Counter-Strike: Global Offensive, Red Orchestra 2: Heroes of Stalingrad, Battlefield 2, Nuclear Dawn.

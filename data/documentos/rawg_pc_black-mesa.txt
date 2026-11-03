@@ -1,0 +1,17 @@
+JUEGO: Black Mesa
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: PC, Linux
+FECHA DE LANZAMIENTO: 2020-03-06
+DESARROLLADOR: Crowbar Collective
+PUBLISHER: Crowbar Collective
+GÉNEROS: Action, Shooter, Indie
+NOTA METACRITIC: 86
+RATING USUARIOS: 4.35/5 (1077 votos)
+TIEMPO DE JUEGO MEDIO: 6 horas
+TAGS: Singleplayer, Multiplayer, Atmospheric, Great Soundtrack, Co-op, Story Rich, First-Person, Sci-fi, Partial Controller Support, Horror, FPS, Classic, Online multiplayer, Early Access, Cross-Platform Multiplayer
+
+DESCRIPCIÓN:
+Black Mesa is the original Half-Life as if it was made in the 21st century using modern graphics and updated mechanics. This remake of the classic game was envisioned by a group of enthusiasts, approved by Valve, and spent eight years in the making. The name, Black Mesa, refers to the secret research facility where the game is set. The player assumes the role of Gordon Freeman, a scientist caught in the midst of an experiment gone wrong. An anomaly breaks out, and hordes of monsters invade Black Mesa.
+While Black Mesa and Half-Life are basically the same game, there are many subtle changes besides the improved graphics. The amount of ammo has changed, as well as the order in which the weapons appear in the game. The iconic crowbar is found in a different place. There are also new options like zooming in and out and reprogramming gun turrets. Some of the levels were shortened, and some of the monsters became stronger. NPCs became more intelligent, and they will perform certain actions to aid Gordon. Design of the characters also became more varied, and women finally appeared in the game. Black Mesa also introduced an achievement system and a multiplayer mode.

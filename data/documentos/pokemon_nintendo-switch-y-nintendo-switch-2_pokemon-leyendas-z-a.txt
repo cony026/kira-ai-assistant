@@ -1,0 +1,21 @@
+JUEGO: Pokémon Leyendas: Z-A
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Legends: Z-A
+PLATAFORMA: Nintendo Switch y Nintendo Switch 2
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación IX
+
+DESCRIPCIÓN:
+Pokémon Leyendas: Z-A es un juego de rol de la saga principal de Pokémon, de la Generación IX, para Nintendo Switch y Nintendo Switch 2. Los Pokémon iniciales que se pueden elegir al comenzar son Chikorita, Tepig y Totodile. Su Pokédex regional reúne 364 especies de Pokémon distintas. Incluye Pokémon legendarios como Xerneas, Yveltal, Zygarde, Mewtwo, Heatran y Cobalion.
+
+POKÉDEX:
+- Ciudad Luminalia: 232 Pokémon
+- Luminalia Dimensional: 132 Pokémon
+
+POKÉMON INICIALES:
+Chikorita, Tepig, Totodile
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Xerneas, Yveltal, Zygarde, Mewtwo, Heatran, Cobalion, Terrakion, Virizion, Latias, Latios, Kyogre, Groudon, Rayquaza
+Singulares (míticos): Diancie, Volcanion, Keldeo, Meloetta, Genesect, Hoopa, Marshadow, Meltan, Melmetal, Darkrai, Magearna, Zeraora

@@ -1,0 +1,28 @@
+JUEGO: Infernax
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Xbox One
+DISPONIBLE EN: Xbox One, PC, Nintendo Switch, PlayStation 4, Xbox Series S/X, PlayStation 5
+FECHA DE LANZAMIENTO: 2022-02-14
+DESARROLLADOR: Berzerk Studio
+PUBLISHER: Berzerk Studio
+GÉNEROS: Action, Adventure, RPG, Indie
+NOTA METACRITIC: 83
+RATING USUARIOS: 3.98/5 (46 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Full controller support, RPG, Gore, Violent
+
+DESCRIPCIÓN:
+Using a revolutionary, or at least it was back in 1988, leveling system, Infernax is an old school adventure platformer game with puzzle elements. It's a whole new innovative style and since nobody has ever done anything of the like, we'll name it ourselves, ARPG, which stands for Awesomely Radical Playing... Game, patent pending.
+All kidding aside, we tried to capture the essence of the games that left a mark on our childhoods, the ones who lit up the spark that made us want to make games of our own.
+This is a recreation of that experience we had growing up playing obscure NES games, the kind of game that left you with a feeling of accomplishment once you beat it, several months after the initial purchase.
+Set in the early years of the crusades, Infernax is the adventures of a great crusader who returns to his homeland only to find it plagued with unholy magic.
+While on your quest to find and destroy the source of this corruption, you will face ruthless creatures, dangerous beast, precarious terrains and pretty unforgiving game-design.
+Dangerously open world to explore
+Many secret areas to uncover
+Challenging dungeons and boss battles
+Level up system to tailor your experience to your liking
+Multi-endings based on player's decisions.
+Because it wouldn't be a Berzerk game without at least SOME blood, we've added gallon of bloody bits for you to oogle at.
+Buckle your seatbelt dudes because it's about to get gory.
+Secrets up the wazoo, so many that we had to implement a Game Wizard to contain them all.

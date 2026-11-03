@@ -1,0 +1,26 @@
+JUEGO: Gothic 1 Remake
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+DISPONIBLE EN: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+GÉNEROS: RPG, Aventura
+TEMAS: Acción, Fantasía, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Alkimia Interactive
+PUBLISHER: THQ Nordic
+FECHA DE LANZAMIENTO: 2026-06-05
+NOTA DE LA CRÍTICA (IGDB): 56/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 87/100 (33 votos)
+TAMBIÉN CONOCIDO COMO: G1R-Win64-Shipping.exe, Gothic Remake
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co9lfu.jpg
+URL: https://www.igdb.com/games/gothic-1-remake
+
+RESUMEN:
+Gothic 1 Remake is an action role-playing game set in a third-person perspective within a fantasy open world. It is a remake of the 2001 game Gothic, developed by Alkimia Interactive using Unreal Engine 5. The player controls a nameless prisoner sent into the Valley of Mines, a penal colony surrounded by a magical barrier. The game features NPC routines, faction-based quest paths, and a progression system where the player starts with no skills and must learn them from trainers. Navigation is done without a minimap, and the game world is 10 to 30 percent larger than the original, with expanded chapters and additional quest content. Combat and skill systems are based on the original game's design.
+
+HISTORIA:
+In a medieval fantasy world where humans are losing a war against Orcs, the king sentences all criminals to labor in ore mines to forge weapons. To prevent escape, twelve magicians erect a magical barrier over the mining colony, but the spell goes out of control, trapping the magicians inside and allowing the convicts to overthrow their guards. The prisoners split into three factions: the Old Camp, which trades ore with the king; the New Camp, which hoards ore to attempt destroying the barrier; and the Brotherhood, a religious group worshipping a being called the Sleeper. An unnamed prisoner is thrown into the colony carrying a letter for the Fire Mages. After joining one of the factions and uncovering that the Sleeper is actually a dangerous demon summoned by the Orcs centuries ago, the hero must find a way into the temple beneath the Orc city to confront and banish the creature, which causes the barrier to collapse and frees the colony.
+
+JUEGOS PARECIDOS:
+Si te gusta Gothic 1 Remake, también podrían gustarte: Elex II, The Blood of Dawnwalker, Lost in Random, Wuthering Waves, Lies of P, Deathbound, Death's Door, Fable, Rune Factory: Guardians of Azuma, Altheia: The Wrath of Aferi.

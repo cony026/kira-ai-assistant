@@ -1,0 +1,29 @@
+JUEGO: Them's Fightin' Herds
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PlayStation 5
+DISPONIBLE EN: Linux, macOS, PC, Nintendo Switch, Xbox Series S/X, Xbox One, PlayStation 4, PlayStation 5
+FECHA DE LANZAMIENTO: 2020-04-30
+DESARROLLADOR: Mane6
+PUBLISHER: Humble Bundle, Mane6
+GÉNEROS: Action, Fighting, Indie
+NOTA METACRITIC: 82
+RATING USUARIOS: 3.36/5 (42 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Multiplayer, Full controller support, Great Soundtrack, 2D, Horror, Online multiplayer, Pixel Graphics, Local Multiplayer, Early Access, Cute, Memes, Cartoon, 2D Fighter
+
+DESCRIPCIÓN:
+Special Offer
+Owners of Blazblue Centralfiction on Steam automatically unlock exclusive Jin and Ragna Cosplay cosmetics for all characters in Pixel Lobby.
+Owners of Skullgirls Second Encore on Steam automatically unlock exclusive cosmetic items for the Pixel Lobby: Cerebella's Hat Vice Versa, And Peacock's Hat and Bomb minion George.
+Owners of GUILTY GEAR Xrd REV 2 on Steam will automatically unlock exclusive cosmetic items in the Lobby: Sol Badguy's Outfit/Hairstyle, and Ky Kiske's Outfit/Hairstyle, for all characters.
+About the GameThem’s Fightin’ Herds is a 2D Fighting game featuring a cast of 4-legged combatants! Beneath the cute and cuddly surface designed by acclaimed cartoon producer and developer Lauren Faust, a serious and mechanically deep, GGPO-powered fighter awaits!
+As an additional thank you to Skullgirls and their playerbase for supporting us by letting us use the Z-engine via their crowdfund goals, owners of Skullgirls on Steam get an additional discount when purchasing the game. THANK YOU SO MUCH!
+The full main story will be delivered (FOR FREE) in regularly released episodes after Full release launch, focusing mostly on one character each, along with many unique unlockables, target mode courses and hidden fight scenarios.GAME FEATURESVisual Pixel Lobby: Online multiplayer lobby system uses the same style of overworld as Story Mode to allow all players to explore (read: goof around in) locations within the world of Foenum with other players. Customize your avatar with cosmetic items you collect through Story Mode AND Multiplayer PVP/PVE gameplay!
+Dynamic Music System: Rockin’ character themes that adapt in the heat of the battle makes every fight a treat to the players AND the spectators.
+GGPO powered netplay for the smoothest possible fighting game experience.
+More fighters are on the way, introducing more playstyles to the roster! Each fighter DLC release will include additional unlockable cosmetics, modes and character specific story mode expansions.
+4-button Fighting: A-Light, B-Medium, C-Heavy, D-Magic.
+Magic System: Emphasize your character’s special abilities through a dedicated button and a unique resource.
+Juggle Decay: Opponents become gradually heavier during a combo, but ONLY after the juggle decay bar is filled. This manages combo length without imposing a hard limit. In addition, filling the juggle decay bar prevents standing infinites by removing the opponent's ability to remain standing for the rest of that combo.
+Enhanced Super Attack: Spend an additional meter to add utility to your main super attack with effects that stay true to the characters’ unique personalities and talents!

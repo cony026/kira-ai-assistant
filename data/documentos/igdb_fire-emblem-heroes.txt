@@ -1,0 +1,28 @@
+JUEGO: Fire Emblem Heroes
+
+FUENTE: IGDB
+PLATAFORMA: Android, iOS, Legacy Mobile Device
+DISPONIBLE EN: Android, iOS, Legacy Mobile Device
+GÉNEROS: RPG, Simulación, Estrategia, Estrategia por turnos
+TEMAS: Acción, Fantasía, Histórico, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Nintendo Entertainment Planning & Development, Intelligent Systems
+PUBLISHER: Nintendo
+FECHA DE LANZAMIENTO: 2017-02-02
+NOTA DE LA CRÍTICA (IGDB): 75/100 (8 críticas)
+NOTA DE USUARIOS (IGDB): 62/100 (85 votos)
+FRANQUICIA: Fire Emblem
+TAMBIÉN CONOCIDO COMO: Fire Emblem Mobile
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1rc1.jpg
+URL: https://www.igdb.com/games/fire-emblem-heroes
+
+RESUMEN:
+"Take part in strategic turn-based battles streamlined for on-the-go play with maps that fit in the palm of your hand! Lead your army with easy touch and drag controls, including the ability to attack by simply swiping an ally over an enemy."
+
+HISTORIA:
+"A world with two kingdoms: the Emblian Empire, which wishes to rule all worlds, and the Askran Kingdom, which stands in its way.
+You are a summoner with the special ability to call upon legendary Heroes from different Fire Emblem worlds. In order to save the Kingdom of Askr from destruction, join the Order of Heroes and face a never-ending challenge."
+
+JUEGOS PARECIDOS:
+Si te gusta Fire Emblem Heroes, también podrían gustarte: Brigandine: The Legend of Runersia, 0 A.D., The Banner Saga 3, Sid Meier's Civilization Revolution, Naruto x Boruto: Ninja Voltage, Valkyria Chronicles 4, Utawarerumono: Mask of Deception, Conqueror's Blade, Mordheim: City of the Damned, Etheria: Restart.

@@ -1,0 +1,21 @@
+JUEGO: Test Drive
+
+FUENTE: IGDB
+PLATAFORMA: Commodore C64/128/MAX, Atari ST/STE, DOS, Amiga
+DISPONIBLE EN: Commodore C64/128/MAX, Atari ST/STE, DOS, Amiga, Apple II
+GÉNEROS: Carreras, Simulación, Arcade
+TEMAS: Acción, Non-fiction
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Distinctive Software
+PUBLISHER: Accolade
+FECHA DE LANZAMIENTO: 1987-12-31
+NOTA DE USUARIOS (IGDB): 87/100 (32 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4i7c.jpg
+URL: https://www.igdb.com/games/test-drive
+
+RESUMEN:
+After you choose a car, you have to drive as fast as possible without crash and without getting caught by the cops. You are equipped with the radar detector so you are informed about the approaching trouble.
+
+JUEGOS PARECIDOS:
+Si te gusta Test Drive, también podrían gustarte: Test Drive, The Duel: Test Drive II, Need for Speed: High Stakes, Midtown Madness, Need for Speed: Carbon - Own the City, Need for Speed: Hot Pursuit 2, Midnight Club 3: DUB Edition, Test Drive 6, Race Driver: Grid, OutRun.

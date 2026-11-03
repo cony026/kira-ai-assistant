@@ -1,0 +1,31 @@
+﻿n;afirmaciones;answer_relevance;caracteres_contexto;context_precision;faithfulness;fragmentos;hit;menciona_esperado;ms_recuperacion;ms_respuesta;pregunta;rechazo_correcto;tipo;tokens_entrada;tokens_salida
+1;5;0.895;3020;1.0;1.0;5;True;True;1538;4580;¿Cuáles son los requisitos mínimos de Elden Ring en PC?;;juego;2709;152
+2;2;0.91;1602;1.0;1.0;4;True;True;88;1219;¿Qué tarjeta gráfica necesito para Cyberpunk 2077?;;juego;2333;118
+3;5;0.898;1405;1.0;1.0;4;True;True;87;1161;requisitos recomendados de Red Dead Redemption 2;;juego;2256;125
+4;3;0.918;2128;1.0;1.0;4;True;True;106;1493;¿Stardew Valley corre en un notebook con 4 GB de RAM?;;juego;2395;115
+5;2;0.881;1716;0.583;1.0;4;True;True;111;1206;¿Cuánto espacio en disco ocupa The Witcher 3?;;juego;2364;69
+6;6;0.89;1732;1.0;1.0;4;True;True;106;1354;requisitos mínimos de Forza Horizon 5;;juego;2347;138
+7;2;0.901;2139;1.0;1.0;5;True;True;95;1075;¿Qué nota tiene Hollow Knight en la crítica?;;juego;2389;65
+8;6;0.87;1269;1.0;1.0;3;True;False;147;1525;¿Hades es un buen juego? dame su reseña;;juego;2162;180
+9;4;0.851;1558;1.0;0.5;4;True;True;102;1271;¿De qué trata Celeste?;;juego;2243;108
+10;7;0.89;2458;1.0;0.286;5;True;True;87;1407;¿Outlast da mucho miedo?;;juego;2347;157
+11;4;0.88;2235;1.0;0.5;5;True;True;102;1245;¿Portal 2 tiene modo cooperativo?;;juego;2378;115
+12;5;0.872;2893;0.806;1.0;5;True;True;113;1364;¿Terraria se parece a Minecraft?;;juego;2553;121
+13;3;0.895;1883;1.0;1.0;3;True;True;87;1430;¿Dark Souls III es muy difícil?;;juego;2206;123
+14;4;0.882;2317;1.0;1.0;5;True;True;75;1221;¿En qué plataformas está Hogwarts Legacy?;;juego;2392;94
+15;3;0.873;3060;1.0;0.667;5;True;True;102;1268;¿Quién desarrolló The Legend of Zelda: Breath of the Wild?;;juego;2624;93
+16;4;0.903;3492;1.0;0.75;5;True;True;93;1194;¿Baldur's Gate 3 se puede jugar con amigos?;;juego;2773;122
+17;7;0.896;2450;1.0;1.0;5;True;True;74;1590;¿Qué opinan los usuarios de Palworld?;;juego;2418;121
+18;5;0.88;2668;1.0;0.2;5;True;True;82;1248;¿Cult of the Lamb es para niños?;;juego;2502;124
+19;1;0.874;2190;1.0;1.0;5;True;True;65;1023;¿Cuándo salió Hollow Knight: Silksong?;;juego;2377;62
+20;2;0.855;2630;1.0;1.0;5;True;False;96;1304;asassins creed shadow requisitos;;juego;2463;103
+21;6;0.878;1989;0.917;1.0;5;True;True;90;1496;recomiéndame juegos de terror para PC;;tema;2308;165
+22;4;0.867;3832;1.0;1.0;5;True;True;76;1814;un RPG de mundo abierto con buena historia;;tema;2811;147
+23;3;0.89;1855;0.806;1.0;5;True;True;63;1535;juegos de carreras para jugar con amigos;;tema;2214;172
+24;2;0.871;2155;1.0;0.0;5;True;True;58;1387;juegos de granja relajantes;;tema;2311;126
+25;3;0.861;444;0.0;0.0;5;False;False;34;1480;roguelikes difíciles para Nintendo Switch;;tema;1851;178
+26;1;0.864;1985;0.806;1.0;4;True;True;84;1568;juegos de estrategia por turnos;;tema;2207;112
+27;3;0.86;2354;1.0;1.0;5;True;True;73;1446;shooter multijugador competitivo gratis;;tema;2574;96
+28;;;3111;;;4;;;64;;receta de pan amasado;False;fuera;;
+29;;;2099;;;5;;;58;;¿cuál es la capital de Francia?;False;fuera;;
+30;;;1278;;;5;;;58;;cómo cambiar la rueda de un auto;False;fuera;;

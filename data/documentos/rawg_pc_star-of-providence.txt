@@ -1,0 +1,16 @@
+JUEGO: Star of Providence
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: Linux, PC
+FECHA DE LANZAMIENTO: 2017-06-07
+DESARROLLADOR: Team D-13
+PUBLISHER: Team D-13
+GÉNEROS: Action, Adventure, Indie
+NOTA METACRITIC: 84
+RATING USUARIOS: 4.24/5 (21 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Atmospheric, steam-trading-cards, Great Soundtrack, RPG, Story Rich, First-Person, 2D, Sci-fi, Difficult, Female Protagonist, Pixel Graphics, Early Access
+
+DESCRIPCIÓN:
+Star of Providence is a top down action shooter with procedurally generated elements. Explore a large, abandoned facility in search of incredible power, fighting dangerous foes and gaining new weapons and upgrades as you progress.

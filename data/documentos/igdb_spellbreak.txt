@@ -1,0 +1,25 @@
+JUEGO: Spellbreak
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Xbox One, Nintendo Switch
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Xbox One, Nintendo Switch
+GÉNEROS: Shooter, RPG, Aventura
+TEMAS: Acción
+MODOS DE JUEGO: Multijugador, Battle Royale
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Proletariat, Inc.
+PUBLISHER: Proletariat, Inc.
+FECHA DE LANZAMIENTO: 2020-09-03
+NOTA DE LA CRÍTICA (IGDB): 76/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 69/100 (47 votos)
+TAMBIÉN CONOCIDO COMO: 스펠브레이크, Launch_Spellbreak.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2nwn.jpg
+URL: https://www.igdb.com/games/spellbreak
+
+RESUMEN:
+Spellbreak is an epic fantasy action-spellcasting game where players fight to become an all-powerful battlemage. Weave spectacular spell combinations, craft strategic builds, and master your environment as you dominate the Hollow Lands solo or with friends in a non-stop quest for survival.
+
+The servers are currently shut down, but the developers have generously released a PC standalone version that allows you to host community servers or play offline.
+
+JUEGOS PARECIDOS:
+Si te gusta Spellbreak, también podrían gustarte: Anthem, Grounded, Towerborne, The First Descendant, Warhammer 40,000: Space Marine II, Godfall, Jumanji: The Video Game, Monster Hunter Stories 2: Wings of Ruin, Ravenswatch, Kingdom Hearts IV.

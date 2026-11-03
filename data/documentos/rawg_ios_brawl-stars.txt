@@ -1,0 +1,13 @@
+JUEGO: Brawl Stars
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Android, iOS
+FECHA DE LANZAMIENTO: 2018-12-12
+DESARROLLADOR: Supercell
+PUBLISHER: Supercell
+GÉNEROS: Action, Massively Multiplayer, Shooter
+TAGS: Free to Play, Multiplayer, PvP, MOBA, Hero Shooter, Competitive
+
+DESCRIPCIÓN:
+Brawl Stars is a fast-paced multiplayer mobile game from Supercell that mixes MOBA and third-person shooter elements. Players choose from a large roster of characters called Brawlers, each with unique weapons and special abilities, and compete in short team-based game modes like Gem Grab, Brawl Ball, Heist and Showdown.

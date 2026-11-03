@@ -1,0 +1,85 @@
+JUEGO: HITMAN World of Assassination
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura
+DESARROLLADOR: IO Interactive A/S
+PUBLISHER: IO Interactive A/S
+FECHA DE LANZAMIENTO: 20 ENE 2022
+PRECIO: $27.99
+NOTA METACRITIC: 87/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (68335 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Entra al mundo del asesino definitivo. HITMAN: mundo del asesinato reúne lo mejor de HITMAN, HITMAN 2 y HITMAN 3. Incluye la campaña principal, contratos, intensificaciones, objetivos escurridizos y HITMAN: Freelancer, un modo inspirado en el género roguelike.
+
+DESCRIPCIÓN DETALLADA:
+WORLD OF ASSASSINATIONEntra en el mundo del asesino definitivo. HITMAN: mundo del asesinato reúne lo mejor de HITMAN, HITMAN 2 y HITMAN 3. Incluye la campaña principal, contratos, intensificaciones, objetivos escurridizos y contenido destacado.CONVIÉRTETE EN EL AGENTE 47Vístete para la ocasión con este thriller de espías en el que tendrás que usar letales habilidades en más de 20 ubicaciones.LIBERTAD DE ACCIÓNTu arma más peligrosa es la creatividad. Desbloquea nuevo equipamiento y sube de nivel con misiones de lo más rejugables.EL MUNDO DEL ASESINATORecorre un mundo vivo y repleto de personajes intrigantes y oportunidades letales.HITMAN: FREELANCERUna nueva forma de jugar según tus propios términos que combina elementos de roguelike y planificación estratégica con una rejugabilidad constante e infinita.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: OS 64-bit Windows 10
+
+- Procesador: Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 660 / Radeon HD 7870
+
+- DirectX: Versión 12
+
+- Almacenamiento: 60 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: OS 64-bit Windows 10
+
+- Procesador: Intel CPU Core i7 4790 4 GHz
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia GPU GeForce GTX 1070 / AMD GPU Radeon RX Vega 56 8GB
+
+- DirectX: Versión 12
+
+- Almacenamiento: 60 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- Requiere un procesador Apple
+
+- SO: macOS: 15.5 or later
+
+- Procesador: M1
+
+- Memoria: 16 GB de RAM
+
+- Almacenamiento: 80 GB de espacio disponible
+
+- Notas adicionales: Requires an Apple processor
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- Requiere un procesador Apple
+
+- SO: macOS: 15.5 or later
+
+- Procesador: M3 Pro
+
+- Memoria: 18 GB de RAM
+
+- Almacenamiento: 80 GB de espacio disponible
+
+- Notas adicionales: Requires an Apple processor
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

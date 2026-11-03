@@ -1,0 +1,20 @@
+JUEGO: LUFTRAUSERS
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: PS Vita, PlayStation 3, iOS, PC, Linux, Android, macOS
+FECHA DE LANZAMIENTO: 2014-03-17
+DESARROLLADOR: Devolver Digital, Vlambeer
+PUBLISHER: Devolver Digital, GHI Media
+GÉNEROS: Action, Simulation, Arcade, Indie
+NOTA METACRITIC: 80
+RATING USUARIOS: 3.58/5 (216 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, steam-trading-cards, Great Soundtrack, 2D, Difficult, Steam Leaderboards, Pixel Graphics, Retro, controller support, Roguelike, Fast-Paced, Shoot 'Em Up
+
+DESCRIPCIÓN:
+LUFTRAUSERS is a shoot 'em up game developed by Vlambeer. It is a remake of an earlier game of the same name by Vlambeer made on Flash.
+
+LUFTRAUSERS is an arcade two-dimensional plane sim that uses retro pixelated style. The player controls a plane that somewhat reminds a vehicle developed in the German V-Waffen (retaliatory weapons) project. The plane's main weapon can shoot only in the direction of flying so the players need some skill shooting and flying at the same time. Further into the game upgrades for the plane are unlocked, such as new weapons, body kits, and engines. There is 125 plane builds available in the game. The build the player uses affects the music player in the game. Every plane subsystem brings something new into the game's music. 
+
+The main objective of the player is to survive against the enemies overwhelming force, which includes reactive and experimental planes, zeppelins, boats, ships, subs and so on. A scoring system is also present in the game. Upon the enemies destruction, the player gains a score multiplier.

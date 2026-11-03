@@ -1,0 +1,27 @@
+JUEGO: Jazzpunk
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Puzle, Aventura, Indie
+TEMAS: Acción, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Necrophone Games
+PUBLISHER: Adult Swim Games
+FECHA DE LANZAMIENTO: 2014-02-07
+NOTA DE LA CRÍTICA (IGDB): 83/100 (8 críticas)
+NOTA DE USUARIOS (IGDB): 74/100 (71 votos)
+TAMBIÉN CONOCIDO COMO: Jazzpunk.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2qg8.jpg
+URL: https://www.igdb.com/games/jazzpunk
+
+RESUMEN:
+Jazzpunk is a single-player, first-person adventure game, focusing on exploration and comedy over puzzle-solving. Each mission has one central objective, but the player is free to explore the game world at their own pace, which is populated with a large number of interactive NPCs, each with their own action or gag. Mini-games, including mini-golf, a Frogger clone, and a version of Duck Hunt in which the player pelts cardboard ducks with slices of bread from a toaster, also feature prominently in the game's storyline.
+
+HISTORIA:
+The game is centered around a top-secret espionage agency operating out of an abandoned subway station in late 1950's Japan. The player takes the role of Polyblank, a silent protagonist. The game begins when Polyblank is mailed to the espionage agency in a human-shaped suitcase. He is then given several missions by the head of the organization, all of which begin by ingesting a dose of prescription medicine and which end with the protagonist sitting on a bench in a Zen garden, feeding breadcrumbs to Koi fish. The missions assigned to Polyblank are almost always bizarre and nonsensical, relying heavily on free association and references to older movies and video games. Tasks include degaussing and smuggling pigeons, assassinating cowboys, cross-dressing, killing a pig with a six-string guitar, and photocopying Polyblank's bottom to fool a security scanner.
+The first mission begins with Polyblank having to infiltrate a Soviet consulate to recover a data cartridge, the second to go to a sushi restaurant to steal a cowboy's artificial kidney. On the way back from the sushi restaurant, Polyblank is intercepted by agents telling him to 'hand over the wetware', but he escapes. The Director then states that Polyblank should take a holiday while they wait for things to die down. When Polyblank gets to Kai Tak Resort for his holiday, he receives a phone call telling him he has to find the syndicate man (The Editor) on site and switch briefcases with him. Polyblank succeeds, but then passes out after drinking a cocktail. Polyblank wakes up in a hotel room at night with a message telling him to come to the rear pool. In the empty rear pool, Polyblank talks to a man who tells him the resort is a simulation, and to get out he must find, kill and cook the mechanical pig. After doing this, and navigating an electric maze, Polyblank finds himself back in the subway station, only to find the Director and his secretary are cardboard cutouts. He then finds an audio message from the Editor telling him if he wants to see them again he should come to his house. Polyblank goes there, and he is told he must beat the Editor in a game of sport for the Director to be freed. Polyblank loses, and so must find prizes for the Editor. Polyblank does this, inflating the Editor's ego, then he pops the Editor with a needle. Polyblank then finds the Director, where to free him he must either press a button. No matter which Polyblank presses, the Director turns into a crocodile and eats Polyblank. The credits take place in the Director's intestines, and then Polyblank is giving special tablets to help him get out. The game ends after Polyblank takes the pills.
+
+JUEGOS PARECIDOS:
+Si te gusta Jazzpunk, también podrían gustarte: Murdered: Soul Suspect, The Talos Principle, Deus Ex: Mankind Divided, Soma, Unepic, Deponia, Shadow Warrior 2, Outlast, Tales from the Borderlands, Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe.

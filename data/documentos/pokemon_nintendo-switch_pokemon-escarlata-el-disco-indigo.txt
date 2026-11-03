@@ -1,0 +1,19 @@
+JUEGO: Pokémon Escarlata: El disco índigo
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Scarlet: The Indigo Disk
+PLATAFORMA: Nintendo Switch
+GÉNEROS: Expansión (DLC), RPG, Aventura
+GENERACIÓN: Generación IX
+REGIÓN PRINCIPAL: Paldea
+LANZADO JUNTO A: Pokémon Púrpura: El disco índigo
+
+DESCRIPCIÓN:
+Pokémon Escarlata: El disco índigo es una expansión descargable (DLC) de Pokémon Escarlata y Pokémon Púrpura, de la Generación IX, para Nintendo Switch. La aventura transcurre en la región de Paldea. Se lanzó junto a Pokémon Púrpura: El disco índigo; cada versión tiene algunos Pokémon exclusivos. Su Pokédex regional reúne 243 especies de Pokémon distintas. Incluye Pokémon legendarios como Terapagos.
+
+POKÉDEX:
+- Arándano: 243 Pokémon
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Terapagos
+Singulares (míticos): Pecharunt

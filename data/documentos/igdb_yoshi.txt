@@ -1,0 +1,24 @@
+JUEGO: Yoshi
+
+FUENTE: IGDB
+PLATAFORMA: Nintendo 3DS, Wii, Family Computer, Wii U
+DISPONIBLE EN: Nintendo 3DS, Wii, Family Computer, Wii U, Nintendo Entertainment System
+GÉNEROS: Puzle, Estrategia
+TEMAS: Fantasía
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Game Freak
+PUBLISHER: Nintendo, Playtronic
+FECHA DE LANZAMIENTO: 1991-12-14
+NOTA DE LA CRÍTICA (IGDB): 47/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 51/100 (32 votos)
+FRANQUICIA: Mario, Yoshi
+TAMBIÉN CONOCIDO COMO: Mario y Yoshi, Mario und Yoshi, Mario et Yoshi, Mario e Yoshi, Mario e Yoshi
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6fy4.jpg
+URL: https://www.igdb.com/games/yoshi
+
+RESUMEN:
+Yoshi is a puzzle game featuring the titular character. In this game, the player must stack two of the same Mario enemy on top of one another to clear them. The concept of the game was inspired by Tetris.
+
+JUEGOS PARECIDOS:
+Si te gusta Yoshi, también podrían gustarte: Dig Dug II: Trouble in Paradise, Adventures of Lolo, Mario's Super Picross, Yoshi's Cookie, Breath of Fire II, Bomberman: Panic Bomber, Polarium Advance, Adventures of Lolo II, Mighty Bomb Jack, Breath of Fire.

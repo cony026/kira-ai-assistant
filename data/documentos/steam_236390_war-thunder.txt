@@ -1,0 +1,119 @@
+JUEGO: War Thunder
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Multijugador masivo, Simuladores, Free to Play
+DESARROLLADOR: Gaijin Entertainment
+PUBLISHER: Gaijin Network Ltd
+FECHA DE LANZAMIENTO: 15 AGO 2013
+PRECIO: Gratis
+NOTA METACRITIC: 81/100
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (778135 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+War Thunder es un juego de combate MMO gratuito de vehículos militares usados en la Segunda Guerra Mundial y la guerra de Corea. Lucha en grandes batallas de tierra, mar y aire con jugadores internacionales en un entorno en continuo desarrollo.
+
+DESCRIPCIÓN DETALLADA:
+War Thunder es el juego militar MMO gratuito más completo y multiplataforma para Windows, Linux, Mac ,PlayStation®4 ,PlayStation®5, Xbox One y Xbox Series X|S dedicado a aviación, vehículos blindados y barcos de la Segunda Guerra Mundial y la Guerra Fría. Únete ahora y participa en grandes batallas en tierra, en el aire y en el mar, luchando con millones de jugadores de todo el mundo en un entorno en constante evolución.En War Thunder, los aviones, las fuerzas de tierra y los buques de guerra colaboran en batallas competitivas realistas. Puede elegir entre más de 3,000 vehículos y una amplia variedad de situaciones de combate, muchas de las cuales son exclusivas. Puedes encontrarte derrotando a tus perseguidores desde una torreta de bombardero, defendiendo a tus compañeros en el suelo de un ataque aéreo con cañones antiaéreos, derribando aviones enemigos con una tormenta de fuego de múltiples lanzacohetes, o intentando hundir un buque de guerra enemigo con un torpedo desde un bote de ataque rápido. Las características incluyen:
+- Perfecta plataforma de juego cruzada entre PC con Windows, Linux, Mac, PlayStation®4 con usuarios de Xbox One incluidos en batallas de PC: todos en el mismo servidor.
+- Más de 3,000 aviones, tanques, buques de guerra y otros vehículos de combate altamente detallados elaborados cuidadosamente a partir de documentos históricos y fuentes supervivientes. 
+- 100 mapas que representan los principales teatros de batalla históricos.
+- Intensas experiencias de JcJ en misiones de combate a gran escala en varios escenarios de dificultad para todos los estilos de juego y grados de experiencia.
+- Contenido de JcE que incluye campañas históricas dinámicas y misiones en solitario.
+- Actualizaciones periódicas de contenido que incluyen nuevos vehículos, mapas, misiones y naciones.
+- Gráficos asombrosos, efectos de sonido auténticos y música hermosa que crean una atmósfera en la que sumergirse por completo.
+- Crea contenido personalizado para War Thunder y compártelo en War Thunder Live, ¡con la perspectiva de ganar dinero real a través del sistema de socios de ingresos compartidos!
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10 (64bit)
+
+- Procesador: Dual-Core 2.2 GHz
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 70 GB de espacio disponible
+
+- Compatibilidad con RV: SteamVR. Keyboard or gamepad required
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10/11 (64bit)
+
+- Procesador: Intel Core i5 or Ryzen 5 3600 or better
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 95 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: Catalina 10.15
+
+- Procesador: Core i5, minimum 2.2GHz (Intel Xeon is not supported)
+
+- Memoria: 6 GB de RAM
+
+- Gráficos: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 70 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: OS Big Sur v. 10.16 or newer
+
+- Procesador: Intel Core i7 (Xeon processors not supported)
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Radeon Vega II or higher with Metal support
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 95 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- SO: Most modern 64bit Linux distributions
+
+- Procesador: Dual-Core 2.4 GHz
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support.
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 70 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:
+
+- SO: Ubuntu 20.04 64bit
+
+- Procesador: Intel Core i7
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support.
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 95 GB de espacio disponible

@@ -1,0 +1,23 @@
+JUEGO: Awesomenauts
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: PlayStation 3, Linux, PC (Microsoft Windows), Mac, Xbox 360
+GÉNEROS: Plataformas, Estrategia, Indie, MOBA
+TEMAS: Acción, Ciencia ficción, Sigilo, Comedia, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Ronimo Games
+PUBLISHER: Ronimo Games
+FECHA DE LANZAMIENTO: 2012-05-01
+NOTA DE LA CRÍTICA (IGDB): 72/100 (8 críticas)
+NOTA DE USUARIOS (IGDB): 66/100 (74 votos)
+TAMBIÉN CONOCIDO COMO: Awesomenauts Assemble!, Awesomenauts - the 2D moba, AwesomenautsLauncher.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2sld.jpg
+URL: https://www.igdb.com/games/awesomenauts
+
+RESUMEN:
+Two teams battle each other to take down the opposing sides turrets and base. There's multiple stages and some with hidden traps in the environment. Each team defends multiple lanes, and has to plan and coordinate properly to take down the other team.
+
+JUEGOS PARECIDOS:
+Si te gusta Awesomenauts, también podrían gustarte: Dungeon Defenders, Worms W.M.D, BattleBlock Theater, SpeedRunners, The Baconing, Tales from Space: Mutant Blobs Attack, Dragon Ball: Xenoverse, Plants vs. Zombies, Trine, Ibb & Obb.

@@ -1,0 +1,24 @@
+JUEGO: Space Engineers
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), PlayStation 5, Xbox One
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), PlayStation 5, Xbox One
+GÉNEROS: Simulación, Estrategia, Aventura, Indie
+TEMAS: Acción, Ciencia ficción, Supervivencia, Sandbox, Mundo abierto, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Keen Software House
+PUBLISHER: Keen Software House
+FECHA DE LANZAMIENTO: 2019-02-28
+NOTA DE LA CRÍTICA (IGDB): 80/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 64/100 (60 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coaaw8.jpg
+URL: https://www.igdb.com/games/space-engineers
+
+RESUMEN:
+Space Engineers is a sandbox game about engineering, construction and maintenance of space works. Players build space ships and space stations of various sizes and utilization (civil and military), pilot ships and perform asteroid mining.
+
+Space Engineers utilizes a realistic volumetric-based physics engine: all objects can be assembled, disassembled, damaged and destroyed.
+
+JUEGOS PARECIDOS:
+Si te gusta Space Engineers, también podrían gustarte: Empyrion: Galactic Survival, Green Hell, Satisfactory, Raft, Teardown, Drug Dealer Simulator 2, Tales of Seikyu, Astroneer, Arma Reforger, Grounded.

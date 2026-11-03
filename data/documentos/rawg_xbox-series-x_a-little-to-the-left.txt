@@ -1,0 +1,25 @@
+JUEGO: A Little to the Left
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Xbox Series X/S
+DISPONIBLE EN: macOS, PC, Xbox Series S/X, Nintendo Switch
+FECHA DE LANZAMIENTO: 2022-11-08
+DESARROLLADOR: Max Inferno, youllbejustfine
+PUBLISHER: Secret Mode
+GÉNEROS: Casual, Indie, Puzzle
+NOTA METACRITIC: 74
+RATING USUARIOS: 3.85/5 (92 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Full controller support, Steam Cloud, 2D, Funny, Free to Play, Pixel Graphics, Family Friendly, Cute, Colorful, Relaxing, Linear, Hand-drawn
+
+DESCRIPCIÓN:
+A Little to the Left (A little more. Keep going. No, too far, back a bit.)
+We're going to keep on working on this game: clean it up, add some sound, more player feedback, a little more visual punch and a proper ending. Stay tuned for a devlog with more specifics. Thanks for playing our game!
+About:
+A Little to the Left reveals the daily household interactions of an individual coping with the feeling of being out of control. Tidy adjustments, sorting, stacking and micro alignments aim to offer relief from a radical possession that holds them with a tight grip.
+Instructions:
+Uncover the particular arrangement for the items at hand by clicking, dragging and dropping into place. Correctly placed items are straightened up, and cause much less anxiety.
+Credits:
+Concept: Anne Macmillan, Lukas Steinman
+Illustration: Anne Macmillan
+Programming: Lukas Steinman

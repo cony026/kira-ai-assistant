@@ -1,0 +1,29 @@
+JUEGO: OneShot
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Puzle, RPG, Aventura, Indie
+TEMAS: Fantasía
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Future Cat
+PUBLISHER: Degica Games, Komodo
+FECHA DE LANZAMIENTO: 2016-12-08
+NOTA DE USUARIOS (IGDB): 83/100 (146 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1u08.jpg
+URL: https://www.igdb.com/games/oneshot
+
+RESUMEN:
+OneShot is a surreal top down puzzle/adventure game with unique gameplay capabilities. You are to guide a child through a mysterious world on a mission to restore its long-dead sun. The world knows you exist.
+
+HISTORIA:
+You are to guide a child through a mysterious world on a mission to restore its long-dead sun.
+...Of course, things are never that simple.
+The world knows you exist.
+The consequences are real.
+Saving the world may be impossible.
+You only have one shot.
+
+JUEGOS PARECIDOS:
+Si te gusta OneShot, también podrían gustarte: OneShot, Omori, Undertale, Hue, Drova: Forsaken Kin, Gorogoa, Rusty Lake Hotel, Project Kat: Paper Lily Prologue, Momodora: Reverie Under the Moonlight, Hero of the Kingdom.

@@ -1,0 +1,52 @@
+JUEGO: Once Human
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Casual, Multijugador masivo, Carreras, Rol, Simuladores, Estrategia, Free to Play
+DESARROLLADOR: Starry Studio
+PUBLISHER: Starry Studio, NetEase Games
+FECHA DE LANZAMIENTO: 9 JUL 2024
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (182283 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Once Human is a Strange Worlds Survival Game set in a strange, post-apocalyptic future. Unite with friends to fight monstrous enemies, uncover secret plots, compete for resources, and build your own territory. Once, you were merely human. Now, you have the power to remake the world.
+
+DESCRIPCIÓN DETALLADA:
+Survive in the wildernessYou wake up in the middle of nowhere. You'll have to brace yourself for the cruelty of nature (from monsters to lack of food); however, Stardust's influence does not restrict to living things, it also affects the soil and water. Eating polluted food and drinking dirty water will reduce your Sanity. When your Sanity drops, your max HP would drop accordingly. To eat or not to eat, it's a question.Fight against monstersBattle numerous enemies that are once human, and challenge bosses from another dimension to gain powerful items and ease Stardust pollution. You are not only fighting for yourself, but also fighting for the survivors. Customize weaponsWith about 100 gun blueprints divided into seven categories for you to collect and craft, every loot grants you something new. Did I mention accessories and gun perks? Right, they are the heroes here. If our current weapon cannot satisfy your need, you can add different parts and perks, upgrade your firearm to your heart's content.  Build territoryUse Territory Core to build a house of your own. You can keep a practical style, jamming everything needed in a small room; or you can design a townhouse with a patio, kitchen, garage… The best part is, you can relocate your territory any time you want! Find out the truthDelve into the truth of Stardust, find out where it came from, and what it wants. In the journey of seeking truth, you may feel alone, but you are never alone. There are several factions in the world, some can be violent and hostile, others might be friendly and helpful. Explore human settlements to learn their stories or exterminate bosses without leaving a name for survivors to praise, the choices are yours.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10 64-bit Operating System
+
+- Procesador: Intel Core i5-4460 / Snapdragon® X
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Nvidia GTX 750ti 4G / AMD Radeon RX550 / Qualcomm® Adreno X1 GPU
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 100 GB de espacio disponible
+
+- Notas adicionales: SSD is highly recommended
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10 64-bit Operating System
+
+- Procesador: Intel Core i7-7700 / Snapdragon® X2 Elite
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia GTX 1060 6G / AMD Radeon RX 580 2304SP / Intel ARC A380 / Qualcomm® Adreno X2 GPU
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 100 GB de espacio disponible
+
+- Notas adicionales: SSD is highly recommended

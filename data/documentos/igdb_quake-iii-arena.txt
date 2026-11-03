@@ -1,0 +1,26 @@
+JUEGO: Quake III Arena
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac, Xbox 360
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac, Xbox 360, Dreamcast, PlayStation 2
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: id Software
+PUBLISHER: Electronic Arts, Sega, Loki Software, Activision
+FECHA DE LANZAMIENTO: 1999-12-02
+NOTA DE LA CRÍTICA (IGDB): 87/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 83/100 (422 votos)
+TAMBIÉN CONOCIDO COMO: Q3, Q3A, Quake 3 Arena, Quake 3: Arena, Quake III
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1ybj.jpg
+URL: https://www.igdb.com/games/quake-iii-arena
+
+RESUMEN:
+Quake III Arena is a first-person shooter built around competitive multiplayer combat. Unlike earlier entries in the Quake series, it has no story-driven campaign, and its single-player mode instead pits the player against computer-controlled bots across a series of increasingly difficult arenas. Matches take place in maps that mix gothic and technological architecture, with weapons and power-ups spawning at fixed points that players fight to control. Movement techniques such as strafe-jumping and rocket-jumping are central to high-level play. Game modes include free-for-all deathmatch, team deathmatch, one-on-one tournament duels, and capture the flag, and the game supports network and internet play along with extensive customization and modding.
+
+HISTORIA:
+In Quake III Arena, the greatest warriors of all time are pulled from their own worlds to fight for the amusement of a powerful race known as the Vadrigar within the Arena Eternal. The player takes the role of one such combatant, battling through tiers of opponents in an endless contest of skill and survival.
+
+JUEGOS PARECIDOS:
+Si te gusta Quake III Arena, también podrían gustarte: Quake II, Quake, Quake 4, Quake Arena Arcade, Unreal Tournament III, Unreal Tournament 2003, Return to Castle Wolfenstein, Quake Live, Team Fortress Classic, Counter-Strike.

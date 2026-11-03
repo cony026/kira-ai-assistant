@@ -1,0 +1,23 @@
+JUEGO: Super Hexagon
+
+FUENTE: IGDB
+PLATAFORMA: BlackBerry OS, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: BlackBerry OS, Linux, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: Música, Indie, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Terry Cavanagh, Distractionware
+PUBLISHER: Terry Cavanagh, Distractionware
+FECHA DE LANZAMIENTO: 2012-08-31
+NOTA DE LA CRÍTICA (IGDB): 83/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 79/100 (139 votos)
+TAMBIÉN CONOCIDO COMO: superhexagon.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4iei.jpg
+URL: https://www.igdb.com/games/super-hexagon
+
+RESUMEN:
+Super Hexagon is a minimal action game by Terry Cavanagh, with music by Chipzel.
+
+JUEGOS PARECIDOS:
+Si te gusta Super Hexagon, también podrían gustarte: Velocibox, Edge, Symphony, Muse Dash, Haunt the House: Terrortown, The Impossible Game, Hexcells Infinite, Shatter, Bit.Trip Beat, Chiptune Champion.

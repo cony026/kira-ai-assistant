@@ -1,0 +1,27 @@
+JUEGO: Half-Life
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, Puzle, Aventura
+TEMAS: Acción, Ciencia ficción, Terror, Suspenso, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve
+PUBLISHER: Valve, Sierra Entertainment
+FECHA DE LANZAMIENTO: 1998-11-19
+NOTA DE LA CRÍTICA (IGDB): 80/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 88/100 (2943 votos)
+FRANQUICIA: Half-Life
+TAMBIÉN CONOCIDO COMO: Half Life, Quiver, HL, HL1, hl.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coc2ea.jpg
+URL: https://www.igdb.com/games/half-life
+
+RESUMEN:
+Half-Life is a 1998 first-person shooter (FPS) game developed by Valve Corporation and published by Sierra Studios for Windows. It was Valve's debut product and the first game in the Half-Life series. The player assumes the role of Gordon Freeman, a theoretical physicist who must escape from the Black Mesa Research Facility after it is overrun by aliens following a disastrous scientific experiment. Its gameplay consists of diverse combat, exploration and puzzles.
+
+HISTORIA:
+Dr. Gordon Freeman arrives late for work at 8:47 am in the Black Mesa Research Facility, using the advanced Black Mesa tram system that leads through the facility. He arrives at the Anomalous Materials Lab, his work place, and he is informed by the security officer that the scientists have a special experiment today, so he goes to the locker room and puts on the hazard suit. He goes to the lab's lower levels, and arrives at the Anti-Mass Chamber, where he is instructed that the specimen to be used that day is the rarest and also the most unstable specimen. He is tasked with pushing the specimen into the scanning beam of the Anti-Mass Spectrometer for analysis. However as soon as he pushes it, it explodes, and creates a sudden catastrophe called a "resonance cascade", opening a portal between Earth and a dimension called Xen. Freeman is apparently teleported to an alien planet and catches glimpses of various alien lifeforms, including a circle of Vortigaunts, shortly before blacking out.
+
+JUEGOS PARECIDOS:
+Si te gusta Half-Life, también podrían gustarte: Quake 4, Counter-Strike, Quake, Half-Life 2, Call of Duty, Call of Duty 2, Portal, Halo: Combat Evolved, Call of Duty 4: Modern Warfare, Quake II.

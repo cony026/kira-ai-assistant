@@ -1,0 +1,28 @@
+JUEGO: Event[0]
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Puzle, Aventura, Indie
+TEMAS: Ciencia ficción, Misterio
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Ocelot Society
+PUBLISHER: Ocelot Society
+FECHA DE LANZAMIENTO: 2016-09-14
+NOTA DE LA CRÍTICA (IGDB): 75/100 (8 críticas)
+NOTA DE USUARIOS (IGDB): 68/100 (37 votos)
+TAMBIÉN CONOCIDO COMO: event0.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co241t.jpg
+URL: https://www.igdb.com/games/event-0
+
+RESUMEN:
+"Event[0] is a game about building a personal relationship with a machine.
+
+You type messages into a computer, and Kaizen answers. As in any relationship, you experience gratitude, disappointment, and sometimes jealousy. It is by working through fears and anxieties of your virtual companion that you will find your way back to Earth."
+
+HISTORIA:
+"In a world where humankind has embraced artificial intelligence, you are stranded on an abandoned spaceship."
+
+JUEGOS PARECIDOS:
+Si te gusta Event[0], también podrían gustarte: Outer Wilds, The Talos Principle II, Lake Ridden, Infra, Myst, Road 96, Gamedec, Observation, The Moon Sliver, Whispers of a Machine.

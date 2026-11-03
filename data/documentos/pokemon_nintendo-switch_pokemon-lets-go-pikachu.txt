@@ -1,0 +1,21 @@
+JUEGO: Pokémon Let’s Go, Pikachu!
+
+FUENTE: PokeAPI
+PLATAFORMA: Nintendo Switch
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación VII
+REGIÓN PRINCIPAL: Kanto
+LANZADO JUNTO A: Pokémon Let’s Go, Eevee!
+
+DESCRIPCIÓN:
+Pokémon Let’s Go, Pikachu! es un juego de rol de la saga principal de Pokémon, de la Generación VII, para Nintendo Switch. La aventura transcurre en la región de Kanto. Se lanzó junto a Pokémon Let’s Go, Eevee!; cada versión tiene algunos Pokémon exclusivos. El Pokémon inicial es Pikachu. Su Pokédex regional reúne 153 especies de Pokémon distintas. Incluye Pokémon legendarios como Articuno, Zapdos, Moltres y Mewtwo.
+
+POKÉDEX:
+- Let’s Go Kanto: 153 Pokémon
+
+POKÉMON INICIALES:
+Pikachu
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Articuno, Zapdos, Moltres, Mewtwo
+Singulares (míticos): Mew, Meltan, Melmetal

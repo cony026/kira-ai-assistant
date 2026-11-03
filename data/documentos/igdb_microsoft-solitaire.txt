@@ -1,0 +1,21 @@
+JUEGO: Microsoft Solitaire
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Cartas y tablero
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Microsoft
+PUBLISHER: Microsoft
+FECHA DE LANZAMIENTO: 1990-05-22
+NOTA DE USUARIOS (IGDB): 76/100 (67 votos)
+TAMBIÉN CONOCIDO COMO: MS Solitaire, Solitaire, Windows Solitaire
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7mj8.jpg
+URL: https://www.igdb.com/games/microsoft-solitaire
+
+RESUMEN:
+Solitaire, also known as Microsoft Solitaire is a computer game included with Microsoft Windows, based on a card game of the same name.
+
+JUEGOS PARECIDOS:
+Si te gusta Microsoft Solitaire, también podrían gustarte: Microsoft Minesweeper, Connect 4, Microsoft Mahjong, Dungeon Hunter 5, UNO & Friends, Shark Dash, Platinum Solitaire, Dungeon Hunter 4, ROM Check Fail, Magic: The Gathering - Duels of the Planeswalkers 2013.

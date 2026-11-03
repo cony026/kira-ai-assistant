@@ -1,0 +1,26 @@
+JUEGO: Below
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Xbox One
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Xbox One
+GÉNEROS: RPG, Aventura, Indie
+TEMAS: Acción, Fantasía, Supervivencia, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica, Vista lateral
+DESARROLLADOR: Capybara Games
+PUBLISHER: Microsoft Studios
+FECHA DE LANZAMIENTO: 2018-12-14
+NOTA DE LA CRÍTICA (IGDB): 66/100 (10 críticas)
+NOTA DE USUARIOS (IGDB): 72/100 (22 votos)
+TAMBIÉN CONOCIDO COMO: What Lies Below, BelowD3D11Steam_x64.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3zac.jpg
+URL: https://www.igdb.com/games/below
+
+RESUMEN:
+Test your adventurer mettle against The Isle’s procedural subterranean labyrinths. Explore a large, interconnected underworld crawling with cunning wildlife, deadly traps and stalked by a shadowy presence. Survive the perils of The Depths and unearth what lies below... or die trying..
+
+HISTORIA:
+Below is an atmospheric action-adventure roguelike that follows a lone, tiny warrior arriving by boat on the shores of a vast and remote island. Drawn by mystery, the traveler descends into the island's ever-deepening caverns, a labyrinth of shifting, randomly generated depths shrouded in darkness. Survival is a constant struggle against lethal traps, hostile creatures, hunger, and the cold, with only a glowing lantern to push back the shadows. Told almost entirely without words, the game is a quiet, foreboding journey ever downward into the secrets buried beneath the island.
+
+JUEGOS PARECIDOS:
+Si te gusta Below, también podrían gustarte: Drova: Forsaken Kin, Curse of the Dead Gods, Chasm, Mages of Mystralia, Ashen, Hob, Soulstone Survivors, The Little Acre, Momodora: Reverie Under the Moonlight, Don't Starve.

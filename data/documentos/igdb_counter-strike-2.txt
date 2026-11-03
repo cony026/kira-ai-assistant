@@ -1,0 +1,22 @@
+JUEGO: Counter-Strike 2
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows)
+DISPONIBLE EN: Linux, PC (Microsoft Windows)
+GÉNEROS: Shooter, Táctico
+TEMAS: Acción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2023-09-27
+NOTA DE USUARIOS (IGDB): 68/100 (366 votos)
+TAMBIÉN CONOCIDO COMO: Counter-Strike, CS2, Counter Strike 2, CS2 Source 2, Counter-Strike Global Offensive
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coaczd.jpg
+URL: https://www.igdb.com/games/counter-strike-2
+
+RESUMEN:
+Counter-Strike 2 is a free-to-play multiplayer tactical first-person shooter developed and published by Valve. Released in September 2023, it is the fifth main entry in the Counter-Strike series and serves as a direct replacement for Counter-Strike: Global Offensive on Steam. Two teams, Terrorists and Counter-Terrorists, compete in objective-based rounds across modes such as bomb defusal and hostage rescue. Built on the Source 2 engine, the game introduced volumetric smoke physics, revised weapon handling, and a new sub-tick server architecture. It inherited all cosmetic items from its predecessor and features both a map-specific Competitive mode and a numerically ranked Premier mode.
+
+JUEGOS PARECIDOS:
+Si te gusta Counter-Strike 2, también podrían gustarte: Combat Master, Tom Clancy's Splinter Cell: Conviction, Sniper Ghost Warrior Contracts 2, Bullet Force, Arena Breakout, Far Cry, The Last War, Codename Cure, Masked Shooters 2, Azur Lane.

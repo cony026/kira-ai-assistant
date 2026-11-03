@@ -1,0 +1,64 @@
+JUEGO: Grand Theft Auto V Enhanced
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Carreras
+DESARROLLADOR: Rockstar North
+PUBLISHER: Rockstar Games
+FECHA DE LANZAMIENTO: 4 MAR 2025
+PRECIO: $19.79
+RESEÑAS DE USUARIOS (STEAM): Very Positive (217177 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Disfruta de los superventas del entretenimiento Grand Theft Auto V y Grand Theft Auto Online, ahora mejorados para una nueva generación, con impresionantes gráficos, carga más rápida, audio 3D y mucho más, además de contenido exclusivo para los jugadores de GTA Online.
+
+DESCRIPCIÓN DETALLADA:
+Te damos la bienvenida a Los SantosCuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, el gobierno de los EE. UU. y la industria del espectáculo, deberán llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en la que no pueden confiar en nadie. Y mucho menos los unos en los otros.Los jugadores actuales de PC pueden transferir su progreso del Modo Historia de GTAV y sus personajes y progreso de GTA Online mediante una tranferencia única desde la versión original de GTAV a GTAV Enhanced. Gráficos impresionantesNiveles de fidelidad y rendimiento mejorados, con nuevos modos de gráficos que ofrecen funciones de trazado de rayos, tales como oclusión ambiental e iluminación global, sombras y reflejos con trazado de rayos, compatibilidad con AMD FSR y NVIDIA DLSS, y mucho más*.Carga más rápidaEntra en la acción rápidamente, ya que el mundo de Los Santos y el condado de Blaine ahora se carga más rápido que nunca mediante SSD y DirectStorage en dispositivos compatibles.Controles inmersivosExperimenta nuevos niveles de reacción con la resistencia dinámica gracias a los gatillos adaptativos del mando inalámbrico DualSense™: siente desde el daño direccional hasta los efectos atmosféricos, los baches de las carreteras, las explosiones y mucho más*.Audio 3DAudio mejorado con soporte para Dolby Atmos y mayor fidelidad de voz, cinemáticas y música*. Oye los sonidos del mundo con una precisión milimétrica, desde la aceleración de un supercoche robado hasta los disparos de un tiroteo cercano, el estruendo de un helicóptero sobre tu cabeza y mucho más.Grand Theft Auto OnlineDisfruta de la experiencia de GTA Online, un universo dinámico y en constante evolución para hasta 30 jugadores, donde podrás pasar de ser un estafador callejero a convertirte en el capo de tu propio imperio criminal.Disfruta de nuevas mejoras para vehículos de alto rendimiento y del creador de profesiones. Además, podrás acceder a todas las actualizaciones, expansiones y contenidos de GTA Online publicados desde el lanzamiento, tanto en solitario como con tus amigos. Lleva a cabo elaborados golpes cooperativos, participa en carreras acrobáticas llenas de adrenalina, compite en Modos Adversario especiales o pasa el tiempo en espacios sociales como clubes nocturnos, salones recreativos, fiestas en áticos, reuniones automovilísticas y mucho más.Contenido exclusivoVisita Hao's Special Works en el Car Meet de LS, donde encontrarás nuevas mejoras para vehículos de élite y modificaciones exclusivas. Después, participa con estos vehículos de alto rendimiento en nuevas carreras, contrarrelojes y mucho más.Nuevo creador de profesionesPonte en marcha en GTA Online con las herramientas del oficio. Accede rápidamente a uno de los cuatro negocios (Motero, Ejecutivo, Propietario de un club nocturno o Traficante de armas) y elige entre una selección de propiedades, potentes vehículos y armamento para poner en marcha tu negocio.Nuevo diseño del menúAccede al instante a todo lo que te ofrece GTA Online directamente desde el menú principal, incluidas las actualizaciones más recientes y populares.Accede a todas las actualizaciones actuales y previasSumérgete en más de 40 actualizaciones masivas y las que vendrán, que incluyen desde dirigir una instalación de operaciones encubiertas en Agents of Sabotage, rastrear y atrapar a los más buscados del sur de San Andreas en Bottom Dollar Bounties, desenmascarar a policías corruptos y cárteles de asesinos en Asalto a Cluckin' Bell, hasta robar los vehículos más codiciados de Los Santos en The Chop Shop. Todo esto y más disponible junto con una amplia variedad de carreras, modos, actividades y espacios sociales para disfrutar solo o con amigos, que incluyen clubes nocturnos, salones recreativos, fiestas en áticos, encuentros automovilísticos y mucho más.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (latest service pack)
+
+- Procesador: Intel® Core™ i7-4770 | AMD FX™-9590
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce® GTX 1630 (4GB VRAM) | AMD Radeon™ RX 6400 (4GB VRAM)
+
+- Almacenamiento: 105 GB de espacio disponible
+
+- Tarjeta de sonido: DirectX 10 Compatible
+
+- Notas adicionales: SSD Required  |  Over time downloadable content and programming changes will change the system requirements for this game. Please refer to your hardware manufacturer and  for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.  Other requirements: Installation and online play requires log-in to Rockstar Games account (minimum age varies) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Launcher, DirectX, Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication and verification software that recognizes certain hardware attributes for entitlement, digital rights management, anti-cheat and moderation software, system, and other support purposes.  *Compatible PC and/or device required. 3D Audio via Windows Spatial Sound compatible audio systems
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11
+
+- Procesador: Intel® Core™ i5-9600K | AMD Ryzen™ 5 3600
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce® RTX 3060 (8GB VRAM) | AMD Radeon™ RX 6600XT (8GB VRAM)
+
+- Almacenamiento: 105 GB de espacio disponible
+
+- Tarjeta de sonido: Windows Spatial Sound-compatible audio system; solution containing Dolby Atmos® support required for a Dolby Atmos® experience
+
+- Notas adicionales: SSD with DirectStorage-compatibility
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

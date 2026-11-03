@@ -1,0 +1,82 @@
+JUEGO: Lost Ark
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Multijugador masivo, Rol, Free to Play
+DESARROLLADOR: Smilegate RPG
+PUBLISHER: Amazon Game Studios
+FECHA DE LANZAMIENTO: 11 FEB 2022
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (203201 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Embárcate en una odisea en el gigantesco y vibrante mundo de Lost Ark: explora lugares desconocidos, busca tesoros perdidos y ponte a prueba con la emocionante acción y combate de este RPG de acción gratuito.
+
+DESCRIPCIÓN DETALLADA:
+Embárcate en una odisea en el gigantesco y vibrante mundo de Lost Ark: explora lugares desconocidos, busca tesoros perdidos y ponte a prueba con su emocionante acción y combate. En este juego de rol gratuito repleto de acción, tu clase y clase avanzada definirán tu estilo de lucha, que además podrás personalizar con diversas habilidades, armas y equipo para desatar todo tu poder contra hordas de enemigos, jefes colosales y las fuerzas de la oscuridad que buscan el poder del Arca.
+
+Descubre un mundo repleto de aventuras
+Podrás explorar siete continentes amplios y muy variados, así como los mares que los separan. En ellos, encontrarás culturas vibrantes, extrañas bestias fantásticas e imprevistas maravillas que esperan a ser descubiertas. Investiga los secretos de Arkesia, demuestra tu poder en batallas y asaltos, compite contra otros jugadores en JcJ, viaja a islas distantes en busca de tesoros ocultos, enfréntate a grupos de enemigos y jefes colosales en el mundo abierto y mucho más.
+
+Tu odisea te espera
+Sumérgete en el progreso y el combate enormemente satisfactorios del estilo RPG de acción conforme completas misiones, saqueas y luchas en un mundo de MMO.  Tanto si quieres jugar en solitario como en grupo con tus amigos o con otros aventureros del mundo, te espera una aventura épica.  Lucha en el mundo abierto o adéntrate en las Mazmorras del Caos, combate mano a mano en duelos JcJ, demuestra tu coraje en misiones épicas, enfréntate a jefes de todos los tamaños y resiste frente a la Legión Demoníaca para recuperar el poder y la luz del Arca perdida.
+
+Define tu lucha
+El combate de Lost Ark es fácil de aprender, pero al mismo tiempo es muy profundo y personalizable. No tendrás que esperar ni un minuto para disfrutar de la acción. Toma el control del combate con Trípode, el sistema único de Lost Ark. Los tres niveles de personalización que podrás desbloquear para cada una de tus habilidades te permitirán controlar al detalle cómo quieres luchar.  Lost Ark cuenta con una variedad de icónicas clases que nunca deja de crecer. Cada una de ellas tiene sus propias clases avanzadas, por lo que podrás explorar hasta encontrar el estilo de combate más adecuado para ti.  
+
+Y esto no se aplica solo en batalla: a medida que avances en tu aventura, encontrarás habilidades de otros tipos, sistemas sociales, de artesanía y de gremios y todo lo que hace que un mundo esté vivo. Dependerá de ti si quieres quedarte en la superficie o sumergirte hasta el fondo.
+
+FUNCIONES DE ACCESIBILIDAD:
+Personaliza tu aventura con los ajustes de accesibilidad antes de empezar a jugar. Modifica opciones como el tamaño del texto de chat, los filtros de daltonismo, el modo fotosensible, la sacudida de cámara y los subtítulos para crear la mejor experiencia para ti. Adapta el audio a tus preferencias con los controles de volumen, sonido mono, sonido estéreo y sonido envolvente. También puedes modificar las entradas del juego con las opciones de asignaciones de teclas y ajustar opciones de ratón y teclado. Por último, modifica las entradas del juego con las opciones de asignaciones de teclas y no te pierdas ningún mensaje con el chat de texto a voz y de voz a texto.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64 bits)
+
+- Procesador: Intel i3 o AMD Ryzen 3
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 460 / AMD HD6850
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 110 GB de espacio disponible
+
+- Notas adicionales: Se necesita conexión a Internet para jugar; incluye compras dentro del juego. Los requisitos de sistema del juego podrían cambiar con el tiempo.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64 bits)
+
+- Procesador: Intel i5 o AMD Ryzen 5
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1050 / AMD Radeon RX560 2G
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 110 GB de espacio disponible
+
+- Notas adicionales: Se necesita conexión a Internet para jugar; incluye compras dentro del juego. Los requisitos de sistema del juego podrían cambiar con el tiempo.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

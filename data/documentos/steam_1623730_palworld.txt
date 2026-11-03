@@ -1,0 +1,103 @@
+JUEGO: Palworld
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Indie, Rol
+DESARROLLADOR: Pocketpair
+PUBLISHER: Pocketpair
+FECHA DE LANZAMIENTO: 9 JUL 2026
+PRECIO: $20.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (480560 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Este es un juego multijugador de supervivencia en mundo abierto inmenso y original, en el que tendrás que hacerte con unas misteriosas criaturas llamadas Pals, capaces de combatir, construir, cultivar y trabajar en fábricas.
+
+DESCRIPCIÓN DETALLADA:
+P. ¿Qué clase de juego es?
+
+R. ¿Quieres vivir tranquilamente con estas misteriosas criaturas, los Pals, o prefieres lanzarte a la aventura y luchar contra cazadores furtivos?
+
+Los Pals pueden luchar, procrear, ayudarte en las labores agrícolas y trabajar en fábricas.
+También puedes venderlos, despedazarlos y comértelos.
+
+Supervivencia
+Un lugar hostil, sin comida suficiente... y plagado de cazadores furtivos. Este mundo está lleno de peligros y sobrevivir será difícil. A veces, incluso tendrás que comerte a los Pals...
+
+Monturas y exploración
+Podrás explorar por tierra, mar y aire montado sobre un Pal.
+
+Construcción
+¿Quieres construir una pirámide? Pues reúne a un buen montón de Pals que sepan construir. Y tranquilo, no hay leyes laborales que valgan en el mundo de los Pals.
+
+Producción
+Encender fuego, generar electricidad, minería... Si reúnes a los Pals adecuados, podrás vivir a cuerpo de rey.
+
+Agricultura
+A algunos Pals se les da de lujo sembrar, regar y cosechar. Crea magníficas plantaciones con su ayuda.
+
+Fábricas y automatización
+Si quieres automatizar varios procesos, es imprescindible que dejes el trabajo manual en manos de los Pals. Construye una fábrica y ponlos a trabajar. Mientras tengan comida, podrán quedarse ahí hasta el fin de sus días.
+
+Exploración de mazmorras
+Mientras vayas acompañado de los Pals, podrás avanzar seguro en las zonas más peligrosas. Si las cosas se ponen feas, haz que un Pal te sustituya y ya verás como entrega su vida por protegerte.
+
+Reproducción y genética
+Cuando los Pals se reproducen, heredan las características de sus padres. ¡Cruza distintos Pals para crear la criatura más fuerte!
+
+Crímenes y caza furtiva
+En las áreas protegidas viven Pals en peligro de extinción. Si te cuelas sin ser visto y te haces con uno, ¡podrás ganar una fortuna! Y recuerda: sin pruebas, no hay delito.
+
+Multijugador
+Este juego admite el modo multijugador. Invita a tus amigos, ¡y que comience la aventura! Obviamente, también podrás luchar e intercambiar con ellos.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64-Bit)
+
+- Procesador: Intel Core i5-9400F
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: GeForce GTX 1660
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 40 GB de espacio disponible
+
+- Notas adicionales: SSD Required - Performance may vary depending on the amount of active Pals.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11 (64-Bit)
+
+- Procesador: Intel Core i5-12400 / AMD Ryzen 5 5600X
+
+- Memoria: 32 GB de RAM
+
+- Gráficos: GeForce RTX 3060 Ti / Radeon RX 6700 XT
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 40 GB de espacio disponible
+
+- Notas adicionales: SSD Required - Performance may vary depending on the amount of active Pals.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

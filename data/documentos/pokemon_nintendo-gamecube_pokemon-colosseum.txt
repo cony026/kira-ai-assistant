@@ -1,0 +1,9 @@
+JUEGO: Pokémon Colosseum
+
+FUENTE: PokeAPI
+PLATAFORMA: Nintendo GameCube
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación III
+
+DESCRIPCIÓN:
+Pokémon Colosseum es un juego derivado (spin-off) de rol y combates de Pokémon, de la Generación III, para Nintendo GameCube.

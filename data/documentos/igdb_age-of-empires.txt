@@ -1,0 +1,25 @@
+JUEGO: Age of Empires
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia
+TEMAS: Histórico, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Ensemble Studios
+PUBLISHER: Microsoft, MacSoft Games
+FECHA DE LANZAMIENTO: 1997-10-15
+NOTA DE USUARIOS (IGDB): 83/100 (684 votos)
+TAMBIÉN CONOCIDO COMO: AoE, AoE1, Age of Empires 1, 帝国时代, 世紀帝國
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1zsh.jpg
+URL: https://www.igdb.com/games/age-of-empires
+
+RESUMEN:
+Age of Empires (AoE) is a history-based real-time strategy video game developed by Ensemble Studios and published by Microsoft. The game uses the Genie, a 2D sprite-based game engine. The game allows the user to act as the leader of an ancient civilization by advancing it through four ages (the Stone, Tool, Bronze, and Iron Ages), gaining access to new and improved units with each advance.
+
+HISTORIA:
+Age of Empires requires the player to develop a civilization from a handful of hunter-gatherers to an expansive Iron Age empire. To ensure victory, the player must gather resources in order to pay for new units, buildings and more advanced technologies. Resources must also be preserved, as no new resources become available as the game progresses, meaning if you cut a tree down, the tree will not grow back. Twelve civilizations are available, each with individual sets of attributes, including a varying number of available technologies and units. Each civilization has technologies unique to them, so that no civilization possesses all the technologies possible within the game. A major component of the game is the advancement through four ages. These are the Stone Age (Mesolithic/Paleolithic), Tool Age (Neolithic/Chalcolithic), Bronze Age and Iron Age. Advancement between ages is researched at the Town Center and each advancement brings the player new technologies, weapons, and units.
+
+JUEGOS PARECIDOS:
+Si te gusta Age of Empires, también podrían gustarte: Total War: Pharaoh, Age of Empires IV, Imperial Glory, SGS Spain at War, Company of Heroes 3, Field of Glory II, Steel Division 2, Mashinky, Age of Empires II: The Age of Kings, Strategic Command WWII: World at War.

@@ -1,0 +1,23 @@
+JUEGO: Beholder
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Linux, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: RPG, Simulación, Estrategia, Aventura, Indie
+TEMAS: Sigilo, Drama
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Warm Lamp Games
+PUBLISHER: Alawar Entertainment
+FECHA DE LANZAMIENTO: 2016-11-09
+NOTA DE LA CRÍTICA (IGDB): 80/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 75/100 (126 votos)
+TAMBIÉN CONOCIDO COMO: Beholder.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1qlk.jpg
+URL: https://www.igdb.com/games/beholder
+
+RESUMEN:
+A totalitarian State controls every aspect of private and social life. Laws are oppressive. Surveillance is total. Privacy is dead. You are a State-installed manager of an apartment house. The State requires you to spy on your tenants, and report any illegal or subversive activity. However, you can also choose to keep the information to yourself, or use it to blackmail the residents, resulting in a multitude of choices and endings.
+
+JUEGOS PARECIDOS:
+Si te gusta Beholder, también podrían gustarte: Home Behind 2, Beholder 2, Change: A Homeless Survival Experience, Yes, Your Grace, Library of Ruina, Tracks of Thought, Tech Support: Error Unknown, Reigns: Game of Thrones, Stay, Dead In Vinland.

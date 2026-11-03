@@ -1,0 +1,22 @@
+JUEGO: Joust
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, PlayStation 3, Xbox 360
+DISPONIBLE EN: Arcade, PlayStation 3, Xbox 360
+GÉNEROS: Peleas, Plataformas, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Williams Electronics
+PUBLISHER: Williams Electronics, Midway Games
+FECHA DE LANZAMIENTO: 1982-07-16
+NOTA DE LA CRÍTICA (IGDB): 80/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 71/100 (34 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3sjc.jpg
+URL: https://www.igdb.com/games/joust
+
+RESUMEN:
+Joust is an arcade game developed by Williams Electronics and released in 1982. It is a platform game that features two-dimensional (2D) graphics. The player uses a button and joystick to control a knight riding a flying ostrich. The object is to progress through levels by defeating groups of enemy knights riding buzzards.
+
+JUEGOS PARECIDOS:
+Si te gusta Joust, también podrían gustarte: Ms. Pac-Man, Dig Dug, Digger, Discs of Tron, Pac-Man, Small Arms, Feeding Frenzy, Robot Unicorn Attack, Buster Bros., Dan the Man.

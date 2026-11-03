@@ -1,0 +1,82 @@
+JUEGO: Cyberpunk 2077
+PLATAFORMA: PC (Steam)
+GÉNEROS: Rol
+DESARROLLADOR: CD PROJEKT RED
+PUBLISHER: CD PROJEKT RED
+FECHA DE LANZAMIENTO: 9 DIC 2020
+PRECIO: $59.99
+NOTA METACRITIC: 86/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (975152 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Cyberpunk 2077 es un RPG de aventura y acción de mundo abierto ambientado en el futuro sombrío de Night City, una peligrosa megalópolis obsesionada con el poder, el glamur y las incesantes modificaciones corporales.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: 64-bit Windows 10
+
+- Procesador: Core i7-6700 or Ryzen 5 1600
+
+- Memoria: 12 GB de RAM
+
+- Gráficos: GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380
+
+- DirectX: Versión 12
+
+- Almacenamiento: 70 GB de espacio disponible
+
+- Notas adicionales: SSD required. Attention: In this game you will encounter a variety of visual effects that may provide seizures or loss of consciousness in a minority of people. If you or someone you know experiences any of the above symptoms while playing, stop and seek medical attention immediately.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: 64-bit Windows 10
+
+- Procesador: Core i7-12700 or Ryzen 7 7800X3D
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: GeForce RTX 2060 SUPER or Radeon RX 5700 XT or Arc A770
+
+- DirectX: Versión 12
+
+- Almacenamiento: 70 GB de espacio disponible
+
+- Notas adicionales: SSD required.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- Requiere un procesador Apple
+
+- SO: macOS: 15.5 or later
+
+- Procesador: M1
+
+- Memoria: 16 GB de RAM
+
+- Almacenamiento: 92 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- Requiere un procesador Apple
+
+- SO: macOS: 15.5 or later
+
+- Procesador: M3 Pro
+
+- Memoria: 18 GB de RAM
+
+- Almacenamiento: 92 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

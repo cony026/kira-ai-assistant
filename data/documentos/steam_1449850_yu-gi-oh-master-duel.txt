@@ -1,0 +1,112 @@
+JUEGO: Yu-Gi-Oh! Master Duel
+PLATAFORMA: PC (Steam)
+GÉNEROS: Simuladores, Estrategia, Free to Play
+DESARROLLADOR: KONAMI
+PUBLISHER: KONAMI
+FECHA DE LANZAMIENTO: 18 ENE 2022
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (101065 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+¡La edición definitiva del juego de cartas competitivo que lleva más de 20 años evolucionando! Bátete en Duelo al mayor nivel contra Duelistas de todo el mundo.
+
+DESCRIPCIÓN DETALLADA:
+¡Por fin, el juego de digital de cartas de Yu-Gi-Oh! que has estado esperando!
+
+¡La edición definitiva del juego de cartas competitivo que lleva más de 25 años evolucionando!
+
+Bátete en Duelo al mayor nivel contra Duelistas de todo el mundo.
+
+Estás preparado: ¡ Es la hora del Duelo!
+
+------------------------------------------
+[Sobre &quot;Yu-Gi-Oh! MASTER DUEL&quot;]
+Ahora puedes jugar el &quot;Yu-Gi-Oh! JCC&quot; digitalmente, en cualquier lugar.
+¡Duelos trepidantes con impresionantes gráficos HD y una nueva, y dinámica banda sonora! ¡Prepárate para retar a Duelistas de todo el mundo!
+
+* Juega Duelos a Cualquier Nivel
+La experiencia completa de Yu-Gi-Oh! está disponible para cualquier persona con cualquier Nivel de Habilidad. No te preocupes si eres un jugador nuevo o si no has hecho un Duelo en mucho tiempo, los tutoriales dentro del  juego te enseñarán los conceptos básicos de como jugar Yu-Gi-Oh! JUEGO DE CARTAS COLECCIONABLES. ¡ Recibirás una Baraja cuando termines para ayudarte a comenzar tu viaje!.
+¡Colecciona nuevas cartas según vayas progresando a través del juego para activar tus Barajas!
+
+◇Formatos de Torneos Rotativos
+¡Combínalo y pon tus habilidades en los Duelos a prueba! Una gran variedad de eventos y torneos estarán disponible para los jugadores.
+
+¡Construye y Bátete en Duelo con diferentes Barajas utilizando las más de 10.000 cartas únicas y reglas especiales exclusivas de Torneos!
+¡Elige el torneo en el que TÚ quieras Batirte en Duelo y aspira a conseguir el primer puesto!
+
+◇Descubre la Historia Detrás de las Cartas
+El Modo Solo te guía a través de la historia de las temáticas de Yu-Gi-Oh! JCC. Perfecciona tus habilidades de Duelo completando las historias.
+Recomendado para principiantes, jugadores que regresan, y aquellos que están interesado en aprender más sobre la historia del mundo de Yu-Gi-Oh! JCC.
+
+◇Funciones
+Vincúlalo con la aplicación de móvil “Yu-Gi-Oh! Neuron”
+¡Mira las Decklists de Duelistas de todo el mundo y mejora tu propia Baraja!
+¡Prueba la función &quot;Robo 5 cartas de muestra&quot; para simular que cartas podrás conseguir en tu primera mano!
+
+[`Sobre &quot;Yu-Gi-Oh!&quot;] 
+“Yu-Gi-Oh! es un popular manga creado por Kazuki Takahashi que fue serializada en &quot;WEEKLY SHONEN JUMP&quot; de SHUEISHA Inc. Desde 1996. Konami Digital Entertainment Co., Ltd ofrece el Juego de Cartas Coleccionables (JCC) y juegos de consola, basados en Yu-Gi-Oh! creado a partir del manga original, que se ha disfrutado en todo el mundo.
+
+[Recomendado para los siguientes jugadores]
+Jugadores de Yu-Gi-Oh! DUEL LINKS
+Jugadores que disfruten el juego competitivo
+
+------------------------------------------------------------------------------
+Este juego contiene compras dentro del juego de monedas virtuales que se utilizan para obtener artículos aleatorios dentro del juego.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11 Home (64bit) latest revision
+
+- Procesador: Intel Core i5-9400F
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1650
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 64 GB de espacio disponible
+
+- Tarjeta de sonido: On Board
+
+- Notas adicionales: 1280 x 720 monitor resolution
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11 Home (64bit) latest revision
+
+- Procesador: Intel Core i5-11400F
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce RTX 3060
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 128 GB de espacio disponible
+
+- Tarjeta de sonido: On Board
+
+- Notas adicionales: 1920 x 1080 monitor resolution
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

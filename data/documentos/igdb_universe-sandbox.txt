@@ -1,0 +1,22 @@
+JUEGO: Universe Sandbox
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Simulación, Indie
+TEMAS: Sandbox, Educativo, Infantil, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Realidad virtual
+DESARROLLADOR: Giant Army
+PUBLISHER: Giant Army
+FECHA DE LANZAMIENTO: 2008-05-01
+NOTA DE USUARIOS (IGDB): 78/100 (32 votos)
+TAMBIÉN CONOCIDO COMO: Universe Sandbox 2, Universe Sandbox ²
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3pt8.jpg
+URL: https://www.igdb.com/games/universe-sandbox
+
+RESUMEN:
+Create and destroy on an unimaginable scale... with a space simulator that merges real-time gravity, climate, collision, and material interactions to reveal the beauty of our universe and the fragility of our planet. Includes VR support for HTC Vive, Oculus Rift+Touch, and Windows Mixed Reality.
+
+JUEGOS PARECIDOS:
+Si te gusta Universe Sandbox, también podrían gustarte: Simple Rockets, Poly Bridge, PK XD, SpaceEngine, Juno: New Origins, Solar 2, Kerbal Space Program, Shapez 2: Factory, Dyson Sphere Program, Microsoft Space Simulator.

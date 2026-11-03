@@ -1,0 +1,27 @@
+JUEGO: Wolfenstein 3D
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Jaguar, 3DO, SNES, Classic Macintosh, Game Boy Advance, PlayStation 3, PC, Xbox 360, Xbox One, iOS, macOS
+FECHA DE LANZAMIENTO: 1992-05-05
+DESARROLLADOR: Bethesda Softworks, id Software, Nerve Software, Interplay Entertainment, Infinity, Logicware, INFINITY Co, STALKER
+PUBLISHER: Electronic Arts, Bethesda Softworks, Activison, Atari, Interplay Productions, 3D Realms, id Software, Empire Interactive, Apogee Software, MacPlay, Imagineer, Apogee, FormGen, BAM! Entertainment, Bam Entertainment, Imagineer Co.,Ltd., Logicware
+GÉNEROS: Action, Shooter
+RATING USUARIOS: 4.09/5 (359 votos)
+TIEMPO DE JUEGO MEDIO: 1 horas
+TAGS: Singleplayer, Steam Cloud, First-Person, FPS, Classic, Pixel Graphics, Retro, Moddable, 1990's, World War II, vr mod
+
+DESCRIPCIÓN:
+Wolfenstein 3D is a first-person shooter developed by id Software. It is the third installment of the Wolfenstein game series and is one of the first FPS titles to be ever released.
+
+###Plot
+The game is set during World War II. An American spy of Jewish descend, William Blaskowicz is captured by the SS while searching for intel on Operation: Eisenfaust. Blasko is held captive in the Wolfenstein castle which he later escapes, foils the Nazi plan and kills Adolf Hitler.
+
+###Gameplay
+Wolfenstein 3D consists of three episodes, each of which are divided into 10 levels. Every level is some kind of labyrinth built up from rooms and open spaces that are divided by walls and doors. Moreover, on every level, there are secret rooms, that hold specific bonus items. At the end of each level, the players fight with a boss - a unique and buffed up enemy.
+
+The game's art style is heavily inspired by the German bunkers of that era. Wolfenstein 3D is one of the first games to use 2.5-dimensional graphics to immerse the players.
+
+The players are opposed by the SS soldiers, mutants, and guard dogs, which will attack the player only if they get in their line of sight. Several types of enemies can also react to the sounds of gunfire. It is possible to use stealth.
+
+On their way, the players can find ammunition and weaponry, which are either placed on the floor or are taken away from the enemy corpses. The game features 4 weapons: a knife, a pistol, an MP40 SMG and a multi-barrel MG.

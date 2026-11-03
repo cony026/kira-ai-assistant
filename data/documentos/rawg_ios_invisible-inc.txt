@@ -1,0 +1,20 @@
+JUEGO: Invisible, Inc.
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: iOS, Nintendo Switch, PlayStation 4, Linux, macOS, PC
+FECHA DE LANZAMIENTO: 2015-05-12
+DESARROLLADOR: Klei Entertainment
+PUBLISHER: Klei Entertainment
+GÉNEROS: Adventure, Strategy
+NOTA METACRITIC: 82
+RATING USUARIOS: 3.53/5 (346 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Great Soundtrack, Sci-fi, Difficult, Female Protagonist, Stealth, Tactical, Turn-Based, Roguelike, Isometric, Turn-Based Strategy, Cyberpunk, Roguelite, Procedural Generation, Turn-Based Tactics
+
+DESCRIPCIÓN:
+Developed by the Canadian Klei Entertainment, Invisible Inc. is a turn-based strategy with elements of stealth and roguelike. The game takes place in a dystopian future: in 2074 and the huge multinational corporations seized power from the world government. Invisible Inc. - a private intelligence agency and a corporate contractor, conduct sophisticated undercover operations and use complex AI system called Incognita.
+
+At the beginning of the game, the security system of the agency was breached and most of the agency was lost. The remaining employee manages only to save AI, but its existence is questionable: the system can exist without connecting to a powerful computer for only 72 hours. Finding the right hardware becomes the main task of surviving agents. The player plays the role of their remote operator.
+
+The gameplay is similar to the X-COM games: all missions are turn-based. Each agent under player’s control has a limited action point that he can use during the turn. Often the main task on the map is to possess a certain object. During the missions, the player can complete additional quests that allow you to open new agents and equipment.

@@ -1,0 +1,21 @@
+JUEGO: Tribes: Ascend
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Shooter, RPG, Deportes, Aventura
+TEMAS: Acción, Ciencia ficción, Mundo abierto
+MODOS DE JUEGO: Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Hi-Rez Studios
+FECHA DE LANZAMIENTO: 2012-04-12
+NOTA DE LA CRÍTICA (IGDB): 89/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 77/100 (31 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1xxh.jpg
+URL: https://www.igdb.com/games/tribes-ascend
+
+RESUMEN:
+Tribes: Ascend is the fourth major installation into this series of multiplayer FPS, centred around speed and pure teamwork, with the primary game mode of capture the flag.
+
+JUEGOS PARECIDOS:
+Si te gusta Tribes: Ascend, también podrían gustarte: PlanetSide 2, FireFall, Robocraft, Half-Life 2: Deathmatch, Transformers: War for Cybertron, Global Agenda, Team Fortress Classic, Day of Defeat, Warface, Outcast.

@@ -1,0 +1,86 @@
+JUEGO: Hell Let Loose: Vietnam
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Multijugador masivo, Simuladores, Estrategia
+DESARROLLADOR: Expression Games
+PUBLISHER: Team17
+FECHA DE LANZAMIENTO: 13 AGO 2026
+PRECIO: $39.99
+RESEÑAS DE USUARIOS (STEAM): Mixed (9859 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Adéntrate en el fragor de la batalla en Hell Let Loose: Vietnam. Juega un papel decisivo en uno de los conflictos más históricos con extensas batallas de 50 vs. 50 en las que el trabajo en equipo, las tácticas y un arsenal de armas destructivas se combinan para que la batalla progrese en tu favor.
+
+DESCRIPCIÓN DETALLADA:
+DESATA EL INFIERNO EN LA JUNGLAAdéntrate en el explosivo conflicto de la guerra de Vietnam y lucha en algunos de los combates más intensos de la historia moderna. Únete a la intensa batalla en profundos desfiladeros y en la espesa jungla, donde las tropas de Vietnam del Norte se enfrentan al ejército de las Fuerzas Armadas de EE. UU. Construye túneles, pilota helicópteros, conduce patrulleras, utiliza armamento históricamente preciso y colabora con tu equipo para alcanzar la victoria. DOMINA LA BATALLALleva la batalla hasta el enemigo en 6 mapas a gran escala inspirados en ubicaciones reales. Juega como el Ejército de Vietnam del Norte o las Fuerzas Armadas de Estados Unidos y elige entre 17 roles especializados dentro de un equipo de 50 jugadores, compuesto por múltiples escuadrones. Únete o lidera escuadrones de infantería, reconocimiento, blindaje, morteros y helicópteros. Comunícate con tus compañeros y trabaja en equipo para identificar objetivos y explotar sin piedad las debilidades del oponente. Las dinámicas de juego emergentes aportan intensidad y realismo al combate, ya que te enfrentas a cada batalla con armas, órdenes y tácticas auténticas. Sigue la cadena de mando y colabora con tu equipo para alcanzar los objetivos y hacerte con la victoria.DESPLIEGA TUS FUERZASEn el fragor de la guerra de Vietnam, la batalla es más dinámica que nunca. Las nuevas unidades aéreas de EE. UU. cuentan con helicópteros completamente operativos para fuego auxiliar y lanzamiento de suministros. Las fuerzas del EVN pueden crear extensas redes de túneles para ganar la delantera con ataques sorpresa. Ambos bandos pueden seguir la pista al enemigo por la compleja red fluvial de Vietnam con buques patrulleros fuertemente armados, cuya misión es buscar y destruir. Se ha mejorado el movimiento para poder nadar, trepar y desplazarse rápido cuerpo a tierra, y se han añadido interacciones como arrastrar a los compañeros fuera del fuego para que se puedan curar y reincorporar al combate. Esto contribuye a una experiencia de batalla más inmersiva.EXPERIENCIA DE COMBATE REALISTAHell Let Loose: Vietnam cuenta con numerosos modos de juego distintos que enfrentan a los jugadores en épicas batallas multijugador de 50 contra 50. El modo de guerra es un enfrentamiento de 50 contra 50 al estilo tira y afloja, en el que dos equipos luchan por el control de 5 sectores. El modo de ofensiva divide a las fuerzas enemigas en dos lados: el atacante y el defensor. Los modos de juego nuevos en rotación modifican las dinámicas de juego para ofrecer la mejor experiencia posible en el campo de batalla. ¡La experiencia de guerra más inmersiva que has vivido jamás!CARACTERÍSTICAS PRINCIPALES
+- 	Épicas batallas multijugador de 50 contra 50.
+- Juega como el ejército de Vietnam del Norte o las Fuerzas Armadas de EE. UU.
+- 	Conflicto armado inmersivo en la jungla, tan intenso como una batalla real.
+- 	Muchos modos de juego diferentes, como Ofensiva, Guerra y otros modos nuevos alternativos.
+- 	6 mapas de gran escala inspirados en ubicaciones reales.
+- 	Las dinámicas de juego emergentes fomentan el uso de la cadena de mando para mejorar el trabajo en equipo y desplegar tácticas y armamento únicos en cada batalla.
+- Domina 17 roles en 6 unidades del campo de batalla, como:
+- Mando: Comandante.
+- Infantería: Líder de escuadrón, fusilero, granadero, ingeniero, médico, especialista o ametrallador.
+- Reconocimiento: Oteador, francotirador.
+- Blindaje: Comandante de tanque, tripulante.
+- Helicóptero (solo EE. UU.): Oficial de logística, piloto.
+- Escuadrón de mortero: Observador, apoyo, artillero.
+- 	Vehículos como helicópteros y buques patrulleros.
+- 	Construye túneles con el EVN y despliega tus fuerzas con sigilo para emboscar a las Fuerzas Armadas de EE. UU.
+- Movimiento mejorado para mayor eficacia en las batallas.
+- Tutorial e incorporación mejorados para nuevos jugadores.
+- Mejoras en la interfaz y la experiencia de usuario.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-Bit
+
+- Procesador: Intel Core i5-10600K / AMD Ryzen 5 3600X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia RTX 2060 Super / AMD Radeon RX 6600 XT
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 30 GB de espacio disponible
+
+- Notas adicionales: 1080p/60 fps TSR 71%/DLSS Ultra Performance
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11 64-Bit
+
+- Procesador: Intel Core i5-12600K / AMD Ryzen 5 7600X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia Geforce RTX 3060 Ti / AMD Radeon RX 6900 XT
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 30 GB de espacio disponible
+
+- Notas adicionales: 1080p/60 fps TSR 100% High/DLSS Balanced
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

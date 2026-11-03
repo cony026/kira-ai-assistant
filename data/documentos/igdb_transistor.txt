@@ -1,0 +1,26 @@
+JUEGO: Transistor
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, PC (Microsoft Windows), iOS
+DISPONIBLE EN: PlayStation 4, Linux, PC (Microsoft Windows), iOS, Mac, Nintendo Switch
+GÉNEROS: RPG, Estrategia, Estrategia por turnos, Aventura, Indie
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Supergiant Games
+PUBLISHER: Supergiant Games
+FECHA DE LANZAMIENTO: 2014-05-20
+NOTA DE LA CRÍTICA (IGDB): 85/100 (12 críticas)
+NOTA DE USUARIOS (IGDB): 83/100 (486 votos)
+TAMBIÉN CONOCIDO COMO: Transistor.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cob23o.jpg
+URL: https://www.igdb.com/games/transistor
+
+RESUMEN:
+Transistor is an action role-playing game presented from an isometric perspective. Players control Red, a singer in the city of Cloudbank, as she wields a greatsword-like weapon called the Transistor against robotic enemies known as the Process. Combat can be played in real-time or paused using a planning mode called Turn(), which allows queuing actions for execution in a burst. Powers called Functions can be equipped in active slots, used as upgrades to augment other Functions, or placed in passive slots for persistent effects. With 16 total Functions available, the system encourages experimentation with different combinations across multiple playthroughs.
+
+HISTORIA:
+Red, a popular singer in the city of Cloudbank, kneels by the body of a man who has been killed with a glowing greatsword called the Transistor. The attack, carried out by a group of high-ranking officials called the Camerata, took away her voice, sealing it inside the weapon. The sword also absorbed the man's consciousness, allowing him to speak to Red and guide her. As Red moves through the city in pursuit of the Camerata, a robotic force called the Process attacks Cloudbank indiscriminately, and it becomes apparent that the Camerata have lost control of it.
+
+JUEGOS PARECIDOS:
+Si te gusta Transistor, también podrían gustarte: Chroma Squad, Invisible, Inc., Back to Bed, SteamWorld Heist, The Little Acre, Space Hulk, Styx: Master of Shadows, Costume Quest 2, Crowntakers, Halfway.

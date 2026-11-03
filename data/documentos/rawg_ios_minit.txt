@@ -1,0 +1,16 @@
+JUEGO: Minit
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Xbox One, iOS, PC, macOS, Linux, Nintendo Switch, PlayStation 4
+FECHA DE LANZAMIENTO: 2018-04-02
+DESARROLLADOR: Devolver Digital, JW, Kitty, Jukio, and Dom, JW, Kitty, Jukio, and Dominik, JW, Kitty, Jukio, and Dom
+PUBLISHER: Devolver Digital, GHI Media
+GÉNEROS: Adventure, RPG, Indie
+NOTA METACRITIC: 78
+RATING USUARIOS: 3.77/5 (300 votos)
+TIEMPO DE JUEGO MEDIO: 2 horas
+TAGS: Singleplayer, 2D, Partial Controller Support, Metroidvania
+
+DESCRIPCIÓN:
+Minit is a peculiar little adventure played sixty seconds at a time. Journey outside the comfort of your home to help unusual folk, uncover countless secrets, and overcome dangerous foes, all in hopes of lifting a rather unfortunate curse that ends each day after just one minute. Minit is a collaboration between Kitty Calis, Jan Willem Nijman, Jukio Kallio & Dominik Johann.

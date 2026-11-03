@@ -1,0 +1,28 @@
+JUEGO: SimCity 4
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Simulación, Estrategia
+TEMAS: Gestión, Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Maxis
+PUBLISHER: Electronic Arts, Aspyr Media
+FECHA DE LANZAMIENTO: 2003-01-12
+NOTA DE LA CRÍTICA (IGDB): 85/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 80/100 (217 votos)
+FRANQUICIA: Sim, SimCity
+TAMBIÉN CONOCIDO COMO: 模拟城市4, Sim City 4: Deluxe, SC4, SimCity IV, Sim City 4
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coc51y.jpg
+URL: https://www.igdb.com/games/simcity-4
+
+RESUMEN:
+SimCity 4 is a city-building simultor. You are in the shoes of one or several mayors, and you are tasked with populating and managing your cities.When you have chosen a segment to place your city in, you will be able to chose between 3 game modes.
+
+God mode: This mode lets you shape the overall landscapes as you desire
+Mayor mode: In this mode you build and manage your own cities.
+My Sim mode: Here the player can choose his own Sims and have them move into the city, or import saved games from the game The Sims.
+
+JUEGOS PARECIDOS:
+Si te gusta SimCity 4, también podrían gustarte: Workers & Resources: Soviet Republic, TheoTown, SimCity BuildIt, Chris Sawyer's Locomotion, RollerCoaster Tycoon, Construction Simulator, Transport Fever 2, Software Inc., Freight Tycoon Inc., Clanfolk.

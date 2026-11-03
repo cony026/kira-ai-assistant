@@ -1,0 +1,26 @@
+JUEGO: FTL: Faster Than Light
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), iOS, Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: RPG, Simulación, Estrategia, Indie
+TEMAS: Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Subset Games
+PUBLISHER: Subset Games
+FECHA DE LANZAMIENTO: 2012-09-14
+NOTA DE LA CRÍTICA (IGDB): 89/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 84/100 (426 votos)
+TAMBIÉN CONOCIDO COMO: FTL, Faster Than Light, FTLGame.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co9chw.jpg
+URL: https://www.igdb.com/games/ftl-faster-than-light
+
+RESUMEN:
+FTL: Faster Than Light is a single-player strategy game with roguelike design. The player commands a spaceship from a top-down view, managing systems such as weapons, engines, shields, and life support while recruiting crew and upgrading the vessel. The ship travels across procedurally generated sectors, jumping between beacons that present random events, stores, and enemy encounters. Combat plays out in real time with the option to pause and issue orders. Losing the ship or its crew ends the run and requires starting over, giving each playthrough a different layout and set of challenges.
+
+HISTORIA:
+FTL: Faster Than Light casts the player as the captain of a spacecraft belonging to the Galactic Federation, which is losing a war against a hostile faction known as the Rebellion. The ship's crew has intercepted a data packet carrying information that could turn the conflict in the Federation's favor. Racing to deliver it, the crew must travel across several sectors of space toward Federation headquarters while a large rebel fleet pursues close behind. Along the way, the ship faces hostile vessels, hazards, and difficult choices, with survival depending on the captain's decisions.
+
+JUEGOS PARECIDOS:
+Si te gusta FTL: Faster Than Light, también podrían gustarte: Gratuitous Space Battles, Sunless Sea, Star Citizen, Space Pirates and Zombies, Heat Signature, Duskers, Risk of Rain, Caves of Qud, Sword of the Stars: The Pit, CrossCode.

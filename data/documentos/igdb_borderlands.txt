@@ -1,0 +1,26 @@
+JUEGO: Borderlands
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, PC (Microsoft Windows), Mac, Xbox 360
+DISPONIBLE EN: PlayStation 3, PC (Microsoft Windows), Mac, Xbox 360, Xbox One, Nintendo Switch
+GÉNEROS: Shooter, RPG
+TEMAS: Acción, Ciencia ficción, Mundo abierto
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Gearbox Software, Feral Interactive
+PUBLISHER: 2K Games, CyberFront, Take-Two Interactive, Feral Interactive
+FECHA DE LANZAMIENTO: 2009-10-20
+NOTA DE LA CRÍTICA (IGDB): 80/100 (8 críticas)
+NOTA DE USUARIOS (IGDB): 79/100 (1024 votos)
+FRANQUICIA: Borderlands
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co20tx.jpg
+URL: https://www.igdb.com/games/borderlands
+
+RESUMEN:
+Borderlands is an action role-playing first-person shooter set on the distant planet of Pandora. Players choose from four characters, each with distinct combat abilities, and explore an open world rendered in a distinctive cartoon-style visual approach. Gameplay revolves around completing missions, defeating enemies, and collecting procedurally generated weapons with varying statistics and elemental effects. The game supports cooperative play for up to four players, with enemy difficulty scaling based on the number of participants.
+
+HISTORIA:
+In a distant future where mega-corporations colonize and strip-mine entire planets, four mercenaries known as Vault Hunters arrive on Pandora, a lawless frontier world abandoned by the corporations that once exploited it. Drawn by legends of an alien Vault containing priceless technology left behind by a vanished race called the Eridians, they begin piecing together clues to its location with guidance from a mysterious entity known only as the Guardian Angel. Standing in their way is the Crimson Lance, a private military force deployed by the Atlas Corporation, which seeks the Vault's power for itself. As the Vault Hunters collect the artifact fragments needed to unlock the sealed chamber, they learn the Vault can only be opened once every two hundred years, and the next opening is fast approaching.
+
+JUEGOS PARECIDOS:
+Si te gusta Borderlands, también podrían gustarte: Borderlands 2, Fallout 76, The Ascent, Rage, Grounded, Wolfenstein: Youngblood, Tom Clancy's The Division 2, Warhammer 40,000: Space Marine II, Overwatch, Jumanji: The Video Game.

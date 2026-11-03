@@ -1,0 +1,22 @@
+JUEGO: Pokémon Diamante Brillante
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Brilliant Diamond
+PLATAFORMA: Nintendo Switch
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación VIII
+REGIÓN PRINCIPAL: Sinnoh
+LANZADO JUNTO A: Pokémon Perla Reluciente
+
+DESCRIPCIÓN:
+Pokémon Diamante Brillante es un juego de rol de la saga principal de Pokémon, de la Generación VIII, para Nintendo Switch. La aventura transcurre en la región de Sinnoh. Se lanzó junto a Pokémon Perla Reluciente; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Turtwig, Chimchar y Piplup. Su Pokédex regional reúne 151 especies de Pokémon distintas. Incluye Pokémon legendarios como Uxie, Mesprit, Azelf, Dialga y Palkia.
+
+POKÉDEX:
+- Sinnoh Original: 151 Pokémon
+
+POKÉMON INICIALES:
+Turtwig, Chimchar, Piplup
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Uxie, Mesprit, Azelf, Dialga, Palkia
+Singulares (míticos): Manaphy

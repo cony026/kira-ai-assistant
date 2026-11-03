@@ -1,0 +1,26 @@
+JUEGO: Q*bert
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, PlayStation 3
+DISPONIBLE EN: Arcade, PlayStation 3
+GÉNEROS: Plataformas, Puzle, Arcade
+TEMAS: Acción, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica, Vista lateral
+DESARROLLADOR: Gottlieb
+PUBLISHER: Gottlieb
+FECHA DE LANZAMIENTO: 1982-10-18
+NOTA DE LA CRÍTICA (IGDB): 64/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 69/100 (47 votos)
+TAMBIÉN CONOCIDO COMO: QBert
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2pp4.jpg
+URL: https://www.igdb.com/games/q-bert
+
+RESUMEN:
+Q*bert was a popular arcade game that was released on a large number of consoles in the early 1980s. It was developed and published by Gottlieb, and became their most successful game. The concept serves as a precursor to the isometric platformer genre, where the title character must work to turn all cubes to a certain colour in a psuedo-3D world, made 3D through isometric graphics in the same way that the Penrose Stairs was made. The game was widely successful and has become a highly recognizable brand of the 1980s gaming era.
+
+HISTORIA:
+Q*bert is primarily a puzzle game where the title character must alter the colour of each cube in a pyramid by jumping on it, while avoiding the various monsters that seek to get in his way. No significant story was developed for the game, partly due to the original inception as an arcade game.
+
+JUEGOS PARECIDOS:
+Si te gusta Q*bert, también podrían gustarte: American Arcadia, The Messenger, Boulder Dash, Elasto Mania, Degrees of Separation, Melatonin, LittleBigPlanet 2, Unravel Two, Flipping Death, Pac-Man 256.

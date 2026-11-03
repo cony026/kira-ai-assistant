@@ -1,0 +1,28 @@
+JUEGO: SuperHot
+
+FUENTE: IGDB
+PLATAFORMA: Google Stadia, PlayStation 4, Linux, PC (Microsoft Windows)
+DISPONIBLE EN: Google Stadia, PlayStation 4, Linux, PC (Microsoft Windows), Mac, Xbox One, Nintendo Switch
+GÉNEROS: Shooter, Puzle, Táctico, Indie
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: SUPERHOT Team
+PUBLISHER: SUPERHOT Team, IMGN.PRO
+FECHA DE LANZAMIENTO: 2016-02-25
+NOTA DE LA CRÍTICA (IGDB): 85/100 (18 críticas)
+NOTA DE USUARIOS (IGDB): 77/100 (556 votos)
+TAMBIÉN CONOCIDO COMO: SUPERHOT, SUPERHOT.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7ybp.jpg
+URL: https://www.igdb.com/games/superhot
+
+RESUMEN:
+Superhot is an independent first-person shooter built around a single core mechanic: time only moves when the player moves. Without health regeneration or ammo drops, players must navigate through enemies using improvised tactics, grabbing weapons from fallen opponents, and carefully planning movements through slow-motion bullet trajectories. The game features a minimalist visual style using only white, black, and red to highlight interactive elements and threats. It originated from a 2013 game jam prototype that was later expanded through a successful Kickstarter campaign. Modes include a story campaign, endless survival, and challenge variations with specific restrictions.
+
+HISTORIA:
+A fictionalized version of the player sits at a computer terminal when a friend sends them a cracked copy of a leaked game called superhot.exe. Upon launching it, the player finds themselves thrust into disconnected combat scenarios viewed from different perspectives, each centered on eliminating hostile red figures. After the program crashes, an updated version arrives. But as the player and their friend continue playing, it becomes clear that someone, or something, is watching. A presence calling itself ""the system"" begins issuing warnings, demanding the player stop.
+
+The system escalates its interference, manipulating messages and turning the player's friend against them, all while the player is drawn deeper into the game's violent corridors. What began as an innocent file share becomes something far more invasive, as the boundaries between the player, the character, and the system itself begin to dissolve.
+
+JUEGOS PARECIDOS:
+Si te gusta SuperHot, también podrían gustarte: SuperHot: Mind Control Delete, CrossCode, Stay Out of the House, Unbound: Worlds Apart, Amnesia: Rebirth, Bendy and the Dark Revival, Metro Exodus, Cultic, Toem, Deliver Us the Moon.

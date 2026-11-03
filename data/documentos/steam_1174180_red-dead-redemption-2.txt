@@ -1,0 +1,73 @@
+JUEGO: Red Dead Redemption 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura
+DESARROLLADOR: Rockstar Games
+PUBLISHER: Rockstar Games
+FECHA DE LANZAMIENTO: 5 DIC 2019
+PRECIO: $14.99
+NOTA METACRITIC: 93/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (909922 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Arthur Morgan y la banda de Van der Linde se ven obligados a huir. Con agentes federales y cazarrecompensas pisándoles los talones, la banda deberá atracar, robar y luchar para sobrevivir en su camino por el escabroso territorio.
+
+DESCRIPCIÓN DETALLADA:
+América, 1899. Arthur Morgan y la banda de Van der Linde son forajidos en busca y captura. Mientras los agentes federales y los mejores cazarrecompensas de la nación les pisan los talones, la banda deberá abrirse camino por el abrupto territorio del corazón de América y sobrevivir a base de robos y peleas. Mientras las divisiones internas aumentan y amenazan con separarlos a todos, Arthur deberá elegir entre sus propios ideales y la lealtad a la banda que lo vio crecer. 
+
+
+
+Con más de 175 premios al Juego del año y más de 250 valoraciones perfectas, Red Dead Redemption 2 es una historia épica sobre el honor y la lealtad en el umbral de una nueva era. 
+
+
+
+Red Dead Redemption 2 también incluye Red Dead Online, la experiencia multijugador basada en el mundo vivo de Red Dead Redemption 2. Cabalga en solitario o forma una cuadrilla; vende licor; enfréntate a agentes de la ley, bandas de forajidos, feroces animales salvajes y mucho más mientras forjas tu destino en el Oeste.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 - 64-bit
+
+- Procesador: Intel® Core™ i5-2500K / AMD FX-6300
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 150 GB de espacio disponible
+
+- Tarjeta de sonido: Direct X Compatible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 - 64-bit
+
+- Procesador: Intel® Core™ i7-4770K / AMD Ryzen 5 1500X
+
+- Memoria: 12 GB de RAM
+
+- Gráficos: Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 150 GB de espacio disponible
+
+- Tarjeta de sonido: Direct X Compatible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

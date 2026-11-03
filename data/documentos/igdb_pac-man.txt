@@ -1,0 +1,24 @@
+JUEGO: Pac-Man
+
+FUENTE: IGDB
+PLATAFORMA: Arcade
+DISPONIBLE EN: Arcade
+GÉNEROS: Arcade
+TEMAS: Acción, Supervivencia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Namco
+PUBLISHER: Midway Manufacturing, Namco
+FECHA DE LANZAMIENTO: 1980-05-22
+NOTA DE LA CRÍTICA (IGDB): 79/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 79/100 (266 votos)
+FRANQUICIA: Pac-Man
+TAMBIÉN CONOCIDO COMO: PAC-MAN, Puck Man
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4ulc.jpg
+URL: https://www.igdb.com/games/pac-man
+
+RESUMEN:
+Pac-Man is a 1980 maze action video game developed and released by Namco for arcades. It is considered one of the classics of the medium, virtually synonymous with video games, and an icon of 1980s popular culture. Players control Pac-Man, who must eat all the dots inside an enclosed maze while avoiding four colored ghosts. Eating large flashing dots called Power Pellets causes the ghosts to temporarily turn blue, allowing Pac-Man to eat them for bonus points.
+
+JUEGOS PARECIDOS:
+Si te gusta Pac-Man, también podrían gustarte: Ms. Pac-Man, Pac-Man Championship Edition 2, Dig Dug, Snack Attack II, Super Pac-Man, Galaga, Jr. Pac-Man, Snack Attack, Cruncher, Joust.

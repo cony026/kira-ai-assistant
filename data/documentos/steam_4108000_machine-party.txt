@@ -1,0 +1,65 @@
+JUEGO: Machine Party
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Indie
+DESARROLLADOR: Mike Klubnika, GDeavid
+PUBLISHER: Oro Interactive
+FECHA DE LANZAMIENTO: 30 JUL 2026
+PRECIO: $7.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (4198 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Machine Party is a collection of violent party games where failure is lethal. Gather your friends and endure high stakes situations to prove your life is worth more than theirs. Survival is unlikely.
+
+DESCRIPCIÓN DETALLADA:
+Welcome to Machine Party. In this series of dangerous, and some would say highly illegal, party games you will have to use every trick in the book to survive. Play through classic party game formats and new twists on the genre for sessions of fun, screaming, and horror. Features 
+- A collection of uniquely violent party games 
+- Support for 2 - 4 players 
+- An industrial soundtrack by Alex Peipman
+- Customize your test subject
+- Multiple devious ways of screwing your friends over
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11
+
+- Procesador: Dual Core 2.4 GHz
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Radeon RX 6500 XT / Nvidia 1660
+
+- Almacenamiento: 1 GB de espacio disponible
+
+- Notas adicionales: Vulkan support required
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- SO: Ubuntu 12.04 LTS
+
+- Procesador: Intel Core i3
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: Relatively modern graphics card
+
+- Almacenamiento: 1 GB de espacio disponible
+
+- Notas adicionales: Vulkan support required
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

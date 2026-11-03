@@ -1,0 +1,28 @@
+JUEGO: StarCraft
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia en tiempo real, Estrategia
+TEMAS: Ciencia ficción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Blizzard Entertainment
+PUBLISHER: Blizzard Entertainment
+FECHA DE LANZAMIENTO: 1998-03-31
+NOTA DE USUARIOS (IGDB): 88/100 (1266 votos)
+FRANQUICIA: starcraft
+TAMBIÉN CONOCIDO COMO: 星海爭霸, 星际争霸, 星际, SC, StarCraft 64
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co9n6m.jpg
+URL: https://www.igdb.com/games/starcraft
+
+RESUMEN:
+StarCraft is a real-time strategy game set in a distant sector of the Milky Way galaxy in the 26th century. Players command one of three species across separate campaigns: the Terrans, resourceful human colonists cut off from Earth; the Zerg, an insectoid swarm that assimilates other species; and the Protoss, a technologically advanced race with powerful psionic abilities. Each species features distinct units, structures, and strategic options. The game includes a story-driven single-player campaign for each faction and competitive multiplayer via Battle.net.
+
+HISTORIA:
+In the distant Koprulu Sector of the galaxy, human colonists known as the Terrans have established competing governments far from Earth after their colony ships went off course centuries earlier. Two alien species also inhabit the sector: the Zerg, a ravenous insectoid swarm driven to assimilate other organisms for genetic perfection, and the Protoss, an ancient and powerful race that has secretly observed the Terrans for years.
+
+When the Zerg begin targeting Terran worlds to absorb their psionic potential, the Protoss respond by destroying infested colonies to prevent the swarm's spread, plunging all three factions into open conflict. As the Terran Confederacy crumbles under attacks from rebels, Zerg, and Protoss alike, a new authoritarian government rises from the chaos while the Zerg Overmind sets its sights on the Protoss homeworld, seeking to assimilate the one species that could grant it genetic perfection.
+
+JUEGOS PARECIDOS:
+Si te gusta StarCraft, también podrían gustarte: Command & Conquer 3: Tiberium Wars, Command & Conquer: Red Alert 2, Warcraft II: Tides of Darkness, Warcraft: Orcs & Humans, Command & Conquer: Tiberian Sun, Company of Heroes, Quake 4, Warhammer 40,000: Dawn of War, Command & Conquer: Red Alert, Halo: Combat Evolved.

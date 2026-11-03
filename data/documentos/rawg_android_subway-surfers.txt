@@ -1,0 +1,13 @@
+JUEGO: Subway Surfers
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, iOS
+FECHA DE LANZAMIENTO: 2012-05-24
+DESARROLLADOR: SYBO Games
+PUBLISHER: SYBO Games, Kiloo
+GÉNEROS: Arcade, Casual, Family
+TAGS: Free to Play, Endless Runner, Single-Player, Casual, Colorful
+
+DESCRIPCIÓN:
+Subway Surfers is an endless runner where players dash along train tracks, dodging obstacles and oncoming trains while a grumpy inspector and his dog give chase. Players collect coins to unlock characters, hoverboards and power-ups, and the game regularly rotates its setting to a different real-world city through limited-time updates.

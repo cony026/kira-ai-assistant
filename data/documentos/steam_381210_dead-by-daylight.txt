@@ -1,0 +1,70 @@
+JUEGO: Dead by Daylight
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción
+DESARROLLADOR: Behaviour Interactive Inc.
+PUBLISHER: Behaviour Interactive Inc.
+FECHA DE LANZAMIENTO: 14 JUN 2016
+PRECIO: $7.99
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (929438 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+10 años de terror. 10 años de sustos y huidas. 10 años de sacrificios brutales y escapatorias emocionantes. Dead by Daylight es un juego de horror de multijugador (4 contra 1) en el que un jugador representa el rol del asesino despiadado y los 4 restantes juegan como supervivientes
+
+DESCRIPCIÓN DETALLADA:
+La muerte no es la salida.10 años de terror. 10 años de sustos y huidas. 10 años de sacrificios brutales y escapatorias emocionantes.Atrapados eternamente en un reino donde mora un mal aterrador y la muerte no existe como escapatoria, cuatro decididos supervivientes se enfrentan a un sanguinario asesino en un cruel juego que pondrá a prueba tu ingenio. Escoge un bando y entra en un mundo de tensión y espanto: descubre el mejor multijugador asimétrico de terror que existe.Los supervivientes juegan en tercera persona y tienen la ventaja de contar con una mejor percepción del entorno. El asesino juega en primera persona y está más enfocado en su presa. El objetivo del superviviente en cada encuentro es escapar del área de matanza sin que lo capture el asesino, algo que suena más fácil de lo que es, especialmente con un entorno que cambia cada vez que juegas.Características destacadas•	Sobrevivid juntos… o no - Los supervivientes pueden colaborar o ser egoístas. Tus probabilidades de supervivencia variarán según decidas trabajar en grupo o aventurarte en solitario. ¿Lograrás ser más astuto que el asesino para escapar del área de matanza? •	¿Dónde estoy? - Cada nivel se genera aleatoriamente, así que nunca sabrás qué es lo que te espera. Con puntos de aparición al azar, nunca podrás sentirte a salvo, el entorno y sus peligros cambian cada vez que juegas.•	Un festín para asesinos - Dead by Daylight hace uso de todas las características del mundo de terror. Como asesino, puedes ser cualquier cosa, desde un poderoso acuchillador a un ente paranormal aterrador. Familiarízate con las áreas de matanza y aprende a dominar los poderes únicos de cada asesino para poder cazar, capturar y sacrificar a tus víctimas.•	Más y más profundo  - Cada asesino y superviviente cuenta con un amplio sistema propio de progresión y montones de características desbloqueables que se pueden personalizar para adaptarlas a tu estrategia personal. La experiencia, las habilidades y la comprensión del entorno son la clave para poder cazar o para ser más astuto que el asesino.•	Gente real, miedo real  - Los niveles generados por procedimientos y las reacciones humanas reales al terror puro convierten cada sesión de juego en un escenario imprevisible. Nunca sabrás qué es lo que va a pasar. La ambientación, la música y los entornos escalofriantes se combinan en una experiencia aterradora. Puede que con algo de tiempo acabes incluso por descubrir qué es lo que se esconde en la niebla.ADVERTENCIA: FOTOSENSIBILIDAD/ATAQUES DE EPILEPSIA - LEE ESTE AVISO ANTES DE JUGARUn porcentaje muy pequeño de personas puede sufrir ataques epilépticos o desvanecimientos cuando se les expone a cierto tipo de luces o destellos. Estas personas, o incluso quienes no tengan ningún pasado en el que hayan sufrido convulsiones ni epilepsia, pueden experimentar síntomas similares cuando juegan a algún juego. Si tú o alguno de tus parientes padece epilepsia o convulsiones de algún tipo, consulta con tu médico antes de jugar a videojuegos.Deja de jugar inmediatamente y consulta con tu médico si tu hijo/hija o tú experimentáis alguno de los siguientes síntomas: mareos, trastornos visuales, tics oculares o musculares, movimientos involuntarios, pérdida de conciencia, desorientación o convulsiones. Los padres deben vigilar estos síntomas o preguntar directamente a sus hijos.Puedes reducir el riesgo de sufrir ataques epilépticos fotosensibles tomando las siguientes precauciones: colócate a mayor distancia de la pantalla, utiliza una pantalla de menor tamaño, juega en una habitación bien iluminada y no juegues si tienes sueño o cansancio.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Sistemas operativos de 64 bits (Windows 10)
+
+- Procesador: Intel Core i3-4170 o AMD FX-8120
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: GeForce GTX 460 1GB o AMD HD 6850 1GB, compatibles con DX11
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Tarjeta de sonido: Compatible con DX11
+
+- Notas adicionales: With these requirements, it is recommended that the game is played on Low quality settings.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Sistemas operativos de 64 bits (Windows 10)
+
+- Procesador: Intel Core i3-4170, AMD FX-8300 o superior  o	Memoria: 8 GB de RAM
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: GeForce 760 o AMD HD 8800 o superior con 4GB de RAM, compatibles con DX11
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Tarjeta de sonido: Compatible con DX11
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

@@ -1,0 +1,20 @@
+JUEGO: Exo One
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Xbox Series X/S
+DISPONIBLE EN: Xbox One, PC, Xbox Series S/X
+FECHA DE LANZAMIENTO: 2021-11-18
+DESARROLLADOR: Exbleative
+PUBLISHER: Exbleative
+GÉNEROS: Adventure, Simulation, Indie
+NOTA METACRITIC: 79
+RATING USUARIOS: 3.76/5 (95 votos)
+TIEMPO DE JUEGO MEDIO: 2 horas
+TAGS: Singleplayer, Full controller support
+
+DESCRIPCIÓN:
+"A strange signal... an alien craft... an interplanetary, gravity-defying journey through space and time."
+EXO ONE is a single-player, exoplanetary exploration game where you pilot an alien craft capable of manipulating gravity.
+Drift and flow across enigmatic and desolate alien landscapes using a gravity-based movement system. Transform between a sphere and glider to maintain momentum, using the geology beneath you and the clouds above to build colossal speeds and heights. See amazing, high-sci-fi planets, float through boiling cloud formations, slide and roll down hill and mountain faces, and drift toward alien horizons.
+Atmospheric, diffused visuals are merged with otherworldly sound effects and a hypnotic electric guitar soundtrack.
+Enter the surreal and alien worlds of EXO ONE and follow the story of mankind's first mission outside the solar system.

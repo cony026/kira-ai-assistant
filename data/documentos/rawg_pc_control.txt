@@ -1,0 +1,27 @@
+JUEGO: Control
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: Xbox Series S/X, PlayStation 5, Xbox One, PlayStation 4, PC
+FECHA DE LANZAMIENTO: 2019-08-27
+DESARROLLADOR: 505 Games, Remedy Entertainment
+PUBLISHER: 505 Games
+GÉNEROS: Action, Shooter, Adventure
+NOTA METACRITIC: 84
+RATING USUARIOS: 4.14/5 (2060 votos)
+TIEMPO DE JUEGO MEDIO: 6 horas
+TAGS: Singleplayer, Full controller support, Atmospheric, Third Person, Sci-fi, Exploration, Female Protagonist, Action-Adventure, Cinematic, Metroidvania, 3rd-Person Perspective, Detective, Supernatural, Abstract, realism
+
+DESCRIPCIÓN:
+Control is a surrealist low-fantasy game about a secret organization that deals with the paranormal activities.
+
+###Plot
+The game follows Jesse Faden, a woman with superhuman powers. She works with the Federal Bureau of Control, a secret governmental organization that deals with the paranormal phenomena, often by annihilating it as a threat. The Bureau headquarters, known as the Oldest House, is taken over by a supernatural power called the Hiss. The director of Bureau, Zachariah Trench, is killed, and Faden is unexpectedly promoted to his place, while the ghost of her predecessor haunts her. She has to travel the endless corridors of the Oldest House and defeat the Hiss using magical Director's Pistol. 
+
+###Setting
+Most of the game takes place in the FBC building, which is a high-rise on Manhattan. The Oldest House is a non-euclidian space, which is larger on the inside. Its corridors and rooms change shape and positions depending on the rituals its inhabitants perform. The Oldest House stores the magical artifacts called Altered Items.
+
+###Gameplay
+The player controls Faden from the third person view. To defeat her enemies, she uses various superhuman powers, such as telekinesis or levitation. She also wields the shape-shifting Director's Pistol and the magic artifacts she can obtain as a reward for completing quests. Jesse's skills grow throughout the game. 
+
+There is no multiplayer mode.

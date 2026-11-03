@@ -1,0 +1,64 @@
+JUEGO: Call of Duty®: Modern Warfare® III
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción
+DESARROLLADOR: Sledgehammer Games, Treyarch, Infinity Ward, Beenox, Raven Software, High Moon Studios, Demonware
+PUBLISHER: Activision
+FECHA DE LANZAMIENTO: 10 NOV 2023
+PRECIO: $69.99
+RESEÑAS DE USUARIOS (STEAM): Mixed (21577 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+En la secuela directa del exitoso juego Call of Duty®: Modern Warfare® II, el capitán Price y la Fuerza operativa 141 se enfrentan a la amenaza definitiva.
+
+DESCRIPCIÓN DETALLADA:
+ADAPTARSE O MORIR EN LA LUCHA CONTRA LA AMENAZA DEFINITIVAEn la secuela directa del exitoso juego Call of Duty®: Modern Warfare® II, el capitán Price y la Fuerza operativa 141 se enfrentan a la amenaza definitiva. El criminal de guerra ultranacionalista Vladimir Makarov extiende su alcance por todo el mundo, obligando a la Fuerza operativa 141 a luchar como nunca antes.ES HORA DE SALDAR VIEJAS CUENTAS Y EMPEZAR DE NUEVOModern Warfare® III celebra el 20º aniversario de Call of Duty® con una de las mejores colecciones de mapas Multijugador jamás reunidas, tanto favoritos de los fans como nuevos. Incluye los 16 mapas de lanzamiento original de Modern Warfare® 2 (2009), modernizados con nuevos modos y características de juego, así como nuevos mapas 6c6 principales.NUEVOS ZOMBIS EN MUNDO ABIERTOPor primera vez, forma equipo con otros pelotones para sobrevivir y luchar contra enormes hordas de no muertos. Modern Warfare® Zombis (MWZ) cuenta una nueva historia de Zombis de Treyarch con misiones, características principales de Zombis y secretos por descubrir.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows® 10 64 Bit (latest update)
+
+- Procesador: Intel® Core™ i5-6600 or AMD Ryzen™ 5 1400
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 960 / GTX 1650 or AMD Radeon™ RX 470
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Notas adicionales: SSD with 102 GB available space at launch
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows® 10 64 Bit (latest update) or Windows® 11 64 Bit (latest update)
+
+- Procesador: Intel® Core™ i7-6700K or AMD Ryzen™ 5 1600X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 1080Ti / RTX 3060 or AMD Radeon™ RX 6600XT or Intel® Arc™ A770
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Notas adicionales: SSD with 102 GB available space at launch
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

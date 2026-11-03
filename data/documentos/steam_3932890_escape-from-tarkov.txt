@@ -1,0 +1,57 @@
+JUEGO: Escape from Tarkov
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Multijugador masivo, Rol, Simuladores
+DESARROLLADOR: Battlestate Games
+PUBLISHER: Battlestate Games
+FECHA DE LANZAMIENTO: 15 NOV 2025
+PRECIO: $49.99
+RESEÑAS DE USUARIOS (STEAM): Mixed (62809 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Escape from Tarkov es el FPS de extracción original donde cada incursión es una apuesta con la muerte. Prepara tu incursión, resiste y enfrenta a despiadados PMC y Scavs. Consigue la ventaja táctica y aférrate a tu botín; solo el extraer decidirá si vives o lo pierdes todo.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10
+
+- Procesador: AMD Ryzen 5 3600 or similar
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: GTX 1660 or similar
+
+- DirectX: Versión 11
+
+- Almacenamiento: 80 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11
+
+- Procesador: Intel Core i7-14700F or better
+
+- Memoria: 64 GB de RAM
+
+- Gráficos: RTX 4070 or better
+
+- DirectX: Versión 11
+
+- Almacenamiento: 80 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

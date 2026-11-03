@@ -1,0 +1,24 @@
+JUEGO: Hearthstone
+
+FUENTE: IGDB
+PLATAFORMA: Android, PC (Microsoft Windows), iOS, Mac
+DISPONIBLE EN: Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: Estrategia, Estrategia por turnos, Cartas y tablero
+TEMAS: Fantasía
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica, Texto
+DESARROLLADOR: Blizzard Entertainment
+PUBLISHER: Blizzard Entertainment
+FECHA DE LANZAMIENTO: 2014-03-11
+NOTA DE LA CRÍTICA (IGDB): 88/100 (9 críticas)
+NOTA DE USUARIOS (IGDB): 78/100 (727 votos)
+FRANQUICIA: Warcraft
+TAMBIÉN CONOCIDO COMO: Hearthstone: Heroes of Warcraft, 炉石传说, HS
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1sh2.jpg
+URL: https://www.igdb.com/games/hearthstone
+
+RESUMEN:
+Hearthstone is a free-to-play digital collectible card game set in the Warcraft universe. Originally subtitled Heroes of Warcraft, the game features turn-based one-on-one matches where players build 30-card decks and select heroes from eleven classes, each with unique abilities. Players spend mana crystals each turn to summon minions, cast spells, and use weapons with the goal of reducing their opponent's health to zero. The game includes multiple modes such as ranked competitive play, Arena drafting, Battlegrounds (an auto battler for eight players), and rotating Tavern Brawl challenges. New card sets are released as expansions every four months, with a Standard format that rotates older cards out of competitive play.
+
+JUEGOS PARECIDOS:
+Si te gusta Hearthstone, también podrían gustarte: Gwent: The Witcher Card Game, Magic: The Gathering Arena, Magic Duels, SolForge, Legends of Runeterra, Teamfight Tactics, Dota Underlords, Spellstone, For the King, Transistor.

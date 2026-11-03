@@ -1,0 +1,25 @@
+JUEGO: Babbdi
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Aventura, Indie
+TEMAS: Terror, Comedia, Misterio
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Lemaitre Bros
+PUBLISHER: Lemaitre Bros
+FECHA DE LANZAMIENTO: 2022-12-22
+NOTA DE USUARIOS (IGDB): 79/100 (32 votos)
+TAMBIÉN CONOCIDO COMO: BABBDI, Babbdi.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co5yhw.jpg
+URL: https://www.igdb.com/games/babbdi
+
+RESUMEN:
+Find your way out of Babbdi. A short, first person exploration experience.
+
+HISTORIA:
+Visit the town of BABBDI, a forsaken district in the outer ring of the megalopolis. Meet its inhabitants and discover how to escape.
+
+JUEGOS PARECIDOS:
+Si te gusta Babbdi, también podrían gustarte: The Fabled Woods, The Suicide of Rachel Foster, Nephise, Marie's Room, What Never Was, Before Your Eyes, Granny, The Moon Sliver, Dead Secret, Imscared.

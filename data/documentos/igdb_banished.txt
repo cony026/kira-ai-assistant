@@ -1,0 +1,24 @@
+JUEGO: Banished
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Estrategia en tiempo real, Simulación, Estrategia, Indie
+TEMAS: Supervivencia, Histórico
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Shining Rock Software
+PUBLISHER: Shining Rock Software
+FECHA DE LANZAMIENTO: 2014-02-18
+NOTA DE LA CRÍTICA (IGDB): 68/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 72/100 (199 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1li9.jpg
+URL: https://www.igdb.com/games/banished
+
+RESUMEN:
+Welcome to the world of Banished! In this city-building strategy game, you control a group of exiled travelers who decide to restart their lives in a new land. They have only the clothes on their backs and a cart filled with supplies from their homeland.
+
+The objective of the game is to keep the population alive and grow it into a successful culture. Options for feeding the people include hunting and gathering, agriculture, trade, and fishing. However, sustainable practices must be considered to survive in the long term.
+
+JUEGOS PARECIDOS:
+Si te gusta Banished, también podrían gustarte: Europa 1400: The Guild, Manor Lords, Forge of Empires, Diplomacy is Not an Option, Infection Free Zone, Pharaoh, Hearthlands, Foundation, Townsmen, Dawn of Discovery.

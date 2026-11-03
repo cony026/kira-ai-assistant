@@ -1,0 +1,64 @@
+JUEGO: DragonSword : Awakening
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Rol
+DESARROLLADOR: Hound13 Inc.
+PUBLISHER: Hound13 Inc.
+FECHA DE LANZAMIENTO: 22 JUL 2026
+PRECIO: $29.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (11318 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Explore the anime-style open world of the Continent of Orbis, brought to life with Unreal Engine 5! Recruit unique companions, unleash spectacular Status Ailment tag-team action, and embark on an epic journey to save the world from the threat of a Dragon reawakened after 60 years.
+
+DESCRIPCIÓN DETALLADA:
+[ A Boy's Breathtaking Journey to Save the World Begins ]Lute, a young boy traveling toward Orbis—the first kingdom built by humankind—finds himself swept up in the lives of Johnny, a mercenary, and Castella, an Elf, stumbling headfirst into the chaotic life of a mercenary.Amid hectic days spent with his colorful companions, a massive shadow looms over the peaceful continent, and Lute's destiny begins to spiral.Can the boy become the Dragon Sword—the Hero destined to save the continent?[ A Wondrous Adventure in an Anime-Style Open World ]Explore the Continent of Orbis—a radiant, warmly colored fantasy world brought to life with Unreal Engine 5!■ A Living, Breathing Open WorldVenture across beautiful meadows, secret cellars beneath watchtowers, treasure-filled deep seas, and hidden caves and dungeons—all yours to explore on foot.■ Reliable Adventure CompanionsTravel with trusty allies and adorable collectible companions called Familiars that aid you on your journey.■ Where Everyday Life Becomes an AdventureCombine ingredients found across the continent to create new dishes through Cooking, solve the problems of local residents, and become a true member of Orbis.[ Thrilling Tag-Team Action Using Status Ailments ]Experience the spectacular tag-team action unique to Dragon Sword.■ Status Ailments and Signal SkillsEach of the 19 Heroes possesses distinct Status Ailment abilities. Stack Status Ailments with Active Skills, then chain devastating combos with powerful Signal Skills for an exhilarating combat experience.■ Endless Signal SwitchingHeroes weave in and out of battle in endless combo chains through Switching Signals! Build your own team with diverse combinations and craft your ultimate stylish combat.[ Precious Bonds and Their Stories ]From allies who fight alongside you to village guards, every character in Orbis carries a story of their own.■ Heroes with Deep NarrativesDiscover factions entangled in complex interests and the hidden depths of the Heroes within them.■ Characters Brimming with PersonalityFrom an eccentric Elf who studies archaeology to a mysterious girl who traverses dimensions—forge bonds with a colorful cast and draw closer to the truth of the world.[ The Dragon Awakened After 60 Years and the Legacy of Six Heroes ]Long ago, a Dragon brought the continent to the brink of destruction, and six Heroes rose to save it.Now, 60 years later, a Dragon has appeared once more on the peaceful Continent of Orbis.You will take on a critical quest to find the Heroes of old and confront the returning Dragon's threat. Tracing the footsteps of the legendary Heroes across the continent, you will uncover their hidden secrets.Until the boy Lute and his mercenary band rise to become the Heroes who will save the continent—Can they truly become the Dragon Sword, saviors of the continent, or will fate lead them down a different path?Join them on this arduous journey and find out!
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10
+
+- Procesador: Intel i5-9400F
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA Geforce GTX1660
+
+- DirectX: Versión 12
+
+- Almacenamiento: 25 GB de espacio disponible
+
+- Notas adicionales: ※ IMPORTANTE: Se requiere estrictamente un SSD para una experiencia de juego óptima. Instalar el juego en un HDD puede provocar tiempos de carga prolongados, retraso en la carga de texturas, caídas de fotogramas o cierres inesperados.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10
+
+- Procesador: Intel i7-9700F
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA Geforce RTX3060
+
+- DirectX: Versión 12
+
+- Almacenamiento: 25 GB de espacio disponible
+
+- Notas adicionales: ※ IMPORTANTE: Se requiere estrictamente un SSD para una experiencia de juego óptima. Instalar el juego en un HDD puede provocar tiempos de carga prolongados, retraso en la carga de texturas, caídas de fotogramas o cierres inesperados.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

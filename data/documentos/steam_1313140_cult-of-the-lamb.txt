@@ -1,0 +1,81 @@
+JUEGO: Cult of the Lamb
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Indie, Estrategia
+DESARROLLADOR: Massive Monster
+PUBLISHER: Devolver Digital
+FECHA DE LANZAMIENTO: 11 AGO 2022
+PRECIO: $24.99
+NOTA METACRITIC: 82/100
+RESEÑAS DE USUARIOS (STEAM): Overwhelmingly Positive (128569 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Crea tu propia secta en una tierra de falsos profetas, aventurándote en regiones diversas y misteriosas para construir una leal comunidad de adeptos de los bosques, y difunde tu Palabra para convertir tu secta en la única y verdadera.
+
+DESCRIPCIÓN DETALLADA:
+Cult of the Lamb mete a los jugadores en el papel de un cordero poseído, salvado de la aniquilación por un ominoso desconocido, que debe pagar su deuda construyendo un grupo de fieles seguidores en su nombre. Crea tu propia secta en una tierra de falsos profetas, aventurándote en regiones diversas y misteriosas para construir una leal comunidad de adeptos de los bosques, y difunde tu Palabra para convertir tu secta en la única y verdadera.CONSTRUYE TU REBAÑOReúne recursos y úsalos para construir nuevas estructuras, realiza rituales oscuros para apaciguar a los dioses y pronuncia sermones para reforzar la fe de tu rebaño.
+
+DESTRUYE A LOS INFIELESExplora un inmenso mundo generado de forma procedimental, rechaza a hordas de enemigos y derrota a los líderes de grupos rivales para absorber su poder y reafirmar la supremacía de tu secta.
+
+DIFUNDE TU PALABRAEntrena a tu rebaño y embárcate en la misión de explorar y descubrir los secretos de cuatro misteriosas regiones. Purifica a los infieles, difunde la iluminación y lleva a cabo rituales místicos en tu periplo para convertirte en el poderoso dios cordero.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO *: Windows 7 or later
+
+- Procesador: Intel Core i3-3240 (2 * 3400); AMD FX-4300 (4 * 3800)
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: GeForce GTX 560 Ti (1024 VRAM); Radeon HD 7750 (1024 VRAM)
+
+- Almacenamiento: 4 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10
+
+- Procesador: Intel Core i5-3470
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: GeForce GTX 1050 (2048 VRAM); Radeon R9 380 (2048 VRAM)
+
+- Almacenamiento: 4 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: OS 10.9
+
+- Procesador: Intel Core i5-6500 (4 * 3200) or equivalent
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: AMD Radeon R9 M390   (2048 VRAM) or equivalent
+
+- Almacenamiento: 2 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: OS 10.9
+
+- Procesador: Intel Core i5-7600 (4 * 3400) or equivalent
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Radeon Pro 570 (4096 VRAM) or equivalent
+
+- Almacenamiento: 2 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

@@ -1,0 +1,22 @@
+JUEGO: Homeworld
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia en tiempo real, Estrategia, Aventura
+TEMAS: Ciencia ficción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Relic Entertainment
+PUBLISHER: Sierra Entertainment
+FECHA DE LANZAMIENTO: 1999-09-28
+NOTA DE LA CRÍTICA (IGDB): 90/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 84/100 (69 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coc6i8.jpg
+URL: https://www.igdb.com/games/homeworld
+
+RESUMEN:
+Homeworld is a 3D real-time strategy game set in space and focusing on the conflict between the Kushan, who are attempting to locate their long-lost homeworld, and the Taiidan Empire which is trying to destroy them.
+
+JUEGOS PARECIDOS:
+Si te gusta Homeworld, también podrían gustarte: Homeworld 2, OGame, Empire Earth II, Star Trek - Armada, Conquest: Frontier Wars, Freelancer, Total Annihilation, Rise of Nations: Rise of Legends, Homeworld Mobile, Pikmin 4.

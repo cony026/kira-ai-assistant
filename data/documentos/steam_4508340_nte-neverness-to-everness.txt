@@ -1,0 +1,64 @@
+JUEGO: NTE: Neverness to Everness
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Rol, Free to Play
+DESARROLLADOR: Hotta Studio
+PUBLISHER: Perfect World Games
+FECHA DE LANZAMIENTO: 7 JUL 2026
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Very Positive (5521 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+NTE es un RPG de mundo abierto urbano y sobrenatural desarrollado por Hotta Studio. Tu historia comienza en Hethereau como un cazanomalías sin licencia. Forma equipo con un variado elenco de compañeros, cada uno con habilidades únicas, para descubrir los misterios de la ciudad.
+
+DESCRIPCIÓN DETALLADA:
+NTE es un RPG sobrenatural de mundo abierto desarrollado por Hotta Studio. La historia comienza en la ciudad de Hethereau, donde juegas como Caza-Anomalías «sin licencia». Te unirás a la Tienda de Antigüedades de Eibon, que se mantiene en pie gracias a los encargos de Anomalías que recibe del público. Junto a tus socios, tan diversos como extraordinarios, explorarás múltiples misterios urbanos, viviendo un sinfín de aventuras llenas de risas y lágrimas, mientras forjas tu propia saga urbana.【Una Ciudad Extraña con Aventuras Extrañas】Te damos la bienvenida a tu primer destino como perito: ¡Hethereau, la ciudad abierta y bulliciosa!En el concurrido salón de la Agencia de Control de Anomalías, las rarezas hacen fila para obtener sus permisos de residencia, mientras en la estación de tren, un Esper viajero chasquea los dedos para limpiar su traje de trabajo con prisa. De un lado de la calle, una persecución caótica tras Danzaburou; del otro, un asistente vacacionista con guantes plateados charla amistosamente con la persona encargada de una tienda de electrónicos de segunda mano. ¡Hay escenas intrigantemente «anormales» por donde mires!¿Quieres profundizar en este mundo donde lo humano y lo sobrenatural conviven? Comienza tu recorrido en Hethereau. Presencia, sumérgete y documenta todo de primera mano. La vida cotidiana aquí, tan animada como excéntrica, ya es toda una aventura.【Historias Interesantes y Vínculos Ligeros】Historia principal de hoy: circulan rumores sobre una misteriosa casa de empeño que solo aparece la noche de luna llena. ¿Qué ofrecerás a cambio de tu deseo?Últimas noticias: ¡la crisis romántica de Taygedo! Romance e impulsividad, desamor y oportunidades perdidas. La Srta. Tako, partícipe de un enamoramiento secreto, está por irse de Hethereau con su garante. ¿Logrará esta nutria enamorada expresar sus sentimientos antes de que sea tarde?Dato confiable: ¡el estudio fotográfico, «Estudio Film·Orbit» ha reabierto! ¡Todos los miembros de la Tienda de Antigüedades de Eibon disfrutan de descuentos exclusivos!Pronóstico del clima: la Anomalía Rainman entra en fase activa, ¡así que lleva tu impermeable si sales!【Encuentros y Vínculos】Explora las misteriosas tiendas en callejones apartados, conoce a dueños de tiendas enigmáticos, guardaespaldas de alto nivel, asistentes robóticos todoterreno, alborotadores sin remedio y reparadores con cabeza de TV de hábitos alimenticios curiosos.¡Como parte de Eibon, siempre contarás con compañeros llenos de energía en tus aventuras!Expande tu mapa social comenzando desde la bulliciosa Calle Hankaku. Conoce valientemente a más miembros de facciones y agrégalos libremente como amigos en Bagel.Desde barrios armoniosos llenos de calles comerciales hasta organizaciones únicas de cazadores, te esperan infinidad de historias secundarias. ¡Reúne aliados y forja vínculos por doquier!【Personaliza tu Estilo de Vida Urbano】Explora libremente tu ciudad: sigue tus rutinas favoritas o atrévete a probar algo nuevo.Personaliza tu auto y recorre las calles para sentir el pulso urbano, o toma el tren fantasma para cruzar espacios de Anomalía y llegar en un instante.En tu tiempo libre, ¿visitarás las tiendas antiguas de Calle Hankaku para buscar productos secretos de temporada, o comprarás una casa acogedora para decorarla a tu gusto?Escucha tu corazón, sigue tu propio ritmo y sumérgete en esta ciudad vibrante que te acoge con confianza… y te recompensa con días coloridos e inolvidables.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-bit
+
+- Procesador: Intel Core i7-10700 (10th Gen) / Snapdragon® X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1660 / AMD Radeon RX 5600 / Qualcomm® Adreno X1 GPU
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 70 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-bit
+
+- Procesador: Intel Core i7-12700 (12th Gen) / Snapdragon® X2 Elite
+
+- Memoria: 32 GB de RAM
+
+- Gráficos: NVIDIA GeForce RTX 3060 / AMD Radeon RX 6700 / Qualcomm® Adreno X2 GPU
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 70 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

@@ -1,0 +1,15 @@
+# Nunca dentro de la imagen: secretos, entornos virtuales y datos generados
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+**/__pycache__/
+*.pyc
+.git/
+.vscode/
+data/kira_db/
+data/cache_pokeapi/
+data/evaluacion/
+tests/
+*.zip

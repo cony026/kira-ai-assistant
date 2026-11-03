@@ -1,0 +1,24 @@
+JUEGO: Pokémon Púrpura
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Violet
+PLATAFORMA: Nintendo Switch
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación IX
+REGIÓN PRINCIPAL: Paldea
+LANZADO JUNTO A: Pokémon Escarlata
+
+DESCRIPCIÓN:
+Pokémon Púrpura es un juego de rol de la saga principal de Pokémon, de la Generación IX, para Nintendo Switch. La aventura transcurre en la región de Paldea. Se lanzó junto a Pokémon Escarlata; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Sprigatito, Fuecoco y Quaxly. Su Pokédex regional reúne 664 especies de Pokémon distintas. Incluye Pokémon legendarios como Wo-Chien, Chien-Pao, Ting-Lu, Chi-Yu, Koraidon y Miraidon.
+
+POKÉDEX:
+- Paldea: 400 Pokémon
+- Kitakami: 200 Pokémon
+- Arándano: 243 Pokémon
+
+POKÉMON INICIALES:
+Sprigatito, Fuecoco, Quaxly
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Wo-Chien, Chien-Pao, Ting-Lu, Chi-Yu, Koraidon, Miraidon, Okidogi, Munkidori, Fezandipiti, Ogerpon, Terapagos
+Singulares (míticos): Pecharunt

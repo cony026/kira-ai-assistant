@@ -1,0 +1,20 @@
+JUEGO: Kerbal Space Program
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Xbox One
+DISPONIBLE EN: Linux, macOS, PC, Xbox One, PlayStation 4
+FECHA DE LANZAMIENTO: 2015-04-26
+DESARROLLADOR: Squad
+PUBLISHER: Private Division, Squad
+GÉNEROS: Simulation, Indie
+NOTA METACRITIC: 88
+RATING USUARIOS: 4.16/5 (411 votos)
+TIEMPO DE JUEGO MEDIO: 5 horas
+TAGS: Singleplayer, steam-trading-cards, Open World, Sci-fi, Funny, Exploration, Difficult, Sandbox, Comedy, Space, Moddable, Replay Value, Physics, Building, overlay
+
+DESCRIPCIÓN:
+How to build a spaceship capable of delivering a human crew into space - and return this crew back? Even if we have all the necessary parts, engines, life support systems, rudders and accelerators, even if all this we have, the construction of the ship requires the correct arrangement of parts together with each other. Depending on how correct our decisions are, the ship will fly or not, it will fly right or fatally deviate from the course.
+
+The game has three modes. The first is the sandbox. You can build everything that comes to your mind. The second is Science. Here you can experiment and improve technology. The third is career. Here you are responsible for the smooth functioning of all departments, including administration strategies, crew management, reputation, taking up contracts to earn funds etc.
+There are also tasks to deal somehow with asteroids, create bases and stations in space, discover new planets and search for minerals in their bowels, and so on.
+The ship's behavior is based on the real physics of such phenomena, the ship behaves naturally in this sense, and our solutions must comply with this. Similarly, it is necessary to take into account other physical realities, such as a possible explosion of fuel due to overheating and so on.

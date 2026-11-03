@@ -1,0 +1,26 @@
+JUEGO: Terraria
+
+FUENTE: IGDB
+PLATAFORMA: Google Stadia, PlayStation 3, PlayStation 4, Linux
+DISPONIBLE EN: Google Stadia, PlayStation 3, PlayStation 4, Linux, Nintendo 3DS, Windows Phone, Android, PC (Microsoft Windows), iOS, Mac, Wii U, PlayStation Vita, Xbox 360, Xbox One, Nintendo Switch
+GÉNEROS: Plataformas, RPG, Simulación, Estrategia, Aventura, Indie
+TEMAS: Acción, Fantasía, Ciencia ficción, Terror, Supervivencia, Sandbox, Mundo abierto
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Re-Logic
+PUBLISHER: Headup Games, Re-Logic, 505 Games
+FECHA DE LANZAMIENTO: 2011-05-16
+NOTA DE LA CRÍTICA (IGDB): 81/100 (13 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (1063 votos)
+TAMBIÉN CONOCIDO COMO: 테라리아, 테라리아 (Terraria), Terraria.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coaamg.jpg
+URL: https://www.igdb.com/games/terraria
+
+RESUMEN:
+Terraria is a 2D sandbox action-adventure game with platforming and role-playing elements. Players create a character and are placed in a procedurally generated world where they mine resources, craft equipment, build structures, and fight enemies. Progression is driven by defeating bosses that unlock new tiers of items, biomes, and challenges. The game features a class system based on equipped gear, NPC recruitment tied to achievements, and supports both single-player and multiplayer modes. Terraria also includes official modding support through the tModLoader framework.
+
+HISTORIA:
+You find yourself in a mysterious, untamed world with only a handful of basic tools and no clear path ahead. As night approaches and strange creatures begin to roam the land, you must create a place of safety and venture into the unknown. What begins as a simple struggle for survival soon becomes a journey across forgotten caverns, distant landscapes, and a world filled with secrets waiting to be discovered.
+
+JUEGOS PARECIDOS:
+Si te gusta Terraria, también podrían gustarte: Don't Starve, Fez, Owlboy, Dust: An Elysian Tail, Tomb Raider, No Man's Sky, Dying Light, Starbound, Dwarf Fortress, SteamWorld Dig.

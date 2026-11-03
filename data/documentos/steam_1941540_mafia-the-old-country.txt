@@ -1,0 +1,48 @@
+JUEGO: Mafia: El Viejo Continente
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura
+DESARROLLADOR: Hangar 13
+PUBLISHER: 2K
+FECHA DE LANZAMIENTO: 7 AGO 2025
+PRECIO: $29.99
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (29864 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Descubre los orígenes del crimen organizado en Mafia: El Viejo Continente, una cruda historia de mafiosos ambientada en el brutal submundo de la Sicilia de principios del siglo XX. Lucha por sobrevivir con Enzo Favara y demuestra tu valía a la familia en esta aventura de acción en tercera persona.
+
+DESCRIPCIÓN DETALLADA:
+Descubre los orígenes del crimen organizado en Mafia: El Viejo Continente, una cruda historia de mafiosos ambientada en el brutal submundo de la Sicilia de principios del siglo XX. Lucha por sobrevivir en la piel de Enzo Favara y demuestra tu valía a la Familia en esta inmersiva aventura de acción en tercera persona ambientada en una época peligrosa e implacable.Enzo hará cualquier cosa por una vida mejor. Tras una infancia brutal de trabajos forzados, está dispuesto a arriesgarlo todo para convertirse en un hombre de honor en la familia criminal Torrisi.Su juramento a la mafia, con todo el poder, la tentación y las dificultades que conlleva, es un recordatorio candente de esta simple verdad:La familia exige sacrificios.Esta emocionante historia cobra vida gracias a unos efectos visuales impresionantes, una narración cinematográfica y el auténtico realismo por el que es conocida la aclamada serie Mafia. La historia de Enzo se desarrolla en una época en la que la habilidad con el estilete era una baza letal, la escopeta recortada Lupara era el arma de fuego habitual, las venganzas asesinas se prolongaban durante décadas y los mafiosos patrullaban sus redes de protección a pie, a caballo o al volante de coches de principios de siglo. La ruda belleza de la campiña siciliana contrasta con la suciedad de los callejones urbanos, pero la traición y la violencia de este mundo de bandas son igual de intensas. Las familias rivales y sus despiadados líderes libran interminables guerras territoriales en la sombra, ocultas a la mirada pública. La confianza es una rareza efímera, y vale la pena matar por lealtad. Tú eres el antihéroe de esta emocionante historia de 1900, viviendo cada momento tenso del descenso de Enzo al submundo criminal clandestino de Sicilia. Enfréntate cara a cara con un grupo de aliados impredecibles y enemigos despiadados en este drama criminal clásico, rico en detalles auténticos de época que te sumergirán en este traicionero escenario mediterráneo.Participa en combates a vida o muerte, ya sea de cerca con una espada o desde lejos con diversas armas de fuego. Hazles emboscadas a tus enemigos para derribarlos con sigilo o rebanarlos en duelos cuerpo a cuerpo. Si prefieres las armas de fuego, empuña pistolas, rifles y escopetas auténticos de la época para superar cualquier adversidad y eliminar tenazmente a los enemigos del Don. Atraviesa una amplia gama de entornos sicilianos, desde criptas subterráneas y ruinas en ruinas hasta abundantes viñedos y ornamentados teatros de ópera. Para alcanzar tu próximo objetivo o emprender una huida apresurada, tendrás que galopar a caballo por calles adoquinadas y campos abiertos, o recorrer a toda velocidad caminos de tierra en auténticos automóviles de principios de siglo.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10 / 11
+
+- Procesador: AMD Ryzen 7 2700X / Intel Core i7-9700K 
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: AMD Radeon RX 5700 XT / NVIDIA RTX 2070
+
+- DirectX: Versión 12
+
+- Almacenamiento: 55 GB de espacio disponible
+
+- Notas adicionales: Requires a 64-bit processor and operating system.  Requires SSD ;  Graphic Preset: Medium  ;  Resolution: 1080p
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10 / 11
+
+- Procesador: AMD Ryzen 7 5800X / Intel Core i7-12700K
+
+- Memoria: 32 GB de RAM
+
+- Gráficos: AMD Radeon RX 6950 XT / NVIDIA RTX 3080 Ti
+
+- DirectX: Versión 12
+
+- Almacenamiento: 55 GB de espacio disponible
+
+- Notas adicionales: Requires a 64-bit processor and operating system.  Requires SSD ; Graphic Preset: High ; Resolution: 1440p

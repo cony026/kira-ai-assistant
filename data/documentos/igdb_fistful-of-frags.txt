@@ -1,0 +1,22 @@
+JUEGO: Fistful of Frags
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, Indie
+TEMAS: Acción
+MODOS DE JUEGO: Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Fistful of Frags Team
+PUBLISHER: Fistful of Frags Team
+FECHA DE LANZAMIENTO: 2007-12-20
+NOTA DE USUARIOS (IGDB): 84/100 (49 votos)
+TAMBIÉN CONOCIDO COMO: FoF, hl2.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co62l0.jpg
+URL: https://www.igdb.com/games/fistful-of-frags
+
+RESUMEN:
+Fistful of Frags was born years ago as a Wild West themed modification for Source engine. It has been completely renewed for its Steam release, paying special attention to combat mechanics.
+
+JUEGOS PARECIDOS:
+Si te gusta Fistful of Frags, también podrían gustarte: Battle Teams, Serious Sam: The First Encounter, World War 3, One-Armed Robber, No More Room in Hell 2, SCP: Secret Laboratory, Bigfoot, Pavlov VR, Machine Hunt, Mobile Forces.

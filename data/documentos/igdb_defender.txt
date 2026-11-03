@@ -1,0 +1,27 @@
+JUEGO: Defender
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Web browser, Mac
+DISPONIBLE EN: Arcade, Web browser, Mac
+GÉNEROS: Shooter, Estrategia
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+PUBLISHER: Williams Electronics, Shockwave
+FECHA DE LANZAMIENTO: 1981-03-01
+NOTA DE LA CRÍTICA (IGDB): 70/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 47/100 (37 votos)
+TAMBIÉN CONOCIDO COMO: Earth Attack
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7qsm.jpg
+URL: https://www.igdb.com/games/defender
+
+RESUMEN:
+Defender is an arcade video game developed released by Williams Electronics in 1980. A shooting game featuring two-dimensional (2D) graphics, the game is set on a fictional planet where the player must defeat waves of invading aliens while protecting astronauts. Development was led by Eugene Jarvis, a pinball programmer at Williams; Defender was Jarvis's first video game project, and drew inspiration from Space Invaders and Asteroids. Williams planned to display the game at the Amusement & Music Operators Association (AMOA) trade show, though development delays resulted in the team working on the game up until the show started.
+
+Defender was commercially successful, selling over 55,000 units to become the company's best selling arcade game. Praise among critics focused on the game's audio-visuals and gameplay. It is frequently listed as one of Jarvis's best contributions to the video game industry, as well as one of the most difficult video games. Defender was ported to numerous platforms, inspired the development of other games, and was followed by sequels and many imitations.
+
+HISTORIA:
+In the future an alien race known as the "Manti" attacks Earth with their relatives the Irata. Manti have been seen kidnapping humans for unknown reasons but, it is known that after a Manti grabs a human that they become more powerful. If the Manti successfully create the ultimate Mutant Army, then Earth won't stand a chance. Star-Fighters have been dispatched to Defend mankind from the enemy.
+
+JUEGOS PARECIDOS:
+Si te gusta Defender, también podrían gustarte: Jetpac, R-Type, Atlantis, Far Cry, Zombotron, Earth Defense Force 5, Forbidden planet, Raft Wars, Forts, Thexder.

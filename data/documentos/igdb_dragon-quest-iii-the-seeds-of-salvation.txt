@@ -1,0 +1,31 @@
+JUEGO: Dragon Quest III: The Seeds of Salvation
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Nintendo 3DS, Android, iOS
+DISPONIBLE EN: PlayStation 4, Nintendo 3DS, Android, iOS, Legacy Mobile Device, Nintendo Switch
+GÉNEROS: RPG, Estrategia por turnos, Aventura
+TEMAS: Fantasía, Histórico, Sandbox, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona, Isométrica
+DESARROLLADOR: Matrix Software
+PUBLISHER: Square Enix
+FECHA DE LANZAMIENTO: 2009-11-19
+NOTA DE USUARIOS (IGDB): 89/100 (36 votos)
+FRANQUICIA: Dragon Quest
+TAMBIÉN CONOCIDO COMO: 勇者斗恶龙III 传说的开始, 勇者鬥惡龍III 接著邁向傳説, Dragon Warrior III, DQ3, Dragon Quest III
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1xaj.jpg
+URL: https://www.igdb.com/games/dragon-quest-iii-the-seeds-of-salvation
+
+RESUMEN:
+Dragon Quest III is noted for greatly expanding upon the original Dragon Warrior and Dragon Warrior II. The game uses basic console role-playing game conventions, such as leveling up by gaining experience points and equipping items. Battle is turn-based like the other games in the series.
+Dragon Warrior III features a class system, in which each character has a certain class. While the Hero always keeps the Hero class, the other characters can choose among the following: Soldier (Warrior in the GBC version), Fighter, Pilgrim (Cleric), Wizard (Mage), Merchant (Dealer), Goof-Off (Jester), Sage, and Thief which was available only in the later versions. The choice of class greatly affects the character's stats and spells he or she can learn. Furthermore, upon reaching experience Level 20, a character has the option of changing classes at the temple of Dhama, found halfway through the game. The game starts with just the Hero in the party, who then is able to recruit a party of three at the local tavern. Unlike most Dragon Quest parties, aside from the Hero, the party is not made up of characters involved in the story. Although only four characters can be in the party at a time, extra members of the party can be kept at the tavern, allowing room for new recruits. Another innovation is an arena where the player can place bets on the outcome of monster battles.
+The remakes incorporated some interface changes from later games in the series, such as simplified door opening; the bag, which replaced bank item storage; the item sorting "Tidy Item" and "Tidy Bag" commands; and the "Full HP" command, which can be used outside of combat to automate the process of casting healing and status restoring spells.
+While the earlier Dragon Quest games were also non-linear, Dragon Quest III was the most substantial example of open-world gameplay among the early Dragon Quest games. It also allowed the player to swap characters in and out of the party at will, and another "major innovation was the introduction of day/night cycles; certain items, characters, and quests are only accessible at certain times of day."
+
+HISTORIA:
+Dragon Quest III is set many years before the original Dragon Quest in a world bearing great similarity to the real world. A wicked fiend, Baramos, threatens to destroy the world. The hero, son or daughter (you can choose to be either male or female) of the legendary Ortega, recruits up to three travelling companions and sets out to defeat Baramos, only to find later that Baramos is merely a disciple of Zoma, the fiend who rules the Dark World below. The hero then travels to the Dark World, which is known as Alefgard in subsequent installments of the series, and restores light. For his bravery, the hero receives the title of Loto (Erdrick in the NES version).
+
+The flow of the game is as follows. The hero travels from his home country of Aliahan to explore the world and acquire three keys needed to open doors throughout the game. After saving a couple of the town of Baharata from the rogue Robbin' 'ood, the hero receives Black Pepper, which he trades for a sailing ship at Portoga. With the ship, the hero acquires the Final Key and the six mystical orbs which are used to revive the legendary bird Lamia. Lamia takes the hero to Baramos' castle. After a ferocious battle, the hero's celebration is cut off as Zoma attacks and opens the pit to the dark world. In the dark world, the hero acquires the Stones of Sunlight, the Staff of Rain, and the Seal of Rubiss. These items are then exchanged for the Rainbow Drop. This item creates a bridge, which leads the hero to Zoma's castle for the final confrontation.
+
+JUEGOS PARECIDOS:
+Si te gusta Dragon Quest III: The Seeds of Salvation, también podrían gustarte: Dragon Quest IX: Sentinels of the Starry Skies, Dragon Warrior VII, Dragon Quest VIII: Journey of the Cursed King, Golden Sun, Final Fantasy Tactics A2: Grimoire of the Rift, Breath of Fire IV, Pokémon Gold Version, Golden Sun: The Lost Age, Ultima IV: Quest of the Avatar, Legend of Mana.

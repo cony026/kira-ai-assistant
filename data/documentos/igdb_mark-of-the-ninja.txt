@@ -1,0 +1,23 @@
+JUEGO: Mark of the Ninja
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac, Xbox 360
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac, Xbox 360
+GÉNEROS: Plataformas, Aventura, Indie
+TEMAS: Acción, Sigilo
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Klei Entertainment
+PUBLISHER: Microsoft Studios
+FECHA DE LANZAMIENTO: 2012-09-07
+NOTA DE LA CRÍTICA (IGDB): 91/100 (7 críticas)
+NOTA DE USUARIOS (IGDB): 84/100 (317 votos)
+TAMBIÉN CONOCIDO COMO: game.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2sfv.jpg
+URL: https://www.igdb.com/games/mark-of-the-ninja
+
+RESUMEN:
+Mark of the Ninja is a side-scrolling action stealth video game developed by Klei Entertainment and published by Microsoft Studios. It was announced on February 28, 2012 and later released for the Xbox 360 via Xbox Live Arcade on September 7, 2012. A Microsoft Windows version was released on October 16, 2012. It follows the story of a nameless ninja in the present day, and features a themed conflict between ancient ninja tradition and modern technology. Cutscenes for the game are rendered in Saturday morning cartoon animation style.
+
+JUEGOS PARECIDOS:
+Si te gusta Mark of the Ninja, también podrían gustarte: Limbo, BattleBlock Theater, Deadlight, Spec Ops: The Line, Thief, Butcher, Tom Clancy's Splinter Cell: Blacklist, Bastion, Tales from Space: Mutant Blobs Attack, Max: The Curse of Brotherhood.

@@ -1,0 +1,28 @@
+JUEGO: Left 4 Dead
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac, Xbox 360
+DISPONIBLE EN: PC (Microsoft Windows), Mac, Xbox 360
+GÉNEROS: Shooter
+TEMAS: Acción, Terror, Supervivencia
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve, Certain Affinity, Turtle Rock Studios
+PUBLISHER: Valve, Electronic Arts
+FECHA DE LANZAMIENTO: 2008-11-17
+NOTA DE LA CRÍTICA (IGDB): 85/100 (7 críticas)
+NOTA DE USUARIOS (IGDB): 80/100 (769 votos)
+TAMBIÉN CONOCIDO COMO: left4dead.exe, L4D
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrm.jpg
+URL: https://www.igdb.com/games/left-4-dead
+
+RESUMEN:
+Left 4 Dead is a cooperative first-person shooter set during a zombie outbreak on the East Coast of the United States. Four players control survivors who must fight through hordes of infected humans, creatures transformed by a rabies-like pathogen that causes extreme aggression and loss of higher brain function. Gameplay emphasizes teamwork, with colored outlines showing teammate positions through walls, shared healing items, and friendly fire creating consequences for careless shooting. An AI system called the Director dynamically adjusts enemy placement, item spawns, and pacing based on player performance. Beyond common infected, players face five special mutated types with unique abilities. Campaigns are divided into levels connected by safe houses, each culminating in a desperate last stand for rescue.
+
+HISTORIA:
+An outbreak of a pathogen nicknamed the Green Flu sweeps across Pennsylvania, causing extreme aggression, loss of higher brain function, and rapid mutation in its victims. Two weeks after the first infection, four immune survivors find themselves stranded together in the city of Fairfield: Bill, a Vietnam veteran; Zoey, a college student; Louis, a district account manager; and Francis, an outlaw biker.
+
+As the group fights through city streets, subways, and countryside in search of evacuation, they discover that the military's containment efforts are failing and that the infection is producing increasingly dangerous mutations in some of its hosts. Each rescue attempt leads to another setback, pushing the survivors further from safety and forcing them to rely entirely on each other to stay alive.
+
+JUEGOS PARECIDOS:
+Si te gusta Left 4 Dead, también podrían gustarte: Gears of War 2, Killing Floor, Aliens vs. Predator, Call of Duty 4: Modern Warfare, Resident Evil 5, Unreal Tournament III, Call of Duty 2, F.E.A.R., Gears of War, Call of Duty: Ghosts.

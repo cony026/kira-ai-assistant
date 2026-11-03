@@ -1,0 +1,26 @@
+JUEGO: Zak McKracken and the Alien Mindbenders
+
+FUENTE: IGDB
+PLATAFORMA: Commodore C64/128/MAX, Linux, Atari ST/STE, PC (Microsoft Windows)
+DISPONIBLE EN: Commodore C64/128/MAX, Linux, Atari ST/STE, PC (Microsoft Windows), Mac, DOS, FM Towns, Amiga
+GÉNEROS: Point and click, Aventura
+TEMAS: Ciencia ficción, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Lucasfilm Games
+PUBLISHER: Fujitsu Interactive, Lucasfilm Games
+FECHA DE LANZAMIENTO: 1988-10-01
+NOTA DE USUARIOS (IGDB): 73/100 (40 votos)
+TAMBIÉN CONOCIDO COMO: scummvm.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2gje.jpg
+URL: https://www.igdb.com/games/zak-mckracken-and-the-alien-mindbenders
+
+RESUMEN:
+Zak McKracken is a tabloid reporter (and not a very good one at that). After having a psychedelic dream one day, Zak realizes that something is wrong -- space aliens are dumbifying the general public through the telephone system. Zak must stop this, but he can't do it alone. After finding a strange crystal, Zak manages to get the help of the anthropologist Annie and her friends, Melissa and Leslie. The four unlikely heroes must now figure out a way to destroy the dumbifying devices and save the Earth.
+
+Zak McKracken and the Alien Mindbenders is a third-person puzzle-solving adventure similar in gameplay to Lucasfilm's breakthrough title Maniac Mansion. The player chooses verb commands (Open, Pick Up, Give, etc.; there are no Look or Talk commands) to interact with the game world. The game features up to four controllable protagonists; it is possible to switch between them at any time after they have been introduced, and also exchange inventory items if the characters are in the same location. The game can be described as a "globe-trotting" adventure, since the heroes are required to travel to different exotic countries and even leave the Earth for a while in order to complete it. Some of the puzzles are optional or can be solved in different ways.
+
+The FM Towns version has VGA graphics with 256 colors and higher-quality music and sound effects.
+
+JUEGOS PARECIDOS:
+Si te gusta Zak McKracken and the Alien Mindbenders, también podrían gustarte: Maniac Mansion, Day of the Tentacle, The Dig, The Longest Journey, The Curse of Monkey Island, To the Moon, The Book of Unwritten Tales, Circle of Blood, Gabriel Knight: Sins of the Fathers, Thimbleweed Park.

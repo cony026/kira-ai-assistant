@@ -1,0 +1,117 @@
+JUEGO: Hearts of Iron IV
+PLATAFORMA: PC (Steam)
+GÉNEROS: Simuladores, Estrategia
+DESARROLLADOR: Paradox Development Studio
+PUBLISHER: Paradox Interactive
+FECHA DE LANZAMIENTO: 6 JUN 2016
+PRECIO: $49.99
+NOTA METACRITIC: 83/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (375246 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+¡Tenemos la victoria al alcance de la mano! Tu capacidad para liderar tu nación es tu arma principal. En el juego de estrategia Hearts of Iron IV podrás ponerte el mando de cualquier nación de la II Guerra Mundial, el conflicto más fascinante de la historia mundial.
+
+DESCRIPCIÓN DETALLADA:
+Toma el mando de las máquinas de guerra más grandiosas de la historia en Hearts of Iron IV, un ambicioso juego de estrategia bélica que pondrá a prueba tu capacidad táctica e intuición política. Rememora la Segunda Guerra Mundial al frente de una nación de la época, desarrolla tu poderío industrial y entabla alianzas diplomáticas para librar una guerra contra tus rivales ideológicos.Hearts of Iron IV es mucho más que un simulador histórico. La historia se ramificará con prácticamente cualquier decisión, desde la más sencilla (como lanzar un ataque contra la Fortaleza Europa), hasta las más complejas (como restablecer una democracia o una monarquía del pasado).En Hearts of Iron IV, podrás planear hasta el último detalle de tu estrategia militar mientras diseñas plantillas de divisiones para tus ejércitos, investigas nuevos modelos de producción (y de destrucción), estableces pautas industriales y persigues objetivos políticos. No dejes prácticamente nada al azar mientras guías a la nación que elijas por la época más oscura de la humanidad.Esta compra incluye el juego principal Hearts of Iron IV y cuatro paquetes de expansión:
+- Death or Dishonor: centrado en las potencias intermedias de Europa Central y del Este
+- Together for Victory: centrado en las naciones de la Mancomunidad Británica
+- Waking the Tiger: centrado en China y Japón
+- Man the Guns: centrado en las características navales y rutas alternativas en la historia de Estados Unidos.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows® 10 Home 64 Bit
+
+- Procesador: Intel® Core™ i5 750 | AMD® FX 4300
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: Nvidia® GeForce™ GTX 470 (1.28GB) | AMD® HD 5850 (1GB) | Intel Iris Xe G7 (Tiger Lake) | AMD® Radeon™ RX Vega 11
+
+- DirectX: Versión 9.0c
+
+- Almacenamiento: 2 GB de espacio disponible
+
+- Tarjeta de sonido: Direct X- compatible soundcard.
+
+- Notas adicionales: Mouse and keyboard are required. / Latest available WHQL drivers from both manufacturers/  Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows® 10 Home 64 bit
+
+- Procesador: Intel® Core™ i5 2500K | AMD® Ryzen 3 2200G
+
+- Memoria: 6 GB de RAM
+
+- Gráficos: Nvidia® GeForce™ GTX 570 (1.28GB) | AMD® Radeon™ HD 7970 (3GB) | Intel Iris Xe G7 (Tiger Lake)
+
+- DirectX: Versión 9.0c
+
+- Almacenamiento: 2 GB de espacio disponible
+
+- Tarjeta de sonido: Direct X- compatible soundcard.
+
+- Notas adicionales: Mouse and keyboard are required. / Latest available WHQL drivers from both manufacturers. / Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: OS: macOS 13 (Ventura)
+
+- Procesador: Intel Core i5 @ 2.60 GHz or better
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: ATI Radeon HD 6970M
+
+- Almacenamiento: 2 GB de espacio disponible
+
+- Notas adicionales: Mouse and keyboard are required. / Latest available proprietary drivers /  Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode.
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: OS: macOS 13 (Ventura)
+
+- Procesador: Intel Core i5 @ 2.90 GHz or better
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: ATI Radeon R9 390M or NVIDIA GeForce 750M with 1GB VRAM
+
+- Almacenamiento: 2 GB de espacio disponible
+
+- Notas adicionales: Mouse and keyboard are required. / Latest available proprietary drivers from both manufacturers/  Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode.
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- SO: OS: Ubuntu 22.04
+
+- Procesador: Intel Core 2 Quad Q9400 @ 2.66 GHz / AMD Athlon II X4 650 @ 3.20 GHz
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: ATI Radeon HD 5850 or NVIDIA GeForce GTX470 with 1GB VRAM / Latest available proprietary drivers from both manufacturers
+
+- Almacenamiento: 2 GB de espacio disponible
+
+- Notas adicionales: Controller support: 3-button mouse, keyboard, and speakers are required. / Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode.
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:
+
+- SO: OS: Ubuntu 22.04
+
+- Procesador: Intel Core i5 750 @ 2.66 GHz / AMD Phenom II X4 955 @ 3.20 GHz
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: ATI Radeon HD 6950 or NVIDIA GeForce GTX570 with 2GB VRAM / Latest available proprietary drivers from both manufacturers
+
+- Almacenamiento: 2 GB de espacio disponible
+
+- Notas adicionales: Controller support: 3-button mouse, keyboard, and speakers are required. / Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode.

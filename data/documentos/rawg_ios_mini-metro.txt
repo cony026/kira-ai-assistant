@@ -1,0 +1,17 @@
+JUEGO: Mini Metro
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Nintendo Switch, iOS, PC, macOS, Linux, PlayStation 4, Android
+FECHA DE LANZAMIENTO: 2015-11-05
+DESARROLLADOR: Playdigious, Radial Games, Dinosaur Polo Club
+PUBLISHER: AGM PLAYISM, Radial Games, Dinosaur Polo Club
+GÉNEROS: Strategy, Simulation, Indie, Puzzle
+NOTA METACRITIC: 77
+RATING USUARIOS: 4.09/5 (454 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Steam Cloud, steam-trading-cards, Great Soundtrack, 2D, Difficult, Steam Leaderboards, Building, Management, overlay, Relaxing, achievements, Minimalist, Touch-Friendly
+
+DESCRIPCIÓN:
+Mini Metro is an indie puzzle strategy game about building a rail transit network. You have to provide transport in continually growing cities by building stations, railways and disposing of trains. The number of passengers continually increases, and once any of the stations reaches its capacity limit, the game is over. With each in-game week, you get new trains and upgrades that allow you to upgrade stations capacity or give you additional tunnels, rail lines or train carriages.  
+Every level in Mini Metro is based on the real city. Some of them have their unique features like high-speed Shinkansen trains in the Tokyo level. The game is notable for its minimalistic art-style. Almost every element on the level is made of simple shapes and bold colors. The different shapes represent different stations and passenger’s destinations. This style was chosen so it can imitate the real-life railway mar schemes.

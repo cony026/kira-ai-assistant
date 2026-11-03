@@ -1,0 +1,27 @@
+JUEGO: GeoGuessr
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Web browser, Android, PC (Microsoft Windows), iOS
+GÉNEROS: Estrategia, Trivia
+TEMAS: Non-fiction, Educativo
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Battle Royale
+PERSPECTIVA: Primera persona
+DESARROLLADOR: GeoGuessr
+PUBLISHER: GeoGuessr
+FECHA DE LANZAMIENTO: 2013-05-09
+NOTA DE USUARIOS (IGDB): 77/100 (50 votos)
+TAMBIÉN CONOCIDO COMO: Geoguesser, Geoguessr: Let's Explore the World, Geoguessr: Explore the World
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cocsxl.jpg
+URL: https://www.igdb.com/games/geoguessr
+
+RESUMEN:
+A game of simulated world travel and geographical knowledge. Players must pinpoint their location on the map after being placed in a random Street View location.
+
+HISTORIA:
+Explore the world!
+Get dropped anywhere from the busy streets of New York to the beautiful beaches of Bali.
+Join 60 million players now!
+
+JUEGOS PARECIDOS:
+Si te gusta GeoGuessr, también podrían gustarte: Blood Strike, Lostgamer, Farming Simulator 19, Muck, One-Armed Robber, Redactle, Outbrk, Axis & Allies 1942 Online, Warhammer 40,000: Gladius - Relics of War, MudRunner.

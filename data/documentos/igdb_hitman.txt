@@ -1,0 +1,29 @@
+JUEGO: Hitman
+
+FUENTE: IGDB
+PLATAFORMA: Google Stadia, PlayStation 4, Linux, PC (Microsoft Windows)
+DISPONIBLE EN: Google Stadia, PlayStation 4, Linux, PC (Microsoft Windows), Mac, Xbox One
+GÉNEROS: Shooter, Táctico, Aventura
+TEMAS: Acción, Sigilo, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: IO Interactive
+PUBLISHER: Square Enix, IO Interactive
+FECHA DE LANZAMIENTO: 2016-03-11
+NOTA DE LA CRÍTICA (IGDB): 79/100 (29 críticas)
+NOTA DE USUARIOS (IGDB): 80/100 (572 votos)
+FRANQUICIA: Hitman
+TAMBIÉN CONOCIDO COMO: Hitman 6, HITMAN
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2fgr.jpg
+URL: https://www.igdb.com/games/hitman
+
+RESUMEN:
+Hitman is a stealth game and the sixth mainline entry in the Hitman franchise, serving as the first installment of the World of Assassination trilogy. Players control the genetically engineered assassin Agent 47 from a third-person perspective as he carries out contract killings across large, open-ended sandbox levels set in locations around the globe including Paris, Italy, Morocco, Bangkok, Colorado, and Japan. Each level presents numerous approaches to eliminating targets, from disguises and environmental manipulation to staged accidents and direct confrontation.
+
+The game features a classless system where players unlock new tools, starting locations, and gear by completing challenges. Originally released episodically, the game was later delisted from standalone sale in 2023 when IO Interactive consolidated the trilogy under a single package titled Hitman: World of Assassination.
+
+HISTORIA:
+In 1999, an unnamed man is recruited into the International Contract Agency and demonstrates exceptional skill as an assassin. His handler, Diana Burnwood, helps him pass a rigged final evaluation, and the man, now known simply as "47," begins his career as a contract killer. Twenty years later, 47 carries out a series of high-profile assassinations that initially appear unrelated. Diana gradually discovers that an unknown figure called the "Shadow Client" has been covertly orchestrating these contracts to strike at Providence, a secretive organization with hidden influence over global affairs. The Shadow Client uses the ICA and 47 as unwitting instruments, concealing his own involvement while making the agency appear responsible for the attacks on Providence's operatives.
+
+JUEGOS PARECIDOS:
+Si te gusta Hitman, también podrían gustarte: Hitman: Absolution, Hitman 3, Hitman 2, Sniper Elite 4, Tom Clancy's Ghost Recon: Wildlands, Mafia III, Horizon Zero Dawn, Assassin's Creed Origins, Tom Clancy's Ghost Recon: Breakpoint, Life is Strange: Before the Storm.

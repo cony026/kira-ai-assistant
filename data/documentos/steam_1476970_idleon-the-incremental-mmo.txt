@@ -1,0 +1,35 @@
+JUEGO: IdleOn - The Idle RPG
+PLATAFORMA: PC (Steam)
+GÉNEROS: Aventura, Casual, Indie, Multijugador masivo, Rol, Simuladores, Estrategia, Free to Play
+DESARROLLADOR: Lavaflame2
+PUBLISHER: Lavaflame2
+FECHA DE LANZAMIENTO: 6 NOV 2025
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (29577 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+The incremental idle MMO where your heroes keep fighting while you're gone! Spend their loot on upgrades, unlock classes from Elemental-Wizard to Cannon-Pirate, and level 20 unique skills like Farming, Sailing, and Construction!
+
+DESCRIPCIÓN DETALLADA:
+The power fantasy of an MMO, with the automation of an incremental gameMake progress actively by buying upgrades, optimizing skill-tree builds, min-maxing your stats, and defeating bosses! Load up IdleOn the next day, spend your AFK gains earned while you were away, and buy MORE upgrades!Create 11 unique Classes, from Divine Knight to Bubonic ConjurorIdleOn lets you create 11 characters, so you'll have one of each class - each one plays a unique role in your account! Just don't forget about the secret class-line, including a secret Subclass, secret Elite-class, and secret Mastercl... I've already said too much...Unique gameplay with non-fighting mechanicsYou'll do more than just fight - in your quest toward the endgame, you'll need to attain full mastery over skills like Cooking, Woodcutting, Alchemy, Construction, and MUCH more!Join the biggest incremental community in gaming - 200,000+ membersDeveloper posts, giveaways, and game discussions await you in IdleOn's Discord server!Free-to-Play note: IdleOn is free to play, and all classes, maps, skills, bosses, and activities are available without purchase. There is no paid DLC or exclusive gameplay content locked behind a paywall.Optional in-game purchases are available, including helpful boosts and collectible pets, but they are not required to explore the world, unlock classes, or play through IdleOn’s core systems.
+
+IdleOn is a long-term idler game, made for those seeking out a multi-year long experience!
+
+Looking for a short, premium idler game instead? My new game Fortune Mill is what you want :D
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO *: Windows 7+
+
+- Procesador: An Intel Pentium 4 processor or later that's SSE3 capable
+
+- Memoria: 2 GB de RAM
+
+- Gráficos: Hardware Accelerated Graphics with dedicated memory
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 1 GB de espacio disponible
+
+- Tarjeta de sonido: Anything capable of producing sound.

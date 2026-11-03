@@ -1,0 +1,56 @@
+JUEGO: Zenless Zone Zero
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Rol, Free to Play
+DESARROLLADOR: COGNOSPHERE PTE. LTD.
+PUBLISHER: COGNOSPHERE PTE. LTD.
+FECHA DE LANZAMIENTO: 16 JUN 2026
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Very Positive (14685 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Zenless Zone Zero es el nuevo ARPG de fantasía urbana de HoYoverse. Los jugadores asumen el papel de proxies y, junto a agentes únicos, exploran las Cavidades, luchan contra enemigos, completan encargos y desvelan los secretos de Nueva Eridu.
+
+DESCRIPCIÓN DETALLADA:
+En el fin del mundo, ¡Nueva Eridu te da la bienvenida!Zenless Zone Zero es un nuevo juego de RPG de acción y fantasía urbana desarrollado por HoYoverse.En el juego, unas catástrofes llamadas «Cavidades» han destruído la civilización moderna. Las Cavidades aparecen de la nada y dan origen a espacios anómalos repletos de aterradoras criaturas llamadas «seres etéreos».En medio de este cataclismo, Nueva Eridu, la última metrópolis en pie, se ha alzado contra todo pronóstico entre el desastre. Esta ciudad aprovecha la tecnología y los recursos necesarios para hacer frente a la catástrofe de las Cavidades y ha superado innumerables adversidades hasta convertirse poco a poco en el último bastión de la civilización humana.En Nueva Eridu, asumirás el papel de un proxy, un profesional que guía a quienes necesitan adentrarse en las peligrosas Cavidades por distintos motivos. Emprenderás una aventura con personajes únicos, explorarán juntos las Cavidades, lucharán contra poderosos enemigos, completarán encargos y descubrirán los secretos que esconde la ciudad.Un combate trepidante que enciende tu pasión por la acciónEl combate en Zenless Zone Zero es fluido y emocionante. Lanza ofensivas con ataques normales y técnicas especiales, contrarresta a los enemigos con evasiones y bloqueos y luego encadena combos espectaculares con técnicas en cadena para acabar con tus enemigos. Cada enemigo tiene sus propias características y puntos débiles, por lo que aprovechar el momento oportuno para reaccionar con precisión es la clave para dominar el campo de batalla.Gráficos vanguardistas para una experiencia audiovisual de primer nivelEl estilo artístico y el diseño gráfico de Zenless Zone Zero son únicos. Los personajes cuentan con expresiones extremadamente detalladas y movimientos fluidos y vívidos. Tanto los combates como las secuencias argumentales están llenos de tensión, y la música tiene un ritmo distintivo y bien marcado que ofrece una experiencia audiovisual impactante.Narrativa inmersiva que da vida a la leyenda proxyEn este mundo plagado de desastres, ha surgido una ciudad única: Nueva Eridu. Este último oasis ha dominado la tecnología para coexistir con las Cavidades y está repleto de facciones caóticas, ruidosas y peligrosas, pero llenas de vitalidad. Como figura clave que conecta las Cavidades con la ciudad, la historia del legendario proxy Faetón se irá descubriendo poco a poco.Explora nuevas áreas y recorre las Cavidades de la ciudadCada barrio de la ciudad tiene su propio encanto, mientras que en las peligrosas Cavidades se esconden desafíos. Acepta encargos, adéntrate en la acción y alterna libremente entre la ciudad y los combates. Cada recorrido es una aventura completamente nueva.Destinos entrelazados: encuentra todo tipo de aliadosRandom Play no puede quedarse sin cintas de video y un proxy no puede vivir sin agentes. En Nueva Eridu, siempre habrá visitantes inesperados. Los caminos del destino se cruzan aquí, donde personajes con estilos únicos aparecen en escena uno tras otro para tejer juntos la increíble historia que se esconde bajo la tranquila superficie de la ciudad.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Win10 64-bit
+
+- Procesador: i5 Intel Core (7th Gen)
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: GeForce GTX970
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 75 GB de espacio disponible
+
+- Tarjeta de sonido: Windows Compatible Audio Device
+
+- Notas adicionales: HDD Supported, SSD Recommended
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Win10 64-bit
+
+- Procesador: i7 Intel Core (10th Gen)
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: GeForce GTX1660
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 75 GB de espacio disponible
+
+- Tarjeta de sonido: Windows Compatible Audio Device
+
+- Notas adicionales: HDD Supported, SSD Recommended

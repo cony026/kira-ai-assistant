@@ -1,0 +1,24 @@
+JUEGO: Prison Architect
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Xbox One
+DISPONIBLE EN: Xbox One, PC, macOS, Linux, Nintendo Switch, PlayStation 4
+FECHA DE LANZAMIENTO: 2015-10-05
+DESARROLLADOR: Double Eleven, Introversion Software
+PUBLISHER: Introversion Software
+GÉNEROS: Strategy, Simulation, Indie
+NOTA METACRITIC: 83
+RATING USUARIOS: 3.72/5 (589 votos)
+TIEMPO DE JUEGO MEDIO: 5 horas
+TAGS: Singleplayer, Steam Achievements, Steam Cloud, steam-trading-cards, 2D, Funny, Sandbox, Comedy, Steam Workshop, Includes level editor, Moddable, Replay Value, Building, RTS, Top-Down
+
+DESCRIPCIÓN:
+Prison Architect is a person construction and management simulator developed by Introversion Software.
+
+It is a two-dimensional top-down simulator where it is the player's responsibility to build new prison blocks, cells, facilities, manage the staff such as wardens, guards and so on. The more staff hired - the more options does the player have while building the prison.
+
+It is advised to complete the game's campaign first which also serves as a tutorial and consists of 5 parts. Each part of the campaign focuses on two game aspects and has its' own story told with Polaroid photos. The player can't lose the game in campaign mode as there are no failure conditions whatsoever.
+
+Two more modes are present: Sandbox Mode and Escape Mode. There is no main goal in Sandbox Mode, so you basically can't win the game, but there are several failure conditions such as a riot or bankruptcy.
+
+Escape Mode, on the other hand, has both winning and losing conditions. In this mode, you play as a prisoner making their escape causing the most destruction on your way out. Escape Mode starts automatically if you allow too many deaths in a short period of time in Sandbox Mode.

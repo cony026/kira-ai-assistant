@@ -1,0 +1,23 @@
+JUEGO: Hero Siege
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Linux, Android, PC (Microsoft Windows), iOS, PlayStation 5, Mac
+GÉNEROS: RPG, Hack and slash, Aventura, Indie
+TEMAS: Acción, Fantasía, Histórico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, MMO
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Panic Art Studios
+PUBLISHER: Panic Art Studios
+FECHA DE LANZAMIENTO: 2014-01-29
+NOTA DE LA CRÍTICA (IGDB): 80/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 73/100 (45 votos)
+TAMBIÉN CONOCIDO COMO: start_protected_game.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3jtb.jpg
+URL: https://www.igdb.com/games/hero-siege
+
+RESUMEN:
+Hero Siege is a Hack 'n' Slash game with roguelike- & RPG elements. Annihilate hordes of enemies, grow your talent tree, grind better loot and explore up to 7 Acts enhanced with beautiful Pixel Art graphics! This game offers countless hours of gameplay and up to 4 player online multiplayer!
+
+JUEGOS PARECIDOS:
+Si te gusta Hero Siege, también podrían gustarte: Hammerwatch II, Ravenswatch, Drova: Forsaken Kin, Crystal of Atlan, Path of Exile 2, In Celebration of Violence, The Seven Deadly Sins: Origin, Nobody Saves the World, Torchlight II, Heroes of Loot.

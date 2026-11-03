@@ -1,0 +1,24 @@
+JUEGO: SimCity
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Simulación, Estrategia
+TEMAS: Gestión, Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Maxis, Maxis Emeryville
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 2013-03-05
+NOTA DE LA CRÍTICA (IGDB): 60/100 (13 críticas)
+NOTA DE USUARIOS (IGDB): 71/100 (159 votos)
+FRANQUICIA: Sim, SimCity
+TAMBIÉN CONOCIDO COMO: SimCity 5, SimCity V, Sim City, The SimCity
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1y6x.jpg
+URL: https://www.igdb.com/games/simcity--1
+
+RESUMEN:
+This is a new SimCity that delivers unprecedented depth of simulation. The model-like world and detail of the simulation make this the most responsive and personal SimCity ever. This is also the most expansive city management game yet where you can control a region that delivers true multi-city scale and play a single city or up to 16 cities at once each with different specializations. Multiplayer is also a first for the series, which adds a new dimension to your game as your decisions impact both your city and your region and creates new ways to play by collaborating or competing to earn achievements.
+
+JUEGOS PARECIDOS:
+Si te gusta SimCity, también podrían gustarte: SimCity 4, Workers & Resources: Soviet Republic, TheoTown, SimCity BuildIt, RollerCoaster Tycoon, Chris Sawyer's Locomotion, Software Inc., SimCity 2000, Transport Fever 2, Clanfolk.

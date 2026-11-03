@@ -1,0 +1,23 @@
+JUEGO: Mini Metro
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: PlayStation 4, Linux, Android, PC (Microsoft Windows), iOS, Mac, Nintendo Switch
+GÉNEROS: Puzle, Simulación, Estrategia, Indie, Arcade
+TEMAS: Gestión, Sandbox, Educativo
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Dinosaur Polo Club, Radial Games
+PUBLISHER: Playdigious, Dinosaur Polo Club, Radial Games, PLAYISM
+FECHA DE LANZAMIENTO: 2015-10-22
+NOTA DE LA CRÍTICA (IGDB): 100/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 77/100 (137 votos)
+TAMBIÉN CONOCIDO COMO: MiniMetro.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2561.jpg
+URL: https://www.igdb.com/games/mini-metro
+
+RESUMEN:
+Mini Metro is a strategy simulation game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?
+
+JUEGOS PARECIDOS:
+Si te gusta Mini Metro, también podrían gustarte: Project Highrise, Little Big Workshop, Big Pharma, Minami Lane, 911 Operator, Two Point Campus, Patrick's Parabox, Awe, SimCity 2000, Kill the Bad Guy.

@@ -1,0 +1,28 @@
+JUEGO: Rez
+
+FUENTE: IGDB
+PLATAFORMA: Dreamcast, PlayStation 2
+DISPONIBLE EN: Dreamcast, PlayStation 2
+GÉNEROS: Shooter, Música
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: United Game Artists
+PUBLISHER: Sega
+FECHA DE LANZAMIENTO: 2001-11-22
+NOTA DE LA CRÍTICA (IGDB): 88/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 86/100 (42 votos)
+TAMBIÉN CONOCIDO COMO: K-Project, Project Eden, Vibes, The Sound Project
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cobyl9.jpg
+URL: https://www.igdb.com/games/rez
+
+RESUMEN:
+A rail shooter with a heavy emphasis on audiovisual elements in which a hacker attempts to breach an AI integral for the continuation of the human race to prevent it from shutting down due to information overload.
+
+HISTORIA:
+The world of Rez is set in the near future on a massively overpopulated Earth with society crippled by crime rates, and on the verge of meltdown. In an attempt to resolve the chaos, a new global network was created: Project-K, overseen by a self-aware artificial intelligence named Eden. However, the increasing information flow and infection by a virus (the main character) confused Eden, allowing her to begin questioning the meaning of its existence and the consequences of her actions. Trying to fathom the paradoxes that surrounded her and realizing the power she possessed, she shut herself down.
+
+The player character and protagonist is a hacker virus unofficially named Swayzak, traversing the Project-K network on a mission to re-awaken Eden and to reveal the true being at her core by progressing deeper through the system, and destroying the other viruses, anti-viruses, security programs, defense systems, and firewalls within.
+
+JUEGOS PARECIDOS:
+Si te gusta Rez, también podrían gustarte: Rex Hard, Child of Eden, Symphony, Geometry Wars: Retro Evolved 2, The Polynomial, Everyday Shooter, Geometry Wars: Galaxies, Sin & Punishment: Star Successor, Lumines II, Space Invaders Extreme.

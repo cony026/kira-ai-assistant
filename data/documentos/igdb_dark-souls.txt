@@ -1,0 +1,47 @@
+JUEGO: Dark Souls
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, PlayStation 4, PC (Microsoft Windows), Xbox 360
+DISPONIBLE EN: PlayStation 3, PlayStation 4, PC (Microsoft Windows), Xbox 360, Xbox One, Nintendo Switch
+GÉNEROS: RPG, Aventura
+TEMAS: Acción, Fantasía
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: FromSoftware
+PUBLISHER: Bandai Namco Entertainment, Namco Bandai Games, Bandai
+FECHA DE LANZAMIENTO: 2011-09-22
+NOTA DE LA CRÍTICA (IGDB): 91/100 (8 críticas)
+NOTA DE USUARIOS (IGDB): 87/100 (1731 votos)
+FRANQUICIA: Dark Souls
+TAMBIÉN CONOCIDO COMO: Project Dark, 黑暗之魂, 다크 소울
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1x78.jpg
+URL: https://www.igdb.com/games/dark-souls
+
+RESUMEN:
+Dark Souls is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in September 2011 as a spiritual sequel to Demon's Souls, it is set in a dark, medieval fantasy world. It is renowned for its challenging gameplay, intricate level design, and deep lore. Players control a customizable character known as the Chosen Undead, embarking on a perilous journey to uncover the secrets of the cursed land of Lordran.
+
+Dark Souls is known for its punishing difficulty, requiring players to carefully manage combat, stamina, and resources while navigating hostile environments filled with dangerous enemies and formidable bosses. The game features a unique multiplayer component, allowing players to leave messages for others, summon allies for cooperative play, or invade other players' worlds for PvP combat.
+
+The original release of Dark Souls received critical acclaim for its atmospheric world, innovative mechanics, and rewarding gameplay, solidifying its place as a seminal title in the action RPG genre.
+
+HISTORIA:
+Dark Souls takes place in the dark, decaying kingdom of Lordran, a world in decline where gods, humans, and other mystical beings struggle with the inevitability of age, fire, and darkness. The player assumes the role of an Undead, a cursed being who is fated to resurrect repeatedly after death. The Undead is prophesied to either link the fire and prolong the Age of Fire or let it fade, ushering in the Age of Dark.
+
+The game begins with the player imprisoned in the Northern Undead Asylum. Escaping sets the stage for a journey across Lordran, from crumbling castles and ancient ruins to twisted forests and treacherous catacombs. Along the way, the player encounters remnants of once-great heroes, malevolent creatures, and godlike beings, each guarding vital keys, souls, or knowledge necessary to progress.
+
+Central to the story are the Four Lords of Cinder: powerful beings who previously linked the First Flame and have now abandoned their thrones. They include:
+
+Gwyn, Lord of Sunlight, whose fate is intertwined with the First Flame.
+
+Nito, the First of the Dead, a skeletal lord shrouded in deathly mists.
+
+The Witch of Izalith, whose attempts to recreate the First Flame led to catastrophic consequences.
+
+Seath the Scaleless, a dragon obsessed with immortality and forbidden knowledge.
+
+As the Undead, the player collects the Lord Souls, defeats these Lords, and reaches the Kiln of the First Flame, confronting Gwyn’s remnant. The climax offers a choice: to link the fire, continuing the Age of Fire, or let it fade, allowing the Age of Dark to begin—symbolizing the cyclical struggle between light and dark, life and decay, in Lordran.
+
+The narrative is deliberately ambiguous and cryptic, conveyed mostly through environmental storytelling, item descriptions, and subtle NPC dialogue. Themes of despair, perseverance, and the cyclical nature of history permeate the journey, creating a haunting and immersive experience that rewards careful observation and exploration.
+
+JUEGOS PARECIDOS:
+Si te gusta Dark Souls, también podrían gustarte: Elden Ring, Dark Souls II, Demon's Souls, Bloodborne, Dark Souls III, Gears of War, The Lord of the Rings: War in the North, Fable III, Far Cry 3, Dead Space 2.

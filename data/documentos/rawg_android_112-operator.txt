@@ -1,0 +1,25 @@
+JUEGO: 112 Operator
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, iOS, PC, macOS
+FECHA DE LANZAMIENTO: 2020-10-08
+DESARROLLADOR: Jutsu Games, Games Operators
+PUBLISHER: PlayWay, Games Operators
+GÉNEROS: Strategy, Simulation, Indie
+RATING USUARIOS: 3.66/5 (56 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Steam Cloud, Atmospheric, 2D, Tactical, Captions available, Choices Matter, 3D, Realistic, Crime, Management, Procedural Generation, Resource Management, Education
+
+DESCRIPCIÓN:
+112 Operator allows you to manage emergency services in any city in the world! Dispatch units, take calls and face situations caused by weather, traffic or changing seasons. Help the city survive escalating events like riots, organized crime, terrorist attacks, cataclysms, natural disasters and many more!Danger has escalatedHelp on a scale bigger than ever before. The sequel of the award-winning 911 Operator lets you act on many, completely different levels - from taking care of a single neighborhood, to coordinating several operators’ work in the world’s biggest metropolises. Full 3D visualisation will give you the inside view of your units’ actions. Choose from over 100 000 areas, such as districts, municipalities, and tens of thousands of real cities from all over the world.To all units: a storm is coming…Face the dynamic weather, based on authentic, historical data. Watch the incidents change as day or night comes, traffic increases and seasons pass. Watch out for extreme conditions that may lead to cataclysms and natural disasters. Try to tame big wildfires spreading across the map. Weather isn’t your only problem though - be careful when dealing with terrorist attacks and gang wars.112, what’s your emergency?Take calls from people in various situations, needing the emergency services’ help. You never know who’s on the other side of the line - you might hear a frightening murder story, maybe you’ll have to instruct someone on performing CPR, or keep your nerves while encountering an annoying prankster.It’s my job, ma’am...Choose one of the European cities in completely new Career mode and find out if you’ll manage to climb up to the very top of an operator’s career ladder. Follow the commands of your supervisors and see your actions affecting people you’re in charge of or those who need your help. Sometimes your mistakes will only be followed by a reprimanding e-mail, sometimes they’ll influence your own life.
+You can also play special scenarios in any city in the world, or make your own rules in the Free Game mode.We need backup!Command the best specialists, using technologically advanced equipment and vehicles. Decide what to use - a SWAT team, Search and Rescue helicopter, or maybe riot gear? When your units arrive at the scene, command them in the tactical view that gives you the full image of the situation.NEW FEATURES IN 112 OPERATOR:25 times bigger, expandable maps of REAL CITIES with 3D buildings
+entirely new set of emergency calls and large events
+completely redesigned campaign mode, with objectives system, emails and a story
+day&night, weather, seasons and traffic now influences the duty and the incidents happening
+new fire mechanic, that can consume entire areas and require dozens of units
+region specification - gameplay will vary depending on a country legislation and district characteristics (slums / business / residential /industrial / forest etc)
+new OnSite situation visualization that shows the action precisely and intuitively
+new team members - doctors, sergeants, dogs, robots and others!
+additional dispatchers, that you can assign to districts for help!
+redesigned equipment, now packed up in entire gears

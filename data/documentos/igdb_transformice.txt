@@ -1,0 +1,27 @@
+JUEGO: Transformice
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Web browser, Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Plataformas, Puzle, Estrategia, Aventura, Indie
+TEMAS: Comedia, Party
+MODOS DE JUEGO: Multijugador, Cooperativo, MMO
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Atelier 801
+PUBLISHER: Atelier 801
+FECHA DE LANZAMIENTO: 2010-05-01
+NOTA DE USUARIOS (IGDB): 69/100 (42 votos)
+TAMBIÉN CONOCIDO COMO: TFM, Transformice.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1tn5.jpg
+URL: https://www.igdb.com/games/transformice
+
+RESUMEN:
+Transformice is a multiplayer game, where you are a small mouse out to get a cheese and bring the cheese back to the hole.
+The game includes a physics engine, so interactions between players are realistic.
+Each round lasts 2 minutes max, and in order to help the 20 or so mice-players to get the cheese, a player will be chosen to be the powerful shaman and will be able to spawn different objects to guide the mice.
+
+HISTORIA:
+N/A
+
+JUEGOS PARECIDOS:
+Si te gusta Transformice, también podrían gustarte: Ibb & Obb, Airships: Conquer the Skies, Fireboy & Watergirl in the Forest Temple, The Jackbox Party Pack 3, Death Squared, Struggling, Spoiler Alert, Puzzle Pirates, Gentlemen!, Bokura.

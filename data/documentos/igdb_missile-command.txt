@@ -1,0 +1,22 @@
+JUEGO: Missile Command
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Commodore C64/128/MAX, Atari ST/STE
+DISPONIBLE EN: Arcade, Commodore C64/128/MAX, Atari ST/STE
+GÉNEROS: Shooter, Arcade
+TEMAS: Acción, Ciencia ficción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Atari
+PUBLISHER: Sega, Taito, Atari Corporation, Atari
+FECHA DE LANZAMIENTO: 1980-07-01
+NOTA DE LA CRÍTICA (IGDB): 77/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 72/100 (49 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3gau.jpg
+URL: https://www.igdb.com/games/missile-command
+
+RESUMEN:
+As a regional commander of three anti-missile batteries, the player must defend six cities in their zone from being destroyed. The player's six cities are being attacked by an endless hail of ballistic missiles, some of them even splitting like multiple independently targetable reentry vehicles (MIRVs). New weapons are introduced in later levels: smart bombs that can evade a less than perfectly targeted missile, and bomber planes and satellites that fly across the screen and launch missiles of their own.
+
+JUEGOS PARECIDOS:
+Si te gusta Missile Command, también podrían gustarte: Jetpac, Gradius, Beach-Head, Atlantis, Far Cry, Centipede, Matterfall, Sinistar, ZeroRanger, Thunder Cross.

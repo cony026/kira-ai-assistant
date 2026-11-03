@@ -1,0 +1,20 @@
+JUEGO: Flower
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: PlayStation 4, PlayStation 3, iOS, PC, PS Vita
+FECHA DE LANZAMIENTO: 2009-02-12
+DESARROLLADOR: Sony Interactive Entertainment, Annapurna Interactive, thatgamecompany, SCE Santa Monica
+PUBLISHER: Sony Computer Entertainment, Annapurna Interactive
+GÉNEROS: Adventure, Arcade, Casual, Family
+NOTA METACRITIC: 89
+RATING USUARIOS: 3.97/5 (566 votos)
+TIEMPO DE JUEGO MEDIO: 2 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, Exploration, nature, Flight
+
+DESCRIPCIÓN:
+Flower is a puzzle game developed by thatgamecompany. It is a spiritual successor to thatgamecompany's Flow.
+
+The players control the wind that picks up flower petals. You begin having only one flower petal in the air and your goal is to collect more and more petals as you go. Flying close to different flowers will get you more petals. The game's world is highly interactive as sometimes when you get more flower petals, world side-effects could occur. For example, dead flower fields can come back to life again, blossoming with vibrant colors or a windmill can begin to turn with the wind. There are no text or dialogues in the game. The developers put a strong emphasis on that Flower was not supposed to be a challenging game. The focus was that the game should arouse positive emotions using visual representation, music, and emotional clues.
+
+There are six levels in Flower. Each level begins with a flower in a pot by the window of the flat in some unnamed city. There are no enemies and time limits in the game. It is impossible for the player to lose.

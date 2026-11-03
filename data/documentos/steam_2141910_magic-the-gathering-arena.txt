@@ -1,0 +1,53 @@
+JUEGO: Magic: The Gathering Arena
+PLATAFORMA: PC (Steam)
+GÉNEROS: Estrategia, Free to Play
+DESARROLLADOR: Wizards of the Coast
+PUBLISHER: Wizards of the Coast
+FECHA DE LANZAMIENTO: 23 MAY 2023
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Mixed (31126 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Magic: The Gathering Arena te permite descubrir estrategias, conocer a los planeswalkers, explorar el Multiverso y enfrentarte a amigos de todo el mundo. Empieza a jugar gratis, desafía a tus amigos, consigue cartas y experimenta la magia del juego de cartas coleccionables de fantasía original.
+
+DESCRIPCIÓN DETALLADA:
+¡Te damos la bienvenida al Multiverso digital! Magic: The Gathering es el juego de cartas intercambiables original, que ahora puedes descargar y al que puedes jugar gratis con amigos desde cualquier parte.Magic: The Gathering Arena te permite descubrir estrategias, conocer a los planeswalkers, explorar el Multiverso y enfrentarte a amigos de todo el mundo. Colecciona, crea y domina mazos únicos que se convertirán en leyenda. El combate es solo el principio; juega en campos de batalla asombrosos y disfruta de los alucinantes efectos de batalla de Arena, que te sumergirán en la partida. Empieza a jugar gratis, desafía a tus amigos, consigue cartas y experimenta la magia del juego de cartas coleccionables de fantasía original.NO SE NECESITA EXPERIENCIA¿Nunca jugaste a Magic? ¡No te preocupes! El sistema de tutoriales de Magic: The Gathering Arena te enseñará los distintos estilos de juego para que puedas encontrar tu estrategia y decidir si prefieres abrumar a tu oponente con potencia bruta, si te inclinas más por el subterfugio o si te va más algo entre medias. Conoce a personajes de todo el Multiverso y prueba hechizos y artefactos con los que aprender a jugar al juego de cartas coleccionables de fantasía original será rápido y divertido. ¡Nunca fue más fácil jugar a Magic! Colecciona cartas para construir un mazo que pegue con tu personalidad y domina tu estrategia para enfrentarte a amigos y formar parte del juego de cartas intercambiables que lo empezó todo.¡A JUGAR EN LÍNEA!Ahora el juego de cartas intercambiables original es digital. Explora los mundos de fantasía de Magic: The Gathering Arena y crea tu mazo, juega a multitud de formatos de juego para coleccionar cartas, domina varias estrategias y perfecciona tus habilidades contra amigos o la IA. Hay distintos formatos de juego, como Draft y Brawl, 15 mazos coleccionables que puedes desbloquear y efectos de combinaciones de cartas explosivos. Tienes tu estilo de juego de Magic: The Gathering ideal en la palma de tu mano. Muestra tu estilo y asombra a todos con tus avatares, protectores de cartas y mascotas, y consigue recompensas diarias para ampliar tu colección y construir mazos poderosos en los que se vea representada tu estrategia personal.RETA Y JUEGADesafía a tus amigos en busca de gloria o participa en torneos dentro del juego para conseguir suculentos premios. Con el emparejamiento de Draft y Brawl, siempre tendrás gente con la que jugar. En los eventos especiales ofrecemos recompensas atractivas y, con las rondas clasificatorias de eSports, estarás más cerca que nunca de cumplir tu sueño de ser un profesional de Magic gracias a las ligas de juego premier de Arena. Participa en juegos casuales para perfeccionar tu estrategia a tu propio ritmo o lánzate a las rondas clasificatorias de eSports y a los frecuentes torneos para demostrar tus conocimientos.FANTASÍA Y MAGIASumérgete en los planos de fantasía de Magic: The Gathering y escribe tu propia epopeya con la increíble historia de Magic y las llamativas ilustraciones de sus cartas. Descubre tu destino en el Multiverso y usa solo a tus personajes favoritos y sus hechizos y artefactos más icónicos, o crea un mazo temático con una narrativa que solo tenga sentido para ti. Tu historia es solo el comienzo.Todos los precios incluyen impuestos locales.Wizards of the Coast, Magic: The Gathering, Magic: The Gathering Arena, sus respectivos logotipos, Magic, los símbolos de maná, el símbolo de Planeswalker y todos los nombres y el aspecto distintivo de los personajes son propiedad de Wizards of the Coast. ©2019-2026 Wizards.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO *: Windows 7
+
+- Procesador: AMD Athlon 64 X2 Dual Core 5600+ o equivalente
+
+- Memoria: 2 GB de RAM
+
+- Gráficos: GeForce GTX 8800 o equivalente
+
+- Red: Conexión de banda ancha a Internet
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10
+
+- Procesador: Intel Core2 Quad Q9300 @ 2.50GHz
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: GeForce GTX 560
+
+- Red: Conexión de banda ancha a Internet
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: macOS 10.12 (Sierra)
+
+- Procesador: 2.6 GHz Core i5 (I5-4278U)
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: HD Graphics 5000
+
+- Red: Conexión de banda ancha a Internet

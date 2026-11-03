@@ -1,0 +1,35 @@
+JUEGO: Star Wars: Republic Commando
+
+FUENTE: IGDB
+PLATAFORMA: Xbox, PlayStation 4, PC (Microsoft Windows), PlayStation 5
+DISPONIBLE EN: Xbox, PlayStation 4, PC (Microsoft Windows), PlayStation 5, Nintendo Switch
+GÉNEROS: Shooter, Táctico, Aventura
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: LucasArts
+PUBLISHER: Activision, LucasArts, Electronic Arts, Aspyr Media
+FECHA DE LANZAMIENTO: 2005-02-17
+NOTA DE LA CRÍTICA (IGDB): 81/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (263 votos)
+FRANQUICIA: Star Wars
+TAMBIÉN CONOCIDO COMO: SW: RC, 星球大战：共和国突击队, SW: Republic Commando, Republic Commando, Star Wars Republic Commando
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2au4.jpg
+URL: https://www.igdb.com/games/star-wars-republic-commando
+
+RESUMEN:
+Chaos has erupted throughout the galaxy. As a leader of an elite squad of Republic Commandos, your mission is to infiltrate, dominate, and ultimately, annihalate the enemy. Your squad will follow your orders and your lead, working together as a team-instinctively, intelligently, instantly. You are their leader. They are your weapon.
+
+Star Wars: Republic Commando is a tactical first-person shooter video game, set in the Star Wars universe. It was developed by LucasArts using the Unreal Engine, and published for the Xbox and Microsoft Windows in 2005. The game features both single-player and multiplayer game modes. In the story, set in the Star Wars Legends expanded universe, players assume the role of RC-1138 ("Boss"), an elite clone trooper, known as "clone commando", and the leader of the special ops unit Delta Squad, consisting of three fellow clone commandos with distinctive personalities and character traits: RC-1262 ("Scorch"), RC-1140 ("Fixer"), and RC-1207 ("Sev"). The story follows Delta Squad as they complete increasingly difficult missions throughout the Clone Wars and learn to bond as a team.
+
+Republic Commando received generally favorable reviews at release. Many critics praised the story and combat, but criticized the short length and average multiplayer. In the years since its release, it has come to be considered one of the best Star Wars games ever made, and has gained a cult following.
+
+An enhanced port of the game by Aspyr is set to release for the Nintendo Switch and PlayStation 4 on April 6, 2021. As reported by Jordan Ramée of GameSpot, "Handled by Aspyr Media, Star Wars: Republic Commando Remastered brings the original 2005 Xbox and PC game to PS4 and Switch with enhanced HD graphics and modernized controls, though the multiplayer is absent. Otherwise, it's the same game. And though the flaws in its gameplay are only more noticeable now 16 years later, this remaster manages to still deliver a compelling story of four specialized commandos engaging in a variety of combat missions across the Clone Wars.".
+
+HISTORIA:
+Following a montage that briefly details Delta Squad's creation, early life, and training at the cloning facilities on Kamino, the game begins with the team being deployed into the front lines of the Battle of Geonosis at the onset of the Clone Wars. There, team leader Delta-38 ("Boss", the player character) meets up with squad mates 62, 40, and 07 ("Scorch", "Fixer" and "Sev" respectively) as they are given their first assignment: to assassinate Sun Fac, chief lieutenant of Geonosian Archduke Poggle the Lesser, one of the members of the Separatist Council. Upon successful completion of their objective, Delta Squad sabotage the droid factory underneath Sun Fac's headquarters, disable an anti-aircraft bunker that is wreaking havoc on the Republic Army's air forces, and sneak onto a disabled Separatist Trade Federation Lucrehulk-class Core Ship to steal important launch codes to prevent the Separatist fleet from retreating; escaping moments before the ship is destroyed.
+
+A year into the war, the now-veteran Delta Squad is sent to investigate the derelict Acclamator-class Republic Assault Ship (RAS) Prosecutor, their former home before being deployed to active duty. Delta Squad splits up to investigate, quickly losing contact with command as they board the ship. Making their way inside, the squad find the Prosecutor seemingly abandoned and in disrepair. The squad lose contact with Scorch after he reports electrical interference with his visor and Boss is soon ambushed by scavenger droids. Boss makes his way to one of the ship's data cores to reunite with Sev, but he is suddenly attacked and captured by a Trandoshan who is part of a large crew of slavers and mercenaries who’ve taken over the ship. Having evaded capture, Boss and Fixer meet up but are soon attacked by battle droids deployed by the Trandoshans. After rescuing their captive squad members, Delta Squad takes back the ship’s bridge and destroy a jamming device which reestablishes communication with command. It becomes clear that the Trandoshans intend to sell the vessel to the Separatists in exchange for battle droid dispensers. Making their way down to the hangars, Delta Squad then destroys the Trandoshan dropship during their retreat. Immediately afterwards, a Lucrehulk-class Trade Federation Battleship drops out of hyperspace. As Republic reinforcements are en route, Delta Squad defends the vessel against hordes of battle droids. After successfully repelling the incoming droid forces, the enemy Battleship begins opening fire on the Prosecutor. Delta Squad fight their way to the gunnery deck to activate the ship's turbo lasers in order to defend themselves. The timely arrival of a second Republic ship, the RAS Arrestor, buys the squad enough time to activate the turbo lasers, ultimately destroying the Separatist Battleship and shutting down all remaining battle droids on board.
+
+JUEGOS PARECIDOS:
+Si te gusta Star Wars: Republic Commando, también podrían gustarte: Star Wars: Jedi Knight II - Jedi Outcast, Star Wars Battlefront II, Pragmata, Star Wars: Jedi Knight - Jedi Academy, Star Wars: Battlefront, Hitman 2: Silent Assassin, Helldivers 2, Transformers: Fall of Cybertron, Kill.Switch, Tom Clancy's Rainbow Six: Lockdown.

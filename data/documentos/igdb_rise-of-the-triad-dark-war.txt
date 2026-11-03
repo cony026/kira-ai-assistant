@@ -1,0 +1,25 @@
+JUEGO: Rise of the Triad: Dark War
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), iOS, Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), iOS, Mac, DOS
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Apogee Software
+PUBLISHER: FormGen, Apogee Software, icculus.org, Mobila Interactive, 3D Realms
+FECHA DE LANZAMIENTO: 1994-12-21
+NOTA DE USUARIOS (IGDB): 73/100 (32 votos)
+TAMBIÉN CONOCIDO COMO: Wolfenstein 3D: Part II, Rise of the Triad: The HUNT Begins, dosbox.exe, ROTT, Rise of the Triad
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4wnt.jpg
+URL: https://www.igdb.com/games/rise-of-the-triad-dark-war
+
+RESUMEN:
+Rise of the Triad, a first-person shooter, is the successor of Wolfenstein 3D, with a somewhat improved 3D engine. Everything is still composed from blocks, but multiple vertical levels have been added; there are stairs made of platforms floating in air, and jump pads which launch you (and the enemies) high up so that you can walk over tall barriers in your way.
+
+HISTORIA:
+You are part of an elite group of operatives called HUNT (High-risk United Nations Taskforce), and you must stop a maniac cult leader from killing millions of people. While scouting a remote island, you are suddenly surrounded by enemy troops with guns blaring. In the distance you see your boat--your only chance to escape--explode into matchsticks. In front of you is a huge fortress monastery, and your only chance to stop the madness.
+
+JUEGOS PARECIDOS:
+Si te gusta Rise of the Triad: Dark War, también podrían gustarte: Operation Body Count, Descent, Shadow Ops: Red Mercury, Descent 3, Shadow Warrior, Contra III: The Alien Wars, SiN, Kill.Switch, Contra: Hard Corps, Quake.

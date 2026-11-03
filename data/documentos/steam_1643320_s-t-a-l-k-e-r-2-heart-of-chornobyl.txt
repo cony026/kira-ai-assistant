@@ -1,0 +1,41 @@
+JUEGO: S.T.A.L.K.E.R. 2: Heart of Chornobyl
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Rol
+DESARROLLADOR: GSC Game World
+PUBLISHER: GSC Game World (worldwide), SEGA (Japan), 4Divinity (China and South East Asia)
+FECHA DE LANZAMIENTO: 20 NOV 2024
+PRECIO: $41.99
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (137741 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Descubre la Zona de Exclusión de Chornóbil, un lugar repleto de enemigos peligrosos, anomalías letales y poderosos artefactos. Descubre tu propia historia épica y ábrete paso hasta el corazón de Chornóbil. Elige tu camino sabiamente, ya que tu futuro y el de la humanidad dependerán de lo que elijas.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10 x64 / Windows 11 x64
+
+- Procesador: Intel Core i7-7700K / AMD Ryzen 5 1600X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB / Intel Arc A750
+
+- Almacenamiento: 160 GB de espacio disponible
+
+- Notas adicionales: Graphics Preset: LOW / Resolution: 1080p / Target FPS: 30. 16 GB Dual Channel RAM. SSD required. The listed specifications were evaluated using TSR and comparable technologies.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10 x64 / Windows 11 x64
+
+- Procesador: Intel Core i7-11700 / AMD Ryzen 7 5800X
+
+- Memoria: 32 GB de RAM
+
+- Gráficos: Nvidia GeForce RTX 3070 Ti / Nvidia GeForce RTX 4070 / AMD Radeon RX 6800 XT
+
+- Almacenamiento: 160 GB de espacio disponible
+
+- Notas adicionales: Graphics Preset: HIGH / Resolution: 1440p / Target FPS: 60. 32 GB Dual Channel RAM. SSD required. The above specifications were tested with TSR, DLSS, FSR and XeSS.

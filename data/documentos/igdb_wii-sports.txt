@@ -1,0 +1,23 @@
+JUEGO: Wii Sports
+
+FUENTE: IGDB
+PLATAFORMA: Wii
+DISPONIBLE EN: Wii
+GÉNEROS: Simulación, Deportes
+TEMAS: Party
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Nintendo EAD Software Development Group No.2
+PUBLISHER: Nintendo
+FECHA DE LANZAMIENTO: 2006-11-19
+NOTA DE LA CRÍTICA (IGDB): 75/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 75/100 (440 votos)
+TAMBIÉN CONOCIDO COMO: Wii Sports, Wii运动的
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3vge.jpg
+URL: https://www.igdb.com/games/wii-sports
+
+RESUMEN:
+Wii Sports is a sports simulation game built around the motion controls of the Wii Remote. It collects five sports, tennis, baseball, bowling, golf, and boxing, played by moving the controller to mimic real actions such as swinging a racket or rolling a ball. The rules are simplified for accessibility, and players compete against the computer or each other, using customizable avatars. Additional training and fitness modes let players practice individual skills and track their progress over time.
+
+JUEGOS PARECIDOS:
+Si te gusta Wii Sports, también podrían gustarte: Wii Sports Resort, Wii Play, Wii Fit, Wii Party, WarioWare: Smooth Moves, Nintendo Switch Sports, Punch-Out!!, Wii Fit Plus, Wii Party U, EyeToy: Play 2.

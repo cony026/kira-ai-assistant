@@ -1,0 +1,10 @@
+JUEGO: Pokémon GO
+PLATAFORMA: Móvil
+GÉNEROS: RPG, Aventura, Realidad Aumentada
+NOTA METACRITIC: 76
+
+RESEÑA / DESCRIPCIÓN:
+Pokémon GO es un juego de realidad aumentada para dispositivos móviles. Camina por tu ciudad, atrapa Pokémon en tiempo real usando tu teléfono y participa en batallas con otros entrenadores. Eventos especiales y raids cooperativos.
+
+REQUISITOS MÍNIMOS:
+Dispositivo iOS o Android, GPS

@@ -1,0 +1,72 @@
+JUEGO: Stardew Valley
+PLATAFORMA: PC (Steam)
+GÉNEROS: Indie, Rol, Simuladores
+DESARROLLADOR: ConcernedApe
+PUBLISHER: ConcernedApe
+FECHA DE LANZAMIENTO: 26 FEB 2016
+PRECIO: $14.99
+NOTA METACRITIC: 89/100
+RESEÑAS DE USUARIOS (STEAM): Overwhelmingly Positive (1034169 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Acabas de heredar la vieja parcela agrícola de tu abuelo de Stardew Valley. Decides partir hacia una nueva vida con unas herramientas usadas y algunas monedas. ¿Te ves capaz de vivir de la tierra y convertir estos campos descuidados en un hogar próspero?
+
+DESCRIPCIÓN DETALLADA:
+Te vas a vivir al valle...
+
+ 
+
+Acabas de heredar la vieja parcela agrícola de tu abuelo de Stardew Valley. Decides partir hacia una nueva vida con unas herramientas usadas y algunas monedas. ¿Te ves capaz de vivir de la tierra y convertir estos campos descuidados en un hogar próspero?
+
+-  ¡Crea la granja de tus sueños! Constrúyela desde cero en una de las cinco configuraciones del mapa.
+
+-  ¡Domina tu habilidad con la ganadería! Cría animales, siembra cultivos y fabrica maquinaria útil entre muchas más cosas.
+
+-  ¡Únete a la comunidad local! Entabla amistad con más de 30 habitantes de Pelican Town.
+
+-  ¡Personaliza a tu granjero! Podrás elegir entre cientos de opciones de personalización de personajes.
+
+-  ¡Instálate y empieza a formar una familia! Comparte tu vida en la granja con uno de los doce personajes con los que podrás tener una relación.
+
+-  ¡Explora grandes y misteriosas cuevas! Encuentra monstruos peligrosos y tesoros valiosos.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO *: Windows Vista or greater
+
+- Procesador: 2 Ghz
+
+- Memoria: 2 GB de RAM
+
+- Gráficos: 256 mb video memory, shader model 3.0+
+
+- DirectX: Versión 10
+
+- Almacenamiento: 500 MB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: Mac OSX 10.10+
+
+- Procesador: 2 Ghz
+
+- Memoria: 2 GB de RAM
+
+- Gráficos: 256 mb video memory, OpenGL 2
+
+- Almacenamiento: 500 MB de espacio disponible
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- SO: Ubuntu 12.04 LTS
+
+- Procesador: 2 Ghz
+
+- Memoria: 2 GB de RAM
+
+- Gráficos: 256 mb video memory, OpenGL 2
+
+- Almacenamiento: 500 MB de espacio disponible

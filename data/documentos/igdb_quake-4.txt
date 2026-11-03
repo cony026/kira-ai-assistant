@@ -1,0 +1,28 @@
+JUEGO: Quake 4
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac, Xbox 360
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac, Xbox 360
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Terror
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Raven Software, Aspyr Media
+PUBLISHER: Activision, id Software, Bethesda Softworks, Aspyr Media
+FECHA DE LANZAMIENTO: 2005-10-18
+NOTA DE LA CRÍTICA (IGDB): 74/100 (6 críticas)
+NOTA DE USUARIOS (IGDB): 75/100 (239 votos)
+TAMBIÉN CONOCIDO COMO: 雷神之锤4, Quake IV, Q4
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1o1t.jpg
+URL: https://www.igdb.com/games/quake-4
+
+RESUMEN:
+Quake 4 is a action shooter game which serves as the another chapter in the Quake series.
+
+HISTORIA:
+During the bloody war between humans and the nightmarish race of the Strogg, a lone marine infiltrated the planet and assassinated their horrific leader. The humans discover that the Strogg are not so easily defeated, however, and that their only hope may rest on a marine that is no longer entirely human.
+
+In a desperate war for Earth's survival, against an unrelenting enemy, the only way to defeat them is to become one of them. Armed with advanced weaponry and vehicles and aided by an elite squad of marines, you take the battle to the heart of the Strogg home planet and become earth’s only hope for victory.
+
+JUEGOS PARECIDOS:
+Si te gusta Quake 4, también podrían gustarte: Quake III Arena, Unreal Tournament III, Doom 3, Half-Life, F.E.A.R., Quake II, Wolfenstein, TimeShift, Call of Duty 2, Gears of War.

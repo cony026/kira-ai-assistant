@@ -1,0 +1,18 @@
+JUEGO: FEZ
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Nintendo Switch, PlayStation 3, Xbox 360, PlayStation 4, PS Vita, iOS, PC, macOS, Linux
+FECHA DE LANZAMIENTO: 2012-04-13
+DESARROLLADOR: POLYTRON
+PUBLISHER: Microsoft Studios, Trapdoor, Corporation Polytron, Polytron
+GÉNEROS: Action, Adventure, Indie, Puzzle, Platformer
+NOTA METACRITIC: 91
+RATING USUARIOS: 4.01/5 (1177 votos)
+TIEMPO DE JUEGO MEDIO: 2 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, Atmospheric, Great Soundtrack, 2D, Exploration, Steam Leaderboards, Pixel Graphics, Controller, Retro, Cute, controller support, Mystery
+
+DESCRIPCIÓN:
+FEZ is a 2D and 3D game at the same time. Even though it is a platformer game in which you solve puzzles in the dimension your looking at, you can manipulate with the world itself by rotating it all around. Because of that very interesting mechanic that is not so popular in the industry, the game is actually is a 2D in a 3D world. In order to proceed from one level to another, you have to collect cubes or fragments of it. However, by rotating the world, you can actually gain access to some places that wouldn't be available without this mechanic. 
+
+Gomez, our protagonist, must restore the order in his universe by passing through the levels and collecting little fragments of it. But he will face no threat at all. Your only challenge is to actually beat these quite peculiar puzzles, basically without any guidelines at all. As stated by a developer himself, this game is about "stop and smell the flower", which makes it a brilliant stress-relief or a relaxing sort of the game with slow gameplay and nice atmosphere.

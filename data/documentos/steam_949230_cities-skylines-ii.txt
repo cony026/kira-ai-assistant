@@ -1,0 +1,56 @@
+JUEGO: Cities: Skylines II
+PLATAFORMA: PC (Steam)
+GÉNEROS: Simuladores
+DESARROLLADOR: Iceflake Studios, Colossal Order
+PUBLISHER: Paradox Interactive
+FECHA DE LANZAMIENTO: 24 OCT 2023
+PRECIO: $49.99
+RESEÑAS DE USUARIOS (STEAM): Mixed (91814 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Construye una ciudad y haz que prospere con el constructor de ciudades más realista. Pon a prueba tu creatividad y tu resolución de problemas para construir a una escala que nunca experimentaste. Con su simulación y su economía, crea mundos sin límites.
+
+DESCRIPCIÓN DETALLADA:
+Si puedes soñarlo, puedes construirloConstruye una ciudad desde cero y transfórmala en la metrópolis próspera que solo tú puedes imaginar. Nunca experimentaste la construcción a esta escala. Con su simulación detallada y una economía viva, Cities: Skylines II te permite construir un mundo sin límites. Para empezar, sienta las bases de tu ciudad. Crea carreteras, infraestructuras y sistemas que hagan posible la vida diaria. Todo depende de ti. También es tu responsabilidad qué tan bien crece tu ciudad, pero planifica con estrategia. Cada decisión tiene consecuencias. ¿Puedes proporcionar energía a la industria local al mismo tiempo que aprovechas el comercio para impulsar la economía? ¿Qué puede hacer florecer los barrios residenciales sin afectar al bullicio del centro? ¿Cómo responderás a las necesidades y los deseos de los ciudadanos sin descuidar el equilibrio del presupuesto municipal?Tu ciudad nunca duerme. Como cualquier mundo que vive y respira, el tuyo también cambia con el tiempo. Algunos cambios serán lentos y graduales, pero habrá otros repentinos e inesperados. De modo que, a medida que pasen las estaciones y los días y las noches se sucedan, deberás prepararte para actuar si la vida no sale como planeaste.  El simulador de construcción más realista y detallado que existe, Cities: Skylines II, lleva tu creatividad y tu capacidad para resolver problemas a otro nivel. Sus gráficos hermosos renderizados en alta resolución te inspirarán para construir la ciudad de tus sueños. Simulación detallada.Con la IA y a una rica economía, tus decisiones repercutirán en la ciudad. No lo olvides mientras planificas, resuelves problemas y reaccionas a cambios, desafíos, oportunidades.Escala épica, posibilidades ilimitadas. Cities: Skylines II te permite crear sin riesgos. Ahora puedes construir hasta las nubes y expandirte por el mapa como nunca. ¿Por qué no? Tu ciudad eres tú.Ciudades que cobran vida.Tus decisiones modelan la vida de los ciudadanos en una cadena de acontecimientos que los define. Sigue los altibajos de sus vidas, con amor, pérdida, riqueza o bienestar.Un mundo dinámico.Elige un mapa para establecer el clima de tu ciudad. Tendrás que lidiar con la naturaleza para ampliar tu ciudad con polución, cambios del tiempo y los desafíos de las estaciones.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows® 10 Home 64 Bit
+
+- Procesador: Intel® Core™ i7-6700K | AMD® Ryzen™ 5 2600X
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Nvidia® GeForce™ GTX 970 (4 GB)  | AMD® Radeon™ RX 480 (8 GB)
+
+- Almacenamiento: 60 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows® 10 Home 64 Bit | Windows® 11
+
+- Procesador: Intel® Core™ i5-12600K | AMD® Ryzen™ 7 5800X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia® GeForce™ RTX 3080 (10 GB) | AMD® Radeon™ RX 6800 XT (16 GB)
+
+- Almacenamiento: 60 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

@@ -1,0 +1,96 @@
+JUEGO: Black Myth: Wukong
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Rol
+DESARROLLADOR: Game Science
+PUBLISHER: Game Science
+FECHA DE LANZAMIENTO: 19 AGO 2024
+PRECIO: $59.99
+RESEÑAS DE USUARIOS (STEAM): Overwhelmingly Positive (1208079 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Black Myth: Wukong es un RPG de acción inspirado en la mitología china. Encarnarás al Predestinado, que ha de embarcarse en un viaje repleto de peligros y maravillas para descubrir la verdad oculta acerca de una gloriosa leyenda del pasado.
+
+DESCRIPCIÓN DETALLADA:
+Black Myth: Wukong es un RPG de acción inspirado en la mitología china. La historia está basada en «Viaje al Oeste», una de las cuatro grandes novelas clásicas de la literatura china. Encarnarás al Predestinado, que ha de embarcarse en un viaje repleto de peligros y maravillas para descubrir la verdad oculta acerca de una gloriosa leyenda del pasado.
+
+• Explora una tierra de vastas maravillas
+«En un mundo desconocido y de maravillas plagado,
+se despliega una aventura con cada paso dado».
+
+¡Sumérgete en un reino fascinante lleno de maravillas y descubre la mitología de la antigua china!
+En el papel del Predestinado, recorrerás una amplia variedad de paisajes espectaculares e inconfundibles basados en la novela clásica «Viaje al Oeste», y vivirás una épica aventura desde una nueva perspectiva.
+
+• Enfréntate a poderosos enemigos, tanto conocidos como nuevos
+«Un mono heroico, de gran prestigio y poder,
+al que persiguen enemigos para su fama demoler».
+
+Una de las características más destacadas de «Viaje al Oeste» es su diverso elenco de adversarios, cada cual con sus fortalezas únicas.
+Jugando como el Predestinado, te las verás con poderosos enemigos y dignos rivales a lo largo de tu viaje. Enfréntate a ellos con valentía en batallas épicas en las que rendirse no es una opción.
+
+• Mejora tu dominio de distintos conjuros
+«Poderosos conjuros, talentos en acción.
+Demuestra tu destreza y triunfa en la misión».
+
+Tendrás a tu disposición conjuros, transformaciones y artefactos mágicos de todo tipo y con distintas funciones, desde proteger hasta potenciar. Aprovecha el poder de estos elementos de combate icónicos de la mitología china.
+Como el Predestinado, además de dominar distintas técnicas de bastón, también tienes la opción de combinar a voluntad diferentes conjuros, habilidades, armas y piezas de equipo para hallar la estrategia ganadora que mejor se adapte a tu estilo de combate.
+
+• Descubre la conmovedora historia de cada personaje
+«Dentro de todas las almas, tanto fieras como mansas,
+se esconde el relato de una vida llena de andanzas».
+
+Bajo la fachada de ferocidad y astucia de tus enemigos se oculta un fascinante tapiz que has de desentrañar para comprender sus orígenes, su personalidad y su motivación.
+En la piel del Predestinado, descubrirás las historias de los distintos personajes, indagarás más allá de vuestros enfrentamientos y serás testigo del amor, el odio, la codicia y la furia que una vez sintieron y aún albergan en su interior.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-bit
+
+- Procesador: Intel Core i5-8400 / AMD Ryzen 5 1600
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB
+
+- DirectX: Versión 11
+
+- Almacenamiento: 130 GB de espacio disponible
+
+- Tarjeta de sonido: Windows Compatible Audio Device
+
+- Notas adicionales: HDD Supported, SSD Recommended. The above specifications were tested with DLSS/FSR/XeSS enabled.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-bit
+
+- Procesador: Intel Core i7-9700 / AMD Ryzen 5 5500
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce RTX 2060 / AMD Radeon RX 5700 XT / INTEL Arc A750
+
+- DirectX: Versión 12
+
+- Almacenamiento: 130 GB de espacio disponible
+
+- Tarjeta de sonido: Windows Compatible Audio Device
+
+- Notas adicionales: SSD Required. The above specifications were tested with DLSS/FSR/XeSS enabled.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

@@ -1,0 +1,24 @@
+JUEGO: Pole Position
+
+FUENTE: IGDB
+PLATAFORMA: Commodore VIC-20, Arcade, Vectrex, BBC Microcomputer System
+DISPONIBLE EN: Commodore VIC-20, Arcade, Vectrex, BBC Microcomputer System, Atari 8-bit, Commodore C64/128/MAX, ZX Spectrum, Intellivision, Atari 5200, DOS, Texas Instruments TI-99
+GÉNEROS: Carreras, Deportes, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Namco
+PUBLISHER: GCE, INTV Corporation, Thunder Mountain, Atari
+FECHA DE LANZAMIENTO: 1982-09-16
+NOTA DE LA CRÍTICA (IGDB): 60/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 70/100 (47 votos)
+FRANQUICIA: Formula 1
+TAMBIÉN CONOCIDO COMO: Pōru Pojishon
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coc1m4.jpg
+URL: https://www.igdb.com/games/pole-position
+
+RESUMEN:
+The very first racing game with the rear perspective camera and track based on real life.
+
+JUEGOS PARECIDOS:
+Si te gusta Pole Position, también podrían gustarte: Pole Position II, Sega Rally Championship, Wheels II, Forza Motorsport, TrackMania, Rally-X, NASCAR: The Game - Inside Line, OutRun, OutRun 2019, Turbo.

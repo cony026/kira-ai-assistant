@@ -1,0 +1,23 @@
+JUEGO: Vector
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Ouya, Android, PC (Microsoft Windows)
+DISPONIBLE EN: Web browser, Ouya, Android, PC (Microsoft Windows), iOS
+GÉNEROS: Plataformas, Indie, Arcade
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Nekki
+PUBLISHER: Nekki
+FECHA DE LANZAMIENTO: 2012-08-28
+NOTA DE LA CRÍTICA (IGDB): 70/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 74/100 (35 votos)
+TAMBIÉN CONOCIDO COMO: Vector 1, Vector for iPhone, launch.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4t1l.jpg
+URL: https://www.igdb.com/games/vector
+
+RESUMEN:
+Vector is an exciting, arcade-style game featuring you as the exceptional free runner who won’t be held down by the system. In this totalitarian world freedom and individually is nothing more than a distant dream. But the heart of a freerunner is strong, and so you break free.
+
+JUEGOS PARECIDOS:
+Si te gusta Vector, también podrían gustarte: Mechanic Escape, Gravity Circuit, Ghost 1.0, Love 3, Tower Fortress, Hextech Mayhem: A League of Legends Story, Skybolt Zack, Knightmare Tower, Turbo Pug, U.F.O: Unfortunately Fortunate Organisms.

@@ -1,0 +1,28 @@
+JUEGO: Perfect Dark
+
+FUENTE: IGDB
+PLATAFORMA: Xbox 360
+DISPONIBLE EN: Xbox 360
+GÉNEROS: Shooter, Táctico
+TEMAS: Acción, Ciencia ficción, Suspenso, Sigilo
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Primera persona
+DESARROLLADOR: 4J Studios, Rare
+PUBLISHER: Microsoft Game Studios
+FECHA DE LANZAMIENTO: 2010-03-17
+NOTA DE LA CRÍTICA (IGDB): 70/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 78/100 (34 votos)
+FRANQUICIA: Perfect Dark
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2yib.jpg
+URL: https://www.igdb.com/games/perfect-dark--1
+
+RESUMEN:
+Perfect Dark is a remastered release of the first-person shooter video game by the same name. Developed by 4J Studios and published by Microsoft Game Studios a decade after the original's 2000 release, the remaster features several technical improvements, including higher resolution textures and models, a higher frame rate, and a multiplayer mode that supports the Xbox Live online service. It was released for the Xbox 360 video game console in March 2010, through the Xbox Live Arcade download service. The story of the game follows Joanna Dark, an agent of the Carrington Institute organization, as she attempts to stop a conspiracy by rival corporation dataDyne.
+
+Perfect Dark was under development for nearly a year and its game engine was completely re-written from scratch to support several Xbox 360 features. Therefore, although the game plays exactly the same as the original, the code and renderer is different. The game received generally favorable reviews. Some critics considered the relatively unchanged game to be outdated, but most agreed that the title was a solid revival of a classic.
+
+HISTORIA:
+In a sleek, near-future world dominated by powerful corporations, a talented young operative named Joanna Dark serves the Carrington Institute, a research organization that doubles as a covert agency working to protect humanity's interests. Rising quickly through the ranks thanks to her exceptional skill, Joanna is thrust into a dangerous assignment when the Institute uncovers a sinister conspiracy brewing within its ruthless rival, the mega-corporation dataDyne. As she infiltrates heavily guarded facilities, gathers intelligence, and slips past armed security, Joanna discovers that dataDyne's secret dealings reach far beyond ordinary corporate espionage and threaten consequences of global scale. This remaster faithfully rebuilds the classic first-person spy thriller with sharper visuals while preserving its original stealth and action gameplay. Blending gadgets, an arsenal of inventive weapons, and tense infiltration, the story follows Joanna across a web of shadowy plots and shifting allegiances as she races to expose the truth and stop the conspiracy before it is too late.
+
+JUEGOS PARECIDOS:
+Si te gusta Perfect Dark, también podrían gustarte: Helldivers 2, Star Wars: Battlefront II, Serious Sam: The First Encounter, MechWarrior 5: Mercenaries, Call of Duty: Modern Warfare II, Call of Duty: Modern Warfare, Call of Duty: Black Ops 4, Serious Sam 4, Tom Clancy's Splinter Cell: Conviction, Watch Dogs: Legion.

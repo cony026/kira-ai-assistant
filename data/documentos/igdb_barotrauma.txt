@@ -1,0 +1,29 @@
+JUEGO: Barotrauma
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Simulación, Estrategia, Aventura, Indie
+TEMAS: Acción, Ciencia ficción, Terror, Supervivencia
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Undertow Games, FakeFish
+PUBLISHER: Daedalic Entertainment
+FECHA DE LANZAMIENTO: 2023-03-13
+NOTA DE USUARIOS (IGDB): 73/100 (53 votos)
+TAMBIÉN CONOCIDO COMO: 바로트라우마, Barotrauma.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coa97f.jpg
+URL: https://www.igdb.com/games/barotrauma
+
+RESUMEN:
+Barotrauma is a 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter’s moon Europa. The bone-crushing pressure outside the submarine, the strange creatures inhabiting the ocean and the potentially dangerous equipment and machines on board ensure that the tiniest slip can turn the game into a chaotic struggle for survival.
+
+The game is heavily inspired by Space Station 13 and a game concept called Pressure.
+
+HISTORIA:
+Barotrauma takes place several hundred years in the future. In this time, humanity has established several colonies on Europa, one of Jupiter’s moons.
+
+Due to the deadly amounts of radiation on the surface of the moon, the colonies are constructed under its icy crust. The vast subsurface ocean under the crust is used as a transport route between the colonies and a source of natural resources. In Barotrauma, the player will step into the boots of a recruit on board a submarine traveling in the subsurface ocean. The player’s job is to keep the submarine operational, while carrying out various tasks to earn funds for buying supplies and hiring new crew members. Maintaining and operating the submarine itself isn’t the only challenge, as the ocean is filled with bizarre creatures ranging from harmless small fish to gigantic horrors more than capable of destroying the entire vessel.
+
+JUEGOS PARECIDOS:
+Si te gusta Barotrauma, también podrían gustarte: Carrion, Panicore, Sons of the Forest, Pacify, The Outlast Trials, Scrap Mechanic, Empyrion: Galactic Survival, The Wild Eight, Space Station 14, Kingdom Two Crowns.

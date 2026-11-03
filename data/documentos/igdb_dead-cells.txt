@@ -1,0 +1,26 @@
+JUEGO: Dead Cells
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: PlayStation 4, Linux, Android, PC (Microsoft Windows), iOS, PlayStation 5, Mac, Xbox One, Nintendo Switch
+GÉNEROS: Plataformas, Aventura, Indie
+TEMAS: Acción, Fantasía
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Motion Twin, Evil Empire
+PUBLISHER: Playdigious, Motion Twin
+FECHA DE LANZAMIENTO: 2018-08-06
+NOTA DE LA CRÍTICA (IGDB): 90/100 (12 críticas)
+NOTA DE USUARIOS (IGDB): 83/100 (643 votos)
+TAMBIÉN CONOCIDO COMO: 데드 셀 (Dead Cells), deadcells.exe, 死亡细胞
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7jfv.jpg
+URL: https://www.igdb.com/games/dead-cells
+
+RESUMEN:
+Dead Cells is a 2D side-scrolling action platformer combining roguelike and Metroidvania design. Players control the Prisoner, an immortal creature that possesses corpses and fights through procedurally generated levels filled with mutated enemies. Combat centers on melee weapons, bows, traps, and dodging, with enemy patterns that reward careful observation. Death is permanent for each run, stripping the player of most collected items, though an in-game currency called Cells allows for purchasing upgrades that persist between attempts. Levels are assembled from pre-designed sections in randomized configurations, and progression through the game unlocks new traversal abilities via collectible Runes.
+
+HISTORIA:
+The Prisoner, an amorphous creature capable of possessing dead bodies, awakens in the depths of an island prison with no memory. A soldier tells the Prisoner they can no longer die. Through repeated escape attempts, the Prisoner learns that the island was once a powerful kingdom brought to ruin when a plague called "The Malaise" transformed most of its citizens into mutated monsters. After escaping the prison depths, the Prisoner resolves to kill the island's reclusive King, believing that his death will change something on the island. Fighting through plague-infested regions, the Prisoner reaches the throne room and slays the comatose monarch, only for the King's corpse to explode violently, destroying the Prisoner's host body. The head crawls through a fountain drain that leads back to the prison, where the cycle begins again.
+
+JUEGOS PARECIDOS:
+Si te gusta Dead Cells, también podrían gustarte: Iconoclasts, Ghost 1.0, Figment, Butcher, Monster Boy and the Cursed Kingdom, Carrion, Astral Ascent, Drova: Forsaken Kin, Nine Sols, Monster Sanctuary.

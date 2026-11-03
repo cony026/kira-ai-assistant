@@ -1,0 +1,22 @@
+JUEGO: Pokémon Oro
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Gold
+PLATAFORMA: Game Boy Color
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación II
+REGIÓN PRINCIPAL: Kanto, Johto
+LANZADO JUNTO A: Pokémon Plata
+
+DESCRIPCIÓN:
+Pokémon Oro es un juego de rol de la saga principal de Pokémon, de la Generación II, para Game Boy Color. La aventura transcurre en las regiones de Kanto y Johto. Se lanzó junto a Pokémon Plata; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Chikorita, Cyndaquil y Totodile. Su Pokédex regional reúne 251 especies de Pokémon distintas. Incluye Pokémon legendarios como Articuno, Zapdos, Moltres, Raikou, Entei y Suicune.
+
+POKÉDEX:
+- Johto Original: 251 Pokémon
+
+POKÉMON INICIALES:
+Chikorita, Cyndaquil, Totodile
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Articuno, Zapdos, Moltres, Raikou, Entei, Suicune, Lugia, Ho-Oh, Mewtwo
+Singulares (míticos): Mew, Celebi

@@ -1,0 +1,24 @@
+JUEGO: Osu!
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Linux, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: Música, Indie, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Auditiva
+DESARROLLADOR: ppy
+PUBLISHER: ppy
+FECHA DE LANZAMIENTO: 2007-09-16
+NOTA DE USUARIOS (IGDB): 73/100 (228 votos)
+TAMBIÉN CONOCIDO COMO: 오스!, osu!
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co8a4m.jpg
+URL: https://www.igdb.com/games/osu
+
+RESUMEN:
+osu! is an open source rhythm game originally created by Australian developer Dean Herbert in 2007. Its gameplay is based on the Osu! Tatakae! Ouendan series and primarily involves clicking circles that appear on screen in time with music using a cursor or finger.
+
+The game features four rulesets: osu!standard (click circles, sliders, and spinners), osu!taiko (drum-based notes inspired by Taiko no Tatsujin), osu!catch (catching falling fruit), and osu!mania (vertically scrolling key-based notes). Levels, called beatmaps, are created and uploaded by the community, providing a large and constantly expanding library. Players can compete on global leaderboards ranked by performance points or join real-time multiplayer rooms. The game can be played in various ways such as with mouse, keyboard, graphics tablet or touch screen.
+
+JUEGOS PARECIDOS:
+Si te gusta Osu!, también podrían gustarte: BanG Dream! Girls Band Party!, Arcaea, Rhythm Doctor, Soul Knight, Vectronom, Afterbeat, Hatsune Miku: Colorful Stage!, Guitar Hero II, Snowbreak: Containment Zone, Clone Hero.

@@ -1,0 +1,10 @@
+JUEGO: Pokémon Scarlet
+PLATAFORMA: Nintendo Switch
+GÉNEROS: RPG, Aventura
+NOTA METACRITIC: 84
+
+RESEÑA / DESCRIPCIÓN:
+Pokémon Scarlet es un juego de rol de acción que permite explorar libremente el mundo de Paldea. Atrapa, entrena y evoluciona Pokémon mientras compites en batallas contra otros entrenadores. Características de mundo abierto con gráficos en tiempo real. Incluye pokémon nuevos y clásicos con nuevas formas Terastalizadas.
+
+REQUISITOS MÍNIMOS:
+Nintendo Switch

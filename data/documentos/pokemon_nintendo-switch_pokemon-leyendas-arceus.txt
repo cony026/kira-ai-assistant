@@ -1,0 +1,21 @@
+JUEGO: Pokémon Leyendas: Arceus
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Legends: Arceus
+PLATAFORMA: Nintendo Switch
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación VIII
+REGIÓN PRINCIPAL: Hisui
+
+DESCRIPCIÓN:
+Pokémon Leyendas: Arceus es un juego de rol de la saga principal de Pokémon, de la Generación VIII, para Nintendo Switch. La aventura transcurre en la región de Hisui. Los Pokémon iniciales que se pueden elegir al comenzar son Rowlet, Cyndaquil y Oshawott. Su Pokédex regional reúne 242 especies de Pokémon distintas. Incluye Pokémon legendarios como Uxie, Mesprit, Azelf, Heatran, Regigigas y Cresselia.
+
+POKÉDEX:
+- Hisui: 242 Pokémon
+
+POKÉMON INICIALES:
+Rowlet, Cyndaquil, Oshawott
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Uxie, Mesprit, Azelf, Heatran, Regigigas, Cresselia, Tornadus, Thundurus, Landorus, Enamorus, Dialga, Palkia, Giratina
+Singulares (míticos): Arceus, Phione, Manaphy, Shaymin, Darkrai

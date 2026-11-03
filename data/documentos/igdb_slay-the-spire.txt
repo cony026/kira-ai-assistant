@@ -1,0 +1,23 @@
+JUEGO: Slay the Spire
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: PlayStation 4, Linux, Android, PC (Microsoft Windows), iOS, Mac, Xbox One, Nintendo Switch
+GÉNEROS: RPG, Estrategia, Estrategia por turnos, Aventura, Indie, Cartas y tablero
+TEMAS: Fantasía
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Mega Crit Games
+PUBLISHER: Humble Games
+FECHA DE LANZAMIENTO: 2019-01-23
+NOTA DE LA CRÍTICA (IGDB): 93/100 (6 críticas)
+NOTA DE USUARIOS (IGDB): 84/100 (543 votos)
+TAMBIÉN CONOCIDO COMO: javaw.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1iyf.jpg
+URL: https://www.igdb.com/games/slay-the-spire
+
+RESUMEN:
+Slay the Spire is a single-player roguelike deck-building game. Players choose from four characters, each with a unique set of cards, and attempt to climb a procedurally generated spire consisting of multiple floors of increasingly difficult enemies and bosses. Combat uses a card-based system where players build and refine their deck on the fly from rewards earned through encounters. Between battles, players collect relics that provide permanent buffs and make strategic choices about which paths to take, which cards to add or remove, and how to spend limited resources. The game is widely credited with popularizing the roguelike deck-building genre.
+
+JUEGOS PARECIDOS:
+Si te gusta Slay the Spire, también podrían gustarte: Across the Obelisk, Monster Train, Monster Sanctuary, Crown Trick, Star Renegades, Bloomtown: A Different Story, Library of Ruina, Ash of Gods: Redemption, Drova: Forsaken Kin, Tamarak Trail.

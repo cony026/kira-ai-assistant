@@ -1,0 +1,68 @@
+JUEGO: EA SPORTS FC™ 26
+PLATAFORMA: PC (Steam)
+GÉNEROS: Simuladores, Deportes
+DESARROLLADOR: EA Canada, EA Romania
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 25 SEP 2025
+PRECIO: $69.99
+RESEÑAS DE USUARIOS (STEAM): Mixed (103139 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Vive The World's Game como nunca antes en EA SPORTS FC™ 26. Alcanza la gloria en un modo de torneo internacional de 48 equipos, afronta desafíos de Mánager en vivo temáticos y entra en Carrera de futbolista con nuevos ICONOS y Héroes internacionales.
+
+DESCRIPCIÓN DETALLADA:
+Este juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego, incluida una selección aleatoria de artículos virtuales del juego.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11 - 64-Bit (Latest Update).
+
+- Procesador: AMD Ryzen 5 1600 or Intel Core i5 6600k
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: AMD RX 570 or Nvidia GTX 1050 Ti
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 100 GB de espacio disponible
+
+- Tarjeta de sonido: DirectX: 12 Compatible video card or equivalent (feature level 12_0)
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11 - 64-Bit (Latest Update).
+
+- Procesador: AMD Ryzen 7 2700X or Intel Core i7 6700
+
+- Memoria: 12 GB de RAM
+
+- Gráficos: AMD RX 5600 XT or Nvidia GTX 1660
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 100 GB de espacio disponible
+
+- Tarjeta de sonido: DirectX: 12 Compatible video card or equivalent (feature level 12_0)
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

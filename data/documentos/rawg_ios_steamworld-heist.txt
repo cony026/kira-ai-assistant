@@ -1,0 +1,20 @@
+JUEGO: SteamWorld Heist
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Nintendo 3DS, PS Vita, Nintendo Switch, Wii U, PlayStation 4, iOS, PC, macOS, Linux
+FECHA DE LANZAMIENTO: 2015-12-10
+DESARROLLADOR: Image & Form
+PUBLISHER: Image & Form, Image & Form International
+GÉNEROS: Action, Adventure, RPG, Strategy, Indie, Platformer
+NOTA METACRITIC: 81
+RATING USUARIOS: 3.94/5 (327 votos)
+TIEMPO DE JUEGO MEDIO: 5 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, steam-trading-cards, Great Soundtrack, RPG, 2D, Sci-fi, Female Protagonist, role-playing, Turn-Based, controller support, Robots, Steampunk
+
+DESCRIPCIÓN:
+Steamworld Heist is a pirate-themed turn-based strategy with shooter and platformer elements. You take on the role of a pirate captain, Piper, as she recruits robots and leads them through space to capture enemy ships. The game has a side-scrolling perspective, and most levels are procedurally generated.
+
+The main resource in the game’s universe is water, and all power try to get it. But unexpectedly one more side appears in this conflict: aggressive steambots that attack people. Only Piper can find out what’s happening and save the world.
+
+To fulfill your mission, you need to form a team of robots to fight by your side. There’s a huge variety of potential crew members that can be found in different parts of the galaxy. To recruit them you spend water or reputation points you get completing missions. Every soldier has unique abilities and specialization that upgrade through the game. Battles are made in a classical turn-based manner with a realistic physics model that features ricochets, laser sights and bomb throwing.

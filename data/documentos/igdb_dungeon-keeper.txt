@@ -1,0 +1,38 @@
+JUEGO: Dungeon Keeper
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac, DOS
+DISPONIBLE EN: PC (Microsoft Windows), Mac, DOS
+GÉNEROS: Estrategia en tiempo real, Estrategia
+TEMAS: Acción, Fantasía, Terror, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Bullfrog Productions
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 1997-06-26
+NOTA DE LA CRÍTICA (IGDB): 10/100 (0 críticas)
+NOTA DE USUARIOS (IGDB): 84/100 (179 votos)
+TAMBIÉN CONOCIDO COMO: 地城守護者, Dungeon Keeper: Evil is Good, DK1, 地下城守护者
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3wg6.jpg
+URL: https://www.igdb.com/games/dungeon-keeper
+
+RESUMEN:
+Dungeon Keeper is a strategy video game in which the player attempts to build and manage a dungeon or lair while protecting it from invading 'hero' characters intent on stealing the player's accumulated treasures and killing various monsters. This was Peter Molyneux's final project with Bullfrog before he left the company in August 1997 to form Lionhead Studios.
+
+The player uses a mouse, represented in-game as a hand, to interact with a bar on the left-hand side of the screen, allowing them to select which rooms to build and which spells to cast. The player can also use the hand to pick up creatures and objects in the dungeon and carry them around, allowing for tactics such as gathering an assault force and dropping off the creatures en masse once a foothold has been established. The hand also allows the player to "slap" objects and thereby interact with them: creatures will hurry up when slapped, some traps will be triggered and prisoners in the Torture Chamber can be tortured.
+
+The main game view is in isometric perspective; this view can be zoomed and rotated. The player also has the option of possessing one of their creatures, and seeing the dungeon from that creature's first-person perspective, as well as using their attacks and abilities. The map is divided into a grid of rectangles, most of which are invisible. A smaller part of the map is shown as a minimap in the top left corner of the screen.
+
+A world map is also available, and at the beginning of the game the player is allocated one of the 20 regions of a fictional, idyllic country to destroy. As the player progresses through these regions, each of which represents a level of the game, the areas previously conquered will appear ransacked, twisted, and evil. Before starting a new level, the Mentor will tell the player about the current region and its attributes. After completing a level, the Mentor will talk about the "improvement" of the destroyed region: "The streets run with the blood of the slain. Screams of pain and howls of anguish rip the night air like a vengeful siren's song. This really is somewhere you can take the kids for the weekend."
+
+The Dungeon Heart represents the Dungeon Keeper's own link to the world. If it is destroyed, the player loses the level, and must restart. Along with the heart, the player begins with a small number of imps, the generic work force for all dungeon activities: they can dig tunnels into the surrounding soil, capture enemy rooms and Portals, mine gold and gems, set traps, and even attack when desperate or threatened. Slapping creatures forces them to work faster for a while, but removes some of their health and happiness.
+
+Once the Imps are busily working, the player must then set up a basic infrastructure: Lairs for monsters, a Hatchery (where chickens, which serve as food for the minions, are bred), and a Treasury for storing gold. After connecting the dungeon to a "Portal", monsters will arrive. As the game progresses, the player moves along a technology tree, unlocking further rooms.
+
+The dungeon has a fleshed-out ecology: some creatures are natural enemies. Flies and Spiders are often found at odds with one another, while a Horned Reaper, if it has gone berserk, will attack all creatures in its path. The goals for each level are fairly straightforward: they generally fall along the lines of eliminating the heroic force or destroying all other Dungeon Keepers on the level.
+
+HISTORIA:
+Casting the player in the role of a malevolent Dungeon Keeper, the game turns the traditional fantasy quest on its head. Rather than a noble hero, the player is the villain, tasked with carving out and managing a sprawling underground dungeon deep beneath the earth. From this dark domain, the Keeper recruits and cares for a host of monstrous minions, digging out chambers, hoarding treasure, and preparing for war. But the dungeon is far from safe: righteous "hero" adventurers repeatedly invade, seeking to plunder its riches, slay its creatures, and bring about the Keeper's downfall. Beating back these intruders is only the beginning. The ultimate ambition is nothing less than total conquest, crushing the heroic forces and rival Dungeon Keepers who hold sway over each realm, until the entire world falls under the shadow of evil.
+
+JUEGOS PARECIDOS:
+Si te gusta Dungeon Keeper, también podrían gustarte: Dungeon Keeper 2, King's Bounty, Majesty: The Fantasy Kingdom Sim, Warhammer: Dark Omen, Overlord, Magicka, The Lord of the Rings: The Battle for Middle-earth, Battle Realms, Dungeon Keeper, Tibia.

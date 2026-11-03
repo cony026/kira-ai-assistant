@@ -1,0 +1,25 @@
+JUEGO: Gunpoint
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Plataformas, Puzle, Estrategia, Aventura, Indie
+TEMAS: Acción, Ciencia ficción, Sigilo, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Suspicious Developments
+PUBLISHER: Suspicious Developments
+FECHA DE LANZAMIENTO: 2013-06-03
+NOTA DE LA CRÍTICA (IGDB): 88/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 83/100 (114 votos)
+TAMBIÉN CONOCIDO COMO: Gunpoint.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1qra.jpg
+URL: https://www.igdb.com/games/gunpoint
+
+RESUMEN:
+Gunpoint is a stealth puzzle game that lets you rewire its levels to trick people. You play a freelance spy who takes jobs from his clients to break into high security buildings and steal sensitive data.
+
+To get past security, you'll need to make creative use of your main gadget: the Crosslink. It lets you see how all the security devices in a level are wired up, and then you can just click and drag with the mouse to wire them differently. So you can connect a lightswitch to a trapdoor, then flick it when a guard walks across to make him fall through.
+
+JUEGOS PARECIDOS:
+Si te gusta Gunpoint, también podrían gustarte: Gods Will Be Watching, Outlast, Soma, The Fall, The Escapists, Tetrobot and Co., Shivah, Iconoclasts, Butcher, Haunt the House: Terrortown.

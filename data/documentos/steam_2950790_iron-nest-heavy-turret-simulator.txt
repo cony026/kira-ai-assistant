@@ -1,0 +1,46 @@
+JUEGO: IRON NEST: Heavy Turret Simulator
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Indie, Simuladores
+DESARROLLADOR: Nick Nieuwoudt, Dominik Latos
+PUBLISHER: Nick Nieuwoudt, Dominik Latos
+FECHA DE LANZAMIENTO: 6 AGO 2026
+PRECIO: $19.99
+RESEÑAS DE USUARIOS (STEAM): Overwhelmingly Positive (12453 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+IRON NEST es un brutal juego de artillería pesada &quot;dieselpunk&quot; donde dominarás el campo de batalla con una colosal máquina de guerra. Recibe coordenadas, mide en el mapa, lleva los hidráulicos al límite y apunta los cañones para desatar golpes devastadores ⟹ ¿Obedecerás al Cuartel General, Operador?
+
+DESCRIPCIÓN DETALLADA:
+Un brutal simulador de artillería pesada dieselpunk donde dominas el campo de batalla a través de una colosal máquina de guerra. Cada palanca, cada dial y cada disparo están bajo tu control. El Cuartel General enviará sus órdenes, pero la cadena de mando termina en la yema de tus dedos. Ellos no cargan con las consecuencias. Tú sí, operador. HAZ QUE CADA DISPARO CUENTE.Los teleimpresores están calibrados para monitorear el tráfico radio local. Uno transmite directivas de MÁXIMA PRIORIDAD del Cuartel General. El otro retransmite llamadas directas desde el frente. Recuerda: toda la información puede determinar el éxito de la operación.Transforma los informes de inteligencia en un plan de batalla, consigue fotos aéreas que revelan el resultado de tus acciones, y observa cómo tus cañones transforman el paisaje. El mapa no está aquí solo para tomar medidas. Es también tu ventana al campo de batalla. No cometas errores. Podrás mover los marcadores, pero las cicatrices permanecen.Ajusta las medidas, gira los números, y mira cómo la calculadora balística avanza hacia las soluciones de tiro. Aumenta las cargas y lanza obuses a través del horizonte, o redúcelas para arquearlos deliberadamente hacia posiciones enemigas. Atención: La máquina puede fallar. Tú no.Atraviesa búnkeres con proyectiles perforantes, cubre retiradas aliadas con humo, y █████ ███████ con gas fosgeno. Nunca ocurrió si no hay testigos. Cada proyectil está forjado con un único propósito, e independientemente del que elijas resonará en el campo de batalla mucho después de que el humo se disipe.Gira la rueda de elevación y contempla cómo los cañones se alzan bajo tus órdenes. Combínalo con las cargas justas de propelente o un ataque quirúrgico se convertirá en un desastre evitable. La precisión lo es todo porque ni el mejor papeleo ni la mejor propaganda van a borrar tu culpabilidad.Tira de la pesada palanca y siente toda la estructura estremecerse a tus pies. Una máquina como el IRON NEST no gira por capricho. Toma tiempo hamacar esa cantidad de hierro con gracia. Los Operadores habilidosos usan ese tiempo para ocuparse de otras tareas. Después de todo, la máquina de café está en tu escritorio por una razón.Tira del disparador, y deja que cientos de toneladas de maquinaria respondan a tu llamada. Siente el retroceso de la torreta y mira como la línea del frente se desmorona ante el peso del acero. Una vez amaine el polvo, solo el silencio queda, colgando pesado en el aire, y al momento de la llegada de nuevas órdenes, todo comienza de nuevo.Características principales✔ Simulador de artillería pesada✔ Estéticas dieselpunk✔ Mapa táctico interactivo✔ Mecanismos masivos manipulables.✔ Control manual de una torreta de 5000 toneladas✔ Objetivos generados proceduralmente✔ Rejugabilidad sin fin✔ 2 Modos de desafío✔ Tablas de puntuación✔ Reportajes en el periódico✔ 30 tipos de municiones y habilidades desbloqueables✔ Compañero felino personalizable  ✔ Bocina de guerra totalmente funcional ✔ Más de 100 medallas desbloqueables✔ Pérdida de audición de grado militar✔ 15 regionesAmbientaciónLa campaña se ubica en una historia alterna de España a finales de los años 1920, al vilo de una guerra civil. En esta línea temporal, la monarquía aún tiene poder, y un sublevamiento republicano se está esparciendo a lo largo del país.El equipoIRON NEST es un apasionado proyecto de Nick Talmers (desarrollador) y Dominik Latos (propaganda). Con más de 20 años de experiencia conjunta y una obsesión innata con la artillería, maquinarias de entreguerras, y dieselpunk, estuvimos construyendo un juego que estuvimos queriendo jugar hace años.Nick ha soñado con IRON NEST por más de una década, y luego de conocerse por colaboraciones de desarrolladores y publishers, decidimos que era tiempo de traer este simulador de torreta-araña pesada, desbordando de acero y poder, a la vida.ReconocimientosLas respuestas han excedido nuestras expectativas. Gracias (de verdad) por cada wishlist, mensaje y cada gota de apoyo. Significa aún más porque el Simulador de Torreta Pesada es solo el primer paso en el universo de IRON NEST.IRON NEST: Simulador de torreta pesada es una experiencia en primera persona de artillería pesada que mezcla resolución de problemas tacticos, manejo complejo de maquinaria belica, y desiciones estrategicas dentro de un genero propio. Más allá de la campaña, compite en modos de desafío con tablas de puntuaciones, y adapta tu estrategia con un sistema de solicitudes basado en cartas.LA PÉRDIDA DE AUDICIÓN NO ESTÁ RELACIONADA AL SERVICIO
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Requiere un procesador y sistema operativo de 64 bits
+
+- Procesador: Intel Core i5-4460 / AMD FX-8350
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: Intel UHD / AMD Vega 8
+
+- DirectX: Versión 10
+
+- Almacenamiento: 5 GB de espacio disponible
+
+- Notas adicionales: Minimum specs target an average of 30 FPS at 720p, low settings. A dedicated GPU is recommended for a smoother experience. Performance may vary significantly depending on system configuration and thermal conditions.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: 64-bit processor and operating system
+
+- Procesador: Intel Core i5-8400 / AMD Ryzen 5 2600
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GTX 1060 6GB / AMD RX 580 8GB
+
+- DirectX: Versión 10
+
+- Almacenamiento: 5 GB de espacio disponible

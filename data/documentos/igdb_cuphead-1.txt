@@ -1,0 +1,23 @@
+JUEGO: Cuphead
+
+FUENTE: IGDB
+PLATAFORMA: Linux
+DISPONIBLE EN: Linux
+GÉNEROS: Shooter, Plataformas, Aventura, Indie, Arcade
+TEMAS: Acción, Fantasía, Comedia
+MODOS DE JUEGO: Un jugador, Cooperativo
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Studio MDHR
+PUBLISHER: Studio MDHR
+FECHA DE LANZAMIENTO: 2019-09-29
+NOTA DE USUARIOS (IGDB): 90/100 (31 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co65ip.jpg
+URL: https://www.igdb.com/games/cuphead--1
+
+RESUMEN:
+A port of Cuphead that was released as a part of Tesla’s 10.0 software update. Due to the Tesla hardware of the time, the game only featured the first world of the game.
+
+In December 2022, the port was made obsolete in certain Tesla models due to a software update which adds Steam connectivity.
+
+JUEGOS PARECIDOS:
+Si te gusta Cuphead, también podrían gustarte: Never Give Up, Sky Racket, Tower Fortress, Degrees of Separation, Caveman Warriors, The Last Tinker: City of Colors, Dadish 3, Wallachia: Reign of Dracula, Knightmare Tower, Gunslugs 2.

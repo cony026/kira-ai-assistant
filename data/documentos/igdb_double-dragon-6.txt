@@ -1,0 +1,25 @@
+JUEGO: Double Dragon
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Wii, Family Computer, Wii U
+DISPONIBLE EN: Arcade, Wii, Family Computer, Wii U, Nintendo Entertainment System
+GÉNEROS: Peleas, Hack and slash, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Technos Japan, Arc System Works
+PUBLISHER: Technos Japan, Arc System Works
+FECHA DE LANZAMIENTO: 1988-04-08
+NOTA DE USUARIOS (IGDB): 66/100 (32 votos)
+FRANQUICIA: Double Dragon
+TAMBIÉN CONOCIDO COMO: ダブルドラゴン 
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4wxt.jpg
+URL: https://www.igdb.com/games/double-dragon--6
+
+RESUMEN:
+The NES version of Double Dragon takes a wide range of liberties with the interpretation. The entire graphical style is more in line with Technōs’ Kunio-kun series, with characters that go for exaggerated expression rather than gritty realism.
+
+The biggest change, however, was reserved for the moveset. You start the game with only the punch, kick and headbutt available – all the other moves are obtained via an RPG-lite style experience system. Hitting enemies is now rewarded with a certain amount of experience points depending on the attack, and each time the counter goes above 999, you’re awarded an additional heart, which extends the range of possible actions. Two hearts add the uppercut and roundhouse kick combo finishers, and with three Billy can perform the jump kick maneuver. The fourth heart unlocks access to grappling moves.
+
+JUEGOS PARECIDOS:
+Si te gusta Double Dragon, también podrían gustarte: Yie Ar Kung-Fu, Urban Champion, Kill la Kill: If, Guilty Gear: Strive, River City Girls, One Finger Death Punch 2, BlazBlue: Cross Tag Battle, Cobra Kai: The Karate Kid Saga Continues, Nitroplus Blasterz: Heroines Infinite Duel, Vengeance of Mr. Peppermint.

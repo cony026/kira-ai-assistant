@@ -1,0 +1,23 @@
+JUEGO: TrackMania
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Carreras, Deportes, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Nadeo
+PUBLISHER: Focus Entertainment, Enlight Software Limited, Digital Jesters
+FECHA DE LANZAMIENTO: 2003-11-21
+NOTA DE LA CRÍTICA (IGDB): 81/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 83/100 (43 votos)
+FRANQUICIA: TrackMania
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4vfw.jpg
+URL: https://www.igdb.com/games/trackmania
+
+RESUMEN:
+TrackMania is a racing game and the first entry in the TrackMania series, combining driving with track construction. Players race across circuits filled with jumps, loops, and tight corners to earn in-game currency, which is spent on building blocks used to design their own tracks on a snapping grid. Three environments, Rally, Snow, and Desert, each provide a distinct car and handling style, and the game includes Race, Puzzle, and Survival modes. Players can create custom car skins and share their tracks and skins online, and the game supports hotseat, LAN, and internet multiplayer. A later re-release, TrackMania Original, added new block types and features.
+
+JUEGOS PARECIDOS:
+Si te gusta TrackMania, también podrían gustarte: TrackMania Sunrise, TrackMania 2: Canyon, TrackMania Nations Forever, Sega Rally Championship, TrackMania 2: Valley, Moto Racer, Ace Driver: Victory Lap, American Chopper, Elasto Mania, Turbo Golf Racing.

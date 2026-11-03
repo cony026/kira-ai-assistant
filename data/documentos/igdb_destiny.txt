@@ -1,0 +1,33 @@
+JUEGO: Destiny
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, PlayStation 4, Xbox 360, Xbox One
+DISPONIBLE EN: PlayStation 3, PlayStation 4, Xbox 360, Xbox One
+GÉNEROS: Shooter, RPG
+TEMAS: Acción, Ciencia ficción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, MMO
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Bungie
+PUBLISHER: Activision, ND Games
+FECHA DE LANZAMIENTO: 2014-09-09
+NOTA DE LA CRÍTICA (IGDB): 78/100 (17 críticas)
+NOTA DE USUARIOS (IGDB): 72/100 (488 votos)
+TAMBIÉN CONOCIDO COMO: Tiger, Destiny The Game
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1rco.jpg
+URL: https://www.igdb.com/games/destiny
+
+RESUMEN:
+Bungie has emphasized that the universe of Destiny will be "alive". Events may happen in-game that are not necessarily controlled or planned by the developer, which will help to create a dynamic developing experience for Bungie and a dynamic playing experience for gamers. The game's style has been described a first-person shooter that will incorporate massively multiplayer online game (MMO) elements, but Bungie has avoided defining Destiny as a traditional MMO game. Instead, the game has been referred to as a "shared-world shooter," as it lacks many of the characteristics of a traditional MMO game. For instance, rather than players being able to see and interact with all other players in the game or on a particular server—as is the case in many conventional MMO games—Destiny will include on-the-fly matchmaking that will allow players to see and interact only with other players with whom they are "matched" by the game.
+Destiny will incorporate a new game engine that allows global illuminations and real-time dynamic lighting to occur together. An innovation in Bungie's "hopper" technology, which has been the backbone for Halo's matchmaking system, will allow better player matchmaking in order to create a more natural experience in either cooperative or competitive multiplayer modes.
+
+HISTORIA:
+Setting
+Destiny is set in the distant future, after an event referred to as the Collapse ended the Golden Age that was started by the discovery of The Traveler, and pushed humanity to the brink of extinction. The force responsible for the Collapse is known as The Darkness, and indirectly acts as the primary antagonist. Battles against the forces of The Darkness are fought at various locations throughout the Solar System.
+
+Plot
+The game begins with the player's Ghost resurrecting them as a Guardian, after having been dead for an unknown length of time. The Guardian is quickly forced to fight Fallen who have inhabited the ruins of the nearby Cosmodrome in Old Russia. The Guardian, with the aid of their Ghost, is able to secure a jumpship and escape to The Tower that houses the Guardians on The City border.
+
+After being outfitted and introduced to the Vanguard, and Gunsmith, the duo learn from Amanda Holliday that their Arcadia Class Jumpship is missing its Warp Drive, a component necessary for interplanetary travel. Due to the scarcity of the part and flyable jumpships in general, the Guardian is forced to return to where they found the ship in an attempt to find the part.
+
+JUEGOS PARECIDOS:
+Si te gusta Destiny, también podrían gustarte: Call of Duty: Black Ops III, Titanfall, Star Wars Battlefront, Destiny 2, The Elder Scrolls Online, Halo 5: Guardians, Call of Duty: Advanced Warfare, Bloodborne, Call of Duty: Infinite Warfare, Borderlands.

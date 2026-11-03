@@ -1,0 +1,10 @@
+JUEGO: Pokémon Violet
+PLATAFORMA: Nintendo Switch
+GÉNEROS: RPG, Aventura
+NOTA METACRITIC: 84
+
+RESEÑA / DESCRIPCIÓN:
+Pokémon Violet es el juego hermano de Scarlet con el mismo mundo abierto de Paldea pero diferente versión exclusiva de Pokémon. Explora libremente, realiza misiones en cualquier orden y personaliza tu aventura. Características de batalla dinámica y cooperativa multijugador.
+
+REQUISITOS MÍNIMOS:
+Nintendo Switch

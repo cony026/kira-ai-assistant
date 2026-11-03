@@ -1,0 +1,21 @@
+JUEGO: MDK
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac, DOS, PlayStation
+DISPONIBLE EN: PC (Microsoft Windows), Mac, DOS, PlayStation
+GÉNEROS: Shooter, Plataformas
+TEMAS: Acción, Ciencia ficción, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Shiny Entertainment
+PUBLISHER: Playmates Interactive Entertainment, Interplay Entertainment
+FECHA DE LANZAMIENTO: 1997-01-01
+NOTA DE USUARIOS (IGDB): 77/100 (111 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co255x.jpg
+URL: https://www.igdb.com/games/mdk
+
+RESUMEN:
+The game tells the story of Kurt Hectic, a janitor who reluctantly must attempt to save Earth from an alien invasion of gigantic strip mining city-size vehicles named "Minecrawlers". These Minecrawlers are not only removing all of earth's natural resources, but are also crushing any people and cities that get in their way. Aided by his boss, the (possibly) insane inventor/scientist Dr. Fluke Hawkins, and a genetically engineered robotic two-legged/four-armed dog named Bones (although he prefers Max), Kurt must infiltrate each Minecrawler, and fight his way to the pilot, whom he must then kill before returning to Hawkins' in-orbit space station, the Jim Dandy.
+
+JUEGOS PARECIDOS:
+Si te gusta MDK, también podrían gustarte: MDK2, Turrican, Oddworld: Abe's Oddysee, Earthworm Jim, Contra 4, Nux, Unreal II: The Awakening, Half-Life 2: Lost Coast, Contra III: The Alien Wars, Outcast.

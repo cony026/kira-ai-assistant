@@ -1,0 +1,98 @@
+JUEGO: Crimson Desert Enhanced
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura
+DESARROLLADOR: Pearl Abyss
+PUBLISHER: Pearl Abyss
+FECHA DE LANZAMIENTO: 19 MAR 2026
+PRECIO: $55.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (167755 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Crimson Desert es un juego de acción y aventura en mundo abierto ambientado en Pywel. Acompaña a Kliff en su viaje para reunir a los Melenas Grises y salvar el continente. Zonas salvajes, ciudades, ruinas antiguas y el misterioso Abismo; forja tu propio camino a través del combate y la exploración.
+
+DESCRIPCIÓN DETALLADA:
+Descubre una versión mejorada de Crimson Desert, con nuevas cinemáticas e historias, además de más idiomas y doblaje.
+
+Embárcate en la aventura que ha cautivado a millones de jugadores, perfeccionada desde su lanzamiento con numerosas actualizaciones que incluyen nuevos contenidos, monturas, mascotas, opciones de personalización, mejoras de calidad de vida y mucho más.En el continente de Pywel, las facciones rivales de Pailune mantenían un equilibrio tenso. Junto a Kliff estaban sus fieles compañeros Melena Gris, pero una emboscada devastadora en plena noche, perpetrada por sus eternos rivales, los Osos Negros, dejó a varios miembros de los Melenas Grises muertos o dispersos por todo el continente. Tras perder a sus compañeros, a quienes consideraba su familia, Kliff está decidido a reunirse con los supervivientes y reconstruir la facción. Sin embargo, en un viaje donde se forjan alianzas, abundan los peligros y surgen facciones misteriosas, Kliff se cruzará con quienes desean cambiar el destino del continente y deberá afrontar una misión que jamás habría imaginado.Te damos la bienvenida a Pywel. Aquí descubrirás parajes de una belleza natural indómita: desde verdes llanuras y bosques hasta desiertos áridos y montañas escarpadas. Todo ello junto a ciudades bulliciosas y aldeas tranquilas donde conviven habitantes de toda clase y condición. En tus viajes hallarás monumentos, ruinas antiguas y tesoros ocultos; puntos de interés que despertarán tu curiosidad y te invitarán a explorar. Inevitablemente, tu periplo también te llevará  hacia los cielos, al misterioso reino conocido como el Abismo. Allí deberás restaurar el equilibrio místico que amenaza la supervivencia del mundo.Explora el mundo a tu antojo y descubre los múltiples caminos que se abren ante ti. Vive las historias y leyendas del continente a través de misiones, encuentros, desafíos y combates. Recorre estas tierras sobre diversas monturas —desde caballos hasta dragones y robots— y escala acantilados o muros desde los que saltar para planear por el cielo.La historia de Crimson Desert gira en torno a Kliff. Pero, a medida que se desarrolla su aventura, se unirán a tu viaje 2 nuevos personajes jugables: Oongka y Damiane. Cuando estos personajes estén disponibles, podrás explorar libremente Pywel y emprender muchas misiones al margen de la historia principal con ellos. Cada personaje tiene su propio estilo de combate, además de habilidades y armas únicas, lo que te permitirá vivir el mundo y sus batallas de formas distintas.En los implacables campos de batalla de Crimson Desert, no hay un único camino hacia la victoria. Amplía tu arsenal de habilidades, armas y equipo, y decide cómo quieres utilizarlos. Las potentes técnicas de arma pueden combinarse con duros puñetazos y patadas a mano limpia, además de una amplia variedad de agarres, para crear cadenas de ataques fluidas. Consigue armas como espadas, lanzas, mandobles, hachas, armas dobles, diversas armas a distancia y más, y desata poderosas habilidades y mejoras elementales mediante combinaciones letales. Mantente móvil e implacable con deslizamientos, esquivas, contraataques y tajos que enlazan directamente con tu siguiente golpe. Con cada impacto y cada movimiento, forja tu propio camino en un mundo donde una fracción de segundo puede decidir tu destino en combates frenéticos y viscerales.Desde guerreros despiadados hasta bestias temibles, en Pywel hay quienes buscarán tu caída. Enfréntate a una amplia variedad de enemigos y jefes desafiantes en brutales duelos uno contra uno, batallas a gran escala y escaramuzas rápidas, y prevalece ante cualquier amenaza que se interpongan en tu camino.Pywel no es solo un continente de batallas y exploración. Es un mundo donde los pequeños momentos también marcan tu viaje y forman parte de tu día a día. Mejora el campamento de los Melenas Grises, el punto de partida en el camino para reclamar la tierra natal perdida de los Melenas Grises en Pailune. Reúne recursos, cocina, pesca, caza y participa en las distintas actividades de Pywel para recuperar estadísticas, fortalecer tu equipo y mucho más. Disfruta de momentos de ocio jugando a minijuegos con los lugareños a lo largo del viaje. Y dar forma a tu vida diaria también incluye personalización. Cambia peinados, tatuajes, atuendos y más usando tintes que elaboras o recoges en tu viaje.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-bit	
+
+- Procesador: Ryzen 5 2600X / i5-8500
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: RX 5500 XT / GTX 1060 
+
+- DirectX: Versión 12
+
+- Almacenamiento: 150 GB de espacio disponible
+
+- Tarjeta de sonido: Windows Compatible Audio Device
+
+- Notas adicionales: Requiere SSD.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-bit	
+
+- Procesador: Ryzen 5 5600 / i5-11600K
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: RX 6700 XT / RTX 2080
+
+- DirectX: Versión 12
+
+- Almacenamiento: 150 GB de espacio disponible
+
+- Tarjeta de sonido: Windows Compatible Audio Device
+
+- Notas adicionales: Requiere SSD.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- Requiere un procesador Apple
+
+- SO: MacOS 15.0 or later
+
+- Procesador: Apple M2 Pro, M3, M4
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: M2 Pro, M3, M4
+
+- Almacenamiento: 150 GB de espacio disponible
+
+- Tarjeta de sonido: macOS compatible audio device
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- Requiere un procesador Apple
+
+- SO: MacOS 15.0 or later
+
+- Procesador: Apple M3 Pro, M4 Pro, M5
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: M3 Pro, M4 Pro, M5
+
+- Almacenamiento: 150 GB de espacio disponible
+
+- Tarjeta de sonido: macOS compatible audio device
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

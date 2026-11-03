@@ -1,0 +1,23 @@
+JUEGO: McPixel
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Linux, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: Point and click, Puzle, Aventura, Indie
+TEMAS: Acción, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Sos, Sos Sosowski
+PUBLISHER: Sos, Sos Sosowski
+FECHA DE LANZAMIENTO: 2012-07-09
+NOTA DE LA CRÍTICA (IGDB): 75/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 72/100 (37 votos)
+TAMBIÉN CONOCIDO COMO: McLauncher.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co21cd.jpg
+URL: https://www.igdb.com/games/mcpixel
+
+RESUMEN:
+McPixel is a save-the-day guy that you guide through 100 short challenges in an old-school point'n'click fashion. The goal in each challenge is to prevent stuff from blowing up using available tools! You have only 20 seconds to save the day! Think quick!
+
+JUEGOS PARECIDOS:
+Si te gusta McPixel, también podrían gustarte: DeathSpank, Deponia, Unepic, Gods Will Be Watching, Pony Island, Little Inferno, Gomo, Hell Yeah! Wrath of the Dead Rabbit, Chaos on Deponia, To the Moon.

@@ -1,0 +1,23 @@
+JUEGO: Baba Is You
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Linux, Android, PC (Microsoft Windows), iOS, Mac, Nintendo Switch
+GÉNEROS: Puzle, Estrategia, Indie
+TEMAS: Acción, Fantasía
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: hempuli
+PUBLISHER: hempuli
+FECHA DE LANZAMIENTO: 2019-03-13
+NOTA DE LA CRÍTICA (IGDB): 80/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 81/100 (194 votos)
+TAMBIÉN CONOCIDO COMO: Baba Is You.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2hqt.jpg
+URL: https://www.igdb.com/games/baba-is-you
+
+RESUMEN:
+Baba Is You is a puzzle game where you can change the rules by which you play. In every level, the rules themselves are present as blocks you can interact with; by manipulating them, you can change how the level works and cause surprising, unexpected interactions! With some simple block-pushing you can turn yourself into a rock, turn patches of grass into dangerously hot obstacles, and even change the goal you need to reach to something entirely different.
+
+JUEGOS PARECIDOS:
+Si te gusta Baba Is You, también podrían gustarte: Patrick's Parabox, A Dance of Fire and Ice, Drova: Forsaken Kin, Slap the Rocks, A Good Snowman is Hard to Build, Spindle, Opus Magnum, Melatonin, Death and Taxes, Bomb Chicken.

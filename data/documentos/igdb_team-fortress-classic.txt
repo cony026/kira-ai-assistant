@@ -1,0 +1,22 @@
+JUEGO: Team Fortress Classic
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter
+TEMAS: Acción, Comedia
+MODOS DE JUEGO: Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve
+PUBLISHER: Sierra Entertainment
+FECHA DE LANZAMIENTO: 1999-04-07
+NOTA DE USUARIOS (IGDB): 71/100 (68 votos)
+TAMBIÉN CONOCIDO COMO: Team Fortress 1.5, hl.exe, TFC
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coc32j.jpg
+URL: https://www.igdb.com/games/team-fortress-classic
+
+RESUMEN:
+One of the most popular online action games of all time, Team Fortress Classic features over nine character classes -- from Medic to Spy to Demolition Man -- enlisted in a unique style of online team warfare. Each character class possesses unique weapons, items, and abilities, as teams compete online in a variety of game play modes.
+
+JUEGOS PARECIDOS:
+Si te gusta Team Fortress Classic, también podrían gustarte: Counter-Strike: Condition Zero, Counter-Strike, Day of Defeat, Half-Life 2: Deathmatch, Quake III Arena, Crossfire, Global Operations, Red Orchestra: Ostfront 41-45, Battlefield 2, Insurgency.

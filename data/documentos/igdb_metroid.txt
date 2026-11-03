@@ -1,0 +1,24 @@
+JUEGO: Metroid
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Nintendo 3DS, Wii, Wii U
+DISPONIBLE EN: Arcade, Nintendo 3DS, Wii, Wii U, Nintendo Entertainment System
+GÉNEROS: Shooter, Plataformas, Aventura
+TEMAS: Acción, Ciencia ficción, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Nintendo R&D1
+PUBLISHER: Playtronic, Nintendo
+FECHA DE LANZAMIENTO: 1987-08-01
+NOTA DE LA CRÍTICA (IGDB): 60/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 72/100 (241 votos)
+FRANQUICIA: Metroid
+TAMBIÉN CONOCIDO COMO: Метроид
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1xe8.jpg
+URL: https://www.igdb.com/games/metroid
+
+RESUMEN:
+It's you against the evil Mother Brain in the thrilling battle of Metroid! You're inside the fortress planet Zebes. The planet of endless secret passageways where the Metroid are multiplying. Left alone the Metroid are harmless. But in the wrong hands they could destroy the galaxy. It's up to you to prevent the Mother Brain that controls Zebes from using the Metroid for evil purposes. But that won't be easy. You'll have to use your spacesuit to absorb valuable energy for your search to gain the use of power items like the Ice Beam, Wave Beam, High Jump Boots and Varia. If you survive, it will be you and your acquired powers against the Mother Brain.
+
+JUEGOS PARECIDOS:
+Si te gusta Metroid, también podrían gustarte: Super Metroid, Metroid Fusion, Castlevania II: Simon's Quest, Metroid Prime, Metroid Prime 3: Corruption, Mega Man X, Super Mario World, Mega Man ZX, Castlevania: Aria of Sorrow, Metroid Prime Hunters.

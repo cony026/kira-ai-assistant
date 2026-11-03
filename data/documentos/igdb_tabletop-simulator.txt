@@ -1,0 +1,22 @@
+JUEGO: Tabletop Simulator
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), SteamVR, Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), SteamVR, Mac
+GÉNEROS: RPG, Simulación, Estrategia, Indie, Cartas y tablero
+TEMAS: Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Tercera persona, Realidad virtual
+DESARROLLADOR: Berserk Games
+PUBLISHER: Berserk Games
+FECHA DE LANZAMIENTO: 2015-06-05
+NOTA DE USUARIOS (IGDB): 82/100 (113 votos)
+TAMBIÉN CONOCIDO COMO: TTS, Tabletop Simulator.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co20xe.jpg
+URL: https://www.igdb.com/games/tabletop-simulator
+
+RESUMEN:
+Tabletop Simulator is the only simulator where you can let your aggression out by flipping the table! There are no rules to follow: just you, a physics sandbox, and your friends. Make your own games and play how you want! Unlimited gaming possibilities!
+
+JUEGOS PARECIDOS:
+Si te gusta Tabletop Simulator, también podrían gustarte: Teardown, Airships: Conquer the Skies, Wobbly Life, Soulmask, Hytale, Survivalist: Invisible Strain, Factorio, Garry's Mod, Growtopia, Besiege.

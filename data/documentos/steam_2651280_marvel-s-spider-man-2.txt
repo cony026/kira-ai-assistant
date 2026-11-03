@@ -1,0 +1,61 @@
+JUEGO: Marvel's Spider-Man 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura
+DESARROLLADOR: Insomniac Games, Nixxes Software
+PUBLISHER: PlayStation Publishing LLC
+FECHA DE LANZAMIENTO: 30 ENE 2025
+PRECIO: $59.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (45630 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Los grandes héroes se forjan juntos. El increíble poder del simbionte lleva a Peter Parker y Miles Morales a una lucha desesperada mientras intentan equilibrar sus vidas, sus amistades y su deber de proteger a los demás en un emocionante capítulo de la aclamada franquicia Spider-Man en PC.
+
+DESCRIPCIÓN DETALLADA:
+La edición incluye:
+- Marvel’s Spider-Man 2El Sentido Arácnido se ha activado…Ponte la máscara y lánzate a la acción con la llegada a PC de Marvel’s Spider-Man 2. Desarrollado por Insomniac Games en colaboración con Marvel y optimizado para PC por Nixxes Software. ¡Una ciudad asediada!Los dos Spider-Men, Peter Parker y Miles Morales, se enfrentan a la prueba de fortaleza definitiva, tanto con máscara como sin ella, en su lucha por salvar la ciudad, sus vidas y a sus seres queridos de la amenaza del monstruoso Venom y el peligroso nuevo simbionte.Recorre una versión expandida de la Nueva York de MarvelExplora una versión más grande de la Nueva York de Marvel que incluye nuevos barrios (Brooklyn y Queens), además de nuevas ubicaciones como Coney Island entre otras.Balancéate, salta y usa las alarañas para viajar por la ciudad, alternando rápidamente entre Peter Parker y Miles Morales en un mundo abierto que tendrás que explorar para descubrir historias distintas y poderes épicos.Juega con dos Spider-Men distintosAprovecha las nuevas técnicas de simbionte de Peter y los poderes bioeléctricos explosivos de Miles y descubre equipo de alta tecnología que podrás actualizar para mejorar la profunda y variada experiencia de combate.Combate contra supervillanos icónicos de Marvel¡Enfréntate a una gran variedad de villanos nuevos y emblemáticos, como el monstruoso Venom, el despiadado Kraven el Cazador, el impredecible Lizard y muchos más!Una experiencia de Spider-Man más accesibleCompatible con una variedad de funciones de accesibilidad para que jugadores con distintas capacidades puedan disfrutar de una experiencia de Marvel’s Spider-Man sin barreras.Características de PCGráficos optimizados en PCSi vas a salvar el mundo, que sea con estilo: disfruta de la mejor calidad gráfica y velocidades de fotogramas superiores. Aprovecha tecnologías como el escalado y la generación de fotogramas de NVIDIA DLSS 3 y AMD FSR 3.1¹. También compatible con la tecnología de escalado Intel XeSS.¹Trazado de rayos mejorado¹Los reflejos, las sombras y la oclusión ambiental hacen que la Nueva York de Marvel cobre vida a tu alrededor. Prueba los diferentes modos de calidad disponibles y disfruta de las espectaculares vistas de la ciudad desde las alturas. Si dispones de la GPU NVIDIA GeForce RTX, podrás aplicar además la reconstrucción de rayos de DLSS. Esta técnica utiliza una red de IA entrenada por un superordenador NVIDIA para generar píxeles de mayor calidad entre los rayos muestreados, dando como resultado imágenes más nítidas y fieles.Compatibilidad con monitores ultrapanorámicos²Disfruta de una claridad de imagen sin precedentes con una gran selección de configuraciones de pantalla, incluidas las resoluciones 16:9, 16:10, 21:9, 32:9 y 48:9con sistemas de tres pantallas de NVIDIA Surround o AMD Eyefinity.Superposición de PlayStation® y trofeosLos usuarios de PC ya pueden aprovechar la superposición de PlayStation® y ganar trofeos, acceder a listas de amigos, a los ajustes y a su perfil de jugador.Pulsa el atajo mayús + F1, o bien sigue el menú del juego para abrir la superposición.Controles y personalizaciónSiente el auténtico poder de Spider-Man en tus manos con el mando DualSense® de PlayStation a través de la conexión USB, o disfruta de una compatibilidad completa con ratones y teclados.Retroalimentación háptica de Dualsense³Controla las técnicas de simbionte de Peter Parker y las habilidades bioeléctricas de Miles Morales con las vibraciones dinámicas del mando DualSense.Gatillos adaptativos de DualSense³Domina movimientos acrobáticos, ejecuta emocionantes combos y vive la impresionante sensación de balancearte con las telarañas gracias a los gatillos adaptativos del mando inalámbrico DualSense.¹ Requiere un PC compatible.² Requiere un PC y una pantalla compatibles.³ Requiere conexión por cable para aprovechar todas las funciones del mando en el juego.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11 (version 1909 or higher)
+
+- Procesador: Intel Core i3-8100 or AMD Ryzen 3 3100
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1650 or AMD Radeon RX 5500 XT
+
+- Almacenamiento: 140 GB de espacio disponible
+
+- Notas adicionales: SSD Required
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11 (version 1909 or higher)
+
+- Procesador: Intel Core i5-8400 or AMD Ryzen 5 3600
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce RTX 3060 or AMD Radeon RX 5700
+
+- Almacenamiento: 140 GB de espacio disponible
+
+- Notas adicionales: SSD Required
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

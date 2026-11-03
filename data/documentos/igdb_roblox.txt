@@ -1,0 +1,25 @@
+JUEGO: Roblox
+
+FUENTE: IGDB
+PLATAFORMA: Meta Quest 2, PlayStation 4, Android, PC (Microsoft Windows)
+DISPONIBLE EN: Meta Quest 2, PlayStation 4, Android, PC (Microsoft Windows), iOS, Meta Quest 3, PlayStation 5, Mac, Xbox One
+GÉNEROS: Plataformas, Simulación, Aventura
+TEMAS: Acción, Sandbox, Infantil, Mundo abierto
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona, Tercera persona, Realidad virtual
+DESARROLLADOR: Roblox Corporation
+PUBLISHER: Roblox Corporation
+FECHA DE LANZAMIENTO: 2006-09-01
+NOTA DE USUARIOS (IGDB): 70/100 (455 votos)
+TAMBIÉN CONOCIDO COMO: 로블록스, ROBLOX, Dynablocks, GoBlocks, Roblox Select
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cociyw.jpg
+URL: https://www.igdb.com/games/roblox
+
+RESUMEN:
+Roblox is a massively multiplayer online platform marketed toward creators and players of all ages. It allows users to create their own virtual games using a variety of objects, which they and others can enter and socialize in. Games created on Roblox can be scripted using a sandboxed scripting language based on Lua 5.1 to affect events that occur in-game and create different scenarios.
+
+HISTORIA:
+Roblox is a user-generated content platform and game creation system with no overarching narrative; players create and share their own experiences rather than following a developer-authored story.
+
+JUEGOS PARECIDOS:
+Si te gusta Roblox, también podrían gustarte: Drug Dealer Simulator 2, Teardown, My Time at Sandrock, Growtopia, Unravel Two, MudRunner, Bloxd.io, Riders Republic, Wobbly Life, Sniper Elite 5.

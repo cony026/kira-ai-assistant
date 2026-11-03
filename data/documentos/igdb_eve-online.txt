@@ -1,0 +1,26 @@
+JUEGO: Eve Online
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: RPG, Simulación, Estrategia
+TEMAS: Acción, Ciencia ficción, Sandbox, Mundo abierto
+MODOS DE JUEGO: Multijugador, Cooperativo, MMO
+PERSPECTIVA: Primera persona, Tercera persona, Isométrica
+DESARROLLADOR: Fenris Creations
+PUBLISHER: THQ, Simon & Schuster, Atari Europe, Crucial Entertainment, Fenris Creations
+FECHA DE LANZAMIENTO: 2003-05-06
+NOTA DE LA CRÍTICA (IGDB): 79/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 78/100 (101 votos)
+TAMBIÉN CONOCIDO COMO: EVE Online, EVE, 星战前夜, evelauncher.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cociug.jpg
+URL: https://www.igdb.com/games/eve-online
+
+RESUMEN:
+EVE Online is a free MMORPG sci-fi strategy game where you can embark on your own unique space adventure. EVE's open world MMORPG sandbox, renowned among online space games, lets you choose your own path and engage in combat, exploration, industry and much more.
+
+HISTORIA:
+Set more than 21,000 years in the future, the background story of Eve Online explains that humanity, having used up most of Earth's resources through centuries of explosive population growth, began colonizing the rest of the Milky Way. As on Earth, this expansion also led to competition and fighting over available resources, but everything changed with the discovery of a natural wormhole leading to an unexplored galaxy subsequently dubbed "New Eden." Dozens of colonies were founded, and a structure, a gate of sorts (which bears the inscription "EVE" on the New Eden side), was built to stabilize the wormhole that linked the colonies of New Eden with the rest of human civilization. However, when the wormhole unexpectedly collapsed, it destroyed the gate as well as the connection between the colonies of New Eden and the Milky Way. Cut off from the rest of humanity and supplies from Earth, the colonies of New Eden were left starving and disconnected from one another; many died out entirely. Over the millennia the descendants of the surviving colonists managed to rebuild their own societies, but by this time the memories and knowledge of humanity's origins, of Earth and the Milky Way galaxy, as well as the history of the settling of New Eden, was lost; what little information that survived transmission over the generations was misunderstood, lost in translation, and/or consigned to mythology. Five major distinct societies rose to prominence from the surviving colonies, each growing into interstellar spaceflight-capable civilizations. The states based around these societies make up the five major factions in Eve Online: the Amarr Empire, the Caldari State, the Gallente Federation, the Minmatar Republic and the Jove Directorate.
+
+JUEGOS PARECIDOS:
+Si te gusta Eve Online, también podrían gustarte: Star Trek Online, Elite: Dangerous, Perfect World, RuneScape, Ultima Online, Tera, War Thunder, PlanetSide 2, Ryzom, Spiral Knights.

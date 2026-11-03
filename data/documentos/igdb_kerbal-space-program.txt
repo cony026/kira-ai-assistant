@@ -1,0 +1,23 @@
+JUEGO: Kerbal Space Program
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: PlayStation 4, Linux, PC (Microsoft Windows), Mac, Wii U, Xbox One, Nintendo Switch
+GÉNEROS: Simulación, Indie
+TEMAS: Ciencia ficción, Sandbox, Educativo, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona, Tercera persona, Isométrica
+DESARROLLADOR: Squad
+PUBLISHER: Private Division
+FECHA DE LANZAMIENTO: 2015-04-27
+NOTA DE LA CRÍTICA (IGDB): 87/100 (7 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (209 votos)
+TAMBIÉN CONOCIDO COMO: KSP
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co26n5.jpg
+URL: https://www.igdb.com/games/kerbal-space-program
+
+RESUMEN:
+In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.
+
+JUEGOS PARECIDOS:
+Si te gusta Kerbal Space Program, también podrían gustarte: SpaceEngine, Take on Mars, Evochron Mercenary, Juno: New Origins, Creativerse, Outer Wilds, DarkStar One, Universe Sandbox, Flight of Nova, Interplanetary.

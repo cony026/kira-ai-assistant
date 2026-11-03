@@ -1,0 +1,29 @@
+JUEGO: Star Fox
+
+FUENTE: IGDB
+PLATAFORMA: Super Nintendo Entertainment System, Super Famicom
+DISPONIBLE EN: Super Nintendo Entertainment System, Super Famicom
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Nintendo Entertainment Analysis & Development
+PUBLISHER: Nintendo, Playtronic
+FECHA DE LANZAMIENTO: 1993-02-21
+NOTA DE LA CRÍTICA (IGDB): 70/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (170 votos)
+FRANQUICIA: Star Fox
+TAMBIÉN CONOCIDO COMO: StarFox, Star Wing
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co99og.jpg
+URL: https://www.igdb.com/games/star-fox
+
+RESUMEN:
+Star Fox, released as Starwing in Europe, is a 1993 rail shooter video game developed and published by Nintendo, with assistance from Argonaut Software, for the Super Nintendo Entertainment System. The first game in the Star Fox series, Star Fox follows Fox McCloud and the rest of the Star Fox team defending their homeworld of Corneria against the attacking forces of Andross.
+
+HISTORIA:
+This game takes place in a binary solar system called the Lylat system, which is inhabited by humanlike animal races (e.g. foxes, frogs, dogs, birds, rabbits, apes, etc.). It contains the planets Corneria and Venom, representing good and evil, respectively. One can visit many other planets, asteroid belts, space stations, etc. while going through the course of the game. Which path the player chooses affects what places they will encounter.
+
+Andross, a scientist, has fled to Planet Venom after being banished from Planet Corneria, and has now declared war on Corneria and unleashed an enormous army to wreak havoc on the Lylat system. General Pepper, the commanding officer of Corneria's defense force, has decided to dispatch a prototype high-performance fighter aircraft called the "Arwing." However, lacking in time to train pilots for the new fighters, he summons the elite mercenary team Star Fox to defeat Andross. Fox McCloud, the leader of the team, is accompanied by his teammates Falco Lombardi, Peppy Hare, and Slippy Toad.
+
+JUEGOS PARECIDOS:
+Si te gusta Star Fox, también podrían gustarte: Star Fox 64, Star Fox: Assault, Star Fox Adventures, Star Fox Zero, Phoenix, Star Fox Command, Iridion 3D, Star Fox 2, Star Wars: TIE Fighter, Panzer Dragoon Orta.

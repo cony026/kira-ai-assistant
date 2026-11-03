@@ -1,0 +1,22 @@
+JUEGO: DCS World
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Simulación
+TEMAS: Sandbox, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona, Tercera persona, Isométrica, Vista lateral, Realidad virtual
+DESARROLLADOR: Eagle Dynamics
+PUBLISHER: Eagle Dynamics
+FECHA DE LANZAMIENTO: 2008-10-17
+NOTA DE USUARIOS (IGDB): 81/100 (33 votos)
+TAMBIÉN CONOCIDO COMO: Digital Combat Simulator, DCS.exe, DCS World Steam Edition
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co20u6.jpg
+URL: https://www.igdb.com/games/dcs-world
+
+RESUMEN:
+Feel the excitement of flying the Su-25T "Frogfoot" attack jet and the TF-51D "Mustang" in the free-to-play Digital Combat Simulator World!
+
+JUEGOS PARECIDOS:
+Si te gusta DCS World, también podrían gustarte: War Thunder, IL-2 Sturmovik, Arma 4, S&box, Attack on Toys, Lunar Flight, Cricket 24, Euro Truck Simulator 2, Assetto Corsa, Microsoft Flight Simulator.

@@ -1,0 +1,16 @@
+JUEGO: Magic: The Gathering Arena
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: PC, macOS, iOS, Android
+FECHA DE LANZAMIENTO: 2018-09-27
+DESARROLLADOR: Wizards of the Coast
+PUBLISHER: Wizards of the Coast
+GÉNEROS: Strategy, Board Games, Card
+NOTA METACRITIC: 84
+RATING USUARIOS: 3.97/5 (115 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Multiplayer, Fantasy, Free to Play, Tactical, PvP, Cross-Platform Multiplayer, In-App Purchases, Magic, Turn-Based Strategy, Online PvP, achievements, Card Game, challenge, Trading Card Game, deckbuilding
+
+DESCRIPCIÓN:
+Magic: The Gathering Arena is a free-to-play digital collectible card game allowing players to gain cards through booster packs, in-game achievements or microtransaction purchases, and build their own decks to challenge other players.

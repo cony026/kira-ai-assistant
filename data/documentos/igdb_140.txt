@@ -1,0 +1,23 @@
+JUEGO: 140
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: PlayStation 4, Linux, PC (Microsoft Windows), Mac, Wii U, Xbox One, Nintendo Switch
+GÉNEROS: Música, Plataformas, Puzle, Estrategia, Indie
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Carlsen Games
+PUBLISHER: Carlsen Games, Double Fine Productions
+FECHA DE LANZAMIENTO: 2013-10-16
+NOTA DE LA CRÍTICA (IGDB): 71/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 71/100 (39 votos)
+TAMBIÉN CONOCIDO COMO: 140.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co21sj.jpg
+URL: https://www.igdb.com/games/140
+
+RESUMEN:
+140 is an indie 2D rhythm puzzle-platformer. The game features high interactivity between the soundtrack and the environment around the player, and how the player must traverse this unwieldy environment.
+
+JUEGOS PARECIDOS:
+Si te gusta 140, también podrían gustarte: The Impossible Game, Ghost 1.0, Ovivo, Typoman, Save the Ninja Clan, 6180 The Moon, Tetrobot and Co., Tales from Space: Mutant Blobs Attack, Butcher, Figment.

@@ -1,0 +1,22 @@
+JUEGO: Homeworld 2
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia en tiempo real, Simulación, Estrategia, Aventura
+TEMAS: Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Tercera persona, Isométrica
+DESARROLLADOR: Relic Entertainment
+PUBLISHER: Sierra Entertainment
+FECHA DE LANZAMIENTO: 2003-09-16
+NOTA DE LA CRÍTICA (IGDB): 75/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 84/100 (39 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co29zu.jpg
+URL: https://www.igdb.com/games/homeworld-2
+
+RESUMEN:
+Homeworld 2 is the third game in the Homeworld series. Although well-received and praised for its lavish graphics, Homeworld 2 did not receive the same level of acclaim as Homeworld 1 or Cataclysm. Patches and an active modding community has helped keep Homeworld 2 popular until its re-release by Gearbox Software in 2015.
+
+JUEGOS PARECIDOS:
+Si te gusta Homeworld 2, también podrían gustarte: Homeworld, Total Annihilation, Total Annihilation: Kingdoms, Empire Earth III, Empire Earth II, Star Control II, Conquest: Frontier Wars, Fragile Allegiance, OGame, Freelancer.

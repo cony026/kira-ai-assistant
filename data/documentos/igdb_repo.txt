@@ -1,0 +1,22 @@
+JUEGO: R.E.P.O.
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Estrategia, Indie
+TEMAS: Acción, Ciencia ficción, Terror, Supervivencia, Sigilo
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: semiwork
+PUBLISHER: semiwork
+FECHA DE LANZAMIENTO: 2025-02-26
+NOTA DE USUARIOS (IGDB): 72/100 (164 votos)
+TAMBIÉN CONOCIDO COMO: repo, Retrieve Extract and Profit Operation
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co9lxz.jpg
+URL: https://www.igdb.com/games/repo
+
+RESUMEN:
+R.E.P.O. (Retrieve, Extract and Profit Operation) is an online cooperative survival horror game for up to six players, developed by Swedish studio Semiwork using the Unity engine. Players are tasked with locating valuable physics-based objects within procedurally generated environments and carefully transporting them to extraction points without damaging them, all while avoiding hostile creatures. Between levels, players spend earned currency on permanent upgrades, weapons, and tools at a service station. The game emphasizes verbal coordination and strategic planning among teammates.
+
+JUEGOS PARECIDOS:
+Si te gusta R.E.P.O., también podrían gustarte: Panicore, Bigfoot, Macabre, Devour, Serious Sam: The First Encounter, Abyssus, Sons of the Forest, Sentry, One-Armed Robber, SCP: Secret Laboratory.

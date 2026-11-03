@@ -1,0 +1,24 @@
+JUEGO: Tennis
+
+FUENTE: IGDB
+PLATAFORMA: Family Computer Disk System, Arcade, PC-8800 Series, Sharp X1
+DISPONIBLE EN: Family Computer Disk System, Arcade, PC-8800 Series, Sharp X1, Wii, Family Computer, Wii U, Nintendo Entertainment System
+GÉNEROS: Deportes
+TEMAS: Non-fiction
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Intelligent Systems, Nintendo R&D1
+PUBLISHER: Hudson Soft, Nintendo
+FECHA DE LANZAMIENTO: 1984-01-14
+NOTA DE USUARIOS (IGDB): 74/100 (45 votos)
+TAMBIÉN CONOCIDO COMO: Тенис
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co42vk.jpg
+URL: https://www.igdb.com/games/tennis--3
+
+RESUMEN:
+Tennis is a sports game developed and released by Nintendo for the NES. In North America and Europe, Tennis was one of 18 launch games for the NES. A Game Boy version was also released.
+
+The game features single-player and two-player modes for singles and doubles matches, with either competitive or cooperative gameplay. A computerized opponent's artificial intelligence can be set to one of five difficulty levels. Mario referees the matches.
+
+JUEGOS PARECIDOS:
+Si te gusta Tennis, también podrían gustarte: Volleyball, Soccer, Baseball, Golf, Pinball, EA Sports FC 24, Winning Eleven: Pro Evolution Soccer 2007, Cricket 24, FIFA 19, Pro Evolution Soccer 2011.

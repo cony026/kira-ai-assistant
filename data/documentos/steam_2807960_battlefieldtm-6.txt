@@ -1,0 +1,79 @@
+JUEGO: Battlefield™ 6
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción
+DESARROLLADOR: Battlefield Studios
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 10 OCT 2025
+PRECIO: $69.99
+NOTA METACRITIC: 82/100
+RESEÑAS DE USUARIOS (STEAM): Mixed (363842 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+La experiencia bélica definitiva. En una guerra de tanques, cazas y gigantescos arsenales de combate, el arma más mortífera es tu patrulla.
+
+DESCRIPCIÓN DETALLADA:
+La experiencia bélica definitiva. Lucha en intensos combates de infantería, atraviesa los cielos en combate aéreo, destruye tu entorno y consigue una ventaja estratégica, y toma el control de todas tus decisiones y movimientos con el sistema de combate cinestésico. En una guerra de tanques, cazas y gigantescos arsenales de combate, el arma más mortífera es tu patrulla. Esto es Battlefield 6.
+
+Este juego incluye la compra opcional en el juego de divisa virtual que se puede utilizar para adquirir artículos virtuales del juego.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10
+
+- Procesador: Intel Core i5-8400, AMD Ryzen 5 2600
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia RTX 2060, AMD Radeon RX 5600 XT 6GB, Intel Arc A380
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 55 GB de espacio disponible
+
+- Tarjeta de sonido: No Recommendation
+
+- Compatibilidad con RV: Not Supported
+
+- Notas adicionales: TPM 2.0 Enabled UEFI SECURE BOOT Enabled HVCI Capable VBS Capable
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11
+
+- Procesador: Intel Core i7-10700, AMD Ryzen 7 3700X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia RTX 3060Ti, AMD Radeon RX 6700-XT, Intel Arc B580
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 80 GB de espacio disponible
+
+- Tarjeta de sonido: No Recommendation
+
+- Compatibilidad con RV: Not Supported
+
+- Notas adicionales: TPM 2.0 Enabled UEFI SECURE BOOT Enabled HVCI Capable VBS Capable
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

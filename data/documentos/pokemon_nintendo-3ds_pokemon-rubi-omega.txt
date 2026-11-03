@@ -1,0 +1,22 @@
+JUEGO: Pokémon Rubí Omega
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Omega Ruby
+PLATAFORMA: Nintendo 3DS
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación VI
+REGIÓN PRINCIPAL: Hoenn
+LANZADO JUNTO A: Pokémon Zafiro Alfa
+
+DESCRIPCIÓN:
+Pokémon Rubí Omega es un juego de rol de la saga principal de Pokémon, de la Generación VI, para Nintendo 3DS. La aventura transcurre en la región de Hoenn. Se lanzó junto a Pokémon Zafiro Alfa; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Treecko, Torchic y Mudkip. Su Pokédex regional reúne 211 especies de Pokémon distintas. Incluye Pokémon legendarios como Regirock, Regice, Registeel, Latias, Latios y Kyogre.
+
+POKÉDEX:
+- Hoenn Actualizado: 211 Pokémon
+
+POKÉMON INICIALES:
+Treecko, Torchic, Mudkip
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Regirock, Regice, Registeel, Latias, Latios, Kyogre, Groudon, Rayquaza
+Singulares (míticos): Jirachi, Deoxys

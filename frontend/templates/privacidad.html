@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kira IA · Política de privacidad</title>
+<link rel="icon" type="image/png" href="/static/kira_logo.png">
+<style>
+    :root { --bg: #0a0712; --card: #15101f; --line: #2a2140; --text: #ece8f5; --muted: #a59cba; --cyan: #4cd7f0; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text); font-family: Inter, system-ui, sans-serif; line-height: 1.6; }
+    main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+    header { display: flex; align-items: center; gap: 14px; margin-bottom: 24px; }
+    header img { width: 48px; height: 48px; }
+    h1 { font-size: 24px; margin: 0; }
+    h2 { font-size: 17px; color: var(--cyan); margin: 28px 0 8px; }
+    section { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 4px 20px 14px; margin-bottom: 14px; }
+    p, li { color: var(--muted); font-size: 15px; }
+    b { color: var(--text); }
+    code { color: var(--cyan); }
+    a { color: var(--cyan); }
+    table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    td, th { border-bottom: 1px solid var(--line); padding: 8px 6px; text-align: left; vertical-align: top; color: var(--muted); }
+    th { color: var(--text); }
+</style>
+</head>
+<body>
+<main>
+    <header>
+        <img src="/static/kira_logo.png" alt="">
+        <div>
+            <h1>Política de privacidad de Kira IA</h1>
+            <p style="margin:0">Proyecto académico · Universidad Finis Terrae · Inteligencia Artificial</p>
+        </div>
+    </header>
+
+    <section>
+        <h2>1. Quién trata tus datos</h2>
+        <p>Kira IA es un prototipo académico desarrollado por estudiantes de la Universidad Finis Terrae.
+            Esta política sigue la Ley 19.628 sobre Protección de la Vida Privada y la Ley 21.719, que la
+            reforma y crea la Agencia de Protección de Datos Personales.</p>
+    </section>
+
+    <section>
+        <h2>2. Qué datos guardamos y para qué</h2>
+        <table>
+            <tr><th>Dato</th><th>Para qué se usa</th></tr>
+            <tr><td>Nombre de usuario y correo</td><td>Crear tu cuenta, confirmar que el correo es tuyo e iniciar sesión.</td></tr>
+            <tr><td>Contraseña</td><td>Solo se guarda su hash (scrypt). Nadie puede leerla, ni siquiera el equipo.</td></tr>
+            <tr><td>Fecha de nacimiento (opcional)</td><td>No recomendarte juegos con clasificación para adultos si eres menor de edad.</td></tr>
+            <tr><td>Consolas y géneros favoritos (opcional)</td><td>Personalizar las recomendaciones.</td></tr>
+            <tr><td>Historial de chat</td><td>Mostrarte tus conversaciones y que Kira entienda preguntas de seguimiento.</td></tr>
+        </table>
+        <p>La base de conocimiento de Kira (fichas de juegos) <b>no contiene datos de usuarios</b>.</p>
+    </section>
+
+    <section>
+        <h2>3. Qué se envía a terceros</h2>
+        <p><b>Google Gemini</b> genera las respuestas. Antes de enviarle tu mensaje, Kira
+            <b>enmascara tus datos personales</b>: tu nombre, RUT, correos, teléfonos y tarjetas se reemplazan por
+            etiquetas como <code>[USUARIO]</code> o <code>[RUT_1]</code>. Tampoco se envía tu correo, tu fecha de
+            nacimiento ni tu edad exacta, solo un tramo de edad. La versión en producción debe usar el plan pagado
+            de la API, en el que Google declara que no usa los mensajes para mejorar sus productos.</p>
+        <p><b>Tiendas de precios</b> (Steam, CheapShark, IsThereAnyDeal): solo reciben el nombre del juego.</p>
+    </section>
+
+    <section>
+        <h2>4. Cuánto tiempo los guardamos</h2>
+        <p>Las conversaciones se borran automáticamente después de <b>{{ dias }} días</b>. Las cuentas que nunca
+            confirmaron su correo se eliminan a las 24 horas.</p>
+    </section>
+
+    <section>
+        <h2>5. Tus derechos (ARCO)</h2>
+        <ul>
+            <li><b>Acceso:</b> en tu perfil, «Descargar mis datos» entrega todo lo que guardamos de ti en un archivo JSON.</li>
+            <li><b>Rectificación:</b> puedes cambiar tu nombre, fecha de nacimiento y preferencias en tu perfil.</li>
+            <li><b>Cancelación:</b> «Borrar mi historial» elimina tus conversaciones y «Eliminar mi cuenta» borra todos tus datos.</li>
+            <li><b>Oposición:</b> si borras tu historial, Kira deja de usarlo como contexto.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>6. Cómo protegemos los datos</h2>
+        <ul>
+            <li>Contraseñas y códigos de verificación guardados con hash, nunca en texto plano.</li>
+            <li>Sesiones con token JWT firmado que vence en 24 horas.</li>
+            <li>La aplicación se conecta a la base de datos con un usuario de privilegio mínimo
+                (solo puede leer y escribir filas de la base de Kira).</li>
+            <li>Las herramientas externas solo pueden conectarse a una lista cerrada de dominios y nunca reciben datos tuyos.</li>
+            <li>En producción, el servidor solo se expone a través de un proxy con HTTPS.</li>
+        </ul>
+    </section>
+
+    <p style="text-align:center"><a href="/">Volver a Kira</a></p>
+</main>
+</body>
+</html>

@@ -1,0 +1,23 @@
+JUEGO: Lyne
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Windows Phone, Android, PC (Microsoft Windows)
+DISPONIBLE EN: Linux, Windows Phone, Android, PC (Microsoft Windows), iOS, Mac, Nintendo Switch
+GÉNEROS: Música, Puzle, Indie
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Thomas Bowker
+PUBLISHER: Thomas Bowker
+FECHA DE LANZAMIENTO: 2014-01-01
+NOTA DE USUARIOS (IGDB): 60/100 (32 votos)
+TAMBIÉN CONOCIDO COMO: LYNE, LYNE.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2l2u.jpg
+URL: https://www.igdb.com/games/lyne
+
+RESUMEN:
+Deceptively simple. Infinitely complex. Lyne is a minimalist puzzle game that will knot your brain as it calms your soul.
+
+Connect the shapes. Fill the board. Lose yourself in the interflowing paths of Lyne.
+
+JUEGOS PARECIDOS:
+Si te gusta Lyne, también podrían gustarte: SquareCells, Hexcells, Circuits, Hexcells Infinite, Hidden Folks, Zup! 2, Zup!, Klocki, Muse Dash, Zenge.

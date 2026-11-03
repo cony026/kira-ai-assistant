@@ -1,0 +1,24 @@
+JUEGO: Battle for Wesnoth
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), iOS, Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), iOS, Mac, Amiga
+GÉNEROS: RPG, Estrategia, Estrategia por turnos, Indie
+TEMAS: Fantasía
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+FECHA DE LANZAMIENTO: 2005-08-02
+NOTA DE USUARIOS (IGDB): 72/100 (40 votos)
+TAMBIÉN CONOCIDO COMO: The Battle for Wesnoth, wesnoth.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3dg2.jpg
+URL: https://www.igdb.com/games/battle-for-wesnoth
+
+RESUMEN:
+The Battle for Wesnoth is a turn-based tactical strategy game with a high fantasy theme.
+
+Build up a great army, gradually turning raw recruits into hardened veterans. In later games, recall your toughest warriors and form a deadly host whom none can stand against! Choose units from a large pool of specialists, and hand-pick a force with the right strengths to fight well on different terrains against all manner of opposition.
+Wesnoth has many different sagas waiting to be played. Fight to regain the throne of Wesnoth, of which you are the legitimate heir... step into the boots of a young officer sent to guard a not-so-sleepy frontier outpost... lead a brutal quest to unite the orcish tribes... vanquish a horde of undead warriors unleashed by a foul necromancer, who also happens to have taken your brother hostage... guide a band of elvish survivors in an epic quest to find a new home... get revenge on the orcs by using the foul art of necromancy...
+There are at least two hundred unit types, sixteen races, six major factions, and hundreds of years of history. The world of Wesnoth is absolutely huge and only limited by your creativity — make your own custom units, create your own maps, and write your own scenarios or even full-blown campaigns. You can also challenge up to eight friends—or strangers—and fight in epic multiplayer fantasy battles.
+
+JUEGOS PARECIDOS:
+Si te gusta Battle for Wesnoth, también podrían gustarte: Disciples II: Dark Prophecy, Age of Wonders III, Battle Brothers, Blood Bowl 2, Fantasy Wars, Heroes of Might and Magic III: The Restoration of Erathia, King's Bounty, Disciples: Sacred Lands, Raid: Shadow Legends, Dynasty Tactics.

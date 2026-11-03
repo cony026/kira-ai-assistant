@@ -1,0 +1,24 @@
+JUEGO: Sid Meier's Civilization VI
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: PlayStation 4, Linux, Android, PC (Microsoft Windows), iOS, Mac, Xbox One, Nintendo Switch
+GÉNEROS: Simulación, Estrategia, Estrategia por turnos
+TEMAS: Fantasía, Histórico, 4X (explore, expand, exploit, and exterminate)
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Firaxis Games
+PUBLISHER: Aspyr Media, 2K Games
+FECHA DE LANZAMIENTO: 2016-10-20
+NOTA DE LA CRÍTICA (IGDB): 87/100 (20 críticas)
+NOTA DE USUARIOS (IGDB): 80/100 (632 votos)
+FRANQUICIA: Sid Meier
+TAMBIÉN CONOCIDO COMO: Civilization VI, Civ6, Civilization 6, 시드 마이어의 문명 VI, Civilisation VI
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coaaqr.jpg
+URL: https://www.igdb.com/games/sid-meiers-civilization-vi
+
+RESUMEN:
+Civilization VI is a 4X turn-based strategy game in which players guide a civilization from its founding as a small settlement through multiple eras of development. Players explore a procedurally generated map, found cities, research technologies, develop culture, engage in diplomacy, and compete against AI or human opponents to achieve victory through military dominance, scientific advancement, cultural influence, religious conversion, or diplomatic consensus. A key design change from its predecessor is the "unstacking" of cities, requiring players to place districts on surrounding tiles rather than stacking all improvements in the city center, making terrain and geography central to strategic planning. The game received two major expansions, Rise and Fall and Gathering Storm, which introduced mechanics like city loyalty, golden/dark ages, climate change, and natural disasters. It was succeeded by Civilization VII in 2025.
+
+JUEGOS PARECIDOS:
+Si te gusta Sid Meier's Civilization VI, también podrían gustarte: Endless Legend, Humankind, Terraformers, Buckshot Roulette, Yu-Gi-Oh! Master Duel, Age of Wonders 4, Stronghold: Warlords, King Arthur: Knight's Tale, The Wandering Village, Rise of Venice.

@@ -1,0 +1,25 @@
+JUEGO: MECCHA CHAMELEON
+PLATAFORMA: PC (Steam)
+GÉNEROS: Casual
+DESARROLLADOR: lemorion_1224
+PUBLISHER: lemorion_1224
+FECHA DE LANZAMIENTO: 9 JUN 2026
+PRECIO: $5.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (86080 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+¡Píntate y fúndete con el paisaje! Meccha Chameleon es un juego de escondite donde pintas tu cuerpo para mimetizarte. Tu escondite, la pose y tu arte son las claves para sobrevivir. ¡Engaña a los buscadores y escapa! Ideal para jugar online o con espectadores en directo.
+
+DESCRIPCIÓN DETALLADA:
+¡Pinta tu propio cuerpo! ¡Escóndete fundiéndote con el entorno como un camaleón!¡Yeah! Súper &quot;Escondite&quot; Las reglas son simples. Divídanse en el equipo de buscadores y el equipo de escondidos para jugar al escondite. Los buscadores ganan si encuentran a todos dentro del límite de tiempo.¡Yeah! Súper &quot;Pintura&quot; La forma de esconderse es un poco especial. Pinta tu cuerpo blanco para camuflarte en el escenario. Como un camaleón. ¡El lugar para esconderse, la pose y, sobre todo, tu habilidad artística lo son todo! Engaña a los buscadores con un mimetismo que sorprendería al mismísimo camaleón.¡Yeah! Súper &quot;Matchmaking&quot; Por supuesto que puedes jugar con amigos, pero también es posible jugar con desconocidos. (Si creas un servidor que no sea privado, cualquiera podrá entrar libremente). Los streamers pueden realizar fácilmente sesiones de juego con sus espectadores. El número máximo de jugadores depende de la conexión del anfitrión. (Se recomienda de 2 a 10 personas. Este número puede cambiar tras las futuras pruebas de juego).【Sobre videos y transmisiones】 Las transmisiones y videos del juego son bienvenidos. Por favor, asegúrate de cumplir estos dos puntos:
+- Incluye el nombre del juego en el título. (Obligatorio)
+- Incluye la URL de la página de Steam en la descripción. (Opcional)
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10 64-bit.
+
+- Procesador: Intel Core i5
+
+- Gráficos: DirectX 11 or 12 compatible graphics card

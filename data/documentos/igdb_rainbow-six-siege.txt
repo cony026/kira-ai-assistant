@@ -1,0 +1,27 @@
+JUEGO: Rainbow Six Siege
+
+FUENTE: IGDB
+PLATAFORMA: Google Stadia, Xbox Series X|S, PlayStation 4, PC (Microsoft Windows)
+DISPONIBLE EN: Google Stadia, Xbox Series X|S, PlayStation 4, PC (Microsoft Windows), PlayStation 5, Xbox One
+GÉNEROS: Shooter, Táctico
+TEMAS: Acción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Ubisoft Montreal
+PUBLISHER: Ubisoft Entertainment
+FECHA DE LANZAMIENTO: 2015-12-01
+NOTA DE LA CRÍTICA (IGDB): 74/100 (18 críticas)
+NOTA DE USUARIOS (IGDB): 79/100 (565 votos)
+FRANQUICIA: Tom Clancy’s
+TAMBIÉN CONOCIDO COMO: R6: Siege, Regenbogen 6 Belagerung, 彩虹六号：围攻, R6:S, R6S
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cocsnm.jpg
+URL: https://www.igdb.com/games/rainbow-six-siege
+
+RESUMEN:
+Tom Clancy's Rainbow Six Siege is a tactical first-person shooter focused on close-quarters combat between teams of five. Players select from a roster of operators drawn from counter-terrorism units around the world, each with unique gadgets and abilities. One team attacks objectives such as defusing bombs or rescuing hostages, while the other team fortifies and defends. The game emphasizes destructible environments, with players able to breach walls, ceilings, and floors to create new lines of sight. There is no respawning within rounds, making each player's survival critical. The title has no single-player campaign but includes training modes and cooperative scenarios against AI opponents.
+
+HISTORIA:
+Three years after the Rainbow Program's disbandment, a surge in global terrorism from a group called the White Masks prompts its reactivation under a new leader codenamed "Six." She assembles elite operatives from special forces units across multiple nations to confront this threat. After a chemical attack on a university is thwarted, Team Rainbow expands its operations worldwide, recruiting specialists from dozens of countries. Over the following years, leadership changes hands, internal conflicts arise when a private military company called Nighthaven is invited to join, and a rogue former operative named Deimos orchestrates a campaign of violence against Rainbow itself, forcing the team to hunt him down while defending their own existence.
+
+JUEGOS PARECIDOS:
+Si te gusta Rainbow Six Siege, también podrían gustarte: America's Army: Proving Grounds, Sniper: Ghost Warrior 3, Tom Clancy's Ghost Recon: Wildlands, Counter-Strike: Global Offensive, Sniper: Ghost Warrior 2, Delta Force, Homefront: The Revolution, Call of Duty: WWII, PUBG: Battlegrounds, Insurgency: Sandstorm.

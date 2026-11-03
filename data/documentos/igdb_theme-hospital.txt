@@ -1,0 +1,22 @@
+JUEGO: Theme Hospital
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), DOS
+DISPONIBLE EN: PC (Microsoft Windows), DOS
+GÉNEROS: Estrategia en tiempo real, Simulación, Estrategia
+TEMAS: Comedia, Gestión
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Bullfrog Productions
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 1997-02-04
+NOTA DE LA CRÍTICA (IGDB): 90/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 81/100 (221 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3wfx.jpg
+URL: https://www.igdb.com/games/theme-hospital
+
+RESUMEN:
+Theme Hospital is a business simulation game developed by Bullfrog Productions and published by Electronic Arts in 1997, in which the player designs and operates a hospital. Like most of Bullfrog's games, Theme Hospital is permeated by an eccentric sense of humour. The game is the thematic successor to Theme Park, a game also produced by Bullfrog. The game was a massive commercial success, selling over 4 million copies worldwide.
+
+JUEGOS PARECIDOS:
+Si te gusta Theme Hospital, también podrían gustarte: Software Inc., Railroad Tycoon 3, Sid Meier's Railroads!, RollerCoaster Tycoon, Theme Park, SimCity 4, SimCity 2000, Hollywood Animal, Big Ambitions, Two Point Hospital.

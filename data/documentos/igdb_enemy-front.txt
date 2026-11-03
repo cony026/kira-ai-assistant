@@ -1,0 +1,23 @@
+JUEGO: Enemy Front
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, PC (Microsoft Windows), Xbox 360
+DISPONIBLE EN: PlayStation 3, PC (Microsoft Windows), Xbox 360
+GÉNEROS: Shooter
+TEMAS: Acción, Histórico, Sigilo, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: CI Games
+PUBLISHER: CI Games
+FECHA DE LANZAMIENTO: 2014-06-10
+NOTA DE LA CRÍTICA (IGDB): 33/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 57/100 (49 votos)
+TAMBIÉN CONOCIDO COMO: EnemyFront.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1r6w.jpg
+URL: https://www.igdb.com/games/enemy-front
+
+RESUMEN:
+You’re Robert Hawkins, an American stuck deep in Nazi controlled territory during the height of WWII. It’s up to you whether to fight your enemies face to face, snipe them from afar, or sneak past and sabotage their positions. Join the fight against the evil Third Reich in open-ended missions across war torn Europe.
+
+JUEGOS PARECIDOS:
+Si te gusta Enemy Front, también podrían gustarte: Sniper Elite III, Sniper: Ghost Warrior 2, Dead Island, The Bureau: XCOM Declassified, Tom Clancy's Splinter Cell: Blacklist, Call of Duty: WWII, Spec Ops: The Line, Call of Duty: Black Ops II, Medal of Honor: Airborne, R.U.S.E..

@@ -1,0 +1,28 @@
+JUEGO: Gothic
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: RPG, Aventura
+TEMAS: Acción, Fantasía, Histórico, Sigilo, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Piranha Bytes
+PUBLISHER: JoWooD Entertainment AG, Nordic Games Publishing, Egmont Interactive, Xicat Interactive
+FECHA DE LANZAMIENTO: 2001-10-30
+NOTA DE LA CRÍTICA (IGDB): 78/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 86/100 (449 votos)
+TAMBIÉN CONOCIDO COMO: Готика, 救世英豪, Gothic 1
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co25r2.jpg
+URL: https://www.igdb.com/games/gothic
+
+RESUMEN:
+Gothic is an action role-playing game set in a third-person perspective within a fantasy open world. The player controls an unnamed prisoner sent into a mining colony enclosed by a magical barrier. Gameplay emphasizes exploration without quest markers or a guided map, and the player character begins with no skills, learning them by finding teachers and spending earned skill points.
+
+The game features three factions to join, each offering different paths and abilities: the Old Camp provides access to Fire Mages, the New Camp to Water Mages, and the Brotherhood to early magic through worship of a being called the Sleeper. Combat involves melee weapons, ranged weapons, and magic across six circles of increasing power. The environment is highly interactive, allowing the player to cook food, forge weapons, and perform many activities seen in NPC routines.
+
+HISTORIA:
+In a medieval fantasy world where humans are losing a war against Orcs, the king sentences all criminals to labor in ore mines to forge weapons. To prevent escape, twelve magicians erect a magical barrier over the mining colony, but the spell goes out of control, trapping the magicians inside and allowing the convicts to overthrow their guards. The prisoners split into three factions: the Old Camp, which trades ore with the king; the New Camp, which hoards ore to attempt destroying the barrier; and the Brotherhood, a religious group worshipping a being called the Sleeper. An unnamed prisoner is thrown into the colony carrying a letter for the Fire Mages. After joining one of the factions and uncovering that the Sleeper is actually a dangerous demon summoned by the Orcs centuries ago, the hero must find a way into the temple beneath the Orc city to confront and banish the creature, which causes the barrier to collapse and frees the colony.
+
+JUEGOS PARECIDOS:
+Si te gusta Gothic, también podrían gustarte: Gothic II, Gothic 3, The Elder Scrolls III: Morrowind, Arcania: Gothic 4, The Elder Scrolls V: Skyrim, The Elder Scrolls IV: Oblivion, The Elder Scrolls II: Daggerfall, Fable, Demon's Souls, Middle-earth: Shadow of Mordor.

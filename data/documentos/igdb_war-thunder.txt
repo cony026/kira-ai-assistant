@@ -1,0 +1,23 @@
+JUEGO: War Thunder
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PlayStation 4, Linux, PC (Microsoft Windows)
+DISPONIBLE EN: Xbox Series X|S, PlayStation 4, Linux, PC (Microsoft Windows), PlayStation 5, Mac, Xbox One
+GÉNEROS: Shooter, Simulación, Táctico
+TEMAS: Acción, Histórico, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, MMO
+PERSPECTIVA: Primera persona, Tercera persona, Realidad virtual
+DESARROLLADOR: Gaijin Entertainment
+PUBLISHER: Gaijin Entertainment
+FECHA DE LANZAMIENTO: 2013-01-28
+NOTA DE LA CRÍTICA (IGDB): 65/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 74/100 (240 votos)
+TAMBIÉN CONOCIDO COMO: launcher.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1p78.jpg
+URL: https://www.igdb.com/games/war-thunder
+
+RESUMEN:
+War Thunder is a free-to-play vehicular combat MMO featuring aircraft, ground vehicles, and naval craft spanning from the early 20th century to the modern era. Players progress through technology trees across multiple nations, unlocking increasingly advanced military vehicles. The game offers three realism tiers for each vehicle type: arcade, realistic, and simulator modes. Originally developed as a flight simulator under the name "World of Planes," the game expanded to include tanks in 2014 and naval forces later, becoming a combined-arms experience. A mobile version was released in 2023.
+
+JUEGOS PARECIDOS:
+Si te gusta War Thunder, también podrían gustarte: IL-2 Sturmovik, Delta Force, DCS World, IL-2 Sturmovik: 1946, World of Warplanes, Unturned, Sniper Elite 4, Sniper Elite 5, Ace Combat 7: Skies Unknown, Warface.

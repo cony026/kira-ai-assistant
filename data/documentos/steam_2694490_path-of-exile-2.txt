@@ -1,0 +1,101 @@
+JUEGO: Path of Exile 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Multijugador masivo, Rol, Acceso anticipado
+DESARROLLADOR: Grinding Gear Games
+PUBLISHER: Grinding Gear Games
+FECHA DE LANZAMIENTO: 6 DIC 2024
+PRECIO: $29.99
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (224722 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Path of Exile 2 es un RPG de acción de nueva generación creado por Grinding Gear Games, con un modo cooperativo de hasta seis jugadores. Años después de los acontecimientos de Path of Exile, regresarás al oscuro mundo de Wraeclast para acabar con la corrupción que se está extendiendo.
+
+DESCRIPCIÓN DETALLADA:
+Path of Exile 2 es un RPG de acción de nueva generación creado por Grinding Gear Games, con un modo cooperativo de hasta seis jugadores. Path of Exile 2 transcurre en la tierra de Wraeclast, un continente oscuro poblado por culturas únicas, secretos antiguos y monstruos peligrosos. Una siniestra amenaza, que durante mucho tiempo se creyó destruida, ha vuelto a aparecer en el borde de la civilización y está haciendo enloquecer a los lugareños y enfermando la tierra con su corrupción. Path of Exile 2 tiene una campaña completamente nueva que consta de seis actos, 100 entornos diferentes, 600 monstruos y 100 jefes.Características principales
+- Doce clases de personajes
+Path of Exile 2 tiene doce clases de personajes, dos para cada combinación de fuerza, destreza e inteligencia. Aunque todas estas clases se centran en estilos de juego diferentes, solo son un punto de inicio. Puedes combinar las habilidades de muchas clases para crear tu build de personaje ideal.
+
+Cada una de las doce clases de personajes tiene tres especializaciones de ascendencia, por lo que hay un total de 36 clases de ascendencia para elegir.
+
+- Nuevo sistema de gemas de habilidad
+Path of Exile 2 tiene 240 gemas de habilidad que otorgan habilidades activas devastadoras y 200 gemas de asistencia que modifican el comportamiento de las gemas de habilidad. Combínalas como quieras para crear tu build perfecta.
+
+Esta es la nueva generación del famoso sistema de habilidades de Path of Exile. Las gemas de asistencia ahora se engarzan directamente en las gemas de habilidad, lo que elimina muchas frustraciones del sistema antiguo y a la vez mantiene toda la profundidad que lo caracteriza. Ahora puedes tener seis vínculos en todas las habilidades que use tu personaje.
+- Especialización doble en el árbol de habilidades pasivas
+El icónico árbol de habilidades pasivas de Path of Exile está de regreso con 1500 habilidades que te permitirán personalizar completamente tu experiencia de juego. Ahora podrás tener una especialización doble, pues podrás asignar algunos puntos de habilidades pasivas en dos sets distintos de habilidades que se activarán cuando uses el tipo de arma o de habilidad apropiado. Por ejemplo, puedes tener algunos puntos asignados en dagas y trampas, o en hielo y rayo, y los puntos de habilidad apropiados se aplicarán cuando alternes los ataques. Esto te permitirá especializarte en varias áreas sin costo de oportunidad.
+
+- Descubre objetos completamente nuevos
+Path of Exile 2 tiene 700 tipos base de equipamiento, y cada uno de ellos tiene su propio objeto único que podrás encontrar. Podrás potenciar tu arsenal con armas nuevas como lanzas, ballestas y manguales, y algunos objetos suplementarios como focos, trampas y los cetros rediseñados.
+- Enfréntate a jefes únicos
+En Path of Exile 2, cada área de la campaña contendrá un encuentro con un jefe. Hay más de cien jefes con los que pelear a lo largo de los actos, y todos ellos tienen mecánicas únicas que tendrás que aprender. 
+
+- Explora un nuevo final del juego
+Al terminar la campaña de seis actos de Path of Exile 2, podrás acceder al final del juego. Cada uno de los más de 100 mapas del final del juego tiene su propio combate contra un jefe y modificadores que permiten generar versiones actualizadas de muchas de las ligas pasadas de Path of Exile. Revelaremos más detalles de las sorpresas que te esperan en el final del juego de Path of Exile 2 a medida que se acerque el lanzamiento.
+- Un juego justo. Nunca pagarás para ganar. 
+Path of Exile 2 es un juego independiente del Path of Exile original, y seguiremos ofreciendo expansiones para los dos juegos. Ambos son completamente gratuitos y nunca serán &quot;pay to win&quot;. Las compras se compartirán entre los dos juegos.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10
+
+- Procesador: 4 core 2.8GHz x64-compatible
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 960 o ATI Radeon™ RX 470
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 100 GB de espacio disponible
+
+- Notas adicionales: A GPU with at least 3GB of VRAM is required
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10
+
+- Procesador: Intel® Core™ i5-10500 or AMD™ Ryzen 5 3700X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® RTX 2060, Intel® Arc™ A770, or ATI Radeon™ RX 5600XT
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 100 GB de espacio disponible
+
+- Notas adicionales: Solid State Storage is recommended
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: macOS 10.13
+
+- Procesador: 2.6GHz quad-core Intel Core i7
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Radeon Pro 450
+
+- Red: Conexión de banda ancha a Internet
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: macOS 10.13
+
+- Procesador: 2.6GHz hex-core Intel Core i7
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Radeon Pro 555X
+
+- Red: Conexión de banda ancha a Internet
+
+- Notas adicionales: Solid state storage is recommended

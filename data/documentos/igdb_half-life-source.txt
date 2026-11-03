@@ -1,0 +1,28 @@
+JUEGO: Half-Life: Source
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, Plataformas, Puzle, Aventura
+TEMAS: Acción, Ciencia ficción, Terror, Suspenso, Bélico
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2004-06-01
+NOTA DE USUARIOS (IGDB): 67/100 (106 votos)
+FRANQUICIA: Half-Life
+TAMBIÉN CONOCIDO COMO: HλLF-LIFE: SOURCE
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coc360.jpg
+URL: https://www.igdb.com/games/half-life-source
+
+RESUMEN:
+Half-Life: Source is a port of Valve's original acclaimed game Half-Life to their new Source engine used for Half-Life 2.
+
+It takes advantage of vertex and pixel shaders to create realistic water effects, and can now portray realistic physics effects. It also has new menus, improved lighting and soft shadows, ragdoll character animations, and a 3D skybox replacing the old 16-bit color prerendered bitmap skies.
+
+HISTORIA:
+You play as Gordon Freeman, a 27-year-old theoretical physicist working at Black Mesa Research facility in the New Mexico desert. When an experiment goes wrong, you turn from scientist to survivor, fighting your way through aliens and the soldiers sent to cover the incident up.
+
+JUEGOS PARECIDOS:
+Si te gusta Half-Life: Source, también podrían gustarte: The X-Files: Resist or Serve, Operation: Black Mesa, Aliens: Fireteam Elite, Aliens: Infestation, Concord, Ghostbusters: Rise of the Ghost Lord, Alien Breed 3D, Zakk Hazard the Deadly Spawn, Solar Ash, Blood & Truth.

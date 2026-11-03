@@ -1,0 +1,18 @@
+JUEGO: Gods Will Be Watching
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: iOS, macOS, PC, Linux
+FECHA DE LANZAMIENTO: 2014-07-23
+DESARROLLADOR: Devolver Digital, Deconstructeam
+PUBLISHER: Devolver Digital, GHI Media
+GÉNEROS: Action, Adventure, Indie
+NOTA METACRITIC: 64
+RATING USUARIOS: 3.5/5 (156 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Steam Achievements, Atmospheric, steam-trading-cards, Great Soundtrack, Story Rich, 2D, Sci-fi, Horror, Gore, Difficult, Survival, Pixel Graphics, Dark, Retro
+
+DESCRIPCIÓN:
+Gods Will Be Watching is a point-and-click survival thriller. Deconstructeam have developed it, and it is the only title within the IP. The game was incipiently created within the Ludum Dare development competition, the theme of which was minimalism. That gradually affected the style of a final game build.
+The story centers around the group of survivors questioned with a quest to survive during the 40 days being cut off from the outside world. The game's core feature is the variety of moral decision — the player decides who is worthy of sacrificing for the sake of the group's survival.
+The gameplay features walking and talking with the other characters — six in total — while a heavy accent is made on time- and resource management. The game's name derives from the absence of right and wrong decisions: not only the survival of the team is a task at hand but the survival of an outside world from genocide.

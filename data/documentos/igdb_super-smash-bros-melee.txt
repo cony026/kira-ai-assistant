@@ -1,0 +1,24 @@
+JUEGO: Super Smash Bros. Melee
+
+FUENTE: IGDB
+PLATAFORMA: Nintendo GameCube
+DISPONIBLE EN: Nintendo GameCube
+GÉNEROS: Peleas, Plataformas
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: HAL Laboratory
+PUBLISHER: Nintendo, Gradiente
+FECHA DE LANZAMIENTO: 2001-11-21
+NOTA DE LA CRÍTICA (IGDB): 100/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 89/100 (1110 votos)
+FRANQUICIA: Mario, Donkey Kong, The Legend of Zelda, Metroid, Kirby, Star Fox, Pokémon, Earthbound, F-Zero, Fire Emblem, Yoshi, Super Smash Bros.
+TAMBIÉN CONOCIDO COMO: Melee, Great Fray Smash Brothers Deluxe, Dairantou Smash Brothers DX, SSBM, Dairantou Smash Brothers Deluxe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co21yv.jpg
+URL: https://www.igdb.com/games/super-smash-bros-melee
+
+RESUMEN:
+A crossover platform fighting game featuring characters from Nintendo franchises including Mario, The Legend of Zelda, Star Fox, Pokémon, and Fire Emblem. Unlike traditional fighters, the goal is to knock opponents off the stage rather than deplete a health bar. Damage accumulates as a percentage, increasing the distance a character is launched when hit. Players use simple one-button inputs combined with joystick directions to execute moves. The game supports up to four players simultaneously and includes various single-player modes alongside its multiplayer focus. Its fast-paced, aggressive gameplay fostered a long-running competitive esports scene that persisted well beyond the game's original lifespan.
+
+JUEGOS PARECIDOS:
+Si te gusta Super Smash Bros. Melee, también podrían gustarte: Super Smash Bros., Rivals of Aether II, Captain Commando, Unravel Two, The friends of Ringo Ishikawa, Guacamelee! 2, SkyScrappers, Super Mario World, BlazBlue: Cross Tag Battle, Rivals of Aether.

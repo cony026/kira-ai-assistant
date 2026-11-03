@@ -1,0 +1,22 @@
+JUEGO: RoboCop
+
+FUENTE: IGDB
+PLATAFORMA: Arcade
+DISPONIBLE EN: Arcade
+GÉNEROS: Shooter, Plataformas, Arcade
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona, Vista lateral
+DESARROLLADOR: Data East
+PUBLISHER: Data East
+FECHA DE LANZAMIENTO: 1988-11-01
+NOTA DE USUARIOS (IGDB): 68/100 (36 votos)
+FRANQUICIA: RoboCop
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4sy9.jpg
+URL: https://www.igdb.com/games/robocop
+
+RESUMEN:
+In the game, a player controls RoboCop who advances through various stages that are taken from the 1987 movie. The bonus screen is a target shooting range that uses a first-person perspective.
+
+JUEGOS PARECIDOS:
+Si te gusta RoboCop, también podrían gustarte: RoboCop 2, RoboCop, RoboCop Versus the Terminator, Blade Runner, Terminator 2: Judgment Day, The Terminator, Judge Dredd, Electro Man, Alien3: The Gun, Disney's Lilo & Stitch.

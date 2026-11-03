@@ -1,0 +1,75 @@
+JUEGO: Counter-Strike 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Free to Play
+DESARROLLADOR: Valve
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 21 AGO 2012
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Very Positive (9815618 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Durante las dos últimas décadas, Counter‑Strike ha proporcionado una experiencia competitiva de primer nivel para los millones de jugadores de todo el mundo que contribuyeron a darle forma. Ahora el próximo capítulo en la historia de CS está a punto de comenzar. Hablamos de Counter‑Strike 2.
+
+DESCRIPCIÓN DETALLADA:
+Durante las dos últimas décadas, Counter‑Strike ha proporcionado una experiencia competitiva de primer nivel para los millones de jugadores de todo el mundo que contribuyeron a darle forma. Ahora el próximo capítulo en la historia de CS está a punto de comenzar. Hablamos de Counter‑Strike 2.
+
+Siendo una actualización gratuita de CS:GO, Counter‑Strike 2 es el avance técnico más importante en la historia de esta franquicia. Desarrollado con el motor Source 2, Counter‑Strike 2 se ha modernizado con representación basada en la física (PBR, por sus siglas en inglés), conexión a la red de última generación y herramientas actualizadas del Workshop de la comunidad.
+
+Además del clásico estilo de juego centrado en objetivos del que Counter‑Strike fue pionero en 1999, esta nueva entrega cuenta con las siguientes características:
+
+- Calificaciones de CS completamente nuevas dentro del modo actualizado Premier.
+
+- Clasificaciones globales y regionales.
+
+- Mapas actualizados y renovados.
+
+- Granadas de humo dinámicas y revolucionarias.
+
+- Jugabilidad independiente de la frecuencia de tics.
+
+- Efectos de audio y sonido rediseñados.
+
+- Todos los objetos de CS:GO presentes en CS2.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows® 10.
+
+- Procesador: CPU de 4 subprocesos - Intel® Core™ i5 750 o superior.
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: La tarjeta gráfica de ser de al menos 1 GB y debe ser compatible con DirectX 11 y Shader Model 5.0.
+
+- DirectX: Versión 11
+
+- Almacenamiento: 85 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: macOS X 10.11 (El Capitan) o posterior.
+
+- Procesador: Procesador Intel Core Duo (de 2 GHz o más).
+
+- Memoria: 2 GB de RAM
+
+- Gráficos: ATI Radeon HD 2400 o superior / NVIDIA 8600M o superior.
+
+- Almacenamiento: 15 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- SO: Ubuntu 20.04.
+
+- Procesador: CPU de 4 subprocesos - Intel® Core™ i5 750 o superior.
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: AMD GCN+ o NVIDIA Kepler+ con controladores Vulkan actualizados. Se recomienda encarecidamente tener compatibilidad para VK_EXT_graphics_pipeline_library.
+
+- Almacenamiento: 85 GB de espacio disponible
+
+- Tarjeta de sonido: Altamente recomendada.

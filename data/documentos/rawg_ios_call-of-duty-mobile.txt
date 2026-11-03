@@ -1,0 +1,13 @@
+JUEGO: Call of Duty: Mobile
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Android, iOS
+FECHA DE LANZAMIENTO: 2019-10-01
+DESARROLLADOR: TiMi Studio Group
+PUBLISHER: Activision
+GÉNEROS: Action, Shooter, Massively Multiplayer
+TAGS: Free to Play, Battle Royale, Multiplayer, PvP, First-Person Shooter
+
+DESCRIPCIÓN:
+Call of Duty: Mobile brings series-standard multiplayer maps, weapons and characters from across the Call of Duty franchise to mobile devices, alongside a dedicated 100-player Battle Royale mode. It supports controller input and cross-progression features, and runs regular seasonal content updates similar to the console entries.

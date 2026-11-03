@@ -1,0 +1,24 @@
+JUEGO: Sid Meier's Civilization II
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac, PlayStation
+DISPONIBLE EN: PC (Microsoft Windows), Mac, PlayStation
+GÉNEROS: Estrategia, Estrategia por turnos
+TEMAS: 4X (explore, expand, exploit, and exterminate)
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: MicroProse Software, Inc.
+PUBLISHER: MicroProse Software, Inc., MacPlay, Activision
+FECHA DE LANZAMIENTO: 1996-02-29
+NOTA DE LA CRÍTICA (IGDB): 82/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 88/100 (178 votos)
+FRANQUICIA: Sid Meier
+TAMBIÉN CONOCIDO COMO: Civilization II, Civ 2, Sid Meier's Civilization 2, Civ2, Civilization 2
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6yhe.jpg
+URL: https://www.igdb.com/games/sid-meiers-civilization-ii
+
+RESUMEN:
+A turn-based strategy video game set around several different historic civilizations.
+
+JUEGOS PARECIDOS:
+Si te gusta Sid Meier's Civilization II, también podrían gustarte: Songs of Silence, Royals, House of Legacy, Reverse: 1999, Age of Wonders: Planetfall, Slipways, Imperium Galactum, Incunabula, Lost Empire: Immortals, Corridor.

@@ -1,0 +1,21 @@
+JUEGO: Robocraft
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, RPG, Simulación, Indie
+TEMAS: Acción, Ciencia ficción, Sandbox, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, MMO
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Freejam Games
+PUBLISHER: Freejam Games
+FECHA DE LANZAMIENTO: 2017-08-24
+NOTA DE USUARIOS (IGDB): 67/100 (38 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coctqp.jpg
+URL: https://www.igdb.com/games/robocraft
+
+RESUMEN:
+Robocraft is a sandbox building and vehicular combat game where players get to create their own robots/vehicles and use them to fight others. The wide variety of components allows for many types of creations, including ground vehicles, planes and hover-tanks.
+
+JUEGOS PARECIDOS:
+Si te gusta Robocraft, también podrían gustarte: Creativerse, Hell Let Loose, Space Station 13, GoreBox, Trailmakers, Lurkers, Guns and Robots, Romero's Aftermath, Orbital Gear, Ultimate Epic Battle Simulator.

@@ -1,0 +1,28 @@
+JUEGO: Shadow Warrior
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), iOS, Mac, DOS
+DISPONIBLE EN: PC (Microsoft Windows), iOS, Mac, DOS
+GÉNEROS: Peleas, Shooter
+TEMAS: Acción, Ciencia ficción, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: 3D Realms
+PUBLISHER: MacSoft Games, GT Interactive Software, General Arcade, 3D Realms, Devolver Digital, Eidos Interactive
+FECHA DE LANZAMIENTO: 1997-05-13
+NOTA DE LA CRÍTICA (IGDB): 78/100 (0 críticas)
+NOTA DE USUARIOS (IGDB): 78/100 (89 votos)
+TAMBIÉN CONOCIDO COMO: SW, Shadow Warrior 3D, Ninja Master, Lo Wang is Shadow Warrior, Shadow Warrior Classic
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3g3u.jpg
+URL: https://www.igdb.com/games/shadow-warrior
+
+RESUMEN:
+Shadow Warrior is a first-person shooter video game developed by 3D Realms and released on May 13, 1997 by GT Interactive. Shadow Warrior was developed using Ken Silverman's Build engine and improved on 3D Realms' previous Build engine game, Duke Nukem 3D. Mark Adams ported Shadow Warrior to Mac OS in August 1997.
+
+The game's improvements included introduction of true room-over-room situations, the use of 3D voxels instead of 2D sprites for weapons and usable inventory items, transparent water, climbable ladders, and assorted vehicles to drive (some armed with weapons). Although ultra-violent, the game emphasized tongue-in-cheek humor and contained some sexual themes (although less blatantly than in Duke Nukem 3D). A combination of Duke Nukem 3D and Shadow Warrior was published by GT Interactive in March 1998, titled East Meets West.
+
+HISTORIA:
+Lo Wang is a bodyguard for Zilla Enterprises, which has control over every major industry in Japan. However, this has led to corruption. Master Zilla, the president of the Zilla Enterprise, is planning to conquer Japan using creatures from the "dark side". When he discovers this, Lo Wang quit his job as a bodyguard. Master Zilla realizes the threat that Lo Wang poses and sends his creatures to battle him
+
+JUEGOS PARECIDOS:
+Si te gusta Shadow Warrior, también podrían gustarte: SiN, Kingpin: Life of Crime, Blood II: The Chosen, Armed and Dangerous, Rise of the Triad: Dark War, No One Lives Forever 2: A Spy in H.A.R.M.'s Way, Duke Nukem 3D, F.E.A.R. 3, Doom, Total Overdose.

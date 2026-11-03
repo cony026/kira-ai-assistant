@@ -1,0 +1,29 @@
+JUEGO: Braid
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: PlayStation 3, Linux, PC (Microsoft Windows), Mac, Xbox 360
+GÉNEROS: Plataformas, Puzle, Estrategia, Aventura, Indie
+TEMAS: Fantasía
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Number None Inc.
+PUBLISHER: Number None Inc., Microsoft Game Studios
+FECHA DE LANZAMIENTO: 2008-08-06
+NOTA DE LA CRÍTICA (IGDB): 87/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (617 votos)
+TAMBIÉN CONOCIDO COMO: Braid Alias, Braid.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co25ni.jpg
+URL: https://www.igdb.com/games/braid
+
+RESUMEN:
+Braid is a puzzle-platformer, drawn in a painterly style, where you can manipulate the flow of time in strange and unusual ways. From a house in the city, journey to a series of worlds and solve puzzles to rescue an abducted princess. In each world, you have a different power to affect the way time behaves, and it is time's strangeness that creates the puzzles. The time behaviors include: the ability to rewind, objects that are immune to being rewound, time that is tied to space, parallel realities, time dilation, and perhaps more.
+
+Braid treats your time and attention as precious; there is no filler in this game. Every puzzle shows you something new and interesting about the game world.
+
+HISTORIA:
+Tim is a man searching for a princess who "has been snatched by a horrible and evil monster."His relationship with this princess is vague at best, and the only clear part of this relationship is that Tim has made some sort of mistake which he hopes to reconcile or, if possible, erase. As one progresses through the six worlds in Braid, storyline text at the beginning of each world provides further insight into Tim's quest for the princess, and alludes to the overarching gameplay mechanic of each level. The themes evoked include forgiveness, desire, and frustration. The final level, in which everything but Tim moves in reverse, depicts the princess escaping from a knight, and working together with Tim to surpass obstacles and meet at her home. Tim is suddenly locked out of the house, and, as time progresses forward, reversing Tim's actions, the events show the princess running from Tim, setting traps that he is able to evade, until she is rescued by the knight. Tim is revealed to be the "monster" the princess is running from.
+Following completion of the game, the player finds additional texts that expand the story. The ending of the game is purposely ambiguous, and has been subject to multiple interpretations. One theory, based on the inclusion of a hidden event and the famous quotation stated by Kenneth Bainbridge after the detonation of the first atomic bomb—"Now we are all sons of bitches"—is that the princess represents the atomic bomb and Tim is a scientist involved in its development.[20] Some also refer to the name of the game as both reference to the hair braid of the princess Tim seeks as well as the intertwining of time, demonstrated by the various time mechanics explored in the game. Journalists have considered Braid's plot to be interwoven with the game itself, much as the book Dictionary of the Khazars and the films Memento and Eternal Sunshine of the Spotless Mind interweave the narrative into the work's construction. In this sense, some have considered the game to carry a simple credo, such as "You must look back to go forwards" as suggested by Eurogamer's Dan Whitehead. Others have likened Braid to punk rock, designed (as explicitly stated by Blow) specifically as a statement against the status quo of the industry; it is considered to deconstruct traditional gameplay concepts, such as jumping on enemies or rescuing a princess from a castle as borrowed from Super Mario Bros., and rebuild them in the game to force the player to rethink current game design. Blow has stated that there is more than one interpretation of the story; he "would not be capable" of explaining the whole story of the game in words, and said that the central idea is "something big and subtle and resists being looked at directly."Blow considered Braid to be "about the journey, not the destination". He deliberately designed the plot not to be fully revealed to the player unless they completed the game, seeing it as a way to provide "a longer-term challenge".
+
+JUEGOS PARECIDOS:
+Si te gusta Braid, también podrían gustarte: Limbo, Trine, Edge, Little Nightmares, The Little Acre, Fez, Thomas Was Alone, VVVVVV, Machinarium, Blasphemous.

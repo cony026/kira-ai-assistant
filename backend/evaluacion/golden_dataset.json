@@ -1,0 +1,276 @@
+[
+  {
+    "tipo": "juego",
+    "pregunta": "¿Cuáles son los requisitos mínimos de Elden Ring en PC?",
+    "juego": "Elden Ring",
+    "debe_mencionar": [
+      "ram"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Qué tarjeta gráfica necesito para Cyberpunk 2077?",
+    "juego": "Cyberpunk 2077",
+    "debe_mencionar": [
+      "gtx",
+      "rtx",
+      "radeon"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "requisitos recomendados de Red Dead Redemption 2",
+    "juego": "Red Dead Redemption 2",
+    "debe_mencionar": [
+      "ram"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Stardew Valley corre en un notebook con 4 GB de RAM?",
+    "juego": "Stardew Valley",
+    "debe_mencionar": [
+      "ram"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Cuánto espacio en disco ocupa The Witcher 3?",
+    "juego": "The Witcher 3",
+    "debe_mencionar": [
+      "gb"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "requisitos mínimos de Forza Horizon 5",
+    "juego": "Forza Horizon 5",
+    "debe_mencionar": [
+      "ram"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Qué nota tiene Hollow Knight en la crítica?",
+    "juego": "Hollow Knight",
+    "debe_mencionar": [
+      "nota",
+      "puntaje",
+      "crítica"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Hades es un buen juego? dame su reseña",
+    "juego": "Hades",
+    "debe_mencionar": [
+      "roguelike",
+      "combate"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿De qué trata Celeste?",
+    "juego": "Celeste",
+    "debe_mencionar": [
+      "montaña",
+      "madeline"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Outlast da mucho miedo?",
+    "juego": "Outlast",
+    "debe_mencionar": [
+      "terror",
+      "miedo"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Portal 2 tiene modo cooperativo?",
+    "juego": "Portal 2",
+    "debe_mencionar": [
+      "cooperativo",
+      "coop"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Terraria se parece a Minecraft?",
+    "juego": "Terraria",
+    "debe_mencionar": [
+      "construir",
+      "explorar"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Dark Souls III es muy difícil?",
+    "juego": "Dark Souls III",
+    "debe_mencionar": [
+      "difícil",
+      "dificultad",
+      "desafiante"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿En qué plataformas está Hogwarts Legacy?",
+    "juego": "Hogwarts Legacy",
+    "debe_mencionar": [
+      "playstation",
+      "pc",
+      "xbox"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Quién desarrolló The Legend of Zelda: Breath of the Wild?",
+    "juego": "The Legend of Zelda: Breath of the Wild",
+    "debe_mencionar": [
+      "nintendo"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Baldur's Gate 3 se puede jugar con amigos?",
+    "juego": "Baldur's Gate 3",
+    "debe_mencionar": [
+      "cooperativo",
+      "multijugador"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Qué opinan los usuarios de Palworld?",
+    "juego": "Palworld",
+    "debe_mencionar": [
+      "usuarios",
+      "reseñas",
+      "opiniones"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Cult of the Lamb es para niños?",
+    "juego": "Cult of the Lamb",
+    "debe_mencionar": [
+      "clasificación",
+      "edad",
+      "violencia"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "¿Cuándo salió Hollow Knight: Silksong?",
+    "juego": "Hollow Knight: Silksong",
+    "debe_mencionar": [
+      "2025"
+    ]
+  },
+  {
+    "tipo": "juego",
+    "pregunta": "asassins creed shadow requisitos",
+    "juego": "Assassin's Creed Shadows",
+    "debe_mencionar": [
+      "ram"
+    ]
+  },
+  {
+    "tipo": "tema",
+    "pregunta": "recomiéndame juegos de terror para PC",
+    "palabras_clave": [
+      "terror",
+      "horror",
+      "survival horror"
+    ],
+    "debe_mencionar": [
+      "terror"
+    ]
+  },
+  {
+    "tipo": "tema",
+    "pregunta": "un RPG de mundo abierto con buena historia",
+    "palabras_clave": [
+      "rpg",
+      "rol",
+      "mundo abierto",
+      "open world"
+    ],
+    "debe_mencionar": [
+      "rpg",
+      "rol"
+    ]
+  },
+  {
+    "tipo": "tema",
+    "pregunta": "juegos de carreras para jugar con amigos",
+    "palabras_clave": [
+      "carreras",
+      "racing"
+    ],
+    "debe_mencionar": [
+      "carreras"
+    ]
+  },
+  {
+    "tipo": "tema",
+    "pregunta": "juegos de granja relajantes",
+    "palabras_clave": [
+      "granja",
+      "farming",
+      "farm"
+    ],
+    "debe_mencionar": [
+      "granja"
+    ]
+  },
+  {
+    "tipo": "tema",
+    "pregunta": "roguelikes difíciles para Nintendo Switch",
+    "palabras_clave": [
+      "roguelike",
+      "roguelite"
+    ],
+    "debe_mencionar": [
+      "roguelike"
+    ]
+  },
+  {
+    "tipo": "tema",
+    "pregunta": "juegos de estrategia por turnos",
+    "palabras_clave": [
+      "estrategia",
+      "turnos",
+      "turn-based"
+    ],
+    "debe_mencionar": [
+      "estrategia"
+    ]
+  },
+  {
+    "tipo": "tema",
+    "pregunta": "shooter multijugador competitivo gratis",
+    "palabras_clave": [
+      "shooter",
+      "disparos",
+      "fps"
+    ],
+    "debe_mencionar": [
+      "shooter"
+    ]
+  },
+  {
+    "tipo": "fuera",
+    "pregunta": "receta de pan amasado"
+  },
+  {
+    "tipo": "fuera",
+    "pregunta": "¿cuál es la capital de Francia?"
+  },
+  {
+    "tipo": "fuera",
+    "pregunta": "cómo cambiar la rueda de un auto"
+  }
+]

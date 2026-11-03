@@ -1,0 +1,27 @@
+JUEGO: Doom
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: PlayStation 4, Android, PC (Microsoft Windows), iOS, Xbox One, Nintendo Switch
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Terror
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: id Software, Nerve Software
+PUBLISHER: Bethesda Softworks
+FECHA DE LANZAMIENTO: 2019-07-26
+NOTA DE USUARIOS (IGDB): 91/100 (43 votos)
+FRANQUICIA: Doom
+TAMBIÉN CONOCIDO COMO: DOOM, Doom Unity Edition
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3m5h.jpg
+URL: https://www.igdb.com/games/doom--4
+
+RESUMEN:
+Doom is a sci-fi first-person shooter game developed by id Software and Nerve Software and published by Bethesda Softworks. It is an updated version of the original 1993 Doom that uses the Unity engine as a shell for the id Tech 1 engine.
+
+This game, as well as Doom II Classic, was initially released in a suite of classic Doom ports for PlayStation 4, Xbox One, Nintendo Switch, iOS, and Android, however, the ports were initially heavily criticized due to its poor quality and inaccuracies compared to the previous console generation ports while implementing an always-online DRM that required the player to sign into a Bethesda.net account (meant to unlock Slayers Club rewards) to play the game, despite these ports not having any online multiplayer features.
+
+After the initial criticism of the ports, Nerve Software eventually rectified the issues of the log-in requirements and problems with the ports through patches. A PC version of Doom Classic was released through Bethesda.net on January 9, 2020, which was later re-released through Steam on September 3, 2020 as a free update to existing owners of The Ultimate Doom.
+
+JUEGOS PARECIDOS:
+Si te gusta Doom, también podrían gustarte: Skeleton Krew, Ghost in the Shell: Stand Alone Complex - First Assault Online, Ghostbusters: Rise of the Ghost Lord, Aliens: Fireteam Elite, Alien Breed 3D, Afterfall: Insanity, Concord, Hrot, N.O.V.A. Legacy, The Darkness.

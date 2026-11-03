@@ -1,0 +1,40 @@
+JUEGO: Centipede
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Web browser
+DISPONIBLE EN: Arcade, Web browser
+GÉNEROS: Shooter, Arcade
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Atari
+PUBLISHER: Atari, Sanritsu
+FECHA DE LANZAMIENTO: 1981-06-06
+NOTA DE LA CRÍTICA (IGDB): 75/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 67/100 (62 votos)
+FRANQUICIA: Centipede
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co8wem.jpg
+URL: https://www.igdb.com/games/centipede
+
+RESUMEN:
+Centipede is a vertically-oriented shoot 'em up arcade game produced by Atari, Inc. in 1980. The game was designed by Ed Logg along with Dona Bailey, one of the few female game programmers in the industry at this time. It was also the first arcade coin-operated game to have a significant female player base. The player defends against swarms of insects, completing a round after eliminating the centipede that winds down the playing field.
+
+HISTORIA:
+The Enchanted Forest
+
+Once upon a time in a misty, enchanted forest, there lived a colony of good elves. These elves had a major problem, though. Their prized mushroom garden was infested with pests--a giant Centipede, a poison-spreading scorpion, a mischief-making spider, and a pesky flea. The good elves tried everything they could to rid their garden of these bugs. But nothing worked.
+
+One day, an elf named Oliver was hacking away at a poisoned mushroom in the garden. Suddenly, he saw an unusual stick gleaming in the dirt. Just as Oliver picked up the stick, a spider jumped out from behind a mushroom and rushed at him. When Oliver waved his hands wildly to try to scare the spider away, sparks flew from his stick and the spider disappeared!
+
+"How did that happen?" Oliver wondered out loud. "Could this be a magic wand?"
+
+Soon Oliver had another chance to try the wand. When the scorpion scurried across a row of mushroom, poisoning every mushroom it touched, Oliver pointed the wand at the scorpion and shouted, "Be gone!" Instantly, the scorpion disappeared and the poisoned mushrooms were transformed back into normal mushrooms.
+
+"This is great! This is the tool we need to clean up our mushroom garden" Oliver shouted ecstatically.
+
+With his new found magic wand, Oliver hid behind a mushroom. "OK, you great big Centipede," he said. "Come out wherever you are. I'm ready for you now!"
+
+--From the Atari 2600 Centipede instruction manual.
+
+JUEGOS PARECIDOS:
+Si te gusta Centipede, también podrían gustarte: Millipede, Zaxxon, Galaxian, Sinistar, Sky Force Reloaded, Jetpac, Blue Revolver, Truxton, Missile Command, Chicken Invaders.

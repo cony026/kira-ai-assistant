@@ -1,0 +1,23 @@
+JUEGO: BattleTech
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia, Estrategia por turnos, Aventura
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Harebrained Schemes
+PUBLISHER: Paradox Interactive
+FECHA DE LANZAMIENTO: 2018-04-24
+NOTA DE LA CRÍTICA (IGDB): 82/100 (8 críticas)
+NOTA DE USUARIOS (IGDB): 80/100 (34 votos)
+TAMBIÉN CONOCIDO COMO: BATTLETECH, BattleTechLauncher.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co28va.jpg
+URL: https://www.igdb.com/games/battletech
+
+RESUMEN:
+BattleTech is a turn-based tactical 'Mech combat set in the classic 3025 era of the BattleTech Universe. From the creators of the Shadowrun Series!
+
+JUEGOS PARECIDOS:
+Si te gusta BattleTech, también podrían gustarte: For the King, Wasteland 3, Caves of Qud, NEO Scavenger, The Battle of Polytopia, Endless Space 2, Chroma Squad, Wasteland 2, Warhammer 40,000: Rogue Trader, Tiny Metal.

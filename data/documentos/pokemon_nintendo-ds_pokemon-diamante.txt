@@ -1,0 +1,22 @@
+JUEGO: Pokémon Diamante
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Diamond
+PLATAFORMA: Nintendo DS
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación IV
+REGIÓN PRINCIPAL: Sinnoh
+LANZADO JUNTO A: Pokémon Perla
+
+DESCRIPCIÓN:
+Pokémon Diamante es un juego de rol de la saga principal de Pokémon, de la Generación IV, para Nintendo DS. La aventura transcurre en la región de Sinnoh. Se lanzó junto a Pokémon Perla; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Turtwig, Chimchar y Piplup. Su Pokédex regional reúne 151 especies de Pokémon distintas. Incluye Pokémon legendarios como Uxie, Mesprit, Azelf, Dialga y Palkia.
+
+POKÉDEX:
+- Sinnoh Original: 151 Pokémon
+
+POKÉMON INICIALES:
+Turtwig, Chimchar, Piplup
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Uxie, Mesprit, Azelf, Dialga, Palkia
+Singulares (míticos): Manaphy

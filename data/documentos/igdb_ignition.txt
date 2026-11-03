@@ -1,0 +1,24 @@
+JUEGO: Ignition
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), DOS
+DISPONIBLE EN: PC (Microsoft Windows), DOS
+GÉNEROS: Carreras, Deportes
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador, Pantalla dividida
+PERSPECTIVA: Tercera persona, Isométrica
+DESARROLLADOR: Unique Development Studios
+PUBLISHER: Virgin Entertainment
+FECHA DE LANZAMIENTO: 1997-12-31
+NOTA DE USUARIOS (IGDB): 86/100 (42 votos)
+TAMBIÉN CONOCIDO COMO: Fun Tracks, Bleifuss Fun, dosbox.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2a4b.jpg
+URL: https://www.igdb.com/games/ignition
+
+RESUMEN:
+Ignition is an action packed racing game viewed from above and slightly behind the player. The cars on offer range from police car and VW Beetle to school bus and truck, each of which has its own strengths and weaknesses - trying to win with the bus, which involves blocking everyone behind the hideously slow vehicle for 3 laps, is perhaps the ultimate challenge.
+
+Initially there are 5 tracks available, with practice and single race modes as well as full championship at 3 levels - winning each of the first 2 levels unlocks an extra track. They all have hazards running through them, and sections where you must make a split-second choice between the safer route and the risky but potentially rewarding one. Multiplayer can be done via network or by split-screen - in a break with convention the screen is split vertically rather than horizontally.
+
+JUEGOS PARECIDOS:
+Si te gusta Ignition, también podrían gustarte: Downhill Domination, Barro, Driftwood, Automobilista 2, California Games II, Excite Truck, The Karters 2: Turbo Charged, The Endless Summer Surfing Challenge, Torque Drift, Destruction AllStars.

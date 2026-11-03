@@ -1,0 +1,10 @@
+JUEGO: Pokémon Mystery Dungeon: Red Rescue Team DX
+PLATAFORMA: Nintendo Switch
+GÉNEROS: RPG, Dungeon Crawler
+NOTA METACRITIC: 73
+
+RESEÑA / DESCRIPCIÓN:
+Remake del clásico Pokémon Mystery Dungeon. Forma un equipo de rescate, explora cuevas y ayuda a Pokémon en peligro. Sistema de roguelike con permadeath. Gráficos mejorados y nuevas características.
+
+REQUISITOS MÍNIMOS:
+Nintendo Switch

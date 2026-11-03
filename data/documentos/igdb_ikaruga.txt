@@ -1,0 +1,24 @@
+JUEGO: Ikaruga
+
+FUENTE: IGDB
+PLATAFORMA: Arcade
+DISPONIBLE EN: Arcade
+GÉNEROS: Shooter, Puzle, Indie, Arcade
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador, Pantalla dividida
+PERSPECTIVA: Tercera persona, Isométrica
+DESARROLLADOR: Treasure
+PUBLISHER: Treasure
+FECHA DE LANZAMIENTO: 2001-12-20
+NOTA DE LA CRÍTICA (IGDB): 89/100 (6 críticas)
+NOTA DE USUARIOS (IGDB): 88/100 (48 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1qjb.jpg
+URL: https://www.igdb.com/games/ikaruga
+
+RESUMEN:
+In this vertical scrolling spaceship shooter, you control a ship that can change its polarity at will. As blue/white, the ship can easily destroy red/black enemies, and vice versa. Bullets of your polarity can be collected to fuel your energy gauge, but those opposite will kill you. Destroying an enemy ship causes them to fire revenge bullets which can be absorbed and fired back by the player. Different difficulties exist to change exactly how you interact with polarized points, or how they appear.
+
+It is the spiritual successor to Radiant Silvergun, featuring similar level and boss design, as well as it's buddhism inspired themes and aesthetics. Both are directed by Hiroshi Iuchi, who also composed Ikaruga's soundtrack.
+
+JUEGOS PARECIDOS:
+Si te gusta Ikaruga, también podrían gustarte: Crimzon Clover: World Ignition, Symphony, Waves, Söldner-X 2: Final Prototype, Tyrian, Ion Assault, Galaga, Sin & Punishment: Star Successor, 1993 Space Machine, DonPachi.

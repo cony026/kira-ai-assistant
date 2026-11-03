@@ -1,0 +1,23 @@
+JUEGO: Human: Fall Flat
+
+FUENTE: IGDB
+PLATAFORMA: Google Stadia, Xbox Series X|S, PlayStation 4, Linux
+DISPONIBLE EN: Google Stadia, Xbox Series X|S, PlayStation 4, Linux, Nintendo Switch 2, Android, PC (Microsoft Windows), iOS, PlayStation 5, Mac, Xbox One, Nintendo Switch
+GÉNEROS: Plataformas, Puzle, Simulación, Aventura, Indie
+TEMAS: Acción, Comedia, Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: No Brakes Games
+PUBLISHER: Curve Digital, 505 Games
+FECHA DE LANZAMIENTO: 2016-07-22
+NOTA DE LA CRÍTICA (IGDB): 73/100 (13 críticas)
+NOTA DE USUARIOS (IGDB): 69/100 (263 votos)
+TAMBIÉN CONOCIDO COMO: 휴먼: 폴 플랫, Human.exe, HFF
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cocx4j.jpg
+URL: https://www.igdb.com/games/human-fall-flat
+
+RESUMEN:
+Human: Fall Flat is a physics-based puzzle platformer where players control a customizable wobbly human character named Bob. Using intentionally clumsy arm controls for grabbing, climbing, and interacting with objects, players navigate open-ended levels that each contain multiple solutions to their puzzles. The game supports up to eight players in online or LAN multiplayer. Originally created by a solo Lithuanian developer as a prototype for a motion-sensing camera before transitioning to traditional controls, the game became a major commercial success partly through streaming popularity.
+
+JUEGOS PARECIDOS:
+Si te gusta Human: Fall Flat, también podrían gustarte: Wobbly Life, Trine 4: The Nightmare Prince, Save the Ninja Clan, Figment, Move or Die, Squirrel with a Gun, Teardown, Superliminal, Ibb & Obb, Trine 3: The Artifacts of Power.

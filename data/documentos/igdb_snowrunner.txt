@@ -1,0 +1,27 @@
+JUEGO: SnowRunner
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PlayStation 4, Nintendo Switch 2, PC (Microsoft Windows)
+DISPONIBLE EN: Xbox Series X|S, PlayStation 4, Nintendo Switch 2, PC (Microsoft Windows), PlayStation 5, Mac, Xbox One, Nintendo Switch
+GÉNEROS: Carreras, Simulación, Aventura, Arcade
+TEMAS: Gestión, Non-fiction, Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Saber Interactive
+PUBLISHER: Focus Entertainment
+FECHA DE LANZAMIENTO: 2020-04-28
+NOTA DE LA CRÍTICA (IGDB): 81/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 75/100 (77 votos)
+TAMBIÉN CONOCIDO COMO: MudRunner 2, SnowRunner: A MudRunner Game, Spintires: MudRunner 2, SnowRunner.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coaazp.jpg
+URL: https://www.igdb.com/games/snowrunner
+
+RESUMEN:
+SnowRunner is an off-road driving simulation game that focuses on navigating challenging terrain using a variety of heavy vehicles. Players complete contracts and objectives across open environments, transporting cargo while overcoming mud, snow, rivers, and other natural obstacles.
+The game emphasizes realistic physics, vehicle customization, and route planning, with progression tied to upgrading equipment and expanding a fleet suited for different conditions.
+
+HISTORIA:
+Drive 40 vehicles from brands such as Ford, Chevrolet, and Freightliner as you leave your mark on an untamed open world. Overcome mud, torrential waters, snow, and frozen lakes while taking on perilous contracts and missions. Expand and customize your fleet with many upgrades and accessories including an exhaust snorkel for heavy waters or chain tires to battle the snow.
+
+JUEGOS PARECIDOS:
+Si te gusta SnowRunner, también podrían gustarte: BeamNG.drive, Tales of Seikyu, American Truck Simulator, Need for Speed: Heat, MudRunner, Wobbly Life, Farming Simulator 19, Grounded, Teardown, Test Drive Unlimited Solar Crown.

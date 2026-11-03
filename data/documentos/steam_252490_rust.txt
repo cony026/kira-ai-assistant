@@ -1,0 +1,130 @@
+JUEGO: Rust
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Indie, Multijugador masivo, Rol
+DESARROLLADOR: Facepunch Studios
+PUBLISHER: Facepunch Studios
+FECHA DE LANZAMIENTO: 8 FEB 2018
+PRECIO: $39.99
+NOTA METACRITIC: 69/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (1393556 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+En Rust, el único propósito es sobrevivir. Todo lo que te rodea quiere liquidarte: la fauna de la isla, los demás habitantes, el entorno y otros supervivientes. Haz lo que sea para ver la luz de un nuevo día.
+
+DESCRIPCIÓN DETALLADA:
+En Rust, el único propósito es sobrevivir. Todo lo que te rodea quiere liquidarte: la fauna de la isla, los demás habitantes, el entorno y otros supervivientes. Haz lo que sea para ver la luz de un nuevo día.ACERCA DE ESTE JUEGOEn Rust, el único propósito es sobrevivir. Todo lo que te rodea quiere liquidarte: la fauna de la isla, los demás habitantes, el entorno y otros supervivientes. Haz lo que sea para ver la luz de un nuevo día.Rust comienza su 13.º año de expansión y ya cuenta con 395 actualizaciones de contenido, con un nuevo parche cada mes. En ellos se incluyen modificaciones para equilibrar el título y optimizaciones de la IA o los gráficos, además de actualizaciones en los entornos y la incorporación constante de contenido, como nuevos mapas, más armas, vehículos y un sinfín de elementos útiles. No te pierdas los eventos de temporada, ya que en la isla no paran de pasar cosas interesantes o peligrosas (o ambas). 
+Las actualizaciones incluyen:
+- Mundos creados mediante generación por procedimientos con editor de mapas para la comunidad.
+- Crea tus propios servidores con mods seleccionados.
+- Transporte con caballos, coches modulares, globos aerostáticos, helicópteros, bicicletas, trenes, barcos y mucho más.
+- Construcción de bases e incursiones.
+- Nuevas facciones, enemigos y fauna.
+- Zonas subacuáticas avanzadas por descubrir.
+- Sistemas de electricidad, agricultura y automatización desarrollados.
+- Nuevos monumentos, terrenos y zonas para explorar.
+- Extensas redes ferroviarias en la superficie y subterráneas.
+- Instrumentos musicales y la posibilidad de actuar para los demás.
+- Una actualización reciente de los gráficos y una renovación completa del entorno.
+- Modo primitivo, armas de asedio y vehículos nuevos. 
+- Un nuevo bioma selvático con más animales salvajes, misiones y monumentos.  
+- Novedades de 2026: Barcos modulares, profundidades oceánicas, islas tropicales, ciudades flotantes y mucho más.Y este año vendrá cargado de muchas más cosas , como una actualización del personaje del jugador, un monumento de complejo de apartamentos, más animales y mejoras para las cuevas y los túneles.EXPLORA
+Te despiertas desnudo en una isla misteriosa con los únicos recursos que tienes a mano, una roca y una antorcha. Tendrás que enfrentarte al entorno y a varias deficiencias (como el calor, el frío, la sed o el hambre), construir un refugio, comer —si no quieres que te coman— y buscar materiales. Explora la isla y todos los asentamientos abandonados, los monumentos misteriosos y las facciones que los ocupan. 
+Pero, sobre todo, ten mucho cuidado con los demás supervivientes...CONSTRUYEDiseña y construye bases en las que almacenar botín, defiende tu territorio y controla los recursos de la isla. Desarrolla el árbol tecnológico, construye ranchos, controla la electricidad y requisa varios tipos de transporte para recorrer la isla. Lo que sea para tomar la delantera.SOBREVIVELas únicas normas que hay en Rust son las que te autoimpones. Fabrica herramientas, armadura y armas para defenderte. Coopera con otras personas, crea alianzas y construye un asentamiento en equipo. Explora la isla y descubre lo que está pasando, comercia con otras personas o conviértelas en tus presas asaltando sus bases y confiscando la mercancía que tanto les ha costado conseguir.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11 64bit
+
+- Procesador: AMD Ryzen 5 1400 or Intel Core i5-6600
+
+- Memoria: 12 GB de RAM
+
+- Gráficos: AMD Radeon RX 470, NVIDIA GeForce GTX 1060, Intel® Arc™ A580
+
+- DirectX: Versión 11
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 45 GB de espacio disponible
+
+- Notas adicionales: SSD is highly recommended or expect longer than average load times.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11 64bit
+
+- Procesador: AMD Ryzen 7 3700X or Intel® Core i7-6700K
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: AMD Radeon RX 6600XT, NVIDIA GeForce RTX 3060, Intel Arc B580
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 45 GB de espacio disponible
+
+- Notas adicionales: SSD Required
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: macOS Monterey (version 12)
+
+- Procesador: Apple M1
+
+- Memoria: 12 GB de RAM
+
+- Gráficos: Apple M1
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 45 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: macOS Monterey (version 12)
+
+- Procesador: Apple M1 Pro / Max / Ultra
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Apple M1 Pro / Max / Ultra
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 45 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- Procesador: Intel Core i7-3770 / AMD FX-9590 or better
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: GTX 670 2GB / AMD R9 280 better
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 10 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:
+
+- Procesador: Intel Core i7-4690K / AMD Ryzen 5 1600
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: GTX 980 / AMD R9 Fury
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 12 GB de espacio disponible

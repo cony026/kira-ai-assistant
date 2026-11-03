@@ -1,0 +1,70 @@
+JUEGO: Assassin's Creed Black Flag Resynced
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura
+DESARROLLADOR: Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai, Ubisoft Montreal, Ubisoft Romania
+PUBLISHER: Ubisoft
+FECHA DE LANZAMIENTO: 9 JUL 2026
+PRECIO: $59.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (28848 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Vuelve la emblemática aventura de piratas en solitario. Navega por el Caribe como Edward Kenway durante la edad de oro de la piratería en esta versión optimizada que presenta unos gráficos impresionantes, una mecánica de juego mejorada y nuevo contenido.
+
+DESCRIPCIÓN DETALLADA:
+Aborda y hunde los barcos de tus enemigos como Edward Kenway, el capitán del Jackdaw. Mézclate entre la multitud, lidera osados ataques y alterna entre las eliminaciones silenciosas y las trifulcas usando espadas, pistolas y la hoja oculta. Desafía a los imperios junto a los piratas más legendarios de la historia en medio de un conflicto que enfrenta a Asesinos y Templarios desde la antigüedad.
+
+El combate rediseñado ofrece enfrentamientos más dinámicos, haciendo énfasis en las paradas y las eliminaciones, mientras que el sigilo y el parkour mejorados facilitan las huidas y los asesinatos. Mejora continuamente el Jackdaw para enfrentarte a los poderosos barcos enemigos con mecánicas navales optimizadas que incluyen nuevos modos de disparo alternativos. También se han realizado mejoras en la calidad de vida para solucionar problemas previos, lo que garantiza una experiencia mejorada.
+
+Navega por mares abiertos o viaja por tierras indómitas y descubre un mundo abierto sin fisuras creado con el motor Anvil. Disfruta de maravillosas vistas mientras te enfrentas a aguas tormentosas, buceas entre barcos naufragados y te adentras en densas selvas tropicales. Las escenas, optimizadas con características tales como Dolby Atmos y el trazado de rayos, son más inmersivas y realzan la belleza del mundo.
+
+Assassin's Creed Black Flag Resynced se basa en la historia original e introduce nuevo contenido exclusivo. Regresan rostros conocidos y nuevas tramas dedicadas a los personajes favoritos de los fans, como Barbanegra y Stede Bonnet. También se cruzarán en tu camino aliados inesperados, pues tres oficiales se unirán a tu aventura como parte de la narrativa principal. Y además te esperan nuevas salomas, mascotas, un modo Foto y muchas más sorpresas.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64 bit only), Windows 11
+
+- Procesador: Intel Core i7-8700K 3.7 GHz, AMD Ryzen 5 3600 3.6 GHz
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1660 (6GB), AMD Radeon RX5500XT (8GB) or Intel ARC A580 (8GB)
+
+- DirectX: Versión 12
+
+- Almacenamiento: 65  GB de espacio disponible
+
+- Notas adicionales: The game must be installed on a SSD.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64 bit only), Windows 11
+
+- Procesador: Intel Core i5-10600K 4.1 GHz, AMD Ryzen 5 3600 3.6 GHz
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce RTX 3060 (12GB),AMD Radeon RX6600XT (8GB), or Intel ARC B580 (12GB)
+
+- DirectX: Versión 12
+
+- Almacenamiento: 65 GB de espacio disponible
+
+- Notas adicionales: The game must be installed on a SSD.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

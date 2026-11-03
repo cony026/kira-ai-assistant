@@ -1,0 +1,40 @@
+JUEGO: Sniper: Ghost Warrior
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, Linux, PC (Microsoft Windows), Xbox 360
+DISPONIBLE EN: PlayStation 3, Linux, PC (Microsoft Windows), Xbox 360
+GÉNEROS: Shooter, Simulación, Táctico
+TEMAS: Acción, Sigilo, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: City Interactive
+PUBLISHER: City Interactive, CyberFront
+FECHA DE LANZAMIENTO: 2010-06-24
+NOTA DE LA CRÍTICA (IGDB): 56/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 56/100 (108 votos)
+TAMBIÉN CONOCIDO COMO: Снайпер. Воин-призрак
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2e42.jpg
+URL: https://www.igdb.com/games/sniper-ghost-warrior
+
+RESUMEN:
+The game is a tactical shooter played from a first-person perspective. As the title suggests, a large portion of the game consists of stealth, staking out targets and firing sniper rifles. Bullet trajectories are subject to wind, gravity and flight time, all of which players must account for when taking shots. To simplify this procedure, easier difficulty settings contain indicators that highlight enemies and show precisely where a bullet will hit.
+
+The main weapons used in the game are silenced pistols, knives and various types of sniper rifles. In missions that are played with characters who are not snipers, the stealth aspect is dropped in favor of faster-paced "run and gun" scenarios. An exception to this are spotting missions, in which the primary objective consists of marking targets for a computer-controlled sniper character.
+
+Most of the game takes place in a dense jungle environment. Waypoint overlays at all times display the correct routes through the areas players must traverse. While these routes need not be followed exactly, the level design usually ensures an overall linear path due to obstacle placement and invisible walls. Many waypoints trigger scripted mission events, and some waypoints act as checkpoints, which automatically save the game.
+
+The single player campaign of Sniper: Ghost Warrior is made up of four separate acts, each of which deals with a different conflict. All acts are split up into various missions, which usually depict the same event from different points of view. For example, in one segment players may be participating in an infantry assault on an enemy camp, while the next segment has them assuming the role of a supporting sniper who backs up the assault. There is downloadable content available for the title that seamlessly continues the story line with three additional campaign missions.
+
+HISTORIA:
+In the game, players take the role of various characters for different missions. Among them are a sniper, Sergeant Tyler "Razor Six-Four" Wells, for long range missions and stealth assignments, a Delta Force operator, Private Cole Anderson, as well as a rebel, El Tejon, for missions involving direct firefights. The main plot centers around a highly trained special ops unit that is sent into the fictional country of Isla Trueno, whose democratic government has been overthrown by a hostile force.
+
+Undercover CIA Agent Mike Rodriguez infiltrates the entourage of General Vasquez in order to set up a shot for the sniper-spotter team Alpha Nine. Killing the general would put an end to the regime on Isla Trueno. During the assassination attempt, Agent Rodriguez is compromised and captured, and General Vasquez escapes. After a series of missions, the assault team Delta Three, supported by sniper unit Razor Six Four, manages to free Agent Rodriguez from an enemy camp.
+
+With Vasquez on the loose, Delta Three and Razor Six-Four are sent to set up an air strike on a cocaine plantation. After the successful destruction of the plantation, the evacuation chopper comes under attack and has to leave. Razor Six Four makes his way through enemy territory in order to reach the new evacuation point from where he is extracted.
+
+Agent Rodriguez teams up with Sergeant Tyler Wells to steal plans of a nuclear warhead from an enemy camp. The mission is a success, but Agent Rodriguez turns out to be a traitor. He takes the data and leaves Sergeant Wells to be shot by the enemy. A rebel leader called El Tejon rescues Sergeant Wells, who then tracks down Rodriguez, kills him and retrieves the data.
+
+Because the data files are incomplete, the Alpha Nine sniper-spotter team steals the rest of the data from the enemy. Together with Razor Six Four, Alpha Nine then eliminates Ernesto Salazar, General Vasquez' advisor. Decryption of the stolen data uncovers the location of a secret uranium mine on Isla Trueno. Delta Three and Razor Six-Four enter the mine facilities in an enemy truck, free the civilian workers and destroy the compound. To fully dissolve the now weakened regime, a second attempt is made to kill General Vasquez. Razor Six-Four completes the assignment successfully, and the game ends the moment Vasquez is struck by the bullet.
+
+JUEGOS PARECIDOS:
+Si te gusta Sniper: Ghost Warrior, también podrían gustarte: Sniper: Ghost Warrior 2, Sniper Elite III, Call of Duty: Black Ops III, Sniper: Ghost Warrior 3, Army of Two: The Devil's Cartel, War Thunder, Warface, Arma 3, Homefront: The Revolution, Delta Force.

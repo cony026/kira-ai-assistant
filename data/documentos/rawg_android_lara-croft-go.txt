@@ -1,0 +1,25 @@
+JUEGO: Lara Croft GO
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, Linux, macOS, PC, iOS, PlayStation 4, PS Vita
+FECHA DE LANZAMIENTO: 2015-08-27
+DESARROLLADOR: Square Enix, Square Enix Montréal
+PUBLISHER: Square Enix
+GÉNEROS: Adventure, Puzzle
+NOTA METACRITIC: 84
+RATING USUARIOS: 3.7/5 (276 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Full controller support, Atmospheric, Great Soundtrack, Female Protagonist, Turn-Based, Isometric, Lara Croft
+
+DESCRIPCIÓN:
+Lara Croft GO is a turn-based isometric puzzle game drawn in material design style. This is the fourth spin-off of the enormous Tomb Raider series.
+
+###Gameplay
+The game ties turn mechanics and adventure game — even though it sounds contradictory, this merger works. So, the game features usual Tomb Raider gameplay which is: raiding tombs, exploring crypts and fighting multiple enemies. 
+During forty levels divided into five chapters the player must take turns — he can go into one of four directions — left, right, up and down. The time given for turns is unlimited, so it is the move-when-ready type of title.
+Going through levels namely means learning foes' moving patterns and memorizing the locations of all traps within the level. Lara can climb cliffs and hang down from the ledges to avoid being detected by opponents. The new types of traps and things to avoid are evolving with every next level. 
+GO also features “look-for-objects” genre as the player is allowed to collect vases throughout the levels
+
+###Plot
+The narrative in the title transfers itself via visuals, not dialogues, so it is hard to compose any meaningful story with it. The absence of subsequent storytelling may be explained with the hints mechanics — it is utterly troublesome to translate a story arc if the help may be requested at any time and level would be over in no time.

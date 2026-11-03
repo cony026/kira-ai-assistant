@@ -1,0 +1,22 @@
+JUEGO: Spore
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia en tiempo real, RPG, Simulación, Estrategia, Aventura
+TEMAS: Acción, Ciencia ficción, Comedia, Mundo abierto, 4X (explore, expand, exploit, and exterminate)
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona, Isométrica
+DESARROLLADOR: Maxis, Maxis Emeryville
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 2008-09-04
+NOTA DE LA CRÍTICA (IGDB): 82/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 73/100 (415 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2ac9.jpg
+URL: https://www.igdb.com/games/spore
+
+RESUMEN:
+From Single Cell to Galactic God, evolve your creature in a universe of your own creations. Play through Spore's five evolutionary stages: Cell, Creature, Tribe, Civilization, and Space. Each stage has its own unique style, challenges, and goals.
+
+JUEGOS PARECIDOS:
+Si te gusta Spore, también podrían gustarte: The Sims 2, Black & White, Overlord, Sid Meier's Alpha Centauri, Black & White 2, Solar 2, The Sims 3, The Sims, Star Wars: Knights of the Old Republic, Star Wars: Knights of the Old Republic II - The Sith Lords.

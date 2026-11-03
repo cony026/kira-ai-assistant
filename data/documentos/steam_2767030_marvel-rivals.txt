@@ -1,0 +1,52 @@
+JUEGO: Marvel Rivals
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Free to Play
+DESARROLLADOR: NetEase Games
+PUBLISHER: NetEase Games
+FECHA DE LANZAMIENTO: 5 DIC 2024
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (411408 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+¡Marvel Rivals es un juego de disparos de JcJ por equipos de superhéroes! Reúne un equipo de personajes de Marvel y combina sus poderes para idear infinitas estrategias y habilidades de agrupación, y lucha en campos de batalla destruibles y en constante cambio a lo largo del universo de Marvel.
+
+DESCRIPCIÓN DETALLADA:
+Un elenco de Marvel variado y detalladoElige entre una amplia variedad de superhéroes y villanos famosos y de culto de Marvel, incluidos los Vengadores, los Guardianes de la Galaxia, los X-Men y muchos más del universo Marvel. Acción 6 contra 6 rápida y divertida con dinámicas de juego en constante cambio¡En Marvel Rivals no tendrás tiempo de aburrirte gracias a sus entornos complejos, un estilo de juego rápido y campos de batalla que cambian continuamente! Encarna a un superhéroe o a un villano y entra en batalla con unas habilidades increíbles. Además, también puedes usar los poderes para crear combinaciones divertidas e inesperadas en cuestión de segundos. Sinergia dinámica entre héroes ¡Coordina combinaciones únicas entre personajes para activar las sorprendentes habilidades de agrupación! Desata estos superpoderes combinados y crea nuevas tácticas que podrían darle la vuelta al combate. Súbete a la espalda de Groot como Rocket Raccoon para enfrentarte a tus enemigos en un poderoso dúo, utiliza la energía gamma de Hulk para cargar la armadura de Iron Man e infligir una gran cantidad de daño y muchas más.  Destrucción creativa del entorno¡ábrete paso por los entornos que puedes destruir de los icónicos mundos de Marvel! Desde Asgard a Tokio 2099, utiliza tus superpoderes para alterar los entornos, dar forma al terreno y crear ventajas estratégicas en el campo de batalla. Ponte a cubierto para esquivar ataques o usa armas improvisadas para derribar enemigos. ¡Hay mil formas de utilizar el entorno para ganar!Un universo en constante evolución y potentes actualizaciones poslanzamiento¡El multiverso de Marvel ofrece posibilidades infinitas! ¡Cada temporada incluirá nuevos superhéroes y mapas desafiantes y variados! Desbloquea nuevo contenido que podrás utilizar en diferentes estrategias de juego mientras vives la emocionante acción y las innumerables posibilidades en estas increíbles batallas de equipo.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10 64-bit (1909 or newer)
+
+- Procesador: Intel Core i5-6600K or AMD Ryzen 5 1600X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1060 / AMD RX 580 / Intel Arc A380
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 70 GB de espacio disponible
+
+- Notas adicionales: We recommend you install the game on SSD drive for better experience.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10 64-bit (1909 or newer)
+
+- Procesador: Intel Core i5-10400 or AMD Ryzen 5 5600X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce RTX 2060 (Super) / AMD RX 5700-XT / Intel Arc A750
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 70 GB de espacio disponible
+
+- Notas adicionales: We recommend you install the game on SSD drive for better experience.

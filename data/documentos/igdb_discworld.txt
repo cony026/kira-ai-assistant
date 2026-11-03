@@ -1,0 +1,28 @@
+JUEGO: Discworld
+
+FUENTE: IGDB
+PLATAFORMA: Mac, DOS, Sega Saturn, PlayStation
+DISPONIBLE EN: Mac, DOS, Sega Saturn, PlayStation, Sega CD
+GÉNEROS: Point and click, Puzle, Aventura
+TEMAS: Fantasía, Histórico, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Perfect Entertainment, Perfect 10 Productions, Teeny Weeny Games
+PUBLISHER: Psygnosis, Dro Soft, Psygnosis Limited, Media Entertainment
+FECHA DE LANZAMIENTO: 1995-03-17
+NOTA DE LA CRÍTICA (IGDB): 70/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 83/100 (55 votos)
+TAMBIÉN CONOCIDO COMO: Discworld: The Trouble With Dragons, Ohlam Ha disc, Terry Pratchett's Mundodisco, Terry Pratchett's: Discworld
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4z82.jpg
+URL: https://www.igdb.com/games/discworld
+
+RESUMEN:
+Discworld is a game released for PC (subsequently Mac, and Playstation) by Teeny Weeny / Perfect 10 studios in 1995. The game was released both on floppy disk and CD-Rom. The latter featured a commentary team created of many veterans of famous Brit-Coms. This included Monty Python's Eric Idle, Radio 4's (later to be more famous) Rob Brydon, ex- Doctor Who John Pertwee, 70s pop singer Kate Robbins, and Blackadder star Tony Robinson. The game is a riff on the Discworld title 'Guards, Guards', however many elements of the text have been shifted, not least the inclusion of Rincewind as protagonist.
+
+The game featured puzzles which were considered far too difficult and obtuse for gamers of the time, but the game itself has had a lasting legacy, now being accepted into such emulators as SCUMMVM.
+
+HISTORIA:
+A typically nasty secret order has summoned up a dragon, and is using it to wreak havoc upon the city. But it's not down to Carrot and co to stop it. It's down to Rincewind, the highly inept wizard. The player takes control of him, and try to save the city from destruction, in a journey that takes you from Ankh-Morpork to the edge of the Disc and beyond. The game incorporates many characters from non-Rincewind Discworld adventures, such as Nanny Ogg, The Ankh-Morpork guards, Cut-me-own-throat Dibbler, Trolls, the Patrician and Death.
+
+JUEGOS PARECIDOS:
+Si te gusta Discworld, también podrían gustarte: Discworld II: Mortality Bytes!, Discworld Noir, Monkey Island 2: LeChuck's Revenge, King's Quest, Return to Monkey Island, Irony Curtain: From Matryoshka with Love, Lil' Guardsman, The Dark Eye: Memoria, Ken Follett's The Pillars of the Earth, King's Quest: Quest for the Crown.

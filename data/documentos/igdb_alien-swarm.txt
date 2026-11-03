@@ -1,0 +1,26 @@
+JUEGO: Alien Swarm
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Valve
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2010-07-10
+NOTA DE LA CRÍTICA (IGDB): 60/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 70/100 (67 votos)
+TAMBIÉN CONOCIDO COMO: AS
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2sj5.jpg
+URL: https://www.igdb.com/games/alien-swarm
+
+RESUMEN:
+Alien Swarm is a game and Source SDK release from a group of talented designers at Valve who were hired from the Mod community.
+
+Available free of charge, the game thrusts players into an epic bug hunt featuring a unique blend of co-op play and squad-level tactics. With your friends, form a squad of four distinct IAF Marine classes. Plan your attack using an unlockable arsenal of weapons with countless loadout configurations against a wide variety of aliens. Blaze your way through an overrun, off-world colony, eradicating the alien infestation in environments ranging from the icy planet's surface, to a subterranean lava-flooded mining facility.
+Along with the game get the complete code base for Alien Swarm that features updates to the Source engine as well as the SDK. Alien Swarm adds 3rd person camera, depth of field, improved dynamic shadows and a wide variety of gameplay additions to the Source engine.
+
+JUEGOS PARECIDOS:
+Si te gusta Alien Swarm, también podrían gustarte: Aliens: Colonial Marines, Day of Defeat, Call of Duty: Infinite Warfare, Killing Floor, StarCraft, Team Fortress Classic, Half-Life, Aliens vs. Predator, Evolve, Sanctum 2.

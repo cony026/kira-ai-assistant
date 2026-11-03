@@ -1,0 +1,16 @@
+JUEGO: MechWarrior 5: Mercenaries
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Xbox Series X/S
+DISPONIBLE EN: Xbox One, Xbox Series S/X, PC
+FECHA DE LANZAMIENTO: 2019-12-10
+DESARROLLADOR: Piranha Games
+PUBLISHER: Sold Out, Piranha Games
+GÉNEROS: Action, Shooter, Simulation
+NOTA METACRITIC: 73
+RATING USUARIOS: 3.09/5 (44 votos)
+TIEMPO DE JUEGO MEDIO: 5 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Co-op, cooperative, First-Person, Partial Controller Support, FPS, Online Co-Op, Steam Workshop, Moddable, 3D, combat, Futuristic, Management
+
+DESCRIPCIÓN:
+A single player MechWarrior game, fourteen years after the last mainline entry. Made by the developers of MechWarrior: Online, using Unreal Engine 4.

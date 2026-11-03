@@ -1,0 +1,22 @@
+JUEGO: Pineapple on Pizza
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Indie
+TEMAS: Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Majorariatto
+PUBLISHER: Majorariatto
+FECHA DE LANZAMIENTO: 2023-03-28
+NOTA DE USUARIOS (IGDB): 70/100 (39 votos)
+TAMBIÉN CONOCIDO COMO: Pineapple on pizza.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co69au.jpg
+URL: https://www.igdb.com/games/pineapple-on-pizza
+
+RESUMEN:
+Pineapple on Pizza is a short game about exploring an island full of dancing people, finding a way to ruin the party, and unexpectedly enjoying it.
+
+JUEGOS PARECIDOS:
+Si te gusta Pineapple on Pizza, también podrían gustarte: Babbdi, Arena Breakout, Don't Scream, What Never Was, The Beginner's Guide, Perfect Vermin, Dépanneur Nocturne, Crime Scene Cleaner, Before Your Eyes, Granny.

@@ -1,0 +1,28 @@
+JUEGO: Streets of Rogue
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: PlayStation 4, Linux, PC (Microsoft Windows), Mac, Xbox One, Nintendo Switch
+GÉNEROS: Shooter, RPG, Hack and slash, Aventura, Indie
+TEMAS: Acción, Sigilo, Comedia, Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Matt Dabrowski
+PUBLISHER: tinyBuild
+FECHA DE LANZAMIENTO: 2019-07-11
+NOTA DE LA CRÍTICA (IGDB): 84/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 65/100 (49 votos)
+TAMBIÉN CONOCIDO COMO: StreetsOfRogue.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbv.jpg
+URL: https://www.igdb.com/games/streets-of-rogue
+
+RESUMEN:
+Streets of Rogue is a top-down rogue-lite with an emphasis on player agency and freedom. It combines shooting, stealth, and role-playing elements in a procedurally generated city.
+
+Rather than taking place in a dungeon, the game is set in a functioning, procedurally generated city, where complex AI informs denizens from all walks of life, who are just trying to get by in their daily activities. In order to progress, the player will need to accomplish specific mission goals in any way they see fit through use of their special character traits, items, and the environment.
+
+HISTORIA:
+In a sprawling, chaotic city ruled by a corrupt and tyrannical Mayor, an underground movement known as the Resistance plots to overthrow him and seize control of City Hall. Operating out of a hidden Home Base populated by Resistance Leaders and a colorful cast of would-be revolutionaries, the movement enlists all manner of citizens to fight its cause. Its recruits are anything but ordinary: a scientist, a bartender, a gorilla, a shapeshifter, a werewolf, a hardened soldier, and countless other misfits, each with their own quirks, talents, and ways of causing trouble. To reach the Mayor, they must claw their way up through the layered districts of the metropolis, from the grimy Slums and Industrial zones to the Park, Downtown, Uptown, and finally the Mayor Village. Whether through stealth, sabotage, bribery, brute force, or sheer anarchy, every recruit forges their own path toward toppling the regime.
+
+JUEGOS PARECIDOS:
+Si te gusta Streets of Rogue, también podrían gustarte: Ravenswatch, Gunfire Reborn, Wizard of Legend, Hammerwatch II, The Swords of Ditto, Cult of the Lamb, Vampire Survivors, Drova: Forsaken Kin, My Time at Sandrock, Citadel: Forged With Fire.

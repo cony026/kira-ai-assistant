@@ -1,0 +1,28 @@
+JUEGO: Dead Cells
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Xbox One, Nintendo Switch, PlayStation 4, macOS, Linux, iOS, PC
+FECHA DE LANZAMIENTO: 2018-08-07
+DESARROLLADOR: Plug In Digital, Playdigious, Motion Twin
+PUBLISHER: Plug In Digital, Playdigious, Motion Twin
+GÉNEROS: Action, RPG, Indie, Platformer
+NOTA METACRITIC: 88
+RATING USUARIOS: 4.23/5 (1752 votos)
+TIEMPO DE JUEGO MEDIO: 10 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, Atmospheric, Great Soundtrack, RPG, 2D, Difficult, Pixel Graphics, Early Access, Hack and Slash, Replay Value, Side Scroller, Roguelike
+
+DESCRIPCIÓN:
+Dead Cells is a roguelike adventure title developed by Motion Twin.
+
+###Story
+Not much story is present in the game, as only bits of any information are given out to the players. The game takes place at a remote island, where the players take place of the Prisoner. The Prisoner does not speak, yet he can express confusion and frustration using his body language. The Prisoner is basically immortal, as, in case of death, his head disconnects itself from the Prisoner's body, and gets back to the game's starting area. 
+
+###Gameplay
+The game's heavily inspired by The Binding of Isaac, as stated by the developers.
+
+Dead Cells features the procedurally generated environments that are typical for roguelike games, yet it puts a strong emphasis on exploration that is typically found in metroidvanias.
+
+The players set out to explore the island where a prison was built. As the players come down into the dungeons of the island, they find various loot, fight dangerous creatures, collect armor, abilities, and power-ups. Upon death, the players lose all the loot they had on them. It is possible to find a shopkeep somewhere in the dungeons to purchase new equipment or have some rest. 
+
+The game uses death as a learning experience, as it randomizes the placement of enemies, so the players can't take multiple attempts to complete a level. The developers want the player to examine the enemy behavior and learn how to combat the enemies themselves.

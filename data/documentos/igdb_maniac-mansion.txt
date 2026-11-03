@@ -1,0 +1,26 @@
+JUEGO: Maniac Mansion
+
+FUENTE: IGDB
+PLATAFORMA: Commodore C64/128/MAX, Atari ST/STE, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Commodore C64/128/MAX, Atari ST/STE, PC (Microsoft Windows), Mac, DOS, Amiga, Apple II
+GÉNEROS: Point and click, Aventura
+TEMAS: Fantasía, Ciencia ficción, Terror, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Lucasfilm Games
+PUBLISHER: Lucasfilm Games
+FECHA DE LANZAMIENTO: 1987-10-01
+NOTA DE LA CRÍTICA (IGDB): 90/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 84/100 (137 votos)
+TAMBIÉN CONOCIDO COMO: scummvm.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co30ys.jpg
+URL: https://www.igdb.com/games/maniac-mansion
+
+RESUMEN:
+Maniac Mansion is a 1987 graphic adventure video game developed and published by Lucasfilm Games. It follows teenage protagonist Dave Miller as he attempts to rescue his girlfriend from a mad scientist, whose mind has been enslaved by a sentient meteor. The player uses a point-and-click interface to guide Dave and two of his six playable friends through the scientist's mansion while solving puzzles and avoiding dangers. Gameplay is nonlinear, and the game must be completed in different ways based on the player's choice of characters. Initially released for the Commodore 64 and Apple II, Maniac Mansion was Lucasfilm Games' first self-published product.
+
+HISTORIA:
+The game takes place in the mansion of the fictional Edison family: Dr. Fred, a mad scientist; Nurse Edna, his wife; and their son Weird Ed. Living with the Edisons are two large, disembodied tentacles, one purple and the other green. The intro sequence shows that a sentient meteor crashed near the mansion twenty years earlier; it brainwashed the Edisons and directed Dr. Fred to obtain human brains for use in experiments. The game begins as Dave Miller prepares to enter the mansion to rescue his girlfriend, Sandy Pantz, who had been kidnapped by Dr. Fred. With the exception of the green tentacle, the mansion's inhabitants are hostile, and will throw the player characters into the dungeon—or, in some situations, kill them—if they see them. When a character dies, the player must choose a replacement from the unselected characters; and the game ends if all characters are killed. Maniac Mansion has five possible endings, based on which characters are chosen, which survive, and what the characters accomplish.
+
+JUEGOS PARECIDOS:
+Si te gusta Maniac Mansion, también podrían gustarte: Day of the Tentacle, Zak McKracken and the Alien Mindbenders, The Dig, The Curse of Monkey Island, Full Throttle, King's Quest VI: Heir Today, Gone Tomorrow, Kaptain Brawe: A Brawe New World, Lisa: The Painful, Indiana Jones and the Fate of Atlantis, Little Misfortune.

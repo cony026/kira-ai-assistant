@@ -1,0 +1,25 @@
+JUEGO: Bust-A-Move
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Neo Geo AES, Neo Geo MVS, PlayStation 4
+DISPONIBLE EN: Arcade, Neo Geo AES, Neo Geo MVS, PlayStation 4, WonderSwan, Super Nintendo Entertainment System, PC (Microsoft Windows), 3DO Interactive Multiplayer, DOS, Neo Geo CD, Xbox One, Nintendo Switch, Super Famicom
+GÉNEROS: Puzle, Arcade
+TEMAS: Fantasía, Comedia, Infantil
+MODOS DE JUEGO: Un jugador, Multijugador, Pantalla dividida
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Taito
+PUBLISHER: Taito
+FECHA DE LANZAMIENTO: 1994-06-30
+NOTA DE USUARIOS (IGDB): 76/100 (39 votos)
+FRANQUICIA: Bubble Bobble
+TAMBIÉN CONOCIDO COMO: Bubble Buster, Puzzle Bobble
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6bkg.jpg
+URL: https://www.igdb.com/games/bust-a-move
+
+RESUMEN:
+Bust-A-Move (also known as Puzzle Bobble) is a real-time puzzle game in which the player controls a device called "pointer" at the bottom of the screen, aiming and releasing randomly colored bubbles upwards. Depending on the aiming, the bubbles may float up directly or bounce off the walls, changing their trajectory. The goal is to aim the bubbles in such a way that they will touch identically colored ones. When such bubbles form a group of three or more, they pop and disappear from the screen.
+
+If the ceiling of the area is covered by too many bubbles, it will gradually descend; the game is over when it nearly reaches the player-controlled pointer. Should the player fail to release the bubbles within a specific time limit, they will be released automatically, unaffected by the pointer's aiming.
+
+JUEGOS PARECIDOS:
+Si te gusta Bust-A-Move, también podrían gustarte: PicoPico Pirates, Bubble Witch 3 Saga, Kuru Kuru Kururin, Adventure Time: Treasure Fetch, I Love Hue, Easy Joe World, Bubble Witch Saga, Undake30 SameGame Daisakusen Mario Version, Super Monkey Ball, Kururin Squash!.

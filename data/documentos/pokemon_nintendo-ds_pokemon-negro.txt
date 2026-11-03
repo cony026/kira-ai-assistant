@@ -1,0 +1,22 @@
+JUEGO: Pokémon Negro
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Black
+PLATAFORMA: Nintendo DS
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación V
+REGIÓN PRINCIPAL: Unova
+LANZADO JUNTO A: Pokémon Blanco
+
+DESCRIPCIÓN:
+Pokémon Negro es un juego de rol de la saga principal de Pokémon, de la Generación V, para Nintendo DS. La aventura transcurre en la región de Unova. Se lanzó junto a Pokémon Blanco; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Snivy, Tepig y Oshawott. Su Pokédex regional reúne 156 especies de Pokémon distintas. Incluye Pokémon legendarios como Cobalion, Terrakion, Virizion, Tornadus, Thundurus y Reshiram.
+
+POKÉDEX:
+- Teselia Original: 156 Pokémon
+
+POKÉMON INICIALES:
+Snivy, Tepig, Oshawott
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Reshiram, Zekrom, Landorus, Kyurem
+Singulares (míticos): Victini, Keldeo, Meloetta, Genesect

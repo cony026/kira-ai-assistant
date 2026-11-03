@@ -1,0 +1,52 @@
+JUEGO: Subnautica 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Acceso anticipado
+DESARROLLADOR: Unknown Worlds Entertainment
+PUBLISHER: Unknown Worlds Entertainment
+FECHA DE LANZAMIENTO: 14 MAY 2026
+PRECIO: $29.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (126120 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Subnautica 2 is an underwater survival adventure set on an all-new alien world, developed by Unknown Worlds. Play alone or with friends in 4-player co-op. Adapt to survive by building custom bases and crafting tools. Explore the unknown to uncover the mysteries hidden within the depths.
+
+DESCRIPCIÓN DETALLADA:
+Subnautica 2 is an underwater survival adventure game set on an all-new alien world. It is the next chapter in the Subnautica universe, developed by Unknown Worlds. Driven from your home by ongoing conflict, Alterra offers you the chance at a new life. But as the colony ship CICADA shepherds you and your fellow Pioneers to your new home, something goes awry. The ship’s AI insists that your mission should continue. Stranded and faced with near-insurmountable odds, you must do everything in your power to survive. The future of humanity on this world is in your hands.PLAY ALONE OR WITH FRIENDS Subnautica 2 is being crafted as a single-player experience that you can optionally play in online co-operative multiplayer with up to three friends. You can choose from four pre-designed characters, with more characters and customization options coming throughout Early Access. Work together to explore long-forgotten ruins and learn to adapt to a planet that might not want you there.ADAPT TO SURVIVE To survive the depths and make this planet your home, you’ll need to utilize all the tools at your disposal. Traverse vibrant and breathtaking biomes with your Tadpole submersible. Design and customize bases to return to when your adventures push you beyond the safety of shallow waters. As Early Access develops, so too will your array of tools, equipment, and vehicles. Upgrades will help push you beyond your boundaries and unlock the secrets of this strange world.EXPLORE THE UNKNOWN Scan and study a rich world of biodiversity to understand life here. Discover everything from the smallest creatures to towering Leviathans. Experience the wonder, and sometimes danger, lurking around every corner. Every dive is an opportunity to uncover why the ship's AI is so determined to continue the mission and what mysteries lie beneath the surface of this breathtaking new frontier.DESIGNED FOR EARLY ACCESS Subnautica 2 is an Early Access title in active development. Throughout this journey, we will continuously expand the world with additional biomes, creatures, and craftables, while expanding the narrative. You may encounter bugs, in-development features, and performance issues. Your feedback is the cornerstone of our development process. Join us and help shape the next chapter of the Subnautica universe.CRAFTED BY UNKNOWN WORLDS Subnautica 2 is being developed by Unknown Worlds, the studio behind the award-winning Subnautica and Subnautica: Below Zero. Our journey began with the 2003 Half-Life mod Natural Selection, and today we have evolved into a fully remote, globally distributed team spanning from the United States to the United Kingdom, France, Australia, and beyond. Defined by a philosophy of open development and over a decade of community-focused innovation, we invite you to dive back into the depths with a studio dedicated to pushing the boundaries of the survival genre.Welcome aboard, Pioneer.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10/11
+
+- Procesador: Intel Core i5-8400 / AMD Ryzen 5 2600
+
+- Memoria: 12 GB de RAM
+
+- Gráficos: GeForce GTX 1660 6GB / RX 5500 XT 6GB
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Notas adicionales: Requires a 64-bit processor and operating system
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 11
+
+- Procesador: Intel Core i7-13700 / AMD Ryzen 7 7700X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Geforce RTX 3070 8GB / RX 6700 XT 8GB
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Notas adicionales: Requires a 64-bit processor and operating system

@@ -1,0 +1,26 @@
+JUEGO: Ghostbusters
+
+FUENTE: IGDB
+PLATAFORMA: Atari 2600, Atari 8-bit, Commodore C64/128/MAX, ZX Spectrum
+DISPONIBLE EN: Atari 2600, Atari 8-bit, Commodore C64/128/MAX, ZX Spectrum, DOS, Apple II, Amstrad CPC, Sega Master System/Mark III, MSX
+GÉNEROS: Arcade
+TEMAS: Fantasía, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica, Vista lateral
+DESARROLLADOR: Activision
+PUBLISHER: Activision, Gradiente, Sega, Proein, Ricochet, Dro Soft, Home Entertainment Suppliers Pty Ltd, Tec Toy
+FECHA DE LANZAMIENTO: 1984-10-26
+NOTA DE LA CRÍTICA (IGDB): 80/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 72/100 (42 votos)
+FRANQUICIA: Ghostbusters
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3sxe.jpg
+URL: https://www.igdb.com/games/ghostbusters-79683bac-22d5-4796-9baa-78c2c85273a2
+
+RESUMEN:
+Ghostbusters is an action game that features an overhead-view and a side-view. From Ghostbusters HQ, the player must monitor a map of midtown Manhattan for "ghost alarms", as well as for casual, roaming spirits, and plot a route to the alarmed area. Once the route is plotted, the player then controls the purchased Ghostmobile as it drives through traffic. Here, the player is able to capture casual ghosts on the way if they are en route. When the haunted location is reached, the game switches to a side-view. Two of the Ghostbusters will take position, activate their proton beams, and toss a trap to the ground. The player must then use the two Ghostbusters to attempt to lead the ghost(s) over the placed trap. Once activated, the trap springs to capture any ghosts directly above it. A successful capture will earn the player money, which can then be used to purchase new Ghostbusters vehicles and new modifications for it. An unsuccessful capture will see the ghost fly away (after nastily sliming one of the Ghostbusters).
+
+HISTORIA:
+Based on the 1984 film of the same name, the Ghostbusters are the ones to call to "bust" any ghost hauntings. They do this through the use of nuclear-accelerated "proton packs" and "ghost traps", whereby the ghosts can be captured and transferred to a secure storage facility at their Headquarters. However New York City has suddenly become a very haunted place, and the number of ghosts has suddenly and dramatically increased. The Ghostbusters must reduce the paranormal psychokinetic energy, the "PK level" in the city, which represents ghost power, before the Temple of Zuul awakens and resurrects an evil goddess called Gozer.
+
+JUEGOS PARECIDOS:
+Si te gusta Ghostbusters, también podrían gustarte: Marvel vs. Capcom: Clash of Super Heroes, Dragon Force, Chrome Dino, Pokémon White Version, Pokémon Black Version, The Flintstones, Zoids: Legacy, Hybris, Gain Ground, Warhammer 40,000: Gladius - Relics of War.

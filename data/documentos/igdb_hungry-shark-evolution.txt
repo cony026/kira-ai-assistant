@@ -1,0 +1,21 @@
+JUEGO: Hungry Shark Evolution
+
+FUENTE: IGDB
+PLATAFORMA: Windows Phone, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Windows Phone, Android, PC (Microsoft Windows), iOS
+GÉNEROS: Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Future Games of London
+PUBLISHER: Ubisoft Entertainment
+FECHA DE LANZAMIENTO: 2012-10-24
+NOTA DE USUARIOS (IGDB): 70/100 (33 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3w1b.jpg
+URL: https://www.igdb.com/games/hungry-shark-evolution
+
+RESUMEN:
+A game for tablets and smartphones where you experience life as a shark, earning money and a high score by eating fish and unaware swimmers and creating combo chains.
+
+JUEGOS PARECIDOS:
+Si te gusta Hungry Shark Evolution, también podrían gustarte: Hole.io, LEGO City Fire Hose Frenzy, Name This Game, Active Soccer 2 DX, Seaquest, Disney Crossy Road, Qix, Bomberman, Beat the Boss, Rune Evolution.

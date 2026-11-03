@@ -1,0 +1,19 @@
+JUEGO: Dicey Dungeons
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: iOS, PC, macOS, Linux, Nintendo Switch
+FECHA DE LANZAMIENTO: 2019-08-12
+DESARROLLADOR: Terry Cavanagh, Distractionware, Marlowe Dobbe, chipzel
+PUBLISHER: Terry Cavanagh, Distractionware
+GÉNEROS: RPG, Strategy, Indie
+NOTA METACRITIC: 89
+RATING USUARIOS: 4.1/5 (163 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer
+
+DESCRIPCIÓN:
+Escape the cruel whims of Lady Luck in Dicey Dungeons! A new roguelike by Terry Cavanagh, Marlowe Dobbe, and Chipzel, coming out in autumn 2018!
+Learn to master six different characters, each with their own unique playstyles - ranging from the push your luck and risk it all Robot, to the swaggering, just smash stuff Warrior, to the carefully laid plans of the Witch.
+Can your adventurers make it out? Maybe - but luck is definitely not on their side.
+(Current screenshots are from the work in progress alpha version.)

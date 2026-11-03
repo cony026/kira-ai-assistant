@@ -1,0 +1,25 @@
+JUEGO: Osmos
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, iOS, PC, macOS, Linux
+FECHA DE LANZAMIENTO: 2009-08-18
+DESARROLLADOR: Hemisphere Games
+PUBLISHER: Hemisphere Games
+GÉNEROS: Simulation, Arcade, Casual, Indie, Puzzle
+NOTA METACRITIC: 80
+RATING USUARIOS: 3.71/5 (213 votos)
+TIEMPO DE JUEGO MEDIO: 1 horas
+TAGS: Singleplayer, Steam Achievements, Atmospheric, Great Soundtrack, 2D, Difficult, Physics, Relaxing, Education
+
+DESCRIPCIÓN:
+Enter the ambient world of Osmos: elegant, physics-based gameplay, dreamlike visuals, and a minimalist, electronic soundtrack.
+Your objective is to grow by absorbing other motes. Propel yourself by ejecting matter behind you. But be wise: ejecting matter also shrinks you. Relax - good things come to those who wait.
+Key features:
+Independent Games Festival finalist in three categories: Seumas McNally Grand Prize, Excellence in Design and Technical Excellence
+Progress from serenely ambient levels into varied and more challenging worlds. (47 levels, plus bonus content)
+Confront attractors, repulsors and intelligent motes with similar abilities and goals as you
+Selected as one of the 2009 PAX 10
+Procedural content: play random versions of any level
+Sublime electronic soundtrack by Loscil, Gas/High Skies, Julien Neto, Biosphere, and more
+Dynamic time-warping: slow down the flow of time to outmaneuver agile opponents; speed it up to raise the challenge

@@ -1,0 +1,21 @@
+JUEGO: Hexcells
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), iOS, Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: Puzle, Estrategia, Indie
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Matthew Brown
+PUBLISHER: Glassmoon, Matthew Brown
+FECHA DE LANZAMIENTO: 2013-09-12
+NOTA DE USUARIOS (IGDB): 73/100 (39 votos)
+TAMBIÉN CONOCIDO COMO: Hexcells.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co248b.jpg
+URL: https://www.igdb.com/games/hexcells
+
+RESUMEN:
+Hexcells is an ambient logic puzzle game in the vein of minesweeper.
+
+JUEGOS PARECIDOS:
+Si te gusta Hexcells, también podrían gustarte: Hexcells Infinite, SquareCells, Strata, Unium, Lyne, Klocki, Imscared, Fake Colours, Sigils of Elohim, Super Hexagon.

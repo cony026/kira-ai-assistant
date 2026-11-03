@@ -1,0 +1,23 @@
+JUEGO: Evoland
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, macOS, PC, iOS, Linux
+FECHA DE LANZAMIENTO: 2013-04-04
+DESARROLLADOR: Plug In Digital, Playdigious, Shiro Games
+PUBLISHER: Plug In Digital, Playdigious, Shiro Games
+GÉNEROS: Action, Adventure, RPG, Indie
+NOTA METACRITIC: 61
+RATING USUARIOS: 3.76/5 (272 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Full controller support, Great Soundtrack, RPG, 2D, Fantasy, Funny, Comedy, Action-Adventure, Pixel Graphics, Controller, Retro, controller support, Short, 3D
+
+DESCRIPCIÓN:
+Evoland is a role-playing video game. It is the debut project by French development company Shiro Games. 
+
+###Plot and setting 
+The game is centered on the theme of action-adventure video games evolution. It takes place in the world of Evolandia and follows a typical story of a chosen one and his fight against evil forces. The game’s dialogues, items descriptions, and overall style are filled with humor, parody, and references to iconic video game series. 
+
+###Gameplay 
+The main feature of the game is unlocking of graphical, sound and gameplay improvements. The game starts as a monochrome top-down adventure with no sound and gradually, as the player progresses through the story, transforms into full-fledged 3D RPG with soundtrack, different settlements throughout the game world, side-quests, NPCs and equipment system. 
+Evoland’s gameplay continually changes. It can be divided into three main parts, each one resembling a certain game series. The first is top-down adventure similar to older The Legend of Zelda titles. Like Zelda, it features different puzzles and dungeons throughout the game. Then the game changes its combat system to turn-based imitating Final Fantasy series with its random encounters and party system. After that, it becomes the top-down hack-n-slash game in the style of Diablo series with the accent on obtaining various loot.

@@ -1,0 +1,34 @@
+JUEGO: Xevious
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Atari 7800, Atari 2600, PC-9800 Series
+DISPONIBLE EN: Arcade, Atari 7800, Atari 2600, PC-9800 Series, PC-8800 Series, Commodore C64/128/MAX, ZX Spectrum, Sharp X1, Wii, Atari ST/STE, Atari 5200, Apple II, FM-7, Xbox 360, Amstrad CPC
+GÉNEROS: Shooter, Arcade
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Namco
+PUBLISHER: U.S. Gold, Atari Corporation, Namco Bandai Games, Namco, Atari, Mindscape, Dempa Shimbunsha, Enix
+FECHA DE LANZAMIENTO: 1982-12-10
+NOTA DE LA CRÍTICA (IGDB): 53/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 60/100 (32 votos)
+TAMBIÉN CONOCIDO COMO: 제비우스, ゼビウス 
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2baq.jpg
+URL: https://www.igdb.com/games/xevious
+
+RESUMEN:
+It's a nightmare, but it's true! Research shows that we are the actual aliens on Earth, and the ruthless Xevions are the original inhabitants.
+
+Now the Xevions want Earth back -- minus humans! Their invasion forces are fierce -- the land is crawling with deadly Domogram Rovers; the sky is black with Toroid Patrol Fleets and Zoshi Death Squads.
+
+Our puny weapons offer no defense. Earth's only hope is our powerful new Solvalou Fighter Plane. Its pilot will have a single mission: Penetrate the enemy ranks and destroy the Xevious Mother Ship.
+
+The mission is dangerous. We can't guarantee success. But at this point, it's do or die!
+
+One small problem. We still need a pilot. Any volunteers?
+
+HISTORIA:
+The game begins with Solvalou fighters flying over the Xevious enemy territory. You are controlling Solvalou with its anti-aircraft missiles and surface bombs. Your goal is to destroy the enemy and proceed on your mission.
+
+JUEGOS PARECIDOS:
+Si te gusta Xevious, también podrían gustarte: Zaxxon, C: The Contra Adventure, Contra Force, Battlezone, Gaplus, Cybernoid: The Fighting Machine, Galaga, River Raid, Aero Fighters 3, Assault.

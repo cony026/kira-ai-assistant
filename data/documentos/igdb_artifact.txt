@@ -1,0 +1,27 @@
+JUEGO: Artifact
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia, Estrategia por turnos, Cartas y tablero
+TEMAS: Fantasía, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Valve
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2018-11-28
+NOTA DE LA CRÍTICA (IGDB): 82/100 (6 críticas)
+NOTA DE USUARIOS (IGDB): 65/100 (27 votos)
+TAMBIÉN CONOCIDO COMO: Dota Card Game, Artifact TDCG, Artifact - The Dota Card Game, The Dota Card Game, Artifact Classic
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6b13.jpg
+URL: https://www.igdb.com/games/artifact
+
+RESUMEN:
+A collaboration between legendary card game designer Richard Garfield and Valve, Artifact Classic is a digital card game that combines deeply strategic, competitive gameplay with the rich setting of Dota 2. The result is an immersive and visually stunning trading card game unlike any other.
+
+Wield your deck across three lanes of combat, answer every move of your opponent with one of your own. Unlimited hand size. Unlimited number of units you control. Unlimited mana you can employ.
+
+Artifact Classic is free to play! Furthermore, all cards are now available to all players. If you paid for the original Artifact, your cards are promoted to Collector's Edition cards. Paid game event tickets have also been phased out.
+
+JUEGOS PARECIDOS:
+Si te gusta Artifact, también podrían gustarte: A Game of Thrones: The Board Game - Digital Edition, Teamfight Tactics, Marvel Snap, Dota Underlords, Axis & Allies 1942 Online, Warhammer 40,000: Gladius - Relics of War, Etherlords, Total War: Warhammer III, Raid: Shadow Legends, D&D Lords of Waterdeep.

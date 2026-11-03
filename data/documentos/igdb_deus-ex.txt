@@ -1,0 +1,29 @@
+JUEGO: Deus Ex
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, RPG, Aventura
+TEMAS: Acción, Ciencia ficción, Suspenso, Sigilo, Misterio
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Ion Storm
+PUBLISHER: Eidos Interactive, Square Enix, Eidos Montréal, Aspyr Media, Sold Out Software
+FECHA DE LANZAMIENTO: 2000-06-26
+NOTA DE LA CRÍTICA (IGDB): 90/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 86/100 (841 votos)
+FRANQUICIA: Deus Ex
+TAMBIÉN CONOCIDO COMO: 杀出重围, DX
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cocc3x.jpg
+URL: https://www.igdb.com/games/deus-ex
+
+RESUMEN:
+A philosophical first-person WRPG set in a dystopian 2052 in which JC Denton, a nano-augmented agent for the anti-terrorist organization UNATCO, is tasked with stopping the invasion of Liberty Island by the terrorist group NSF. As events unfold, Denton finds that he plays a large part in a world-spanning conspiracy which forces him to ponder his allegiances, beliefs, morality, and view of right and wrong.
+
+HISTORIA:
+The year is 2052 and the world is in crisis. A devastating plague known as the Gray Death ravages the global population, while supplies of its only vaccine remain tightly controlled. Amid rising economic inequality and widespread unrest, a terrorist organization called the National Secessionist Force targets shipments of the scarce cure.
+
+JC Denton, a recently deployed agent for the United Nations Anti-Terrorist Coalition, is equipped with cutting-edge nanotechnology augmentations. Tasked with combating the NSF threat, Denton quickly discovers that the conflict runs far deeper than simple terrorism. Behind the chaos, shadowy organizations vie for dominance, and the conspiracy surrounding the Gray Death's origins forces Denton to question everything he knows about his employers, his mission, and the future of civilization itself.
+
+JUEGOS PARECIDOS:
+Si te gusta Deus Ex, también podrían gustarte: Deus Ex: Invisible War, Deus Ex: Human Revolution, System Shock 2, Deus Ex: The Fall, Deus Ex: Mankind Divided, Fallout: New Vegas, Fallout 3, Wolfenstein: The New Order, Prey, BioShock Infinite.

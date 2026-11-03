@@ -1,0 +1,25 @@
+JUEGO: Quake
+
+FUENTE: IGDB
+PLATAFORMA: Zeebo, Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Zeebo, Linux, PC (Microsoft Windows), Mac, DOS, Amiga, Sega Saturn, Legacy Mobile Device
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Terror
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: id Software
+PUBLISHER: MacSoft Games, Sega, GT Interactive Software, Pulse Interactive, PXL computers, id Software, clickBOOM
+FECHA DE LANZAMIENTO: 1996-06-22
+NOTA DE USUARIOS (IGDB): 82/100 (401 votos)
+TAMBIÉN CONOCIDO COMO: 雷神之锤, Quake 64, Quake Mobile, Quake: The Doomed Dimension, Q1
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co9bg9.jpg
+URL: https://www.igdb.com/games/quake
+
+RESUMEN:
+Quake is a first-person shooter video game, developed by id Software and published by GT Interactive in 1996 and featured music composed by Trent Reznor and Nine Inch Nails. It is the first game in the popular Quake series. In the game, players must find their way through various maze-like, medieval environments while battling a variety of monsters using a wide array of weapons.
+
+HISTORIA:
+The player takes the role of a protagonist known as Ranger who was sent into a portal in order to stop an enemy code-named "Quake". The government had been experimenting with teleportation technology and developed a working prototype called a "Slipgate"; the mysterious Quake compromised the Slipgate by connecting it with its own teleportation system, using it to send death squads to the "Human" dimension in order to test the martial capabilities of Humanity.
+
+JUEGOS PARECIDOS:
+Si te gusta Quake, también podrían gustarte: Quake II, Quake III Arena, Quake 4, Half-Life, Doom II: Hell on Earth, Unreal Tournament III, Return to Castle Wolfenstein, Dead Space 2, Quake Arena Arcade, Doom.

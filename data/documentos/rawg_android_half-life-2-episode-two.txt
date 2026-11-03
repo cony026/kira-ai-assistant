@@ -1,0 +1,16 @@
+JUEGO: Half-Life 2: Episode Two
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, macOS, PC, Linux, Xbox 360
+FECHA DE LANZAMIENTO: 2007-10-10
+DESARROLLADOR: Valve Software, NVIDIA Lightspeed Studios
+PUBLISHER: Valve, Buka Entertainment, NVIDIA
+GÉNEROS: Action, Shooter, Puzzle
+NOTA METACRITIC: 90
+RATING USUARIOS: 4.46/5 (2023 votos)
+TIEMPO DE JUEGO MEDIO: 5 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Steam Cloud, Atmospheric, Great Soundtrack, Story Rich, First-Person, Sci-fi, Partial Controller Support, Horror, FPS, Classic, stats, Zombies
+
+DESCRIPCIÓN:
+Right after the escape from the collapsed Citadel, Gordon Freeman and his companion Alyx Vance learn that Combine used the destruction to open a portal, in order to bring powerful reinforcement. No major changes have been applied to the gameplay since the previous episode, instead, players will be invited to experiment with the gravity gun and more physics objects to use as impromptu ammunition. Episode Two brings back every staple of the series, including physic puzzles, driving sections, because it was developed simultaneously with the Episode One, but unlike first one Episode two has more puzzles, including the biggest puzzle in the series up to date.

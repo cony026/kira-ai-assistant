@@ -1,0 +1,72 @@
+JUEGO: Big Walk
+PLATAFORMA: PC (Steam)
+GÉNEROS: Aventura
+DESARROLLADOR: House House
+PUBLISHER: Panic
+FECHA DE LANZAMIENTO: 4 AGO 2026
+PRECIO: $19.99
+NOTA METACRITIC: 91/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (25916 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Pasa el rato con tus amigos y perdeos en un mundo enorme. Una caminata cooperativa en línea de los creadores de Untitled Goose Game.
+
+DESCRIPCIÓN DETALLADA:
+Big Walk es una aventura multijugador cooperativa para colaborar y hablar.Vete de excursión con tus amigos en un amplio mundo abierto, lleno de desafíos, acertijos y descubrimientos. Tendréis que cooperar para orientaros, mantener el contacto gracias a una selección de artilugios y juguetes y descubrir nuevas formas de comunicaros cuando, sin comerlo ni beberlo, os quedéis sin habla.Aventuras aparte, también dispondréis de tiempo de sobra para pasar el rato. Sentaos y admirad el atardecer o róbale los prismáticos a tu amigo y tíralos al agua de una patada. El rato que se pasa con amigos es lo mejor de una caminata.Características:
+- ¡Hablar!Nuestro chat de voz por proximidad hace que las voces se desvanezcan con la distancia, hagan eco en los pasillos, se amortigüen tras las paredes y suenen distorsionadas por los walkie-talkies
+- ¡Andar!Explorad este mundo abierto a vuestro propio ritmo
+- ¡¡Brazos!!Saluda, señala y haz gestos (o solo agita los brazos a lo loco) para comunicarte en situaciones en las que no puedas hablar
+- Herramientas y juguetesWalkie-talkies, punteros láser, prismáticos, megáfonos, bengalas, pizarras blancas (?), cencerros (??), una enorme cabeza dorada (???) y mucho más
+- Número flexible de jugadoresSe puede jugar a Big Walk con tan solo 2 jugadores (una aventura más centrada en la cooperación) o con hasta 12 (si lo que quieres es el caos absoluto, vaya)
+- InterplataformaJuega en línea con tus amigos en otras plataformas
+- Un final juntosBig Walk es una experiencia cooperativa diseñada para jugarse de principio a fin con un grupo de amigos
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10
+
+- Procesador: Intel Core i7-7700K or AMD Ryzen 5 1600X
+
+- Memoria: 12 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 750 TI, 2GB or AMD Radeon R7 370, 2 GB or Intel Arc A380, 6 GB
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11
+
+- Procesador: Intel Core i5-10600K or Ryzen 7 3700X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1070, 8 GB or Radeon RX 5600 XT, 8 GB or Intel Arc A750, 8GB
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: macOS 15
+
+- Procesador: Macs with Apple Silicon: M1 Processor or newer
+
+- Memoria: 16 GB de RAM
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: macOS 15
+
+- Procesador: M3 Processor or newer
+
+- Memoria: 16 GB de RAM
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

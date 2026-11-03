@@ -1,0 +1,2041 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kira IA · Reseñas y Requisitos de Videojuegos</title>
+<link rel="icon" type="image/png" href="/static/kira_logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Chakra+Petch:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+    :root {
+        --bg-void: #0a0712;
+        --panel: rgba(22, 16, 36, 0.72);
+        --panel-solid: #150f26;
+        --line: rgba(179, 122, 255, 0.18);
+        --neon-purple: #b34aff;
+        --neon-purple-soft: #9b5de5;
+        --neon-cyan: #4cd7f0;
+        --text-primary: #f3eefc;
+        --text-muted: #ab9fc9;
+        --text-faint: #766a92;
+        --grad-brand: linear-gradient(135deg, #b34aff 0%, #4cd7f0 100%);
+        --grad-brand-deep: linear-gradient(135deg, #8a2be8 0%, #10a8cc 100%);
+        --font-display: 'Bungee', 'Chakra Petch', sans-serif;
+        --font-ui: 'Chakra Petch', sans-serif;
+        --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { height: 100%; }
+
+    body {
+        font-family: var(--font-body);
+        background: var(--bg-void);
+        color: var(--text-primary);
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        position: relative;
+        overflow-x: hidden;
+    }
+
+    body::before,
+    body::after {
+        content: '';
+        position: fixed;
+        width: 46vw;
+        height: 46vw;
+        border-radius: 50%;
+        filter: blur(90px);
+        opacity: 0.28;
+        z-index: 0;
+        pointer-events: none;
+        animation: drift 16s ease-in-out infinite alternate;
+    }
+    body::before { background: var(--neon-purple); top: -12%; left: -10%; }
+    body::after  { background: var(--neon-cyan); bottom: -14%; right: -8%; animation-delay: -8s; }
+
+    @keyframes drift {
+        0%   { transform: translate(0, 0) scale(1); }
+        100% { transform: translate(4%, 5%) scale(1.12); }
+    }
+
+    .stage {
+        position: relative;
+        z-index: 1;
+        width: 100%;
+        max-width: 1420px;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    /* Mascota - detrás del chat, solo en pantallas anchas */
+        .mascot {
+        display: none;
+        position: relative;
+        width: 420px;
+        flex-shrink: 0;
+        margin-bottom: -10px;
+        pointer-events: none;
+        transform: rotate(-2deg);
+        animation: float 6s ease-in-out infinite;
+    
+    }
+    .mascot img {
+        width: 100%;
+        display: block;
+        filter:
+            drop-shadow(0 0 24px rgba(179, 74, 255, 0.28))
+            drop-shadow(0 0 46px rgba(76, 215, 240, 0.16));
+    }
+    @keyframes float {
+        0%, 100% { transform: rotate(-2deg) translateY(0); }
+        50%      { transform: rotate(-1deg) translateY(-10px); }
+    }
+    @media (min-width: 1400px) { .mascot { display: block; } }
+
+    .main-area {
+        display: flex;
+        gap: 20px;
+        flex: 1;
+        max-width: 1100px;
+        min-width: 0;
+        align-items: stretch;
+        height: 90vh;
+        max-height: 820px;
+    }
+
+    /* ========== TARJETA DEL CHAT ========== */
+    .app-card {
+        flex: 1;
+        min-width: 0;
+        background: var(--panel);
+        backdrop-filter: blur(18px);
+        -webkit-backdrop-filter: blur(18px);
+        border: 1px solid var(--line);
+        border-radius: 22px;
+        box-shadow:
+            0 24px 70px rgba(0, 0, 0, 0.55),
+            0 0 60px rgba(139, 43, 232, 0.12);
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        position: relative;
+        z-index: 2;
+    }
+
+    .header {
+        padding: 20px 24px;
+        border-bottom: 1px solid var(--line);
+        background: linear-gradient(180deg, rgba(179, 74, 255, 0.08), transparent);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+    }
+    .header-content { display: flex; align-items: center; gap: 14px; min-width: 0; }
+    .header-right { display: flex; gap: 8px; flex-shrink: 0; }
+
+    .brand-badge img {
+        width: 52px;
+        height: 52px;
+        display: block;
+        filter: drop-shadow(0 0 14px rgba(179, 74, 255, 0.55));
+        animation: badgeGlow 3s ease-in-out infinite;
+    }
+    @keyframes badgeGlow {
+        0%, 100% { filter: drop-shadow(0 0 10px rgba(179, 74, 255, 0.45)); }
+        50%      { filter: drop-shadow(0 0 20px rgba(76, 215, 240, 0.55)); }
+    }
+
+    .header-text h1 {
+        font-family: var(--font-display);
+        font-size: 24px;
+        letter-spacing: 1px;
+        line-height: 1;
+        background: var(--grad-brand);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        margin-bottom: 6px;
+    }
+    .header-text p {
+        font-family: var(--font-ui);
+        font-size: 12px;
+        color: var(--text-muted);
+        letter-spacing: 0.3px;
+    }
+    .status-row { display: flex; align-items: center; gap: 6px; margin-top: 5px; }
+    .status-dot {
+        width: 7px; height: 7px; border-radius: 50%;
+        background: var(--neon-cyan);
+        box-shadow: 0 0 8px var(--neon-cyan);
+        animation: pulseDot 1.8s ease-in-out infinite;
+    }
+    @keyframes pulseDot {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50%      { opacity: 0.5; transform: scale(0.8); }
+    }
+    .status-row .label {
+        font-family: var(--font-ui);
+        font-size: 10px;
+        text-transform: uppercase;
+        letter-spacing: 1.4px;
+        color: var(--text-faint);
+    }
+
+    .icon-btn {
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        padding: 8px 12px;
+        color: var(--text-primary);
+        font-family: var(--font-ui);
+        font-size: 11px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        cursor: pointer;
+        flex-shrink: 0;
+        transition: border-color 0.2s;
+    }
+    .icon-btn:hover { border-color: var(--neon-cyan); }
+    .news-toggle { display: none; }
+
+    .chat-box {
+        flex: 1;
+        overflow-y: auto;
+        padding: 24px 22px;
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+    }
+    .chat-box::-webkit-scrollbar { width: 8px; }
+    .chat-box::-webkit-scrollbar-track { background: transparent; }
+    .chat-box::-webkit-scrollbar-thumb { background: var(--neon-purple-soft); border-radius: 4px; opacity: 0.5; }
+    .chat-box::-webkit-scrollbar-thumb:hover { background: var(--neon-cyan); }
+
+    .message {
+        display: flex;
+        gap: 10px;
+        align-items: flex-end;
+        animation: slideIn 0.35s ease;
+    }
+    @keyframes slideIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to   { opacity: 1; transform: translateY(0); }
+    }
+    .message.user { justify-content: flex-end; }
+
+    .message-avatar {
+        width: 34px; height: 34px;
+        border-radius: 50%;
+        flex-shrink: 0;
+        overflow: hidden;
+        background: var(--grad-brand);
+        padding: 2px;
+        box-shadow: 0 0 10px rgba(179, 74, 255, 0.4);
+    }
+    .message-avatar img {
+        width: 100%; height: 100%;
+        object-fit: cover;
+        border-radius: 50%;
+        background: var(--panel-solid);
+    }
+
+    .msg-body { display: flex; flex-direction: column; gap: 8px; max-width: 78%; }
+
+    .message-content {
+        padding: 14px 18px;
+        border-radius: 14px;
+        line-height: 1.7;
+        font-size: 15px;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+    .message-content p { margin: 10px 0; }
+    .message-content p:first-child { margin-top: 0; }
+    .message-content p:last-child { margin-bottom: 0; }
+
+    .message.assistant .message-content {
+        background: rgba(255, 255, 255, 0.045);
+        color: var(--text-primary);
+        border: 1px solid rgba(255, 255, 255, 0.07);
+        border-left: 3px solid var(--neon-cyan);
+        box-shadow: 0 4px 18px rgba(0, 0, 0, 0.3);
+    }
+    .message.user .message-content {
+        background: var(--grad-brand-deep);
+        color: #fff;
+    }
+
+    .message.system { justify-content: center; }
+    .message.system .message-content {
+        background: transparent;
+        color: var(--text-faint);
+        font-size: 13px;
+        font-style: italic;
+        text-align: center;
+        max-width: 90%;
+    }
+
+    .game-images {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+        gap: 8px;
+        margin-top: 2px;
+    }
+    .game-thumb {
+        position: relative;
+        display: block;
+        border-radius: 10px;
+        overflow: hidden;
+        border: 1px solid var(--line);
+        background: var(--panel-solid);
+        text-decoration: none;
+        color: inherit;
+        aspect-ratio: 16 / 9;
+        transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+    }
+    .game-thumb:hover {
+        transform: translateY(-2px);
+        border-color: var(--neon-cyan);
+        box-shadow: 0 6px 18px rgba(76, 215, 240, 0.25);
+    }
+    .game-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .game-thumb .game-label {
+        position: absolute;
+        left: 0; right: 0; bottom: 0;
+        padding: 22px 10px 8px;
+        background: linear-gradient(to top, rgba(0,0,0,0.85), transparent);
+        font-family: var(--font-ui);
+        font-size: 11.5px;
+        font-weight: 600;
+        color: #fff;
+        letter-spacing: 0.3px;
+        line-height: 1.2;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .voice-btn {
+        width: 30px; height: 30px;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.06);
+        border: 1px solid var(--line);
+        color: var(--text-primary);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+        flex-shrink: 0;
+        transition: all 0.2s;
+    }
+    .voice-btn:hover {
+        background: var(--grad-brand);
+        box-shadow: 0 0 14px rgba(179, 74, 255, 0.5);
+        transform: scale(1.08);
+    }
+    #voiceToggleBtn { width: 44px; height: 44px; font-size: 18px; }
+    .voice-btn.sonando {
+        background: var(--grad-brand);
+        box-shadow: 0 0 14px rgba(179, 74, 255, 0.55);
+        animation: pulso 1.2s ease-in-out infinite;
+    }
+    @keyframes pulso { 50% { box-shadow: 0 0 4px rgba(179, 74, 255, 0.2); } }
+
+    /* Opciones rápidas cuando Kira pregunta qué quieres saber */
+    .quick-options { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+    .quick-opt {
+        font-family: var(--font-ui);
+        padding: 8px 14px;
+        border-radius: 18px;
+        border: 1px solid var(--neon-purple-soft, var(--line));
+        background: rgba(179, 74, 255, 0.10);
+        color: var(--text-primary);
+        font-size: 12.5px;
+        cursor: pointer;
+        transition: all 0.15s;
+    }
+    .quick-opt:hover:not(:disabled) { background: var(--grad-brand-deep); border-color: transparent; }
+    .quick-opt:disabled { opacity: .45; cursor: default; }
+    .quick-opt.elegida { opacity: 1; background: var(--grad-brand-deep); border-color: transparent; }
+
+    .loading { display: flex; gap: 6px; align-items: center; padding: 2px 0; }
+    .loading span {
+        width: 7px; height: 7px;
+        border-radius: 50%;
+        background: var(--grad-brand);
+        animation: bounce 1.4s infinite;
+    }
+    .loading span:nth-child(2) { animation-delay: 0.2s; }
+    .loading span:nth-child(3) { animation-delay: 0.4s; }
+    @keyframes bounce {
+        0%, 80%, 100% { transform: translateY(0); opacity: 0.5; }
+        40%           { transform: translateY(-7px); opacity: 1; }
+    }
+
+    .input-area {
+        padding: 16px 18px;
+        background: rgba(255, 255, 255, 0.02);
+        border-top: 1px solid var(--line);
+        display: flex;
+        gap: 10px;
+        align-items: center;
+    }
+    .input-wrapper { flex: 1; display: flex; gap: 10px; }
+
+    input[type="text"], input[type="date"], input[type="email"], input[type="password"] {
+        flex: 1;
+        padding: 12px 16px;
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        font-family: var(--font-body);
+        font-size: 14px;
+        color: var(--text-primary);
+        transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    input[type="text"]::placeholder, input[type="email"]::placeholder, input[type="password"]::placeholder { color: var(--text-faint); }
+    input[type="text"]:focus, input[type="date"]:focus, input[type="email"]:focus, input[type="password"]:focus {
+        outline: none;
+        border-color: var(--neon-cyan);
+        box-shadow: 0 0 0 3px rgba(76, 215, 240, 0.15);
+    }
+    input[type="date"] { color-scheme: dark; }
+
+    button.primary {
+        font-family: var(--font-ui);
+        padding: 12px 22px;
+        background: var(--grad-brand);
+        color: #0a0712;
+        border: none;
+        border-radius: 24px;
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: 0.4px;
+        cursor: pointer;
+        transition: transform 0.1s, box-shadow 0.2s;
+    }
+    button.primary:hover { box-shadow: 0 0 22px rgba(179, 74, 255, 0.55); }
+    button.primary:active { transform: scale(0.97); }
+    button.primary:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    /* ========== PANEL DE NOTICIAS ========== */
+    .news-panel {
+        width: 320px;
+        flex-shrink: 0;
+        background: var(--panel);
+        backdrop-filter: blur(18px);
+        -webkit-backdrop-filter: blur(18px);
+        border: 1px solid var(--line);
+        border-radius: 22px;
+        box-shadow: 0 24px 70px rgba(0, 0, 0, 0.55), 0 0 60px rgba(139, 43, 232, 0.1);
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+    }
+    .news-header {
+        padding: 18px 20px;
+        border-bottom: 1px solid var(--line);
+        background: linear-gradient(180deg, rgba(76, 215, 240, 0.08), transparent);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .news-header h2 {
+        font-family: var(--font-display);
+        font-size: 16px;
+        letter-spacing: 1px;
+        background: var(--grad-brand);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+    }
+    .news-refresh {
+        background: none; border: none;
+        color: var(--text-muted);
+        cursor: pointer;
+        padding: 6px 8px;
+        font-size: 16px;
+        border-radius: 6px;
+        transition: color 0.2s, transform 0.4s;
+    }
+    .news-refresh:hover { color: var(--neon-cyan); }
+    .news-refresh.spinning { transform: rotate(360deg); }
+
+    .news-list {
+        flex: 1;
+        overflow-y: auto;
+        padding: 12px 14px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+    .news-list::-webkit-scrollbar { width: 6px; }
+    .news-list::-webkit-scrollbar-thumb { background: var(--neon-purple-soft); border-radius: 3px; opacity: 0.4; }
+
+    .news-item {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        padding: 12px;
+        background: rgba(255, 255, 255, 0.03);
+        border: 1px solid var(--line);
+        border-radius: 12px;
+        text-decoration: none;
+        color: inherit;
+        transition: transform 0.2s, border-color 0.2s;
+    }
+    .news-item:hover { transform: translateY(-2px); border-color: var(--neon-cyan); }
+    .news-thumb {
+        width: 100%; aspect-ratio: 16 / 9;
+        object-fit: cover;
+        border-radius: 8px;
+        background: var(--panel-solid);
+    }
+    .news-title { font-family: var(--font-ui); font-size: 13.5px; font-weight: 600; line-height: 1.35; color: var(--text-primary); }
+    .news-meta {
+        font-family: var(--font-ui);
+        font-size: 10.5px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        color: var(--text-faint);
+        display: flex;
+        justify-content: space-between;
+        gap: 8px;
+    }
+    .news-source { color: var(--neon-purple); }
+    .news-empty, .news-error { padding: 22px 14px; text-align: center; color: var(--text-faint); font-size: 13px; }
+
+    .news-backdrop {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.6);
+        z-index: 40;
+    }
+
+    /* ========== MODAL DE PERFIL ========== */
+    .modal-backdrop {
+        position: fixed;
+        inset: 0;
+        background: rgba(5, 3, 12, 0.85);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        z-index: 100;
+        display: none;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        overflow-y: auto;
+    }
+    .modal-backdrop.open { display: flex; }
+
+    .modal-card {
+        width: 100%;
+        max-width: 520px;
+        background: var(--panel-solid);
+        border: 1px solid var(--line-strong, rgba(179, 122, 255, 0.4));
+        border-radius: 22px;
+        box-shadow:
+            0 30px 80px rgba(0, 0, 0, 0.7),
+            0 0 60px rgba(179, 74, 255, 0.25);
+        padding: 34px 32px 28px;
+        position: relative;
+        animation: modalIn 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        max-height: 92vh;
+        overflow-y: auto;
+    }
+    @keyframes modalIn {
+        from { opacity: 0; transform: translateY(20px) scale(0.96); }
+        to   { opacity: 1; transform: translateY(0) scale(1); }
+    }
+
+    .modal-header {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        margin-bottom: 22px;
+    }
+    .modal-header img {
+        width: 54px; height: 54px;
+        filter: drop-shadow(0 0 12px rgba(179, 74, 255, 0.55));
+    }
+    .modal-title {
+        font-family: var(--font-display);
+        font-size: 22px;
+        letter-spacing: 1px;
+        background: var(--grad-brand);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        margin-bottom: 4px;
+    }
+    .modal-sub {
+        font-family: var(--font-ui);
+        font-size: 12.5px;
+        color: var(--text-muted);
+    }
+
+    .form-group { margin-bottom: 18px; }
+    .form-label {
+        display: block;
+        font-family: var(--font-ui);
+        font-size: 11px;
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+        color: var(--text-muted);
+        margin-bottom: 8px;
+    }
+    .form-label .req { color: var(--neon-cyan); }
+
+    .form-group input[type="text"],
+    .form-group input[type="date"],
+    .form-group input[type="email"],
+    .form-group input[type="password"] {
+        width: 100%;
+        border-radius: 12px;
+    }
+
+    .chip-group {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+    .chip {
+        padding: 8px 14px;
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        font-family: var(--font-ui);
+        font-size: 12.5px;
+        color: var(--text-muted);
+        cursor: pointer;
+        user-select: none;
+        transition: all 0.15s;
+    }
+    .chip:hover { border-color: var(--neon-purple-soft); color: var(--text-primary); }
+    .chip.selected {
+        background: var(--grad-brand-deep);
+        border-color: transparent;
+        color: #fff;
+        font-weight: 600;
+        box-shadow: 0 0 12px rgba(179, 74, 255, 0.35);
+    }
+
+    .form-error {
+        font-family: var(--font-ui);
+        font-size: 12px;
+        color: #ff6b8a;
+        margin-top: 6px;
+        min-height: 16px;
+    }
+
+    .modal-actions {
+        display: flex;
+        gap: 10px;
+        justify-content: flex-end;
+        margin-top: 26px;
+    }
+    .btn-secondary {
+        font-family: var(--font-ui);
+        padding: 12px 18px;
+        background: transparent;
+        color: var(--text-muted);
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        font-size: 13px;
+        letter-spacing: 0.5px;
+        cursor: pointer;
+        transition: border-color 0.2s, color 0.2s;
+    }
+    .btn-secondary:hover { border-color: var(--neon-cyan); color: var(--text-primary); }
+
+    button:focus-visible,
+    input[type="text"]:focus-visible,
+    input[type="email"]:focus-visible,
+    input[type="password"]:focus-visible,
+    input[type="date"]:focus-visible,
+    .voice-btn:focus-visible,
+    .news-item:focus-visible,
+    .chip:focus-visible {
+        outline: 2px solid var(--neon-cyan);
+        outline-offset: 2px;
+    }
+
+    /* ========== AUTENTICACIÓN ========== */
+    .auth-tabs { display: flex; gap: 6px; margin-bottom: 22px; }
+    .auth-tab {
+        flex: 1;
+        font-family: var(--font-ui);
+        padding: 10px 12px;
+        background: transparent;
+        color: var(--text-muted);
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        font-size: 12.5px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        cursor: pointer;
+    }
+    .auth-tab.active { background: var(--grad-brand-deep); color: #fff; border-color: transparent; }
+    .auth-hidden { display: none !important; }
+    .verify-text { font-family: var(--font-ui); font-size: 13.5px; color: var(--text-muted); line-height: 1.5; margin-bottom: 18px; }
+    .verify-text b { color: var(--text-primary); word-break: break-all; }
+    .form-group input.code-input {
+        text-align: center; font-size: 26px; letter-spacing: 12px; font-weight: 700;
+        font-family: var(--font-ui); padding-left: 24px;
+    }
+    .form-info { font-family: var(--font-ui); font-size: 12px; color: var(--neon-cyan); margin-top: 6px; min-height: 16px; }
+    .verify-actions { display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; align-items: center; margin-top: 22px; }
+    .verify-actions .links { display: flex; gap: 8px; flex-wrap: wrap; }
+    .btn-secondary:disabled { opacity: .5; cursor: default; }
+    .check-line { display: flex; gap: 10px; align-items: flex-start; font-family: var(--font-ui); font-size: 12.5px; color: var(--text-muted); line-height: 1.45; cursor: pointer; }
+    .check-line input { margin-top: 3px; accent-color: var(--neon-cyan); flex-shrink: 0; }
+    .check-line a, .datos-box a { color: var(--neon-cyan); }
+    .datos-box { margin-top: 18px; border: 1px solid var(--line); border-radius: 14px; padding: 10px 14px; }
+    .datos-box summary { cursor: pointer; font-family: var(--font-ui); font-size: 13px; color: var(--text-primary); letter-spacing: .5px; }
+    .datos-box .verify-text { margin: 10px 0; }
+    .datos-actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0; }
+    .datos-actions .btn-secondary { padding: 9px 14px; font-size: 12px; }
+    .btn-secondary.danger { border-color: #ff5d8f; color: #ff8fb1; }
+    .datos-box input[type="password"] { width: 100%; margin-top: 6px; }
+    .user-chip {
+        font-family: var(--font-ui);
+        font-size: 12px;
+        color: var(--text-muted);
+        max-width: 140px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        align-self: center;
+    }
+    @media (max-width: 600px) { .user-chip { display: none; } }
+
+    /* ========== ARCADE (juegos dentro del chat) ========== */
+    .games-btn { border-color: rgba(76, 215, 240, 0.35); }
+    /* Con el arcade abierto, el panel de noticias se oculta para dar espacio al juego */
+    .main-area.jugando .news-panel { display: none; }
+    .main-area.jugando .news-toggle { display: none; }
+    .games-btn.activo { background: var(--grad-brand-deep); border-color: transparent; color: #fff; }
+
+    .arcade {
+        position: absolute;
+        inset: 0;
+        z-index: 20;
+        display: flex;
+        flex-direction: column;
+        background:
+            radial-gradient(circle at 15% 0%, rgba(179, 74, 255, 0.16), transparent 55%),
+            radial-gradient(circle at 90% 100%, rgba(76, 215, 240, 0.12), transparent 50%),
+            var(--panel-solid);
+        animation: arcadeIn 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .arcade[hidden] { display: none; }
+    @keyframes arcadeIn {
+        from { opacity: 0; transform: translateY(12px); }
+        to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .arcade-bar {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 14px 18px;
+        border-bottom: 1px solid var(--line);
+        background: linear-gradient(180deg, rgba(76, 215, 240, 0.07), transparent);
+    }
+    .arcade-bar h2 {
+        flex: 1;
+        min-width: 0;
+        font-family: var(--font-display);
+        font-size: 17px;
+        letter-spacing: 1px;
+        background: var(--grad-brand);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .arcade-bar .icon-btn[hidden] { display: none; }
+
+    .arcade-body { flex: 1; min-height: 0; position: relative; }
+
+    /* --- selector de juegos --- */
+    .arcade-picker {
+        height: 100%;
+        overflow-y: auto;
+        padding: 22px;
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+    }
+    .arcade-picker[hidden] { display: none; }
+    .arcade-intro { font-family: var(--font-ui); font-size: 13.5px; color: var(--text-muted); line-height: 1.5; }
+    .game-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 16px;
+    }
+    .game-card {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        background: rgba(255, 255, 255, 0.035);
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        overflow: hidden;
+        color: inherit;
+        cursor: pointer;
+        font: inherit;
+        transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+    }
+    .game-card:hover, .game-card:focus-visible {
+        transform: translateY(-3px);
+        border-color: var(--neon-cyan);
+        box-shadow: 0 10px 28px rgba(76, 215, 240, 0.18);
+        outline: none;
+    }
+    .game-cover {
+        aspect-ratio: 10 / 7;
+        width: 100%;
+        object-fit: cover;
+        display: block;
+        background: var(--bg-void);
+        border-bottom: 1px solid var(--line);
+    }
+    .game-info { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+    .game-title { font-family: var(--font-ui); font-size: 16px; font-weight: 700; color: var(--text-primary); }
+    .game-desc { font-size: 13px; line-height: 1.5; color: var(--text-muted); }
+    .game-keys { font-family: var(--font-ui); font-size: 11px; letter-spacing: 0.6px; color: var(--text-faint); text-transform: uppercase; }
+    .game-play {
+        margin-top: auto;
+        align-self: flex-start;
+        font-family: var(--font-ui);
+        font-weight: 700;
+        font-size: 13px;
+        padding: 9px 18px;
+        border-radius: 20px;
+        background: var(--grad-brand);
+        color: #0a0712;
+    }
+
+    /* --- juego en ejecución --- */
+    .arcade-stage {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 14px;
+        background: #0a0712;
+        container-type: size;
+    }
+    .arcade-stage[hidden] { display: none; }
+    .game-frame-wrap {
+        position: relative;
+        /* los juegos miden 1000 x 700: se ajusta al espacio sin deformarse */
+        width: min(100cqw, 100cqh * 10 / 7);
+        aspect-ratio: 10 / 7;
+        border-radius: 12px;
+        overflow: hidden;
+        border: 1px solid var(--line);
+        box-shadow: 0 0 40px rgba(179, 74, 255, 0.18);
+        background: #0a0712;
+    }
+    .game-frame { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; display: block; }
+    .game-loading {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 14px;
+        background: rgba(10, 7, 18, 0.92);
+        font-family: var(--font-ui);
+        font-size: 13px;
+        color: var(--text-muted);
+        text-align: center;
+        padding: 20px;
+        pointer-events: none;
+        transition: opacity 0.4s;
+    }
+    .game-loading.oculto { opacity: 0; }
+    .game-loading img { width: 64px; animation: badgeGlow 2s ease-in-out infinite; }
+    .game-loading small { color: var(--text-faint); font-size: 11.5px; }
+
+    /* ========== RESPONSIVE ========== */
+    @media (max-width: 900px) {
+        .main-area { gap: 0; }
+        .news-panel {
+            position: fixed;
+            top: 0; right: 0; bottom: 0;
+            width: min(340px, 88vw);
+            border-radius: 0;
+            transform: translateX(100%);
+            transition: transform 0.3s ease;
+            z-index: 50;
+        }
+        .news-panel.open { transform: translateX(0); }
+        .news-backdrop.open { display: block; }
+        .news-toggle { display: block; }
+    }
+
+    @media (max-width: 600px) {
+        body { padding: 0; }
+        .main-area { height: 100vh; max-height: 100%; }
+        .app-card { border-radius: 0; }
+        .header { padding: 14px 16px; }
+        .header-text h1 { font-size: 18px; }
+        .header-text p { font-size: 11px; }
+        .brand-badge img { width: 42px; height: 42px; }
+        .chat-box { padding: 16px 12px; }
+        .msg-body { max-width: 88%; }
+        .modal-card { padding: 26px 22px 22px; }
+        .btn-label { display: none; }
+        .header-content { gap: 10px; }
+        .header-text { min-width: 0; }
+        .input-area { padding: 12px; gap: 8px; }
+        .input-wrapper { min-width: 0; gap: 8px; }
+        .input-wrapper input[type="text"] { min-width: 0; }
+        button.primary#sendBtn { padding: 12px 16px; }
+        .header-right { gap: 6px; }
+        .header-right .icon-btn { padding: 8px 10px; }
+        .arcade-bar { padding: 12px 14px; gap: 8px; }
+        .arcade-bar h2 { font-size: 14px; }
+        .arcade-picker { padding: 16px; }
+        .arcade-stage { padding: 8px; }
+        .modal-title { font-size: 18px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after {
+            animation-duration: 0.001ms !important;
+            animation-iteration-count: 1 !important;
+            transition-duration: 0.001ms !important;
+        }
+    }
+</style>
+</head>
+<body>
+    <div class="stage">
+        <div class="mascot" aria-hidden="true">
+            <img id="mascotImg" src="/static/avatars/kira_full_1.png" alt="">
+        </div>
+
+        <div class="main-area">
+            <div class="app-card">
+                <div class="header">
+                    <div class="header-content">
+                        <div class="brand-badge">
+                            <img src="/static/kira_logo.png" alt="Logo de Kira IA">
+                        </div>
+                        <div class="header-text">
+                            <h1>KIRA IA</h1>
+                            <p id="headerSubtitle">Tu asistente experta en videojuegos, reseñas y requisitos técnicos</p>
+                            <div class="status-row">
+                                <span class="status-dot"></span>
+                                <span class="label">En línea</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="header-right">
+                        <span class="user-chip" id="userChip"></span>
+                        <button class="icon-btn games-btn" id="gamesBtn" title="Jugar con Kira">🎮<span class="btn-label"> Juegos</span></button>
+                        <button class="icon-btn" id="editProfileBtn" title="Editar perfil">👤<span class="btn-label"> Perfil</span></button>
+                        <button class="icon-btn" id="logoutBtn" title="Cerrar sesión">⏻<span class="btn-label"> Salir</span></button>
+                        <button class="icon-btn news-toggle" id="newsToggle" title="Ver noticias">📰</button>
+                    </div>
+                </div>
+
+                <div class="chat-box" id="chatBox"></div>
+
+                <div class="input-area">
+                    <div class="input-wrapper">
+                        <input type="text" id="messageInput" placeholder="Pregunta sobre juegos, requisitos, reseñas..." autocomplete="off" />
+                        <button class="primary" id="sendBtn" onclick="enviarMensaje()">Enviar</button>
+                    </div>
+                    <button id="voiceToggleBtn" class="voice-btn" title="Silenciar/Activar voz" onclick="toggleVoice()">🔊</button>
+                </div>
+
+                <!-- ========== ARCADE: los juegos se abren aquí, dentro del chat ========== -->
+                <section class="arcade" id="arcade" aria-label="Juegos de Kira" hidden>
+                    <div class="arcade-bar">
+                        <button class="icon-btn" id="arcadeBackBtn" title="Elegir otro juego" hidden>←<span class="btn-label"> Juegos</span></button>
+                        <h2 id="arcadeTitle">ARCADE DE KIRA</h2>
+                        <button class="icon-btn" id="arcadeFullBtn" title="Pantalla completa" hidden>⛶<span class="btn-label"> Completa</span></button>
+                        <button class="icon-btn" id="arcadeCloseBtn" title="Volver al chat">💬<span class="btn-label"> Volver al chat</span></button>
+                    </div>
+                    <div class="arcade-body">
+                        <div class="arcade-picker" id="arcadePicker">
+                            <p class="arcade-intro">Elige un juego y se abrirá aquí mismo. Cuando quieras, vuelves al chat y la conversación sigue donde la dejaste.</p>
+                            <div class="game-grid" id="gameGrid"></div>
+                        </div>
+                        <div class="arcade-stage" id="arcadeStage" hidden>
+                            <div class="game-frame-wrap" id="gameFrameWrap">
+                                <iframe class="game-frame" id="gameFrame" title="Juego" allow="autoplay; fullscreen; gamepad" allowfullscreen></iframe>
+                                <div class="game-loading" id="gameLoading">
+                                    <img src="/static/kira_logo.png" alt="">
+                                    <div>Cargando el juego…</div>
+                                    <small>La primera vez tarda unos segundos. Cuando aparezca “Haz clic para jugar”, haz clic.</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <aside class="news-panel" id="newsPanel" aria-label="Noticias de videojuegos">
+                <div class="news-header">
+                    <h2>NOTICIAS GAMING</h2>
+                    <button class="news-refresh" id="newsRefresh" title="Actualizar">⟳</button>
+                </div>
+                <div class="news-list" id="newsList">
+                    <div class="news-empty">Cargando noticias…</div>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    <div class="news-backdrop" id="newsBackdrop"></div>
+
+    <!-- ========== MODAL DE INICIO DE SESIÓN / REGISTRO ========== -->
+    <div class="modal-backdrop" id="authModal">
+        <div class="modal-card">
+            <div class="modal-header">
+                <img src="/static/kira_logo.png" alt="">
+                <div>
+                    <div class="modal-title" id="authTitle">INICIAR SESIÓN</div>
+                    <div class="modal-sub" id="authSub">Entra a tu cuenta para hablar con Kira</div>
+                </div>
+            </div>
+
+            <div class="auth-tabs" role="tablist" id="authTabs">
+                <button class="auth-tab active" id="tabLogin" type="button">Iniciar sesión</button>
+                <button class="auth-tab" id="tabRegister" type="button">Registrarse</button>
+            </div>
+
+            <form id="authForm" novalidate>
+                <div class="form-group auth-hidden" id="authNombreGroup">
+                    <label class="form-label" for="authNombre">Tu nombre <span class="req">*</span></label>
+                    <input type="text" id="authNombre" maxlength="30" placeholder="Cómo te gusta que te llamen" autocomplete="given-name">
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="authEmail">Correo <span class="req">*</span></label>
+                    <input type="email" id="authEmail" maxlength="120" placeholder="tu@correo.cl" autocomplete="email">
+                </div>
+                <div class="form-group">
+                    <label class="form-label" for="authPassword">Contraseña <span class="req">*</span></label>
+                    <input type="password" id="authPassword" maxlength="128" placeholder="Mínimo 8 caracteres" autocomplete="current-password">
+                    <div class="form-error" id="authError"></div>
+                </div>
+                <div class="form-group auth-hidden" id="authPrivacidadGroup">
+                    <label class="check-line" for="authPrivacidad">
+                        <input type="checkbox" id="authPrivacidad">
+                        <span>Acepto la <a href="/privacidad" target="_blank" rel="noopener">política de privacidad</a>:
+                            Kira guarda mi perfil e historial para personalizar respuestas y envía mis mensajes
+                            a Google Gemini con mis datos personales enmascarados.</span>
+                    </label>
+                </div>
+                <div class="modal-actions">
+                    <button class="primary" id="authSubmitBtn" type="submit">Entrar</button>
+                </div>
+            </form>
+
+            <!-- Paso 2: confirmar que el correo existe con el código de 6 dígitos -->
+            <form id="verifyForm" class="auth-hidden" novalidate>
+                <p class="verify-text">Te enviamos un código de 6 dígitos a <b id="verifyEmail"></b>.
+                    Revisa también la carpeta de spam. El código vence en 15 minutos.</p>
+                <div class="form-group">
+                    <label class="form-label" for="verifyCode">Código de verificación</label>
+                    <input type="text" id="verifyCode" class="code-input" inputmode="numeric" maxlength="6"
+                           autocomplete="one-time-code" placeholder="••••••">
+                    <div class="form-error" id="verifyError"></div>
+                    <div class="form-info" id="verifyInfo"></div>
+                </div>
+                <div class="verify-actions">
+                    <div class="links">
+                        <button class="btn-secondary" id="resendBtn" type="button">Reenviar código</button>
+                        <button class="btn-secondary" id="backBtn" type="button">Usar otro correo</button>
+                    </div>
+                    <button class="primary" id="verifyBtn" type="submit">Verificar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- ========== MODAL DE PERFIL ========== -->
+    <div class="modal-backdrop" id="profileModal">
+        <div class="modal-card">
+            <div class="modal-header">
+                <img src="/static/kira_logo.png" alt="">
+                <div>
+                    <div class="modal-title">BIENVENIDO A KIRA IA</div>
+                    <div class="modal-sub">Cuéntame de ti para personalizar tus recomendaciones</div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label" for="pfNombre">Tu nombre <span class="req">*</span></label>
+                <input type="text" id="pfNombre" maxlength="30" placeholder="Cómo te gusta que te llamen" autocomplete="given-name">
+                <div class="form-error" id="pfNombreError"></div>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label" for="pfFecha">Fecha de nacimiento</label>
+                <input type="date" id="pfFecha">
+                <div class="form-error" id="pfFechaError"></div>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Consolas / plataformas favoritas</label>
+                <div class="chip-group" id="pfConsolas"></div>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Géneros favoritos</label>
+                <div class="chip-group" id="pfGeneros"></div>
+            </div>
+
+            <!-- Derechos ARCO (Ley 19.628 / 21.719): acceso, rectificación, cancelación -->
+            <details class="datos-box" id="pfDatos">
+                <summary>Mis datos y privacidad</summary>
+                <p class="verify-text">Puedes descargar todo lo que Kira guarda de ti, borrar tu historial o
+                    eliminar tu cuenta. <a href="/privacidad" target="_blank" rel="noopener">Política de privacidad</a></p>
+                <div class="datos-actions">
+                    <button class="btn-secondary" id="pfExportBtn" type="button">Descargar mis datos</button>
+                    <button class="btn-secondary" id="pfBorrarHistBtn" type="button">Borrar mi historial</button>
+                    <button class="btn-secondary danger" id="pfEliminarBtn" type="button">Eliminar mi cuenta</button>
+                </div>
+                <div class="auth-hidden" id="pfEliminarConfirm">
+                    <label class="form-label" for="pfEliminarPass">Escribe tu contraseña para confirmar. Esto no se puede deshacer.</label>
+                    <input type="password" id="pfEliminarPass" maxlength="128" autocomplete="current-password">
+                    <div class="datos-actions">
+                        <button class="btn-secondary" id="pfEliminarCancelar" type="button">Cancelar</button>
+                        <button class="btn-secondary danger" id="pfEliminarOk" type="button">Eliminar definitivamente</button>
+                    </div>
+                </div>
+                <div class="form-info" id="pfDatosInfo"></div>
+            </details>
+
+            <div class="modal-actions">
+                <button class="btn-secondary" id="pfSkipBtn">Saltar</button>
+                <button class="primary" id="pfSaveBtn">Empezar</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // =====================================================================
+        // CONFIGURACIÓN DEL PERFIL
+        // =====================================================================
+        const CONSOLAS_OPCIONES = ['PC', 'PlayStation 5', 'PlayStation 4', 'Xbox Series X/S', 'Xbox One', 'Nintendo Switch', 'Móvil', 'Retro'];
+        const GENEROS_OPCIONES = ['Acción', 'Aventura', 'RPG', 'Shooter', 'Plataformas', 'Estrategia', 'Deportes', 'Carreras', 'Simulación', 'Puzzle', 'Terror', 'Indie', 'Sandbox', 'MMO'];
+
+        // Filtro simple de nombres inapropiados (español + inglés)
+        const PALABRAS_PROHIBIDAS = [
+            'puto','puta','putas','putos','mierda','verga','vergas','cabron','cabrón','pendejo','pendeja',
+            'culero','marica','maricon','maricón','chinga','coño','joder','follar','polla','pinga',
+            'concha','conchatumadre','ctm','hdp','wea','weón','weon','conchesumadre',
+            'fuck','fucking','shit','bitch','asshole','dick','cunt','nigger','faggot','retard','whore','slut',
+            'porn','porno','xxx','sexo','sex'
+        ];
+
+        function nombreEsInapropiado(nombre) {
+            if (!nombre) return false;
+            const limpio = nombre.toLowerCase()
+                .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+                .replace(/[0oO]/g, 'o').replace(/[1lLiI]/g, 'i').replace(/[3eE]/g, 'e').replace(/[4aA]/g, 'a');
+            const palabras = limpio.split(/[\s\-_.]+/);
+            return palabras.some(p => PALABRAS_PROHIBIDAS.includes(p)) ||
+                   PALABRAS_PROHIBIDAS.some(p => limpio === p);
+        }
+
+        function validarNombre(nombre) {
+            const n = (nombre || '').trim();
+            if (n.length < 2) return 'Tu nombre debe tener al menos 2 letras.';
+            if (n.length > 30) return 'Máximo 30 caracteres.';
+            if (!/^[a-zA-ZáéíóúÁÉÍÓÚñÑüÜ\s'-]+$/.test(n)) return 'Solo letras, espacios, guiones y apóstrofes.';
+            if (nombreEsInapropiado(n)) return 'Por favor usa un nombre apropiado.';
+            return null;
+        }
+
+        function calcularEdad(fechaISO) {
+            if (!fechaISO) return null;
+            const nac = new Date(fechaISO);
+            if (isNaN(nac)) return null;
+            const hoy = new Date();
+            let edad = hoy.getFullYear() - nac.getFullYear();
+            const m = hoy.getMonth() - nac.getMonth();
+            if (m < 0 || (m === 0 && hoy.getDate() < nac.getDate())) edad--;
+            if (edad < 0 || edad > 120) return null;
+            return edad;
+        }
+
+        // =====================================================================
+        // SESIÓN Y API (el perfil ahora vive en MySQL, no en el navegador)
+        // =====================================================================
+        let perfil = null;                       // se llena con /api/auth/me
+        let token = leerToken();
+
+        function leerToken() {
+            try { return localStorage.getItem('kira_token'); } catch { return null; }
+        }
+        function guardarToken(t) {
+            token = t;
+            try { t ? localStorage.setItem('kira_token', t) : localStorage.removeItem('kira_token'); } catch {}
+        }
+
+        // fetch con token; si el servidor responde 401 se cierra la sesión.
+        async function api(ruta, opciones = {}) {
+            const headers = { 'Content-Type': 'application/json', ...(opciones.headers || {}) };
+            if (token) headers['Authorization'] = `Bearer ${token}`;
+            const r = await fetch('/api' + ruta, { ...opciones, headers });
+            let data = {};
+            try { data = await r.json(); } catch {}
+            if (r.status === 401 && token) { cerrarSesion(); }
+            if (r.status === 403 && token && data.pendiente_verificacion) {
+                cerrarSesion();
+                mostrarVerificacion(data.email, true);
+            }
+            if (!r.ok) throw Object.assign(new Error(data.error || 'Error desconocido'), { data, status: r.status });
+            return data;
+        }
+
+        function crearChips(containerId, opciones, seleccionadas = []) {
+            const cont = document.getElementById(containerId);
+            cont.innerHTML = '';
+            const set = new Set(seleccionadas);
+            opciones.forEach(op => {
+                const chip = document.createElement('div');
+                chip.className = 'chip' + (set.has(op) ? ' selected' : '');
+                chip.textContent = op;
+                chip.tabIndex = 0;
+                chip.dataset.value = op;
+                chip.addEventListener('click', () => chip.classList.toggle('selected'));
+                chip.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); chip.classList.toggle('selected'); }
+                });
+                cont.appendChild(chip);
+            });
+        }
+
+        function leerChipsSeleccionados(containerId) {
+            return Array.from(document.querySelectorAll(`#${containerId} .chip.selected`))
+                .map(c => c.dataset.value);
+        }
+
+        // =====================================================================
+        // MODAL
+        // =====================================================================
+        const modalEl = document.getElementById('profileModal');
+        const nombreInput = document.getElementById('pfNombre');
+        const fechaInput = document.getElementById('pfFecha');
+        const nombreError = document.getElementById('pfNombreError');
+        const fechaError = document.getElementById('pfFechaError');
+        const editBtn = document.getElementById('editProfileBtn');
+
+        function abrirModal() {
+            crearChips('pfConsolas', CONSOLAS_OPCIONES, perfil?.consolas || []);
+            crearChips('pfGeneros', GENEROS_OPCIONES, perfil?.generos || []);
+            nombreInput.value = perfil?.nombre || '';
+            fechaInput.value = perfil?.fecha_nacimiento || '';
+            nombreError.textContent = '';
+            fechaError.textContent = '';
+            modalEl.classList.add('open');
+            setTimeout(() => nombreInput.focus(), 100);
+        }
+        function cerrarModal() { modalEl.classList.remove('open'); }
+
+        // ---------- Mis datos (derechos ARCO) ----------
+        const datosInfo = document.getElementById('pfDatosInfo');
+        const eliminarConfirm = document.getElementById('pfEliminarConfirm');
+
+        document.getElementById('pfExportBtn').addEventListener('click', async () => {
+            datosInfo.textContent = '';
+            try {
+                const datos = await api('/cuenta/datos');
+                const blob = new Blob([JSON.stringify(datos, null, 2)], { type: 'application/json' });
+                const enlace = document.createElement('a');
+                enlace.href = URL.createObjectURL(blob);
+                enlace.download = 'mis_datos_kira.json';
+                enlace.click();
+                setTimeout(() => URL.revokeObjectURL(enlace.href), 2000);
+                datosInfo.textContent = 'Listo: se descargó mis_datos_kira.json';
+            } catch (e) { datosInfo.textContent = e.message; }
+        });
+
+        document.getElementById('pfBorrarHistBtn').addEventListener('click', async () => {
+            try {
+                const r = await api('/chat/historial', { method: 'DELETE' });
+                chatBox.innerHTML = '';
+                datosInfo.textContent = `Historial borrado (${r.borradas} mensajes).`;
+            } catch (e) { datosInfo.textContent = e.message; }
+        });
+
+        document.getElementById('pfEliminarBtn').addEventListener('click', () => {
+            eliminarConfirm.classList.remove('auth-hidden');
+            document.getElementById('pfEliminarPass').focus();
+        });
+        document.getElementById('pfEliminarCancelar').addEventListener('click', () => {
+            eliminarConfirm.classList.add('auth-hidden');
+            document.getElementById('pfEliminarPass').value = '';
+        });
+        document.getElementById('pfEliminarOk').addEventListener('click', async () => {
+            const pass = document.getElementById('pfEliminarPass');
+            try {
+                await api('/cuenta', { method: 'DELETE', body: JSON.stringify({ password: pass.value }) });
+                pass.value = '';
+                eliminarConfirm.classList.add('auth-hidden');
+                cerrarSesion();
+                authError.textContent = 'Tu cuenta y tu historial fueron eliminados.';
+            } catch (e) { datosInfo.textContent = e.message; }
+        });
+
+        editBtn.addEventListener('click', abrirModal);
+
+        document.getElementById('pfSkipBtn').addEventListener('click', () => {
+            cerrarModal();
+            iniciarChat();
+        });
+
+        document.getElementById('pfSaveBtn').addEventListener('click', async () => {
+            const nombre = nombreInput.value.trim();
+            const errNombre = validarNombre(nombre);
+            if (errNombre) { nombreError.textContent = errNombre; nombreInput.focus(); return; }
+            nombreError.textContent = '';
+
+            const fecha = fechaInput.value;
+            let edad = null;
+            if (fecha) {
+                edad = calcularEdad(fecha);
+                if (edad === null) { fechaError.textContent = 'Fecha inválida.'; return; }
+                if (edad < 6) { fechaError.textContent = '¿Seguro que esa es tu fecha?'; return; }
+            }
+            fechaError.textContent = '';
+
+            const nuevoPerfil = {
+                nombre,
+                fecha_nacimiento: fecha,
+                consolas: leerChipsSeleccionados('pfConsolas'),
+                generos: leerChipsSeleccionados('pfGeneros'),
+            };
+            try {
+                const data = await api('/perfil', { method: 'PUT', body: JSON.stringify(nuevoPerfil) });
+                perfil = data.usuario;
+                actualizarHeaderUsuario();
+            } catch (e) {
+                const destino = e.data?.campo === 'fecha_nacimiento' ? fechaError : nombreError;
+                destino.textContent = e.message;
+                return;
+            }
+            cerrarModal();
+            iniciarChat();
+        });
+
+        // =====================================================================
+        // MODAL DE LOGIN / REGISTRO
+        // =====================================================================
+        const authModal = document.getElementById('authModal');
+        const authForm = document.getElementById('authForm');
+        const authTitle = document.getElementById('authTitle');
+        const authError = document.getElementById('authError');
+        const authNombreGroup = document.getElementById('authNombreGroup');
+        const authNombre = document.getElementById('authNombre');
+        const authEmail = document.getElementById('authEmail');
+        const authPassword = document.getElementById('authPassword');
+        const authSubmitBtn = document.getElementById('authSubmitBtn');
+        const tabLogin = document.getElementById('tabLogin');
+        const tabRegister = document.getElementById('tabRegister');
+        let modoRegistro = false;
+
+        function cambiarModoAuth(registro) {
+            modoRegistro = registro;
+            tabLogin.classList.toggle('active', !registro);
+            tabRegister.classList.toggle('active', registro);
+            authNombreGroup.classList.toggle('auth-hidden', !registro);
+            document.getElementById('authPrivacidadGroup').classList.toggle('auth-hidden', !registro);
+            authTitle.textContent = registro ? 'CREAR CUENTA' : 'INICIAR SESIÓN';
+            authSubmitBtn.textContent = registro ? 'Crear cuenta' : 'Entrar';
+            authPassword.autocomplete = registro ? 'new-password' : 'current-password';
+            authError.textContent = '';
+        }
+        tabLogin.addEventListener('click', () => cambiarModoAuth(false));
+        tabRegister.addEventListener('click', () => cambiarModoAuth(true));
+
+        function abrirAuth() {
+            authModal.classList.add('open');
+            setTimeout(() => (modoRegistro ? authNombre : authEmail).focus(), 100);
+        }
+
+        authForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            authError.textContent = '';
+            const email = authEmail.value.trim();
+            const password = authPassword.value;
+            const cuerpo = { email, password };
+
+            if (modoRegistro) {
+                const errNombre = validarNombre(authNombre.value);
+                if (errNombre) { authError.textContent = errNombre; return; }
+                if (password.length < 8) { authError.textContent = 'La contraseña debe tener al menos 8 caracteres.'; return; }
+                const acepta = document.getElementById('authPrivacidad').checked;
+                if (!acepta) { authError.textContent = 'Para crear la cuenta debes aceptar la política de privacidad.'; return; }
+                cuerpo.nombre = authNombre.value.trim();
+                cuerpo.acepta_privacidad = true;
+            }
+
+            authSubmitBtn.disabled = true;
+            try {
+                const data = await api(modoRegistro ? '/auth/register' : '/auth/login',
+                                       { method: 'POST', body: JSON.stringify(cuerpo) });
+                authPassword.value = '';
+                if (data.pendiente_verificacion) {      // registro: falta confirmar el correo
+                    mostrarVerificacion(data.email, false, data);
+                    return;
+                }
+                entrarConToken(data);
+            } catch (err) {
+                if (err.data?.pendiente_verificacion) {  // login con correo aún sin confirmar
+                    authPassword.value = '';
+                    mostrarVerificacion(err.data.email, false, err.data);
+                } else {
+                    authError.textContent = err.message;
+                }
+            } finally {
+                authSubmitBtn.disabled = false;
+            }
+        });
+
+        // ---------- Paso de verificación del correo ----------
+        const verifyForm = document.getElementById('verifyForm');
+        const verifyCode = document.getElementById('verifyCode');
+        const verifyError = document.getElementById('verifyError');
+        const verifyInfo = document.getElementById('verifyInfo');
+        const verifyBtn = document.getElementById('verifyBtn');
+        const resendBtn = document.getElementById('resendBtn');
+        const authTabs = document.getElementById('authTabs');
+        let emailPendiente = '';
+        let relojReenvio = null;
+
+        function entrarConToken(data) {
+            guardarToken(data.token);
+            perfil = data.usuario;
+            authModal.classList.remove('open');
+            entrarApp();
+        }
+
+        function bloquearReenvio(segundos) {
+            clearInterval(relojReenvio);
+            let quedan = segundos;
+            resendBtn.disabled = true;
+            resendBtn.textContent = `Reenviar (${quedan}s)`;
+            relojReenvio = setInterval(() => {
+                quedan -= 1;
+                if (quedan <= 0) {
+                    clearInterval(relojReenvio);
+                    resendBtn.disabled = false;
+                    resendBtn.textContent = 'Reenviar código';
+                } else {
+                    resendBtn.textContent = `Reenviar (${quedan}s)`;
+                }
+            }, 1000);
+        }
+
+        function mostrarInfoEnvio(data) {
+            verifyError.textContent = data && data.envio_ok === false ? (data.mensaje || '') : '';
+            verifyInfo.textContent = data?.modo_desarrollo || '';
+            if (data && data.envio_ok === false) { resendBtn.disabled = false; resendBtn.textContent = 'Reenviar código'; }
+        }
+
+        function mostrarVerificacion(email, pedirCodigo = false, data = null) {
+            emailPendiente = email;
+            document.getElementById('verifyEmail').textContent = email;
+            authTitle.textContent = 'VERIFICA TU CORREO';
+            document.getElementById('authSub').textContent = 'Último paso: confirma que el correo es tuyo';
+            authTabs.classList.add('auth-hidden');
+            authForm.classList.add('auth-hidden');
+            verifyForm.classList.remove('auth-hidden');
+            verifyCode.value = '';
+            verifyError.textContent = '';
+            verifyInfo.textContent = '';
+            authModal.classList.add('open');
+            bloquearReenvio(60);
+            mostrarInfoEnvio(data);
+            if (pedirCodigo) reenviarCodigo(true);
+            setTimeout(() => verifyCode.focus(), 100);
+        }
+
+        function volverAlLogin() {
+            clearInterval(relojReenvio);
+            verifyForm.classList.add('auth-hidden');
+            authForm.classList.remove('auth-hidden');
+            authTabs.classList.remove('auth-hidden');
+            document.getElementById('authSub').textContent = 'Entra a tu cuenta para hablar con Kira';
+            cambiarModoAuth(modoRegistro);
+        }
+        document.getElementById('backBtn').addEventListener('click', volverAlLogin);
+
+        verifyCode.addEventListener('input', () => {
+            verifyCode.value = verifyCode.value.replace(/\D/g, '').slice(0, 6);
+            if (verifyCode.value.length === 6) verifyForm.requestSubmit();
+        });
+
+        verifyForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            verifyError.textContent = '';
+            const codigo = verifyCode.value.trim();
+            if (!/^\d{6}$/.test(codigo)) { verifyError.textContent = 'El código tiene 6 dígitos.'; return; }
+            verifyBtn.disabled = true;
+            try {
+                const data = await api('/auth/verificar', { method: 'POST', body: JSON.stringify({ email: emailPendiente, codigo }) });
+                clearInterval(relojReenvio);
+                volverAlLogin();
+                entrarConToken(data);
+            } catch (err) {
+                verifyError.textContent = err.message;
+                verifyCode.select();
+            } finally {
+                verifyBtn.disabled = false;
+            }
+        });
+
+        async function reenviarCodigo(silencioso = false) {
+            verifyError.textContent = '';
+            if (!silencioso) verifyInfo.textContent = 'Enviando…';
+            try {
+                const data = await api('/auth/reenviar', { method: 'POST', body: JSON.stringify({ email: emailPendiente }) });
+                bloquearReenvio(60);
+                verifyInfo.textContent = data.modo_desarrollo || (data.envio_ok === false ? '' : 'Te enviamos un código nuevo.');
+                mostrarInfoEnvio(data);
+                if (data.envio_ok !== false && !data.modo_desarrollo) verifyInfo.textContent = 'Te enviamos un código nuevo.';
+            } catch (err) {
+                verifyInfo.textContent = '';
+                if (!silencioso || err.status !== 429) verifyError.textContent = err.message;
+            }
+        }
+        resendBtn.addEventListener('click', () => reenviarCodigo(false));
+
+        function actualizarHeaderUsuario() {
+            document.getElementById('userChip').textContent = perfil?.nombre || '';
+        }
+
+        function cerrarSesion() {
+            detenerVoz();
+            cerrarArcade();
+            guardarToken(null);
+            perfil = null;
+            actualizarHeaderUsuario();
+            chatBox.innerHTML = '';
+            cerrarModal();
+            cambiarModoAuth(false);
+            abrirAuth();
+        }
+        document.getElementById('logoutBtn').addEventListener('click', cerrarSesion);
+
+        // Tras iniciar sesión: si el perfil no está completo, pedirlo; si no, al chat.
+        function entrarApp() {
+            actualizarHeaderUsuario();
+            if (!perfil?.perfil_completo) abrirModal();
+            else iniciarChat();
+        }
+
+        // =====================================================================
+        // CHAT
+        // =====================================================================
+        const chatBox = document.getElementById('chatBox');
+        const messageInput = document.getElementById('messageInput');
+        const sendBtn = document.getElementById('sendBtn');
+        const voiceToggleBtn = document.getElementById('voiceToggleBtn');
+        const AVATAR_SRC = '/static/kira_avatar.png';
+
+        // ========= MASCOTA GRANDE (cambia aleatoriamente al responder) =========
+        const MASCOT_SRCS = [
+            '/static/avatars/kira_full_1.png',
+            '/static/avatars/kira_full_2.png',
+            '/static/avatars/kira_full_3.png',
+            '/static/avatars/kira_full_4.png',
+            '/static/avatars/kira_full_5.png',
+        ];
+        function cambiarMascotaAleatoria() {
+            const mascotImg = document.getElementById('mascotImg');
+            if (!mascotImg) return;
+            let nueva;
+            do {
+                nueva = MASCOT_SRCS[Math.floor(Math.random() * MASCOT_SRCS.length)];
+            } while (nueva === mascotImg.src.replace(window.location.origin, '') && MASCOT_SRCS.length > 1);
+            mascotImg.src = nueva;
+        }
+
+        // ========= VOZ =========
+        let voiceEnabled = true;
+        const synth = window.speechSynthesis;
+        let vozKira = null;
+
+        function cargarVoces() {
+            const voces = synth.getVoices();
+            const femeninas = ['sabina','helena','laura','monica','paulina','marisol','angelica','esperanza','lucia','elena','ximena','female'];
+            vozKira = voces.find(v => v.lang.startsWith('es') && femeninas.some(n => v.name.toLowerCase().includes(n)))
+                   || voces.find(v => v.lang.startsWith('es') && v.name.toLowerCase().includes('google'))
+                   || voces.find(v => v.lang.startsWith('es'));
+        }
+        cargarVoces();
+        if (synth.onvoiceschanged !== undefined) synth.onvoiceschanged = cargarVoces;
+
+        // Botón 🔊 de cada mensaje: alterna entre reproducir y DETENER (antes reiniciaba la lectura).
+        // Botón global: silencia la voz automática y corta lo que esté sonando.
+        let btnSonando = null;       // botón del mensaje que se está leyendo
+        let lecturaActual = null;    // utterance en curso
+
+        function marcarSonando(btn) {
+            if (btnSonando) {
+                btnSonando.textContent = '🔊';
+                btnSonando.title = 'Escuchar esta respuesta';
+                btnSonando.classList.remove('sonando');
+            }
+            btnSonando = btn;
+            if (btn) {
+                btn.textContent = '⏹';
+                btn.title = 'Detener la voz';
+                btn.classList.add('sonando');
+            }
+        }
+
+        function detenerVoz() {
+            lecturaActual = null;
+            synth.cancel();
+            marcarSonando(null);
+        }
+
+        function toggleVoice() {
+            voiceEnabled = !voiceEnabled;
+            voiceToggleBtn.textContent = voiceEnabled ? '🔊' : '🔇';
+            voiceToggleBtn.title = voiceEnabled ? 'Silenciar la voz' : 'Activar la voz';
+            if (!voiceEnabled) detenerVoz();
+        }
+
+        // forzar = true cuando el usuario aprieta el 🔊 de un mensaje (aunque la voz automática esté apagada)
+        function hablar(texto, btn = null, forzar = false) {
+            if (!voiceEnabled && !forzar) return;
+            detenerVoz();
+            const u = new SpeechSynthesisUtterance(texto);
+            if (vozKira) u.voice = vozKira;
+            u.lang = 'es-ES'; u.rate = 1.5; u.pitch = 1.3; u.volume = 1;
+            const fin = () => { if (lecturaActual === u) { lecturaActual = null; marcarSonando(null); } };
+            u.onend = fin;
+            u.onerror = fin;
+            lecturaActual = u;
+            marcarSonando(btn);
+            synth.speak(u);
+        }
+
+        function alternarVozMensaje(texto, btn) {
+            if (btnSonando === btn && (synth.speaking || synth.pending)) detenerVoz();
+            else hablar(texto, btn, true);
+        }
+
+        messageInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); enviarMensaje(); }
+        });
+
+        async function enviarMensaje(textoOpcion) {
+            const mensaje = (typeof textoOpcion === 'string' ? textoOpcion : messageInput.value).trim();
+            if (!mensaje) return;
+            detenerVoz();
+            agregarMensaje(mensaje, 'user');
+            messageInput.value = '';
+
+            if (pideJugar(mensaje)) {
+                agregarMensaje('¡Vamos! Elige un juego del arcade 🎮', 'assistant', [], [{ etiqueta: '🎮 Abrir arcade', accion: abrirArcade }]);
+                abrirArcade();
+                return;
+            }
+            sendBtn.disabled = true;
+
+            const loadingEl = agregarMensaje('<div class="loading"><span></span><span></span><span></span></div>', 'assistant');
+
+            try {
+                const data = await api('/chat', {
+                    method: 'POST',
+                    body: JSON.stringify({ mensaje }),
+                });
+                loadingEl.remove();
+                const msgEl = agregarMensaje(data.respuesta, 'assistant', data.imagenes || [], data.opciones || []);
+                cambiarMascotaAleatoria();
+                hablar(data.respuesta, msgEl.querySelector('.voice-btn'));
+            } catch (error) {
+                loadingEl.remove();
+                agregarMensaje(escapeHtml(`Error: ${error.message}`), 'system');
+            } finally {
+                sendBtn.disabled = false;
+                messageInput.focus();
+            }
+        }
+
+        function formatearTexto(texto) {
+            return texto.split('\n\n').filter(p => p.trim())
+                .map(p => `<p>${escapeHtml(p).replace(/\n/g, '<br>')}</p>`).join('');
+        }
+        function escapeHtml(s) {
+            return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+        }
+
+        function crearAvatar() {
+            const el = document.createElement('div');
+            el.className = 'message-avatar';
+            const img = document.createElement('img');
+            img.src = AVATAR_SRC; img.alt = 'Kira';
+            el.appendChild(img);
+            return el;
+        }
+
+        function crearGridImagenes(imagenes) {
+            if (!imagenes || !imagenes.length) return null;
+            const grid = document.createElement('div');
+            grid.className = 'game-images';
+            imagenes.forEach(img => {
+                const a = document.createElement('a');
+                a.className = 'game-thumb';
+                a.href = img.url; a.target = '_blank'; a.rel = 'noopener'; a.title = img.nombre;
+                const imagen = document.createElement('img');
+                imagen.src = img.url; imagen.alt = img.nombre; imagen.loading = 'lazy';
+                imagen.onerror = () => a.remove();
+                const label = document.createElement('span');
+                label.className = 'game-label';
+                label.textContent = img.nombre;
+                a.appendChild(imagen); a.appendChild(label);
+                grid.appendChild(a);
+            });
+            return grid;
+        }
+
+        function crearOpciones(opciones) {
+            if (!opciones || !opciones.length) return null;
+            const cont = document.createElement('div');
+            cont.className = 'quick-options';
+            opciones.forEach(op => {
+                const b = document.createElement('button');
+                b.type = 'button';
+                b.className = 'quick-opt';
+                b.textContent = op.etiqueta;
+                b.title = op.mensaje;
+                if (op.accion) {                     // botón local: no se deshabilita
+                    b.title = op.etiqueta;
+                    b.addEventListener('click', op.accion);
+                    cont.appendChild(b);
+                    return;
+                }
+                b.addEventListener('click', () => {
+                    cont.querySelectorAll('.quick-opt').forEach(x => x.disabled = true);
+                    b.classList.add('elegida');
+                    enviarMensaje(op.mensaje);
+                });
+                cont.appendChild(b);
+            });
+            return cont;
+        }
+
+        function agregarMensaje(texto, tipo, imagenes, opciones) {
+            const messageEl = document.createElement('div');
+            messageEl.className = `message ${tipo}`;
+
+            if (tipo === 'assistant' && !texto.includes('loading')) {
+                messageEl.appendChild(crearAvatar());
+                const body = document.createElement('div');
+                body.className = 'msg-body';
+                const contentEl = document.createElement('div');
+                contentEl.className = 'message-content';
+                contentEl.innerHTML = formatearTexto(texto);
+                body.appendChild(contentEl);
+                const grid = crearGridImagenes(imagenes);
+                if (grid) body.appendChild(grid);
+                const ops = crearOpciones(opciones);
+                if (ops) body.appendChild(ops);
+                messageEl.appendChild(body);
+
+                const voiceBtnEl = document.createElement('button');
+                voiceBtnEl.className = 'voice-btn';
+                voiceBtnEl.textContent = '🔊';
+                voiceBtnEl.title = 'Escuchar esta respuesta';
+                voiceBtnEl.onclick = () => alternarVozMensaje(texto, voiceBtnEl);
+                messageEl.appendChild(voiceBtnEl);
+            } else if (tipo === 'assistant') {
+                messageEl.appendChild(crearAvatar());
+                const body = document.createElement('div');
+                body.className = 'msg-body';
+                const contentEl = document.createElement('div');
+                contentEl.className = 'message-content';
+                contentEl.innerHTML = texto;
+                body.appendChild(contentEl);
+                messageEl.appendChild(body);
+            } else if (tipo === 'user') {
+                const body = document.createElement('div');
+                body.className = 'msg-body';
+                const contentEl = document.createElement('div');
+                contentEl.className = 'message-content';
+                contentEl.textContent = texto;
+                body.appendChild(contentEl);
+                messageEl.appendChild(body);
+            } else {
+                const contentEl = document.createElement('div');
+                contentEl.className = 'message-content';
+                contentEl.innerHTML = texto;
+                messageEl.appendChild(contentEl);
+            }
+
+            chatBox.appendChild(messageEl);
+            chatBox.scrollTop = chatBox.scrollHeight;
+            return messageEl;
+        }
+
+        function iniciarChat() {
+            chatBox.innerHTML = '';
+            const nombre = perfil?.nombre?.trim();
+            let saludo;
+            if (nombre) {
+                saludo = `Hola ${nombre}, soy Kira. Ya tengo tus preferencias — puedo recomendarte juegos según tus consolas y géneros favoritos, o responderte cualquier duda sobre reseñas y requisitos. ¿En qué te ayudo?`;
+            } else {
+                saludo = `Hola, soy Kira. Puedo ayudarte con reseñas, requisitos de juegos para PC, PlayStation, Xbox, Nintendo Switch y juegos móviles (Android/iOS). ¿En qué puedo ayudarte?`;
+            }
+            const msg = document.createElement('div');
+            msg.className = 'message system';
+            const content = document.createElement('div');
+            content.className = 'message-content';
+            content.textContent = saludo;
+            msg.appendChild(content);
+            chatBox.appendChild(msg);
+
+            // Acceso directo al arcade desde el saludo
+            const atajo = crearOpciones([
+                { etiqueta: '🎮 Jugar con Kira', accion: () => abrirArcade() },
+            ]);
+            atajo.style.justifyContent = 'center';
+            atajo.style.marginTop = '-6px';
+            chatBox.appendChild(atajo);
+        }
+
+        // =====================================================================
+        // ARCADE: juegos de Kira dentro de la misma página del chat
+        // (los juegos de pygame corren en el navegador con pygbag; ver frontend/juegos/)
+        // =====================================================================
+        const JUEGOS = [
+            {
+                id: 'tenis',
+                titulo: 'Tenis retro vs Kira',
+                desc: 'Pong neón contra Kira con habilidades especiales: smash, escudo y cámara lenta. Modo 1 o 2 jugadores y tres dificultades.',
+                teclas: 'W / S · flechas o mouse · 1-4 habilidades · P pausa',
+                portada: '/static/juegos/portadas/tenis.png',
+            },
+            {
+                id: 'vasos',
+                titulo: '¿Dónde está la mascota?',
+                desc: 'Kira esconde a la mascota bajo un vaso y los revuelve. Síguela con la vista: cada ronda es más rápida y aparecen trampas.',
+                teclas: 'Mouse para elegir · P pausa · M música',
+                portada: '/static/juegos/portadas/vasos.png',
+            },
+        ];
+
+        const arcade = document.getElementById('arcade');
+        const arcadeTitle = document.getElementById('arcadeTitle');
+        const arcadePicker = document.getElementById('arcadePicker');
+        const arcadeStage = document.getElementById('arcadeStage');
+        const arcadeBackBtn = document.getElementById('arcadeBackBtn');
+        const arcadeFullBtn = document.getElementById('arcadeFullBtn');
+        const gamesBtn = document.getElementById('gamesBtn');
+        const mainArea = document.querySelector('.main-area');
+        const gameFrame = document.getElementById('gameFrame');
+        const gameFrameWrap = document.getElementById('gameFrameWrap');
+        const gameLoading = document.getElementById('gameLoading');
+        let juegoActual = null;
+
+        function crearTarjetasJuegos() {
+            const grid = document.getElementById('gameGrid');
+            grid.innerHTML = '';
+            JUEGOS.forEach(j => {
+                const card = document.createElement('button');
+                card.type = 'button';
+                card.className = 'game-card';
+                card.innerHTML = `
+                    <img class="game-cover" alt="" loading="lazy">
+                    <div class="game-info">
+                        <div class="game-title"></div>
+                        <div class="game-desc"></div>
+                        <div class="game-keys"></div>
+                        <span class="game-play">▶ Jugar</span>
+                    </div>`;
+                card.querySelector('.game-cover').src = j.portada;
+                card.querySelector('.game-title').textContent = j.titulo;
+                card.querySelector('.game-desc').textContent = j.desc;
+                card.querySelector('.game-keys').textContent = j.teclas;
+                card.addEventListener('click', () => iniciarJuego(j.id));
+                grid.appendChild(card);
+            });
+        }
+
+        function abrirArcade() {
+            detenerVoz();
+            arcade.hidden = false;
+            gamesBtn.classList.add('activo');
+            mainArea.classList.add('jugando');
+            mostrarSelector();
+        }
+
+        function mostrarSelector() {
+            detenerJuego();
+            arcadeTitle.textContent = 'ARCADE DE KIRA';
+            arcadePicker.hidden = false;
+            arcadeStage.hidden = true;
+            arcadeBackBtn.hidden = true;
+            arcadeFullBtn.hidden = true;
+        }
+
+        function iniciarJuego(id) {
+            const juego = JUEGOS.find(j => j.id === id);
+            if (!juego) return;
+            if (arcade.hidden) { arcade.hidden = false; gamesBtn.classList.add('activo'); mainArea.classList.add('jugando'); }
+            detenerVoz();
+            juegoActual = juego;
+            arcadeTitle.textContent = juego.titulo.toUpperCase();
+            arcadePicker.hidden = true;
+            arcadeStage.hidden = false;
+            arcadeBackBtn.hidden = false;
+            arcadeFullBtn.hidden = false;
+            gameLoading.classList.remove('oculto');
+            gameFrame.src = `/static/juegos/${juego.id}/index.html`;
+            gameFrame.focus();
+        }
+
+        // Vaciar el iframe apaga el juego por completo (música, CPU, memoria).
+        function detenerJuego() {
+            juegoActual = null;
+            if (gameFrame.getAttribute('src')) gameFrame.removeAttribute('src');
+            if (document.fullscreenElement) document.exitFullscreen().catch(() => {});
+        }
+
+        function cerrarArcade() {
+            mostrarSelector();
+            arcade.hidden = true;
+            gamesBtn.classList.remove('activo');
+            mainArea.classList.remove('jugando');
+            messageInput.focus();
+        }
+
+        gamesBtn.addEventListener('click', () => arcade.hidden ? abrirArcade() : cerrarArcade());
+        document.getElementById('arcadeCloseBtn').addEventListener('click', cerrarArcade);
+        arcadeBackBtn.addEventListener('click', mostrarSelector);
+        arcadeFullBtn.addEventListener('click', () => {
+            (gameFrameWrap.requestFullscreen?.() || Promise.reject()).catch(() => {});
+            gameFrame.focus();
+        });
+        // Al hacer clic sobre el juego, el teclado queda para el juego.
+        gameFrameWrap.addEventListener('pointerdown', () => gameFrame.focus());
+
+        // Mensajes que manda el juego desde el iframe
+        window.addEventListener('message', (e) => {
+            if (e.source !== gameFrame.contentWindow || typeof e.data !== 'string') return;
+            if (e.data === 'kira-juego:listo') {
+                gameLoading.classList.add('oculto');
+                gameFrame.focus();
+            } else if (e.data === 'kira-juego:cerrar') {
+                mostrarSelector();     // ESC en el menú del juego = volver a la lista
+            }
+        });
+
+        // Si el usuario escribe "quiero jugar", Kira abre el arcade en vez de consultar al servidor.
+        function pideJugar(texto) {
+            const t = texto.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[¡!¿?.]/g, '').trim();
+            return /^(kira\s*,?\s*)?((quiero|quieres|vamos a|podemos|me gustaria|juguemos|a)\s+)?jugar(\s+(contigo|con kira|algo|un juego|un rato|un minijuego))?$/.test(t)
+                || /^(juguemos|minijuegos?|arcade|abrir juegos|abre los juegos)$/.test(t);
+        }
+
+        crearTarjetasJuegos();
+
+        // =====================================================================
+        // NOTICIAS
+        // =====================================================================
+        const newsPanel = document.getElementById('newsPanel');
+        const newsBackdrop = document.getElementById('newsBackdrop');
+        const newsList = document.getElementById('newsList');
+        const newsRefresh = document.getElementById('newsRefresh');
+        const newsToggle = document.getElementById('newsToggle');
+
+        function tiempoRelativo(ts) {
+            if (!ts) return '';
+            const diff = (Date.now() / 1000) - ts;
+            if (diff < 3600)   return Math.max(1, Math.floor(diff / 60)) + ' min';
+            if (diff < 86400)  return Math.floor(diff / 3600) + ' h';
+            if (diff < 604800) return Math.floor(diff / 86400) + ' d';
+            return Math.floor(diff / 604800) + ' sem';
+        }
+        async function cargarNoticias(forzar = false) {
+            try {
+                if (forzar) newsRefresh.classList.add('spinning');
+                const r = await fetch('/api/noticias' + (forzar ? '?forzar=1' : ''));
+                const data = await r.json();
+                renderNoticias(data.noticias || []);
+            } catch (e) {
+                newsList.innerHTML = '<div class="news-error">No se pudieron cargar las noticias.</div>';
+            } finally {
+                setTimeout(() => newsRefresh.classList.remove('spinning'), 400);
+            }
+        }
+        function renderNoticias(items) {
+            if (!items.length) { newsList.innerHTML = '<div class="news-empty">Sin noticias por ahora.</div>'; return; }
+            newsList.innerHTML = '';
+            items.forEach(n => {
+                const a = document.createElement('a');
+                a.className = 'news-item';
+                a.href = n.link; a.target = '_blank'; a.rel = 'noopener';
+                if (n.thumbnail) {
+                    const img = document.createElement('img');
+                    img.className = 'news-thumb'; img.src = n.thumbnail; img.alt = ''; img.loading = 'lazy';
+                    img.onerror = () => img.remove();
+                    a.appendChild(img);
+                }
+                const title = document.createElement('div');
+                title.className = 'news-title'; title.textContent = n.titulo;
+                a.appendChild(title);
+                const meta = document.createElement('div');
+                meta.className = 'news-meta';
+                const src = document.createElement('span');
+                src.className = 'news-source'; src.textContent = n.fuente;
+                const time = document.createElement('span');
+                time.textContent = tiempoRelativo(n.fecha_ts);
+                meta.appendChild(src); meta.appendChild(time);
+                a.appendChild(meta);
+                newsList.appendChild(a);
+            });
+        }
+        newsRefresh.addEventListener('click', () => cargarNoticias(true));
+        newsToggle.addEventListener('click', () => { newsPanel.classList.add('open'); newsBackdrop.classList.add('open'); });
+        newsBackdrop.addEventListener('click', () => { newsPanel.classList.remove('open'); newsBackdrop.classList.remove('open'); });
+
+        // =====================================================================
+        // ARRANQUE
+        // =====================================================================
+        (async () => {
+            if (token) {
+                try {
+                    const data = await api('/auth/me');
+                    perfil = data.usuario;
+                    entrarApp();
+                } catch { cerrarSesion(); }
+            } else {
+                abrirAuth();
+            }
+        })();
+        cargarNoticias();
+    </script>
+</body>
+</html>

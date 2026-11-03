@@ -1,0 +1,17 @@
+JUEGO: Pokémon Megadimensión
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Mega Dimension
+PLATAFORMA: Nintendo Switch y Nintendo Switch 2
+GÉNEROS: Expansión (DLC), RPG, Aventura
+GENERACIÓN: Generación IX
+
+DESCRIPCIÓN:
+Pokémon Megadimensión es una expansión descargable (DLC) de Pokémon Leyendas: Z-A, de la Generación IX, para Nintendo Switch y Nintendo Switch 2. Su Pokédex regional reúne 132 especies de Pokémon distintas. Incluye Pokémon legendarios como Heatran, Cobalion, Terrakion, Virizion, Latias y Latios.
+
+POKÉDEX:
+- Luminalia Dimensional: 132 Pokémon
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Heatran, Cobalion, Terrakion, Virizion, Latias, Latios, Kyogre, Groudon, Rayquaza
+Singulares (míticos): Volcanion, Keldeo, Meloetta, Genesect, Hoopa, Marshadow, Meltan, Melmetal, Darkrai, Magearna, Zeraora

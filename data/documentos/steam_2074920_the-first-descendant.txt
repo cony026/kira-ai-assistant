@@ -1,0 +1,54 @@
+JUEGO: The First Descendant
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Rol, Free to Play
+DESARROLLADOR: NEXON Games Co., Ltd.
+PUBLISHER: NEXON
+FECHA DE LANZAMIENTO: 30 JUN 2024
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Mixed (111725 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+TFD es un juego de disparos con Unreal Engine 5. Lucha con poderes únicos para que la humanidad sobreviva. Derrota a jefes en misiones con 4 jugadores con historias fascinantes. ¡Sé un Descendiente!
+
+DESCRIPCIÓN DETALLADA:
+The First Descendant es un juego gratuito de disparos de acción de rol en tercera persona y cooperativo con gráficos de alta calidad. Experimenta la diversión de batallas estratégicas contra jefes mediante la cooperación con hasta cuatro jugadores, el manejo de personajes únicos, habilidades fascinantes con las armas y saqueos. Es necesario tener un equipamiento variado para poder mejorar, que podrás obtener al completar los escenarios de las misiones del juego o en las misiones globales, donde es esencial que colabores con tu equipo en las batallas contra enormes jefes.
+
+El jugador se convierte en un Descendiente y se le otorga la misión de luchar contra los invasores por la supervivencia de la humanidad, así como de proteger al «continente de Ingris». Los jugadores podrán vivir historias espectaculares a medida que vayan volviéndose más fuertes completando distintas misiones e historias hasta finalmente descubrir el secreto de los Descendientes. Además, podrán sentir la atmósfera única de The First Descendant gracias a los gráficos de alta calidad desarrollados con Unreal Engine 5 y obtendrán una nueva experiencia de realidad y ciencia ficción fantástica, todo en un mismo lugar.Personajes únicos y atractivosPuedes jugar con varios personajes con conceptos y estilos de batalla distintivos. Tenemos pensado añadir varios elementos personalizables, como aspectos para cada personaje con el objetivo de impulsar su personalización.Fascinantes batallas y acción dinámica usando varias habilidades y armas de fuegoExperimenta las fascinantes batallas de The First Descendant con varios personajes y sus conjuntos de habilidades únicos, con libertad de movimiento y acciones en cadena mediante garfios, armas de fuego coloridas y efectos adicionales. Esto es todo lo que necesitas para crear el estilo de batalla de tus sueños.Batallas contra enormes jefes monstruosos en el modo cooperativoPuedes atacar a enormes jefes monstruosos con distintas apariencias y poderes en cooperativo con hasta cuatro jugadores. Los distintos grados de dificultad estimularán tu espíritu competitivo y podrás destruir o extraer varias partes de estos jefes en el modo cooperativo. Al desbaratar los trucos del enorme jefe, podrás disfrutar de un trabajo en equipo más eficaz.Motivación para jugar y mejorarPuedes equipar a un personaje con tres pistolas, cuatro accesorios secundarios y varias subarmas. Por supuesto, habrá artículos en el juego con los que podrás mejorar a un personaje o sus estadísticas de armas de fuego, o añadirle una nueva habilidad. Es necesario tener un equipamiento variado para mejorar, que podrás obtener completando los escenarios de las misiones del juego o en las misiones globales, donde es esencial que colabores para ganar las batallas contra enormes jefes. Proporcionamos varios equipamientos, de forma que puedas desarrollar a los personajes mediante su crecimiento y la obtención y combinación de distintos equipamientos. Ponte a prueba en misiones más difíciles y disfruta de la emoción de completarlas.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10 x64 20H2
+
+- Procesador: Intel i5-3570 / AMD FX-8350
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: GeForce GTX 1050Ti / AMD Radeon RX 570 / Intel Arc A380
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 100 GB de espacio disponible
+
+- Notas adicionales: SSD Recommended. VRAM 4GB or above.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 10 x64 20H2
+
+- Procesador: Intel i7-7700K / AMD Ryzen 5 2600X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: GeForce RTX 2060 / AMD Radeon RX 5600XT / Intel Arc A750
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 100 GB de espacio disponible
+
+- Notas adicionales: SSD Recommended.

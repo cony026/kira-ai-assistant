@@ -1,0 +1,22 @@
+JUEGO: Sonic CD
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: PC, iOS, PlayStation 3, SEGA CD, Xbox One, Xbox 360, Android
+FECHA DE LANZAMIENTO: 2011-12-14
+DESARROLLADOR: Christian Whitehead, Blit Software
+PUBLISHER: SEGA
+GÉNEROS: Action, Platformer
+RATING USUARIOS: 3.66/5 (251 votos)
+TIEMPO DE JUEGO MEDIO: 1 horas
+TAGS: Singleplayer, Great Soundtrack, 2D, Classic, Pixel Graphics, Retro, Anime, Family Friendly, Colorful, Side Scroller, Fast-Paced, Remake, 1990's, Time Travel, Time Attack
+
+DESCRIPCIÓN:
+###The legacy
+The original game was released for the Sega Genesis console with additional hardware that allowed the console from the late 80's to launch games on CD. From the point of view of gameplay, the game is not much different from other ones of the series of that time: it is a side-scrolling 2D platformer where the main goal of the player is to go as fast as possible. The game is often called the best in the series. In the development, it ought to be an improved version of the game Sonic The Hedgehog 2, but because of the low sales of the last, it was decided not to advertise connection between the two. Later the game was released on Sony PlayStation 2, Nintendo GameCube as part of the Sonic Gems Collection. The remastered version that uses a new engine was released for various platforms and mobile devices in 2011.
+
+###The plot
+The plot of the game tells how Sonic goes to Never Lake, where the extraterrestrial body Little Planet appears at the end of the last month of each year. However, this time the main villain of the Sonic universe Dr. Robotnik tied the planet to the top of the mountain and began to transform its surface with the help of its robots into a huge factory. Sonic goes to the rescue to encounter not only Dr. Robotnik but also other characters in the series, such as Metal Sonic.
+
+###Key features
+The gameplay of the game has not changed: Sonic must complete levels and defeat bosses at the end of each world. After collecting 50 rings, a special level becomes available, on which the player must destroy six UFOs. The version of the game for Steam includes the ability to play in 16: 9, leaderboards and a bunch achievements.

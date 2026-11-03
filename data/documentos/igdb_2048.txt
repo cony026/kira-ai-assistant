@@ -1,0 +1,21 @@
+JUEGO: 2048
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: Web browser, Linux, Android, PC (Microsoft Windows), iOS
+GÉNEROS: Puzle, Estrategia, Indie
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Texto
+DESARROLLADOR: Gabriele Cirulli
+PUBLISHER: Solebon LLC
+FECHA DE LANZAMIENTO: 2014-03-09
+NOTA DE USUARIOS (IGDB): 71/100 (60 votos)
+TAMBIÉN CONOCIDO COMO: 2048 by Gabriele Cirulli, 2048.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coc3mg.jpg
+URL: https://www.igdb.com/games/2048
+
+RESUMEN:
+Created by Italian web developer Gabriele Cirulli, 2048 is a single-player sliding tile puzzle video game that challenges players to combine numbered tiles on a 4x4 grid to create a tile with the number 2048. Originally written in JavaScript and CSS over a weekend, it was released in March 2014 as free and open-source software.
+
+JUEGOS PARECIDOS:
+Si te gusta 2048, también podrían gustarte: Great Permutator, Wordle 2, Wordle, Wordle 3, CrossCells, TIS-100, Umiro, Shakes and Fidget, The Cat Machine, Traffix.

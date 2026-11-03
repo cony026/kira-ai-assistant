@@ -1,0 +1,41 @@
+JUEGO: Return Of The Obra Dinn
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Xbox One
+DISPONIBLE EN: Nintendo Switch, PlayStation 4, Xbox One, PC, macOS
+FECHA DE LANZAMIENTO: 2018-10-17
+DESARROLLADOR: Lucas Pope, 3909, dukope
+PUBLISHER: 3909
+GÉNEROS: Adventure, Indie
+NOTA METACRITIC: 88
+RATING USUARIOS: 4.33/5 (762 votos)
+TIEMPO DE JUEGO MEDIO: 5 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Horror, Gore, Violent, Mystery, Detective, Pirates, Time Manipulation, ship, 1-bit, mac-plus, dinn, obra
+
+DESCRIPCIÓN:
+In 1802, the merchant ship "Obra Dinn" set out from London for the Orient with over 200 tons of trade goods. Six months later it hadn't met its rendezvous point at the Cape of Good Hope and was declared lost at sea.  
+ 
+Early this morning of October 14th, 1807, the Obra Dinn drifted into port with sails damaged and no visible crew. As insurance adjustor for the East India Company's London Office, find means to board the ship and recover the Crew Muster Roll book for assessment.
+
+("Obra" is pronounced like "Cobra" without the C).
+
+From the author:
+
+Goals
+
+I want to challenge myself so this'll be a very different game from anything I've done before, including Papers Please. There'll be less creativity with the gameplay and instead I want to experiment with the rendering, story, and a few technical features. Right now I have only a rough idea about the narrative. I'm hoping to capture a compelling mystery with suspense and twists in the limited space of an old merchant sailing ship. It won't be the typical "collect items and look for clues" structure. There's a slightly cool gameplay hook but I won't go into details on that until much later.
+
+
+Devlog
+
+I'll try to keep this (https://forums.tigsource.com/index.php?topic=40832.0) devlog lively as I make progress. Because the gameplay itself is more standard, there probably won't be as many creative updates as the Papers Please devlog. I will post lots of pictures and builds as soon as I'm able. Things will likely also move slower than Papers Please did too, at least at the start. P,P still takes a good amount of my time so there's less chance for me to maintain a laser-like focus on one project like last time. The lower bound for finishing this game is around 3 months but realistically I think it'll take me around half a year. My Maya skills are pretty rusty so I expect the modeling/animation to take the most time.
+
+
+1-bit Rendering
+
+My first computer was a Mac Plus. I've always had a nostalgia-softened spot in my heart for 1-bit graphics. I'd like to capture the detailed black & white look of old Mac games in a realtime 1st person game. I plan to push it grittier and less cartoon-like than those old games; the hard part will be keeping everything legible without it becoming an unreadable mess of dithered pixels. One interesting problem with 1-bit rendering is that it doesn't scale well for images and it compresses to video like shit - so YouTube stuff may look really poor. We'll see how it goes.
+
+
+Unity 3D
+
+I'm gonna use Unity for this one. I fell in love with Haxe/OpenFL on my last project but unfortunately the 3D situation is not that great there yet. Also, it's time to finally see why 90% of the indie scene is using Unity. I have a good amount of experience with 3D games and the few days I've played around with Unity so far have been pretty productive. The animated title screen scene up there (with post-processing shaders and all) was created in one day. I now have unrealistically high hopes.

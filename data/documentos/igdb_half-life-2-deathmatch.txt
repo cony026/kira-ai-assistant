@@ -1,0 +1,23 @@
+JUEGO: Half-Life 2: Deathmatch
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2004-11-30
+NOTA DE USUARIOS (IGDB): 75/100 (73 votos)
+FRANQUICIA: Half-Life
+TAMBIÉN CONOCIDO COMO: hl2mp.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2mw4.jpg
+URL: https://www.igdb.com/games/half-life-2-deathmatch
+
+RESUMEN:
+Fast multiplayer action set in the Half-Life 2 universe! HL2's physics adds a new dimension to deathmatch play. Play straight deathmatch or try Combine vs. Resistance teamplay. Toss a toilet at your friend today!
+
+JUEGOS PARECIDOS:
+Si te gusta Half-Life 2: Deathmatch, también podrían gustarte: Team Fortress Classic, Counter-Strike: Condition Zero, Day of Defeat, Ricochet, Deathmatch Classic, Quake III Arena, Counter-Strike, Tribes: Ascend, Half-Life 2: Lost Coast, Crossfire.

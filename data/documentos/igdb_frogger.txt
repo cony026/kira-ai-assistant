@@ -1,0 +1,22 @@
+JUEGO: Frogger
+
+FUENTE: IGDB
+PLATAFORMA: Arcade
+DISPONIBLE EN: Arcade
+GÉNEROS: Plataformas, Arcade
+TEMAS: Acción, Supervivencia
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Konami
+PUBLISHER: Sega, Konami, Gremlin Industries
+FECHA DE LANZAMIENTO: 1981-08-01
+NOTA DE USUARIOS (IGDB): 68/100 (85 votos)
+FRANQUICIA: Frogger
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co5bk2.jpg
+URL: https://www.igdb.com/games/frogger
+
+RESUMEN:
+The object of the game is to direct frogs to their homes one by one. To do this, each frog must avoid cars while crossing a busy road and navigate a river full of hazards. Skillful players may obtain some bonuses along the way.
+
+JUEGOS PARECIDOS:
+Si te gusta Frogger, también podrían gustarte: Athletic Land, Equinox, Ardy Lightfoot, The Cliffhanger: Edward Randy, Bug!, Disney's Tarzan: Untamed, Hugo: The Evil Mirror, Despicable Me: Minion Rush, Baunsudaun, Pigments.

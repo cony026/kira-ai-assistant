@@ -1,0 +1,26 @@
+JUEGO: Keep Talking and Nobody Explodes
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Xbox One, PC, macOS, Nintendo Switch, PlayStation 4, Android
+FECHA DE LANZAMIENTO: 2015-10-08
+DESARROLLADOR: Steel Crate Games
+PUBLISHER: Steel Crate Games
+GÉNEROS: Simulation, Indie, Puzzle
+NOTA METACRITIC: 67
+RATING USUARIOS: 4.19/5 (421 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Full controller support, Atmospheric, Great Soundtrack, Co-op, cooperative, First-Person, Funny, Difficult, Local Co-Op, Local Multiplayer, stats, Steam Workshop
+
+DESCRIPCIÓN:
+Keep Talking and Nobody Explodes is a game about defusing a bomb. It was initially made for virtual reality headsets but also supports traditional screens and controls.
+
+###Player cooperation
+The game is meant to be played by at least two people in cooperation. Only one of them is wearing the VR headset or actually interacts with the computer. He or she acts as the main defuser who has to deactivate the bomb. All other players assume the roles of the experts. Their task is to help the defuser by reading aloud a manual about bombs. The experts need to be either in the same room with the defuser or to contact him or her over an audio messenger. 
+
+The defuser is the only player who can see the bomb. He or she has to describe it in details to other players. The experts, in turn, have to find the described blocks in their manuals and tell the defuser what to do to solve the puzzle. 
+
+###Bombs as puzzles
+The composition and other attributes of each bomb are randomly generated for each level, and the players can customize them. The bombs consist of individual blocks, which are puzzles on their own. Some of the blocks require regular attention from the defuser, while others can be disarmed once and for all. 
+
+The time for each level is limited. When the countdown reaches the end, the bomb will explode. Defuser's errors may also speed up the countdown or even activate the bomb and "kill" him or her. Each bomb has its own limit of time and errors.

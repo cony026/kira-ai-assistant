@@ -1,0 +1,32 @@
+JUEGO: Baldur's Gate
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), iOS, Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: RPG
+TEMAS: Fantasía, Mundo abierto
+MODOS DE JUEGO: Un jugador, Cooperativo
+PERSPECTIVA: Isométrica
+DESARROLLADOR: BioWare, BioWare Edmonton
+PUBLISHER: Interplay Entertainment, Black Isle Studios
+FECHA DE LANZAMIENTO: 1998-12-21
+NOTA DE USUARIOS (IGDB): 85/100 (354 votos)
+FRANQUICIA: Dungeons & Dragons
+TAMBIÉN CONOCIDO COMO: BG, Wrota Baldura
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co20gb.jpg
+URL: https://www.igdb.com/games/baldur-s-gate
+
+RESUMEN:
+Baldur's Gate is a fantasy role-playing video game developed by BioWare and published in 1998 by Interplay Entertainment. It is the first game in the Baldur's Gate series and takes place in the Forgotten Realms, a high fantasy campaign setting, using a modified version of the Advanced Dungeons & Dragons (AD&D) 2nd edition rules. It was the first game to use the Infinity Engine for its graphics, with Interplay using the engine for other Forgotten Realms-licensed games, including the Icewind Dale series, as well as other licensed D&D campaign worlds such as Planescape: Torment. The game's story focuses on players controlling a protagonist of their own creation who finds themselves travelling across the Sword Coast alongside a party of companions, to unravel the mystery surrounding a sudden iron crisis affecting the region and attempting to discover the culprits behind it, all while uncovering dark secrets about their origins and dealing with attempts on their life.
+
+HISTORIA:
+Candlekeep is an ancient fortress situated on the rural Sword Coast. Recently, inexplicable events have been plaguing this quiet place, which has long become a large library where men of wisdom and knowledge can study in peace. Unknown mercenaries try to enter the walls of Candlekeep, interested in a seemingly ordinary and unimportant young person - an orphan who was taken in by the mage Gorion and treated by him as his own child. One night, Gorion decides to leave Candlekeep and take his adopted child to a safe place. However, as they leave the fortress, they are ambushed by a group of assassins. The orphan manages to escape, but Gorion dies in battle.
+
+The gates of Candlekeep are locked, because its inhabitants are afraid to attract to themselves the wrath of the mysterious attackers. Only Imoen, another child who was brought up by Gorion and has been like a sister to the protagonist, is willing to share the uncertain future. The two have nothing, no place to call their home, only a wide hostile world in front of them. A long and perilous journey begins there.
+
+Baldur's Gate is a role-playing game that uses the rule set of Advanced Dungeons & Dragons (AD&D). Set in the universe of Forgotten Realms, the game is the first part of the saga that lets the player explore various towns, wilderness areas and dungeons, undertake many side quests, and find companions for the long journey. The player creates the hero(ine) by selecting his or her class, choosing between fighter, thief, mage, priest, ranger, and druid (including sub-classes, dual- and multi-class characters); alignment (Good-Evil and Lawful-Chaotic axis), and weapon proficiencies. The 2nd edition AD&D rules are applied in the game during combat, character leveling, class restrictions, etc.
+
+Up to six player-controlled characters can participate in combat. Battles occur in the same environment as exploration, and flow in real time, though the player is able to pause combat at any time to issue precise commands to any of the characters. Once the game is unpaused, the characters repeat the last action selected by the player until it is changed or becomes impossible to execute. Characters can freely move during battles; party formation and positioning in combat play a significant role.
+
+JUEGOS PARECIDOS:
+Si te gusta Baldur's Gate, también podrían gustarte: Brown Dust II, Diablo Immortal, Cookie Run: Kingdom, Exiled Kingdoms, The Seven Deadly Sins: Origin, Songs of Conquest, Lunatic Dawn: Passage of the Book, Final Fantasy: Brave Exvius, Champions of Norrath: Realms of EverQuest, Hero of the Kingdom.

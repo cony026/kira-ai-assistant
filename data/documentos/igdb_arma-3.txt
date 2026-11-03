@@ -1,0 +1,26 @@
+JUEGO: Arma 3
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, Simulación, Estrategia, Táctico
+TEMAS: Acción, Sandbox, Mundo abierto, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona, Tercera persona, Isométrica
+DESARROLLADOR: Bohemia Interactive Studio
+PUBLISHER: Bohemia Interactive Studio
+FECHA DE LANZAMIENTO: 2013-09-12
+NOTA DE LA CRÍTICA (IGDB): 73/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 77/100 (136 votos)
+TAMBIÉN CONOCIDO COMO: ArmA III, Arma 3, ArmA: Armed Assault 
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coaaut.jpg
+URL: https://www.igdb.com/games/arma-3
+
+RESUMEN:
+Arma 3 is a truly massive military simulation sandbox game. It offers a wide variety of true/sci-fi combat situations in both singleplayer and multiplayer modes. It also comes out of the box with a very powerful editor that allows players to create their own scenarios, campaigns and mapmodes both for single- and multiplayer use.
+
+HISTORIA:
+Arma 3 sends you to war.
+
+JUEGOS PARECIDOS:
+Si te gusta Arma 3, también podrían gustarte: Arma 2, Squad, Operation Flashpoint: Dragon Rising, SOCOM 3: U.S. Navy SEALs, Warface, PlanetSide 2, Battlefield 2, Operation Flashpoint: Cold War Crisis, Tom Clancy's Rainbow Six 3: Raven Shield, Insurgency.

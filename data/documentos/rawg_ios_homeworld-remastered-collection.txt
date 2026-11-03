@@ -1,0 +1,29 @@
+JUEGO: Homeworld Remastered Collection
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: macOS, PC, iOS
+FECHA DE LANZAMIENTO: 2015-02-24
+DESARROLLADOR: Aspyr Media, Gearbox Software
+PUBLISHER: Aspyr, Gearbox Software
+GÉNEROS: Strategy, Simulation
+NOTA METACRITIC: 86
+RATING USUARIOS: 4.03/5 (171 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Steam Cloud, Atmospheric, Great Soundtrack, Story Rich, Sci-fi, Classic, Female Protagonist, Survival, Tactical, Steam Workshop, Space, Moddable
+
+DESCRIPCIÓN:
+Homeworld Remastered Collection is a remastered collection of real-time space strategies Homeworld and Homeworld 2 including all their expansion packs developed by Gearbox Software. 
+
+###Plot
+For eternity, the people living on Kharak were certain, that this planet is not their homeworld. There was a Question of Origin, which could not be answered by any scientific research. A spaceship crashes on the planet's surface. A Guidestone and a hyperengine were discovered. The people of Kharak unite to build a spaceship and set off to find their true origin.
+
+###Gameplay
+Homeworld is a real-time strategy, which takes place in space. Like in most strategy games, the gameplay focuses on gathering resources, building armies, and using them to annihilate the enemies or complete tasks. There are both singleplayer and multiplayer modes available to the players.
+
+The singleplayer campaign consists of a number of levels. On each level, the players have a primary objective with several side-quests which can change as the mission progresses.
+
+The main ship of the fleet serves as a mothership, which can build other ships. The mothership cannot move. There are immovable objects on every level, which can be mined using special ships that will take the ores to the mothership. These resources are later used to build new ships, such as miners or attack vessels. 
+
+###Remastered Edition featured
+The gameplay was left untouched by Gearbox Software. Only the graphics and the UI got heavily refined.

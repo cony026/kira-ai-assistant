@@ -1,0 +1,23 @@
+JUEGO: Space Invaders
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, iOS, Handheld Electronic LCD, Legacy Mobile Device
+DISPONIBLE EN: Arcade, iOS, Handheld Electronic LCD, Legacy Mobile Device
+GÉNEROS: Shooter, Arcade
+TEMAS: Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Taito
+PUBLISHER: Midway Manufacturing, Taito, Sharp, My Arcade
+FECHA DE LANZAMIENTO: 1978-06-01
+NOTA DE USUARIOS (IGDB): 77/100 (181 votos)
+FRANQUICIA: Space Invaders
+TAMBIÉN CONOCIDO COMO: Pocket Player Pro: Space Invaders, Space Invaders (1978)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cobtmt.jpg
+URL: https://www.igdb.com/games/space-invaders
+
+RESUMEN:
+Space Invaders is an arcade video game developed by Tomohiro Nishikado and released in 1978. It is one of the earliest shooting games and the aim is to defeat waves of aliens with a laser cannon to earn as many points as possible.
+
+JUEGOS PARECIDOS:
+Si te gusta Space Invaders, también podrían gustarte: Hybris, Uridium, Quartz, Xeno Crisis, Void Bastards, Morimiya Middle School Shooting, Zalaga, Z-Pilot, Warhawk, Warplock.

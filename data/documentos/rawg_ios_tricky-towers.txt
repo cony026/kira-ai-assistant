@@ -1,0 +1,22 @@
+JUEGO: Tricky Towers
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Xbox One, Android, iOS, PC, macOS, Linux, PlayStation 4, Nintendo Switch
+FECHA DE LANZAMIENTO: 2016-06-20
+DESARROLLADOR: WeirdBeard, Marcus Dobler Applications UG
+PUBLISHER: WeirdBeard, Marcus Dobler Applications UG
+GÉNEROS: Arcade, Casual, Indie, Puzzle
+NOTA METACRITIC: 80
+RATING USUARIOS: 3.68/5 (455 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Full controller support, steam-trading-cards, cooperative, 2D, Steam Leaderboards, Online multiplayer, Split Screen, Local Multiplayer, Physics, 4 Player Local, party
+
+DESCRIPCIÓN:
+Tricky Towers is a tower-building puzzle game developed by WeirdBeard.
+
+In Tricky Towers, the players have to stack the falling blocks of a building into one tower. The game bears some resemblance to Tetris with the difference being the objective to stack the blocks instead of clearing rows of them. The rows do not disappear. The game is physics-based, so the player can't win by just dropping the blocks in a random manner. Several in-game events are present, for example, the blocks may drop faster or become slippery. Sometimes the blocks even double in size. You play as a wizard that competes against other wizards and has to build his tower as tall and stable as possible. 
+
+It is possible to cast spells that either assist the players or make the building harder for other wizzards. The players can use 17 spells Throughout a match. Light magic spells are used for making the gameplay easier for the player while Dark magic spells make it harder for your opponents to progress. 
+
+Three game modes are present: Race, Puzzle, and Survival. A handful of single-player challenges is also available where the player has to meet certain game conditions to succeed.

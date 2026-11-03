@@ -1,0 +1,22 @@
+JUEGO: Hill Climb Racing
+
+FUENTE: IGDB
+PLATAFORMA: Windows Phone, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Windows Phone, Android, PC (Microsoft Windows), iOS
+GÉNEROS: Carreras, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Fingersoft
+PUBLISHER: Fingersoft
+FECHA DE LANZAMIENTO: 2012-09-22
+NOTA DE USUARIOS (IGDB): 73/100 (41 votos)
+TAMBIÉN CONOCIDO COMO: Hill Climb Racing 1
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co69yv.jpg
+URL: https://www.igdb.com/games/hill-climb-racing
+
+RESUMEN:
+A 2D physics-based racing game where players control a driver named Bill Newton across hilly terrains using simple gas and brake controls. The goal is to travel as far as possible through progressively difficult stages while collecting coins for vehicle upgrades and managing a limited fuel supply. While airborne, the controls rotate the vehicle, allowing players to perform stunts for bonus coins. The game features a variety of unlockable vehicles and stages, and uses a freemium model. Its success led to a sequel in 2016, and the franchise surpassed one billion downloads in 2018.
+
+JUEGOS PARECIDOS:
+Si te gusta Hill Climb Racing, también podrían gustarte: Hill Climb Racing 2, Traffic Rider, Roll'd, Cookie Run: OvenBreak, Leo's Fortune, Timberman, Void Scrappers, Last Stance: A JuVentures Game, Love 3, Minit Fun Racer.

@@ -1,0 +1,76 @@
+# =====================================================================
+# Kira IA - Despliegue con Docker en capas separadas
+#
+#   Internet ──HTTPS──► [ nginx ]  (única puerta expuesta, red "publica")
+#                          │
+#                          ▼
+#                       [ app ]    Flask + agente RAG + ChromaDB (archivo) + herramientas
+#                          │          sale a internet solo para Gemini y las APIs de precios
+#                          ▼
+#                       [ db ]     MariaDB, en la red "datos" (internal: sin salida a internet
+#                                  y sin puertos publicados)
+#
+# Uso:
+#   1. Copia .env.example como .env y completa las claves (incluidas las de MariaDB)
+#   2. Copia tu base vectorial a data/kira_db (o créala: docker compose run --rm app python -m backend.vectorDb.ingest)
+#   3. docker compose up --build -d
+#   4. Abre http://localhost
+# =====================================================================
+
+services:
+  db:
+    image: mariadb:10.11
+    restart: unless-stopped
+    environment:
+      MARIADB_ROOT_PASSWORD: ${MARIADB_ROOT_PASSWORD:?Falta MARIADB_ROOT_PASSWORD en .env}
+      MARIADB_DATABASE: kira
+      KIRA_DB_APP_PASSWORD: ${KIRA_DB_APP_PASSWORD:?Falta KIRA_DB_APP_PASSWORD en .env}
+    volumes:
+      - datos_mariadb:/var/lib/mysql
+      # Se ejecutan solo la primera vez (base vacía): tablas + usuario de privilegio mínimo
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+      - ./docker/mariadb-init/02_usuario_app.sh:/docker-entrypoint-initdb.d/02_usuario_app.sh:ro
+    networks: [datos]
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  app:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      # La app entra con kira_app (solo SELECT/INSERT/UPDATE/DELETE), nunca con root
+      DATABASE_URL: mysql+pymysql://kira_app:${KIRA_DB_APP_PASSWORD}@db:3306/kira
+      DEBUG_MODE: "0"
+    volumes:
+      - ./data/kira_db:/app/data/kira_db               # base vectorial (persistente)
+      - ./data/evaluacion:/app/data/evaluacion         # resultados de pruebas y costos
+      - cache_modelos:/home/kira/.cache/huggingface    # modelo de embeddings descargado
+    depends_on:
+      db:
+        condition: service_healthy
+    networks: [publica, datos]
+    expose: ["5000"]                                   # solo visible para nginx, no para el host
+
+  nginx:
+    image: nginx:1.27-alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      # - "443:443"    # con certificado (Let's Encrypt), ver docker/nginx/kira.conf
+    volumes:
+      - ./docker/nginx/kira.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on: [app]
+    networks: [publica]
+
+networks:
+  publica: {}
+  datos:
+    internal: true      # MariaDB no tiene salida a internet ni puertos expuestos
+
+volumes:
+  datos_mariadb: {}
+  cache_modelos: {}

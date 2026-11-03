@@ -1,0 +1,23 @@
+JUEGO: Insurgency
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, Estrategia, Táctico, Indie
+TEMAS: Acción, Bélico
+MODOS DE JUEGO: Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: New World Interactive
+PUBLISHER: New World Interactive
+FECHA DE LANZAMIENTO: 2014-01-22
+NOTA DE LA CRÍTICA (IGDB): 70/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 75/100 (136 votos)
+TAMBIÉN CONOCIDO COMO: insurgency_BE.exe, Insurgency 2
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co43mw.jpg
+URL: https://www.igdb.com/games/insurgency
+
+RESUMEN:
+Take to the streets for intense close quarters combat, where a team's survival depends upon securing crucial strongholds and destroying enemy supply in this multiplayer and cooperative Source Engine-based experience. The follow-up game to the award-winning Source mod, Insurgency is highly competitive and unforgivingly lethal, striking a balance between one-life gameplay and prolonged action.
+
+JUEGOS PARECIDOS:
+Si te gusta Insurgency, también podrían gustarte: Squad, Arma 3, Red Orchestra: Ostfront 41-45, Counter-Strike: Condition Zero, Counter-Strike, Day of Defeat, Team Fortress Classic, Battlefield 2, Arma 2, Crossfire.

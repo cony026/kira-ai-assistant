@@ -1,0 +1,26 @@
+JUEGO: Mario Bros.
+
+FUENTE: IGDB
+PLATAFORMA: Arcade
+DISPONIBLE EN: Arcade
+GÉNEROS: Plataformas, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Nintendo R&D1
+PUBLISHER: Nintendo
+FECHA DE LANZAMIENTO: 1983-07-14
+NOTA DE USUARIOS (IGDB): 70/100 (115 votos)
+FRANQUICIA: Mario Bros., Mario
+TAMBIÉN CONOCIDO COMO: Mario Brothers
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co21ip.jpg
+URL: https://www.igdb.com/games/mario-bros
+
+RESUMEN:
+Mario Bros. is an arcade game published by Nintendo and developed by Shigeru Miyamoto. The platform puzzle which first introduced Luigi to the world has both single and multiplayer action with two differing game types, but with the same objective. Crabs, turtles and fighter flies must be cleared out by jumping underneath the platform they sit on, then kicking them away. Each level is cleared when a set number of coins is collected. For the two player mode, the first to collect the set amount of coins wins.
+
+HISTORIA:
+The story of this game revolves around two plumbers, Mario and Luigi, who are working in the sewers of New York. The sewers are overrun by waves of enemies and the Mario Bros. have to defeat the enemies and collect coins to receive their pay.
+
+JUEGOS PARECIDOS:
+Si te gusta Mario Bros., también podrían gustarte: Jetpac, Snow Bros., Bubble Bobble, Hard Hat Mack, Blazing Chrome, Elasto Mania, Astral Ascent, Degrees of Separation, Huntdown, Donkey Kong Country Returns.

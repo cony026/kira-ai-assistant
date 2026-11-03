@@ -1,0 +1,24 @@
+JUEGO: Tropico
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Simulación, Estrategia
+TEMAS: Comedia, Gestión
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: PopTop Software
+PUBLISHER: Feral Interactive, Gathering of Developers, MacSoft Games
+FECHA DE LANZAMIENTO: 2001-04-21
+NOTA DE LA CRÍTICA (IGDB): 82/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 81/100 (58 votos)
+TAMBIÉN CONOCIDO COMO: Тропико, Banana Republic, 热带岛国
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2hl1.jpg
+URL: https://www.igdb.com/games/tropico
+
+RESUMEN:
+As the newly instated dictator of an obscure Caribbean Island, you will build a path of progress for your sapling nation, overcoming poverty, strife and other evils.
+Combining building-oriented gameplay with a healthy dose of Latin American political intrigue - Tropico bundles it all up in a fun, totally original and utterly addictive package.
+
+JUEGOS PARECIDOS:
+Si te gusta Tropico, también podrían gustarte: Tropico 4, Capitalism Lab, Railroad Tycoon 3, Hotel Architect, Tropico 2: Pirate Cove, Big Ambitions, SimCity 4, Republic: The Revolution, Empire Earth II, SimCity BuildIt.

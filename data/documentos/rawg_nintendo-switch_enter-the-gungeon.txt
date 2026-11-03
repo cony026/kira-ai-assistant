@@ -1,0 +1,18 @@
+JUEGO: Enter the Gungeon
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Nintendo Switch
+DISPONIBLE EN: PlayStation 4, Nintendo Switch, Linux, macOS, PC, Xbox One
+FECHA DE LANZAMIENTO: 2016-04-04
+DESARROLLADOR: Dodge Roll
+PUBLISHER: Devolver Digital
+GÉNEROS: Action, Shooter, Indie
+NOTA METACRITIC: 84
+RATING USUARIOS: 4.07/5 (1075 votos)
+TIEMPO DE JUEGO MEDIO: 6 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Full controller support, Steam Cloud, Great Soundtrack, Co-op, cooperative, Funny, Difficult, Split Screen, Local Co-Op, Action-Adventure, Pixel Graphics, controller support
+
+DESCRIPCIÓN:
+Enter the Gungeon is a twin-stick roguelike shooter. The game takes place in a planet inhabited by living bullets. You play as one of six adventurers trying entering a considerable fortress to find a gun that can destroy one’s past. 
+The gameplay represents a mix of bullet-hell and dungeon crawler. You choose one of the characters and start descending the Gungeon. Every floor has several pre-made rooms with enemies and treasures procedurally-generated. The player can shoot guns, dodge, use items and make barricades of the tables. There are more than 300 hundred different guns and items in the game which can be acquired from shops, treasure chests and bosses. 
+The game is notable for its severe difficulty that comes from tough enemies, the vast amount of projectiles that can simultaneously be on the screen and from the fact that every time you die you have to starts the game from the beginning.

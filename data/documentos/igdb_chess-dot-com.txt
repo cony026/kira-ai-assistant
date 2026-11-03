@@ -1,0 +1,22 @@
+JUEGO: Chess.com
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Android, iOS
+DISPONIBLE EN: Web browser, Android, iOS
+GÉNEROS: Puzle, Estrategia, Cartas y tablero
+TEMAS: Educativo, Infantil, Party
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Chess.com
+PUBLISHER: Chess.com
+FECHA DE LANZAMIENTO: 2007-05-01
+NOTA DE USUARIOS (IGDB): 80/100 (35 votos)
+TAMBIÉN CONOCIDO COMO: Chess: Play and Learn, Chess dot com, Chess - Play & Learn, Chess - Play & Learn+
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coco44.jpg
+URL: https://www.igdb.com/games/chess-dot-com
+
+RESUMEN:
+Chess.com is an online chess platform where players can compete against others or computer opponents in real-time and correspondence matches. The site offers training tools including tactical puzzles, interactive lessons, and video content. It supports various chess variants, tournaments, and club features, serving millions of registered users worldwide.
+
+JUEGOS PARECIDOS:
+Si te gusta Chess.com, también podrían gustarte: Flow Free, Fritz & Chesster: Learn to Play Chess Vol. 1, Chess Royal, Just a Phrase by Powgi, Word Search by Powgi, Tic-Tac-Letters by POWGI, Big Brain Academy: Brain vs. Brain, Lazy Chess, It's Quiz Time, PokéROM: Psyduck.

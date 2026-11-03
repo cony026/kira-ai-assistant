@@ -1,0 +1,19 @@
+JUEGO: Pokémon Escudo: La isla de la armadura
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Shield: The Isle of Armor
+PLATAFORMA: Nintendo Switch
+GÉNEROS: Expansión (DLC), RPG, Aventura
+GENERACIÓN: Generación VIII
+REGIÓN PRINCIPAL: Galar
+LANZADO JUNTO A: Pokémon Espada: La isla de la armadura
+
+DESCRIPCIÓN:
+Pokémon Escudo: La isla de la armadura es una expansión descargable (DLC) de Pokémon Espada y Pokémon Escudo, de la Generación VIII, para Nintendo Switch. La aventura transcurre en la región de Galar. Se lanzó junto a Pokémon Espada: La isla de la armadura; cada versión tiene algunos Pokémon exclusivos. Su Pokédex regional reúne 211 especies de Pokémon distintas. Incluye Pokémon legendarios como Kubfu y Urshifu.
+
+POKÉDEX:
+- Isla de la Armadura: 211 Pokémon
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Kubfu, Urshifu
+Singulares (míticos): Zarude

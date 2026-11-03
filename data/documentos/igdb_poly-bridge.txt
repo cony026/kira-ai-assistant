@@ -1,0 +1,25 @@
+JUEGO: Poly Bridge
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Linux, Android, PC (Microsoft Windows), iOS, Mac, Nintendo Switch
+GÉNEROS: Puzle, Simulación, Indie
+TEMAS: Sandbox, Educativo
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Dry Cactus
+PUBLISHER: Dry Cactus
+FECHA DE LANZAMIENTO: 2016-07-12
+NOTA DE LA CRÍTICA (IGDB): 75/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 74/100 (52 votos)
+TAMBIÉN CONOCIDO COMO: polybridge.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1u0w.jpg
+URL: https://www.igdb.com/games/poly-bridge
+
+RESUMEN:
+Unleash your engineering creativity with an engaging and fresh bridge-building simulator with all the bells and whistles.
+Enjoy hours of physics-based puzzle solving in the Campaign and then jump in the Sandbox to create your own bridge designs and puzzles.
+Challenge friends and the rest of the Steam Workshop community to solve your puzzles and download more levels submitted by other players.
+
+JUEGOS PARECIDOS:
+Si te gusta Poly Bridge, también podrían gustarte: Poly Bridge 3, Simple Rockets, Poly Bridge 2, It's Spring Again, Toca Life World, Bridge Constructor: Medieval, Townscaper, Unforeseen Incidents, Project Highrise, BalanCity.

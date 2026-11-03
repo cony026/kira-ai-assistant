@@ -1,0 +1,16 @@
+JUEGO: Stephen's Sausage Roll
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: macOS, Linux, PC
+FECHA DE LANZAMIENTO: 2016-04-17
+DESARROLLADOR: increpare games
+PUBLISHER: increpare games
+GÉNEROS: Indie
+NOTA METACRITIC: 90
+RATING USUARIOS: 4.17/5 (29 votos)
+TIEMPO DE JUEGO MEDIO: 1 horas
+TAGS: Singleplayer, Full controller support, Steam Cloud, Horror, Difficult, Captions available
+
+DESCRIPCIÓN:
+A simple 3d puzzle game.

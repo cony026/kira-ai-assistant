@@ -1,0 +1,24 @@
+JUEGO: Crimsonland
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: macOS, Linux, Android, iOS, PC, Xbox One, PlayStation 3, PlayStation 4, PS Vita, Nintendo Switch
+FECHA DE LANZAMIENTO: 2003-06-11
+DESARROLLADOR: 10tons, 10 Tons
+PUBLISHER: 10tons, 10 Tons
+GÉNEROS: Action, Shooter, RPG, Indie
+NOTA METACRITIC: 68
+RATING USUARIOS: 4.02/5 (249 votos)
+TIEMPO DE JUEGO MEDIO: 7 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Full controller support, Steam Cloud, steam-trading-cards, RPG, Co-op, cooperative, First-Person, 2D, Sci-fi, Gore, Steam Leaderboards, Classic
+
+DESCRIPCIÓN:
+Crimsonland is a 2014 re-release of the 2003 dual-stick top-down shoot 'em up with the RPG elements. That is the only game within the IP.
+
+###Gameplay
+The game consists of the player and infinite waves of the enemies divided into the levels. The walkthrough may be eased by inviting up to three other players into the game. 
+There are seven game mods: "Quest", featuring 60 levels on different areas, each with the individual set of goal thus the name; "Survival" in which there are infinite waves of enemies and player is challenged to hold out as long as possible; "Rush" gives the protagonist only AK-47 and asks him to react quickly to the enemies; "Nukefism" does not allow the player to wield any weapon, but the collection of bonuses allows him to crash the foes; "Weapon Picker" speaks for itself — there is no ability reload, so the player is forced to change the firearm every time they run out of ammo. "Blitz" is just upgraded "Survival" and finally the "Gembine" which is just 2048 tiles game in the Crimsonland setting. 
+The "Typ'o'Shooter" mode was removed — players had to type the words appearing on the screen to kill the enemies in it.
+
+###Story
+The title features no storyline whatsoever. The only sign of a story is the quest system. Completing the quest allows the player to unlock more weapons and perks.

@@ -1,0 +1,22 @@
+JUEGO: Happy Wheels
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Linux, Android, PC (Microsoft Windows)
+DISPONIBLE EN: Web browser, Linux, Android, PC (Microsoft Windows), iOS
+GÉNEROS: Plataformas, Carreras, Indie
+TEMAS: Acción, Terror, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Fancy Force
+PUBLISHER: Fancy Force
+FECHA DE LANZAMIENTO: 2010-06-04
+NOTA DE USUARIOS (IGDB): 62/100 (58 votos)
+TAMBIÉN CONOCIDO COMO: Happy Wheels.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cocuty.jpg
+URL: https://www.igdb.com/games/happy-wheels
+
+RESUMEN:
+Try to get to the finish line in this twisted game's user-created tracks. Having your limbs still attached is optional.
+
+JUEGOS PARECIDOS:
+Si te gusta Happy Wheels, también podrían gustarte: People Playground, Carrion, Fireboy & Watergirl in the Forest Temple, Slow Roads, Level Devil, Replaced, Flipping Death, iO, Creepy Tale, Inmost.

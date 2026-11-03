@@ -1,0 +1,23 @@
+JUEGO: Islanders
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Puzle, Estrategia, Estrategia por turnos, Indie
+TEMAS: Sandbox
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: GrizzlyGames
+PUBLISHER: GrizzlyGames
+FECHA DE LANZAMIENTO: 2019-04-04
+NOTA DE LA CRÍTICA (IGDB): 90/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 71/100 (43 votos)
+TAMBIÉN CONOCIDO COMO: ISLANDERS, ISLANDERS.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1s93.jpg
+URL: https://www.igdb.com/games/islanders
+
+RESUMEN:
+Islanders is a minimalist strategy game about building cities on colorful islands. Explore an infinite number of ever-changing new lands, expand your settlements from sprawling villages to vast cities and enjoy the relaxing atmosphere.
+
+JUEGOS PARECIDOS:
+Si te gusta Islanders, también podrían gustarte: TheoTown, Rise of Industry, Songs of Syx, Dorfromantik, Fabledom, Shapez 2: Factory, Shapez, Workers & Resources: Soviet Republic, Delete, WayOut.

@@ -1,0 +1,21 @@
+JUEGO: Flappy Bird
+
+FUENTE: IGDB
+PLATAFORMA: Android, iOS
+DISPONIBLE EN: Android, iOS
+GÉNEROS: Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: .GEARS Studios
+PUBLISHER: .GEARS Studios
+FECHA DE LANZAMIENTO: 2013-05-24
+NOTA DE USUARIOS (IGDB): 48/100 (62 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4ymg.jpg
+URL: https://www.igdb.com/games/flappy-bird
+
+RESUMEN:
+Flappy Bird is a 2013 mobile game developed by Vietnamese artist and programmer Dong Nguyen, under his game development company dotGEARS. The game is a side-scroller where players control a bird trying to fly between columns of green pipes without hitting them. Your score in the game depends on how many pipes you successfully pass.
+
+JUEGOS PARECIDOS:
+Si te gusta Flappy Bird, también podrían gustarte: Hill Climb Racing, Jingo Jango, Hungry Shark Evolution, Slither.io, Flapee Bird, DodgeBox!, Angry Birds Transformers, Badland, Tiny Wings, Farty Rocket.

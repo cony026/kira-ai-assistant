@@ -1,0 +1,17 @@
+JUEGO: Donut County
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Xbox One, macOS, iOS, PC, PlayStation 4, Nintendo Switch
+FECHA DE LANZAMIENTO: 2018-08-27
+DESARROLLADOR: Annapurna Interactive, Ben Esposito
+PUBLISHER: Annapurna Interactive
+GÉNEROS: Adventure, Casual, Indie, Puzzle
+NOTA METACRITIC: 80
+RATING USUARIOS: 3.96/5 (507 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, 3D
+
+DESCRIPCIÓN:
+Donut County is a physics adventure game where you control a hole in the ground. Every time you swallow something, the hole grows a little bit bigger.
+You play as a raccoon named BK, a new hire at a startup that uses remote-controlled holes to steal people's trash - along with everything else. When BK falls into a hole himself, he must answer to his best friend Mira and the residents of Donut County who are now stuck 999 feet below their homes.

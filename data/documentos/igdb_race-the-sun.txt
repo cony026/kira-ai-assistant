@@ -1,0 +1,23 @@
+JUEGO: Race the Sun
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, PlayStation 4, Linux, PlayStation VR
+DISPONIBLE EN: PlayStation 3, PlayStation 4, Linux, PlayStation VR, PC (Microsoft Windows), iOS, Mac, Wii U, PlayStation Vita, Xbox One
+GÉNEROS: Carreras, Indie, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Tercera persona, Realidad virtual
+DESARROLLADOR: flippfly
+PUBLISHER: flippfly
+FECHA DE LANZAMIENTO: 2013-08-19
+NOTA DE LA CRÍTICA (IGDB): 86/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 72/100 (67 votos)
+TAMBIÉN CONOCIDO COMO: RaceTheSun.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2vgk.jpg
+URL: https://www.igdb.com/games/race-the-sun
+
+RESUMEN:
+Race The Sun is a high-speed game that uses simple controls and is set in a procedurally generated world. The goal is to get the highest possible score by racing into the sunset, avoiding obstacles and enemies, and collecting speed boosts and other powerups to help you along the way. You fly a solar-powered craft, and the game ends at sundown, if you can make it that far!
+
+JUEGOS PARECIDOS:
+Si te gusta Race the Sun, también podrían gustarte: Forced, Road Redemption, SpeedRunners, Octodad: Dadliest Catch, Distance, Hyper Light Drifter, Strike Suit Zero, Hover: Revolt of Gamers, A Hat in Time, Velocibox.

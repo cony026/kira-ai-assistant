@@ -1,0 +1,23 @@
+JUEGO: Victoria 3
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Simulación, Estrategia
+TEMAS: Histórico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Paradox Development Studio
+PUBLISHER: Paradox Interactive
+FECHA DE LANZAMIENTO: 2022-10-25
+NOTA DE LA CRÍTICA (IGDB): 87/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 66/100 (42 votos)
+TAMBIÉN CONOCIDO COMO: Victoria III
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4v4h.jpg
+URL: https://www.igdb.com/games/victoria-3
+
+RESUMEN:
+Paradox Development Studio invites you to build your ideal society in the tumult of the exciting and transformative 19th century. Balance the competing interests in your society and earn your place in the sun in Victoria 3, one of the most anticipated games in Paradox’s history.
+
+JUEGOS PARECIDOS:
+Si te gusta Victoria 3, también podrían gustarte: Knights of Honor II: Sovereign, Uncharted Waters: New Horizons, Crusader Kings III, TheoTown, Mashinky, Knights and Merchants: The Shattered Kingdom, Old World, Bronze Age, Dragon City, Ostriv.

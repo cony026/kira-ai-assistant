@@ -1,0 +1,67 @@
+JUEGO: NBA 2K27
+PLATAFORMA: PC (Steam)
+GÉNEROS: Deportes
+DESARROLLADOR: Visual Concepts
+PUBLISHER: 2K
+FECHA DE LANZAMIENTO: 3 SEP 2026
+PRECIO: $69.99
+
+RESEÑA / DESCRIPCIÓN:
+La intensidad no para y la carrera nunca termina en NBA 2K27. Persigue la grandeza sin descanso en Mi CARRERA, MyTEAM y Mi NBA y haz realidad tus sueños de baloncesto.
+
+DESCRIPCIÓN DETALLADA:
+La intensidad no para y la carrera nunca termina en NBA 2K27. Persigue la grandeza sin descanso en Mi CARRERA, MyTEAM y Mi NBA, y haz realidad tus sueños de baloncesto.LA CIUDADPon la ciudad a tu espalda y lidera una nueva era de Mis JUGADORES impulsada por el baloncesto. Deja que tu pasión impulse tu estilo único dentro y fuera de la pista, forma equipo con amigos para formar un Crew y domina las pistas en The REC, Park y más allá.Mi CARRERACrea un Mi JUGADOR y vive una historia que defina un legado en Mi CARRERA, donde serás puesto a prueba en tu camino para convertirte en el mejor jugador de todos los tiempos. Destruye las expectativas, compite contra leyendas del deporte y deja tu huella en la historia de la NBA.POTENCIADO POR ProPLAY®Domina tus habilidades con animaciones de juego realistas traducidas directamente de la acción real de la NBA. Usa una serie de funciones de ProPLAY® para dejar atrás a los defensas con crossovers rápidos, demuestra tu alcance con mecánicas de tiro mejoradas y conviértete en una auténtica pesadilla para tus rivales cada vez que pisas la pista.MyTEAMColecciona a tus estrellas favoritas de la NBA y la WNBA de forma sencilla y crea un equipo de ensueño para la historia. Amplía tu colección y crea combinaciones infinitas de alineaciones; toma el control de tu MyTEAM y ponlo a prueba en los modos de un solo jugador y multijugador.JUGAR YA, Mi NBA y La W están disponibles sin conexión. Todos los demás modos de juego y características requieren disponer de una conexión a Internet, pueden requerir el registro de cuentas online y es posible que no estén disponibles para todos los usuarios en todo momento.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-Bit (latest update)
+
+- Procesador: Intel® Core™ i5-9400 or AMD Ryzen™ 5 1400
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 1060 5 GB or AMD Radeon™ RX 5500 XT 4 GB or Intel® Arc™ A580
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 110 GB de espacio disponible
+
+- Notas adicionales: SSD Required. Dual-analog Gamepad recommended. Initial installation requires one-time internet connection for Steam authentication; software installations required (included with the game) include DirectX and Visual C++ Redistributable 2019. In order to play NBA 2K27 on PC, you need a processor capable of supporting AVX2 and a graphics card capable of supporting DirectX feature level 12.0.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 11 64-Bit (latest update)
+
+- Procesador: Intel® Core™ i5-10600 or AMD Ryzen™ 5 3600X
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® RTX 2070 8 GB or AMD Radeon™ RX 5700 8 GB or Intel® Arc™ A770
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 110 GB de espacio disponible
+
+- Notas adicionales: SSD Required. Dual-analog Gamepad recommended. Initial installation requires one-time internet connection for Steam authentication; software installations required (included with the game) include DirectX and Visual C++ Redistributable 2019. In order to play NBA 2K27 on PC, you need a processor capable of supporting AVX2 and a graphics card capable of supporting DirectX feature level 12.0.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

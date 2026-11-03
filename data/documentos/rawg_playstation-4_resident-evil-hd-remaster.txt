@@ -1,0 +1,16 @@
+JUEGO: Resident Evil HD Remaster
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PlayStation 4
+DISPONIBLE EN: PlayStation 4, PC, Nintendo Switch, Xbox One, Xbox 360, PlayStation 3
+FECHA DE LANZAMIENTO: 2015-01-19
+DESARROLLADOR: Capcom
+PUBLISHER: Capcom
+GÉNEROS: Action, Adventure
+NOTA METACRITIC: 82
+RATING USUARIOS: 4.33/5 (561 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, Atmospheric, steam-trading-cards, Great Soundtrack, Story Rich, Third Person, Horror, Gore, Difficult, Steam Leaderboards, Classic, Female Protagonist
+
+DESCRIPCIÓN:
+The game that defined the survival-horror genre is back! Check out the remastered HD version of Resident Evil.<br/><br/>In 1998 a special forces team is sent to investigate some bizarre murders on the outskirts of Raccoon City. Upon arriving they are attacked by a pack of blood-thirsty dogs and are forced to take cover in a nearby mansion. But the scent of death hangs heavy in the air. Supplies are scarce as they struggle to stay alive.<br/><br/>Graphics<br/><ul><li>More detailed graphics that retain the horror.<br/></li><li>The environments come alive with detail thanks to resolution upgrades and non-static 3D models.<br/></li><li>Post-processing effects like Bloom filters, which were not easy to do at the time of the original release, have been added to make the HD graphics even more realistic.<br/></li><li>High-Resolution Environments - We've increased the resolution of the background environments by recreating them with a mix of high-res static images, plus animated 3D models.</li></ul><br/>Widescreen Support<br/><ul><li>Widescreen (16:9) is supported, so players can experience a greater sense of immersion.<br/></li><li>In widescreen mode, the screen will scroll. The parts of the screen that get cut off on the top and bottom will scroll into view automatically depending on the character's position.<br/></li><li>You can switch the display mode during gameplay in real time.</li></ul><br/>Sound &amp; New Controls<br/><ul><li>High-Quality Sound - The audio has been remastered to increase the sampling rate, and of course 5.1ch output is also now supported.<br/></li><li>New Controls<br/></li><li>You can play using the original control scheme or an alternate control scheme that lets you just push the analog stick to move in the direction you want to go.<br/></li><li>You can switch the control scheme during gameplay in real time.</li></ul>

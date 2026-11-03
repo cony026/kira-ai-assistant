@@ -1,0 +1,35 @@
+JUEGO: Card Crawl
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: macOS, Android, iOS, PC
+FECHA DE LANZAMIENTO: 2015-03-12
+DESARROLLADOR: Arnold Rauers
+PUBLISHER: Arnold Rauers
+GÉNEROS: RPG, Card, Indie
+NOTA METACRITIC: 84
+RATING USUARIOS: 4.1/5 (10 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Steam Achievements, Steam Cloud, 2D, Steam Leaderboards, Dungeon Crawler
+
+DESCRIPCIÓN:
+Card Crawl is a solitaire style Dungeon Crawler played with a modified deck of standard cards.
+*** Pocket Tactics - Card game of the year 2015 ***
+*** Pocket Tactics - Reader's Choice game of the year 2015 ***
+*** Pocket Tactics - Editor's Choice game of the year 2015 ***
+*** German Games Award - Nominated for best game design 2016 ***
+Clear the Dungeon of 54 cards by using item-cards, slaying monsters and managing your limited inventory. Each run you can use 5 ability-cards (mini deck building) which will give you unique skills. By collecting gold you can unlock 35 ability-cards which enable new tactics and even better highscores.
+Card Crawl’s 4 single player game modes are enhanced via Game-Center to compare scores and the associated decks created by each player. A typical game can be played within 2-3mins and is a perfect one more game experience while waiting in line or commuting.
+*Supported Devices*
+iPad Mini with Retina Display, iPad with Retina Display, iPad Air, iPod 5, iPhone 4S, 5/5S, 6/6+
+Features
++ solitaire style gameplay
++ 4 game modes (Normal & Constructed, Daily & Delve)
++ Dungeon Deck Editor to create and share custom Dungeon Decks
++ 35 unlockable ability-cards
++ mini deck building
++ Game-Center integration to compare highscores and decks
++ use Game-Center to challenge your friends
++ tricky Game-Center achievements
++ 2-3mins playtime per game
+Learn more about Tinytouchtales & Card Crawl at www.cardcrawl.com

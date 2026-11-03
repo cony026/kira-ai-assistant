@@ -1,0 +1,50 @@
+JUEGO: Shadow Tactics: Blades of the Shogun
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Xbox One
+DISPONIBLE EN: Xbox One, PlayStation 4, macOS, PC, Linux
+FECHA DE LANZAMIENTO: 2016-12-05
+DESARROLLADOR: Daedalic Entertainment, Mimimi Productions
+PUBLISHER: Daedalic Entertainment
+GÉNEROS: Strategy, Indie
+NOTA METACRITIC: 85
+RATING USUARIOS: 4.08/5 (466 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, Atmospheric, steam-trading-cards, Open World, Third Person, Difficult, Survival, Violent, Stealth, Tactical, Space, Nudity
+
+DESCRIPCIÓN:
+The game takes place in Japan during the Edo period (early 17th century).
+
+The new shogun united Japan after many years of war, but a conspiracy arises against him, the leader of which is hiding under the name Kage-sama. The shogun orders the samurai Mugen to find out who Kage-sama really is.
+
+Mugen is unable to carry out the mission covertly, this leads to an open rebellion by the conspirators against the shogun ...
+
+###Gameplay
+Shadow Tactics is a real-time tactics video game.
+
+Basically, the player, as far as possible, quietly removes the guards and hides their corpses, secretly moves past the guards. The player has five characters that are not always involved at the same time.
+
+###Characters
+Hayato - ninja, can kill opponents at a distance with shuriken and distract them by throwing stones. Dragging corpses on the shoulder. Armed with ninja sword.
+
+Yuki is a young thief, can set traps, and also lure guards, playing the flute. Armed with a dagger.
+
+Mugen - a samurai, can lure the guards with a bottle of sake and kill several opponents at once. He is also the only one who can defeat enemy samurai in a direct clash. Can carry two corpses at once, moving at the same time with run. Armed with katana.
+
+Aiko is a spy who, if she has the right clothes, can change into a peaceful resident to merge with enemies and distract the guards by talking. It has sneezing powder, reducing the visibility area of ​​the guards for a short time. Carries corpses on the ground. Armed with a hairpin.
+
+Takuma is an elderly sniper, can still throw grenades (both explosive and with a paralyzing gas), his tamed raccoon dog named Kuma can distract opponents.
+
+###Opponents
+are armed with guns and are divided into three types:
+
+Simple guards are the least disciplined guards who can be easily distracted or trapped.
+
+Straw hats are more disciplined, will not leave their post without obvious need, they are not deceived by such tricks as Yuki pipe or a bottle of Mugen sake.
+
+Samurais are heavily armored opponents, for their elimination Mugen is needed or the command actions of other characters.
+
+###Others
+In addition to security, there are civilians on the map who are not aggressive towards the player’s characters, but are often hostile and if they see them, they are reported to the guards. But sometimes there are civilians who will not report to the oppressive guards about the characters.
+
+In many missions, there are special conditions - such as snow (tracks on the snow attract the attention of the guards), or night (at night the guards see worse, but more vigilant).

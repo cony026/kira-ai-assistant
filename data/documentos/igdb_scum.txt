@@ -1,0 +1,25 @@
+JUEGO: Scum
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Shooter, RPG, Simulación
+TEMAS: Acción, Ciencia ficción, Supervivencia, Mundo abierto
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, MMO
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Gamepires
+PUBLISHER: Jagex, Devolver Digital
+FECHA DE LANZAMIENTO: 2025-06-17
+NOTA DE USUARIOS (IGDB): 70/100 (44 votos)
+TAMBIÉN CONOCIDO COMO: SCUM, SCUM_Launcher.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coa05f.jpg
+URL: https://www.igdb.com/games/scum
+
+RESUMEN:
+Scum aims to evolve the multiplayer open world survival game with unprecedented levels of character customization, control and progression, where knowledge and skills are the ultimate weapons for long-term survival. Combining the methodical planning and management of hardcore survival with optional PvP ‘network events’ available to everyone at anytime, SCUM strikes a unique balance between complex simulation and intense action in the next generation of survival game.
+
+HISTORIA:
+In a not-too-distant future where entertainment has turned bloodthirsty, the powerful TEC1 corporation transforms convicted prisoners into unwilling stars of the world’s most brutal survival show: SCUM. Dropped onto a deadly island, inmates must fight, hunt, craft, and outsmart both each other and the horrors engineered to keep viewers watching. Every kill, escape, alliance, and betrayal feeds the broadcast, earning fame, sponsors, and the faint hope of survival. But on SCUM Island, freedom is never guaranteed, death may not be the end, and every desperate choice is part of the show.
+
+JUEGOS PARECIDOS:
+Si te gusta Scum, también podrían gustarte: Dune: Awakening, The Front, Fallout 76, Stalzone, Empyrion: Galactic Survival, One-Armed Robber, Pioner, Phantom Galaxies, MechWarrior 5: Mercenaries, Grounded.

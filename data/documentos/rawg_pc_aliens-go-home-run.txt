@@ -1,0 +1,21 @@
+JUEGO: Aliens Go Home Run
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: PC
+FECHA DE LANZAMIENTO: 2017-01-27
+DESARROLLADOR: ANIM•ACE
+PUBLISHER: ANIM•ACE
+GÉNEROS: Action, Indie
+NOTA METACRITIC: 84
+TIEMPO DE JUEGO MEDIO: 5 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, steam-trading-cards, 2D, Sci-fi, Funny, Steam Leaderboards, Female Protagonist, Pixel Graphics, Controller, Retro, Steam Workshop, Includes level editor
+
+DESCRIPCIÓN:
+A combination of Breakout, Shoot Em Up, and Baseball, Aliens Go Home Run puts you in the shoes of Sally, a young girl with a passion for baseball. When she hits a home run so hard, the ball flies into space and crashes into a faraway planet belonging to an alien race, creating a crater in the process. Now, the aliens are invading Earth as revenge, and its up to Sally to save the day!
+Features include:
+70 levels of Brick Breaking Action
+9 Intense Boss Fights
+Several different power-ups and enemy types
+Online leaderboards
+Level Editor

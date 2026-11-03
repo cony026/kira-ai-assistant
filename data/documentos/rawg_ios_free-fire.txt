@@ -1,0 +1,13 @@
+JUEGO: Free Fire
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Android, iOS
+FECHA DE LANZAMIENTO: 2017-12-08
+DESARROLLADOR: 111dots Studio
+PUBLISHER: Garena
+GÉNEROS: Action, Shooter, Massively Multiplayer
+TAGS: Free to Play, Battle Royale, Multiplayer, PvP, Low-End Devices
+
+DESCRIPCIÓN:
+Free Fire is a battle royale shooter built specifically for mobile hardware, with matches lasting around ten minutes and up to 50 players parachuting onto an island to fight for survival. It emphasizes short, low-spec-friendly sessions, a roster of characters with unique passive abilities, and both solo and squad-based play.

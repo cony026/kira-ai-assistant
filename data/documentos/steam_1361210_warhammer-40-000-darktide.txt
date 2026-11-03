@@ -1,0 +1,80 @@
+JUEGO: Warhammer 40,000: Darktide
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Rol
+DESARROLLADOR: Fatshark
+PUBLISHER: Fatshark
+FECHA DE LANZAMIENTO: 30 NOV 2022
+PRECIO: $9.99
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (137923 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Recupera Tertium de las hordas de enemigos sanguinarios en este despiadado juego de disparos y acción salvaje. Warhammer 40,000: Darktide es la nueva experiencia cooperativa del galardonado equipo creador de la saga Vermintide. Mientras Tertium cae, los marginados se alzarán.
+
+DESCRIPCIÓN DETALLADA:
+Recupera Tertium de las hordas de enemigos sanguinarios en este despiadado juego de disparos y acción salvaje. Warhammer 40,000: Darktide es la nueva experiencia cooperativa del galardonado equipo creador de la saga Vermintide.
+
+En las profundidades de la colmena, las semillas de la corrupción amenazan con convertirse en una marea abrumadora de oscuridad. Una nueva fuerza misteriosa y siniestra quiere apoderarse de la ciudad entera.  Depende de ti y tus aliados en la Inquisición erradicar al enemigo antes de que la ciudad sucumba ante el Caos. 
+
+Mientras Tertium cae, los marginados se alzarán.
+
+Combate híbrido a todo trapoConstruido sobre los cimientos del mejor sistema de combate cuerpo a cuerpo de Vermintide 2, Warhammer 40,000: Darktide introduce un intenso combate con pistolas de Warhammer 40,000. Domina el equilibrio entre el combate a distancia y el cuerpo a cuerpo mientras te enfrentas a un montón de enemigos. Siente el impacto de cada golpe de tu espada sierra o los ardientes disparos de tu láser imperial.
+
+Muere en soledad o sufre en compañíaDarktide es un juego cooperativo. Si te alejas demasiado, te arriesgas a que te castiguen los enemigos que buscan inmovilizar o capturar a los marginados que han perdido el rumbo, como los voraces caosabuesos o la trampera moebiana. ¡Cuando hayas caído presa de estos enemigos, solo tus compañeros podrán salvarte! Es más, tu dureza innata, la determinación para avanzar a pesar del dolor, solo se recarga cuando estás cerca de tu equipo de asalto.
+
+Tu personaje, tu estilo de juegoCrea tu personaje único y personaliza su apariencia física, voz y origen. Elige una clase para determinar qué características y habilidades únicas se usarán en batalla. ¿Quieres jugar como veterano experimentado del ejército imperial, forastero mordaz o ferviente exaltado? Tú eliges.
+
+Tertium: una ciudad colmena al borde del colapsoAdéntrate en el violento mundo distópico de Warhammer 40,000. Tertium es un lugar despiadado e implacable incluso en el mejor de los tiempos: encontrarás desde fábricas industriales ardientes hasta zonas putrefactas de mantenimiento de los depósitos de agua afectados por la lluvia ácida constante. Tu papel es el de servir a la ferviente Inquisición al embarcarte en misiones para exterminar las amenazas que merodean por las profundidades de la ciudad colmena, o morir en el intento.
+
+El Caos nunca duermeAdáptate a la veleidad errática del Caos mediante las circunstancias: unos mutadores que añaden un desafío espontáneo a la misión. Tu equipo tendrá que aprender a adaptarse, adoptar nuevas tácticas y cambiar de plantilla de equipamiento para enfrentarse a estos desafíos implacables.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64 bit) / Windows 11 (64 bit)
+
+- Procesador: Intel i5-6600 (3.30GHz) OR AMD Ryzen 2400G (3.6 GHz)
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 970 OR AMD Radeon RX 570
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 72 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64 bit) / Windows 11 (64 bit)
+
+- Procesador: Intel i7-9700K (3.70GHz) OR AMD Ryzen 5 3600 (4.2GHz)
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce RTX 3060 / RTX 2060 OR AMD Radeon RX 5700 XT
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 72 GB de espacio disponible
+
+- Notas adicionales: An SSD storage device is highly recommended
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

@@ -1,0 +1,26 @@
+JUEGO: Wolfenstein: Enemy Territory
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter
+TEMAS: Acción, Histórico, Bélico
+MODOS DE JUEGO: Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Splash Damage
+PUBLISHER: Activision
+FECHA DE LANZAMIENTO: 2003-05-29
+NOTA DE USUARIOS (IGDB): 81/100 (69 votos)
+FRANQUICIA: Wolfenstein
+TAMBIÉN CONOCIDO COMO: ET, W:ET
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coc44n.jpg
+URL: https://www.igdb.com/games/wolfenstein-enemy-territory
+
+RESUMEN:
+Wolfenstein: Enemy Territory is a multiplayer spin-off to Return to Castle Wolfenstein. In this game, two teams battle each other through a series of three missions that make up a single campaign. There are two campaigns: North Africa and Northern Europe. Within a mission there are objectives that must be completed by each team. These are as varied as escorting tanks, building bridges, stealing gold, or blowing up fuel dumps. Each player picks a character class, such as engineer, soldier, field ops, or covert ops, and then makes use of that class's special abilities, class-specific weapons, and inventory items.
+
+HISTORIA:
+There is no real story in this game. However, there are some background information to the various missions and campaigns, and locations. The setting is World War II and both sides (Allies and Axis) are in the middle of the conflict. In game, they are fighting for various territories using different unit types.
+
+JUEGOS PARECIDOS:
+Si te gusta Wolfenstein: Enemy Territory, también podrían gustarte: Battlefield Heroes, Battlefield Vietnam, Battlefield 1942, Commandos: Strike Force, Red Orchestra: Ostfront 41-45, Medal of Honor: Airborne, Death to Spies, Return to Castle Wolfenstein, Call of Duty, Medal of Honor: Heroes 2.

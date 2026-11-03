@@ -1,0 +1,28 @@
+JUEGO: The Binding of Isaac: Rebirth
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, Nintendo 3DS, PC (Microsoft Windows)
+DISPONIBLE EN: PlayStation 4, Linux, Nintendo 3DS, PC (Microsoft Windows), iOS, Mac, Wii U, PlayStation Vita, New Nintendo 3DS, Xbox One
+GÉNEROS: Shooter, Puzle, RPG, Aventura, Indie, Arcade
+TEMAS: Acción, Fantasía, Terror, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Edmund McMillen, Nicalis, Inc.
+PUBLISHER: Nicalis, Inc.
+FECHA DE LANZAMIENTO: 2014-11-04
+NOTA DE LA CRÍTICA (IGDB): 95/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (557 votos)
+TAMBIÉN CONOCIDO COMO: isaac-ng.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coaare.jpg
+URL: https://www.igdb.com/games/the-binding-of-isaac-rebirth
+
+RESUMEN:
+A top-down roguelike action-adventure game and remake of the 2011 original, rebuilt from its Flash engine to enable expanded content and features. Players control Isaac through procedurally generated dungeon floors, using tears as projectiles to defeat monsters while collecting items that modify abilities and appearance in potentially powerful combinations. Runs end in permadeath, and each playthrough offers different layouts, items, and bosses. The game has received four expansions adding characters, floors, items, co-op multiplayer, modding support, and online play. Inspired by the biblical story of the same name and its designer's religious upbringing.
+
+HISTORIA:
+Isaac is a young child living with his deeply religious mother in a small house on a hill. One day, his mother hears what she believes to be the voice of God, telling her that Isaac has been corrupted by sin and must be saved. She strips him of his possessions, locks him in his room, and eventually receives a command to sacrifice her son as proof of her devotion.
+
+Facing death at his mother's hands, Isaac discovers a trap door in his bedroom floor and escapes into the basement below. There, he must fight his way through dark and twisted dungeons filled with monsters, with only his tears as a weapon, hoping to survive whatever lies deeper beneath.
+
+JUEGOS PARECIDOS:
+Si te gusta The Binding of Isaac: Rebirth, también podrían gustarte: The Binding of Isaac, Unepic, Dead Space, BioShock 2, The Legend of Zelda: The Minish Cap, Tomb Raider, Shadow Warrior 2, System Shock 2, Alice: Madness Returns, BioShock Infinite.

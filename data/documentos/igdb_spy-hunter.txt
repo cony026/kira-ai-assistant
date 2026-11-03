@@ -1,0 +1,22 @@
+JUEGO: Spy Hunter
+
+FUENTE: IGDB
+PLATAFORMA: ColecoVision, Arcade, BBC Microcomputer System, Atari 2600
+DISPONIBLE EN: ColecoVision, Arcade, BBC Microcomputer System, Atari 2600, Atari 8-bit, Commodore C64/128/MAX, ZX Spectrum, DOS, Apple II, Amstrad CPC
+GÉNEROS: Shooter, Carreras, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Bally Midway
+PUBLISHER: Coleco, Bally Midway, Sega Enterprises, Inc.
+FECHA DE LANZAMIENTO: 1983-11-01
+NOTA DE LA CRÍTICA (IGDB): 80/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 73/100 (43 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6owb.jpg
+URL: https://www.igdb.com/games/spy-hunter
+
+RESUMEN:
+Originating in the arcades, Spy Hunter is a driving action game played from an overhead point of view. Your car is equipped with machine guns to help you get past the numerous enemies out on the road (be careful not to shoot any civilians, though!) Occasionally you will come across a weapons van, and if you drive into the back of the van your car becomes equipped with a second weapon (such as smoke screen, oil slick, or missiles). At several points the road splits and you can enter a boathouse which transforms your car into a boat temporarily. If you drive far enough the seasons change as well (watch out for icy conditions during winter!). The enemy cars will do anything to stop you, including running you off the road, firing guns from the back of a limo, or dropping bombs from a helicopter.
+
+JUEGOS PARECIDOS:
+Si te gusta Spy Hunter, también podrían gustarte: Pako: Car Chase Simulator, Serious Sam: Tormental, Heli Heroes, Soul Knight, RoadBlasters, Raid on Bungeling Bay, Gun Bros, Quick Draw, River Raid, Gas Guzzlers: Combat Carnage.

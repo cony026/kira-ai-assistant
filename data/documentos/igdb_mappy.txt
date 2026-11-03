@@ -1,0 +1,22 @@
+JUEGO: Mappy
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, PC-8800 Series, Sharp X1, Wii
+DISPONIBLE EN: Arcade, PC-8800 Series, Sharp X1, Wii, Sega Game Gear, iOS, Wii U, FM-7, NEC PC-6000 Series, MSX
+GÉNEROS: Plataformas, Puzle, Estrategia
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Namco Limited
+PUBLISHER: Dempa Shimbunsha, Namco Bandai Games, Bandai Namco Games, Bandai Namco Entertainment, Namco Limited
+FECHA DE LANZAMIENTO: 1983-03-01
+NOTA DE USUARIOS (IGDB): 67/100 (41 votos)
+TAMBIÉN CONOCIDO COMO: Мапи
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co5qwp.jpg
+URL: https://www.igdb.com/games/mappy
+
+RESUMEN:
+The player guides Mappy the police mouse through the mansion of the cats called Mewkies (Meowky in the U.S. version) to retrieve stolen goods. The player uses a left-right joystick to move Mappy and a single button to operate doors. The mansion has six floors of hallways in which the stolen items are stashed.
+
+JUEGOS PARECIDOS:
+Si te gusta Mappy, también podrían gustarte: Clu Clu Land, Semblance, Strider, Bonanza Bros., Battle City, Unravel Two, Nuts & Milk, Samurai Shodown, Sonic the Hedgehog 3, Sonic the Hedgehog.

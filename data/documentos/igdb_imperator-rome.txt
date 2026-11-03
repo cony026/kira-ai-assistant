@@ -1,0 +1,22 @@
+JUEGO: Imperator: Rome
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia en tiempo real, Simulación, Estrategia, Estrategia por turnos, Táctico
+TEMAS: Fantasía, Histórico, 4X (explore, expand, exploit, and exterminate)
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Paradox Development Studio
+PUBLISHER: Paradox Interactive
+FECHA DE LANZAMIENTO: 2019-04-25
+NOTA DE LA CRÍTICA (IGDB): 84/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 71/100 (30 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co22lq.jpg
+URL: https://www.igdb.com/games/imperator-rome
+
+RESUMEN:
+"Paradox Development Studio returns to ancient history with Imperator: Rome, a new title set around the growth of Roman power in a threatening Mediterranean. Unify Italy and then the world under the eagles of your legions. Or rule an Eastern monarchy with claims to the mantle of Alexander. Slaves, barbarians and war elephants bring the distant past to life in Imperator: Rome. Can you be a Caesar?"
+
+JUEGOS PARECIDOS:
+Si te gusta Imperator: Rome, también podrían gustarte: Age of Wonders: Planetfall, Europa Universalis, The Banner Saga 3, Anno 1701, Field of Glory II: Medieval, Natural Doctrine, Songs of Silence, Three Kingdoms: Fate of the Dragon, The Settlers: Rise of an Empire, Age of Empires III.

@@ -1,0 +1,23 @@
+JUEGO: Pokémon Y
+
+FUENTE: PokeAPI
+PLATAFORMA: Nintendo 3DS
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación VI
+REGIÓN PRINCIPAL: Kalos
+LANZADO JUNTO A: Pokémon X
+
+DESCRIPCIÓN:
+Pokémon Y es un juego de rol de la saga principal de Pokémon, de la Generación VI, para Nintendo 3DS. La aventura transcurre en la región de Kalos. Se lanzó junto a Pokémon X; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Chespin, Fennekin y Froakie. Su Pokédex regional reúne 457 especies de Pokémon distintas. Incluye Pokémon legendarios como Articuno, Zapdos, Moltres, Xerneas, Yveltal y Zygarde.
+
+POKÉDEX:
+- Kalos Centro: 153 Pokémon
+- Kalos Costa: 153 Pokémon
+- Kalos Montaña: 151 Pokémon
+
+POKÉMON INICIALES:
+Chespin, Fennekin, Froakie
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Articuno, Zapdos, Moltres, Xerneas, Yveltal, Zygarde, Mewtwo
+Singulares (míticos): Diancie, Hoopa, Volcanion

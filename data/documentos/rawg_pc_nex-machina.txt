@@ -1,0 +1,28 @@
+JUEGO: Nex Machina
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: PlayStation 4, PC
+FECHA DE LANZAMIENTO: 2017-06-19
+DESARROLLADOR: Housemarque
+PUBLISHER: Housemarque
+GÉNEROS: Action, Indie
+NOTA METACRITIC: 89
+RATING USUARIOS: 3.9/5 (153 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, steam-trading-cards, Great Soundtrack, Co-op, cooperative, Sci-fi, Difficult, Split Screen, Local Co-Op, Controller, Replay Value, Competitive
+
+DESCRIPCIÓN:
+Nex Machina is a sci-fi game about fighting robots and saving humans. It is a spiritual successor to the 1982 arcade Robotron 2084. The original game's designer Eugene Jarvis consulted Nex Machina creators.
+
+###Plot
+The game is set in the futuristic world that was recently taken over by a machines' uprising. The robots try to annihilate humans and send "Harvesters" to hunt for them. The protagonist is the last warrior who can stand up for the humankind.
+
+###Gameplay
+The player controls his or her character from the top-down view. Nex Machina contains six worlds divided by 15 levels. Each world ends with a boss fight. The player's primary objective is to defeat enemies, but there's also an optional objective to save humans scattered around levels.
+
+###Modes
+There are two main modes. In the Single World, the worlds are consecutive, while in Arcade mode, the player can choose which world to play this time. The game has a local co-op and a competitive Online Arena mode, but no online cooperative multiplayer.
+
+###Combat system
+The protagonist has several types of attacks. The regular gun can be upgraded by power-ups to increase its range and spread. There are also stronger additional weapons, such as a sword and an energy beam. The game aims to keep the action at a high tempo and puts an emphasis on the "flow" and timing. By using the character's attacks in the right progressions, the player can perform powerful combo movements.

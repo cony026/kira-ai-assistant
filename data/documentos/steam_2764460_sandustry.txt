@@ -1,0 +1,104 @@
+JUEGO: Sandustry
+PLATAFORMA: PC (Steam)
+GÉNEROS: Simuladores, Estrategia, Acceso anticipado
+DESARROLLADOR: Lantto Games
+PUBLISHER: Hooded Horse
+FECHA DE LANZAMIENTO: 13 AGO 2026
+PRECIO: $9.74
+RESEÑAS DE USUARIOS (STEAM): Overwhelmingly Positive (3457 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Explora y mina mundos destructibles. Automatiza cadenas de producción de gran complejidad. Excava y descubre los secretos de una civilización antigua y aprende a apreciar la arena en este juego de fábricas donde cada píxel es un recurso valioso.
+
+DESCRIPCIÓN DETALLADA:
+Sandustry es un juego de automatización de fábricas, donde cada píxel es un recurso por minar, combinar, procesar o destruir. Explora un mundo abierto amplio que se puede arrasar por completo, mientras exploras artefactos poderosos, vestigios de una civilización antigua.Aterrizas en un planeta enorme, desconocido y repleto de una gran diversidad de biomas y paisajes impresionantes. ¡Es el momento de calentar los motores de la industria! Tus principios serán humildes, pero no tardarás mucho en desarrollar una fábrica. Y es que a medida que vayas trabajando en evaluar la viabilidad del planeta para su industrialización, pasarás de tamizar arena para obtener oro a desbloquear tecnologías nuevas y cadenas de producción. Ante ti tendrás un sinfín de opciones. Tú decides si quieres centrarte en desarrollar las capacidades logísticas y de procesado más avanzadas de tu fábrica en rápida expansión, o si aprovechar las formas de vida del planeta para que te ayuden en tu misión. ¿O será mejor priorizar la búsqueda y rescate de artefactos y gastar una cantidad de recursos significativa para acceder a las ventajas que pueden ofrecerte? Aunque no hay forma más rápida de minar que con la ayuda de un lanzacohetes, ¿a que sí? Forja un hito en la industria y la automatización únicamente con cintas transportadoras, filtros, drones, tuberías, bombas y una inmensa variedad de piezas mientras aprovechas la propia naturaleza para conseguir tus objetivos.Cada píxel que compone Sandustry es una entidad física con propiedades particulares: granos individuales de arena, copos de nieve, semillas, esporas, esquirlas de hielo... Descubre una infinidad de reacciones químicas y físicas y aprovéchalas para desarrollar tus cadenas de producción. Construye una fábrica pixelada perfecta para optimizar cada uno de sus pasos, o abraza el caos de una intrincada red de cintas transportadoras horizontales y verticales siempre y cuando cumplan con su función. Pero, cuidado, la arena es dura, áspera y se mete en todas partes, lo que añade una capa más de complejidad. En Sandustry, los recursos reaccionan unos con otros y con el mundo que los rodea: cuando el hielo se calienta se convierte en agua. Esta, a su vez, al hervir se convierte en vapor que se eleva, y solo descenderá en forma de lluvia si la dejas llegar al cielo. La arena absorbe el agua que la rodea y agota las reservas limitadas poco a poco para producir arena húmeda que se puede filtrar para obtener oro, mientras las semillas regadas florecen y se convierten en flores que pueden prenderse fuego para producir recursos cruciales.Bajo la superficie del planeta se esconden bastantes misterios aguardando que los explores. Encuentra formas ingeniosas de superar desafíos pertenecientes a una civilización antigua para descubrir criptas que contienen grandes poderes y conocimientos. Un lanzallamas recién adquirido es la mejor herramienta para atravesar un grueso muro de hielo, aunque también podrías averiguar cómo redirigir lava, ¿no?Con un enfoque centrado en mods, Sandustry te da la posibilidad de ir desde ajustes estéticos y mapas creados a mano hasta la incorporación de nuevos edificios y sistemas que encajan en tus cadenas de producción. Sus herramientas para mods hacen que adaptar la experiencia sea sencillo, permiten compartir tus creaciones y hasta transformar el juego por completo.A medida que profundices en los planetas de Sandustry y expandas tus capacidades industriales, los desafíos irán in crescendo, al igual que tus métodos para confrontarlos. Tienes a tu disposición mundos totalmente destructibles, donde cada píxel es un recurso que explotar: tus opciones son infinitas.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows® 10 (64-bit)
+
+- Procesador: Intel® Core™ i5-4670K (quad-core) / AMD® FX-Series™ FX-8100 (quad-core)
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 550 Ti (1 GB) / AMD® Radeon™ HD 7750 (1 GB)
+
+- DirectX: Versión 11
+
+- Almacenamiento: 1 GB de espacio disponible
+
+- Notas adicionales: SSD recomendado
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows® 10 (64-bit)
+
+- Procesador: Intel® Core™ i5-9600K (hexa-core) / AMD® Ryzen™ 5 1600 (hexa-core)
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 960 (4 GB) / AMD Radeon RX 570 (4 GB)
+
+- DirectX: Versión 12
+
+- Almacenamiento: 1 GB de espacio disponible
+
+- Notas adicionales: SSD recomendado
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: macOS 12 (Monterey) o posterior
+
+- Procesador: Intel® Core™ i5-4670K (quad-core) / AMD® FX-Series™ FX-8100 (quad-core)
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 550 Ti (1 GB) / AMD® Radeon™ HD 7750 (1 GB)
+
+- Almacenamiento: 1 GB de espacio disponible
+
+- Notas adicionales: SSD recomendado
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: macOS 12 (Monterey) o posterior
+
+- Procesador: Intel® Core™ i5-9600K (hexa-core) / AMD® Ryzen™ 5 1600 (hexa-core)
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 960 (4 GB) / AMD Radeon RX 570 (4 GB)
+
+- Almacenamiento: 1 GB de espacio disponible
+
+- Notas adicionales: SSD recomendado
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+- Procesador: Intel® Core™ i5-4670K (quad-core) / AMD® FX-Series™ FX-8100 (quad-core)
+
+- Memoria: 4 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 550 Ti (1 GB) / AMD® Radeon™ HD 7750 (1 GB)
+
+- Almacenamiento: 1 GB de espacio disponible
+
+- Notas adicionales: SSD recomendado
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:
+
+- Procesador: Intel® Core™ i5-9600K (hexa-core) / AMD® Ryzen™ 5 1600 (hexa-core)
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA® GeForce® GTX 960 (4 GB) / AMD Radeon RX 570 (4 GB)
+
+- Almacenamiento: 1 GB de espacio disponible
+
+- Notas adicionales: SSD recomendado

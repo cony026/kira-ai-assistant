@@ -1,0 +1,22 @@
+JUEGO: Garry's Mod
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Simulación, Indie
+TEMAS: Sandbox
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Facepunch Studios
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2004-12-24
+NOTA DE USUARIOS (IGDB): 79/100 (481 votos)
+TAMBIÉN CONOCIDO COMO: GMod, gmod, gmod 9, gmod.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co8pgw.jpg
+URL: https://www.igdb.com/games/garry-s-mod
+
+RESUMEN:
+Garry's Mod is a physics-based sandbox game built on Valve's Source engine. In its base mode, there are no objectives. Players can spawn non-player characters, ragdolls, and props, then manipulate them using a physics gun that can pick up, rotate, and freeze objects in place. A tool gun provides additional functionality such as welding objects together or adjusting facial expressions on ragdolls. The game supports extensive Lua-based modding, and community-created game modes like Trouble in Terrorist Town and Prop Hunt have become widely popular in their own right. Originally released as a free mod for Half-Life 2 in 2004, it became a standalone commercial release in 2006 and holds the record as the best-selling PC-exclusive game.
+
+JUEGOS PARECIDOS:
+Si te gusta Garry's Mod, también podrían gustarte: Hytale, Muck, TheoTown, One-Armed Robber, Drug Dealer Simulator 2, Kebab Chefs!: Restaurant Simulator, Escape Simulator, Starship EVO, Dummynation, Ranch Simulator.

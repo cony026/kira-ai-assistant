@@ -1,0 +1,34 @@
+JUEGO: The Elder Scrolls V: Skyrim Special Edition
+PLATAFORMA: PC (Steam)
+GÉNEROS: RPG, Acción, Fantasía
+DESARROLLADOR: Bethesda Game Studios
+PUBLISHER: Bethesda Softworks
+FECHA DE LANZAMIENTO: 28 oct 2016
+
+RESEÑA / DESCRIPCIÓN:
+The Elder Scrolls V: Skyrim es un juego de rol de mundo abierto donde eres el Dragonborn, elegido para salvar el mundo de la destrucción. Explora un vasto mundo medieval-fantasía, realiza misiones épicas, domina la magia, lucha contra dragones y crea tu propia historia.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+OS: Windows 7/8/10 64-bit
+Procesador: Intel i5-750 2.67 GHz / AMD Phenom II X4 810
+RAM: 8 GB
+GPU: Nvidia GTX 560 / AMD Radeon HD 5870
+Almacenamiento: 160 GB disponibles
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+OS: Windows 7/8/10 64-bit
+Procesador: Intel i7 4790 / AMD FX 8350
+RAM: 16 GB
+GPU: Nvidia GTX 1080 / AMD Fury X
+Almacenamiento: 160 GB SSD
+
+PLATAFORMA: PlayStation 5
+NOTA METACRITIC: 94/100
+Disponible en PS4/PS5 con mejoras gráficas.
+
+PLATAFORMA: Xbox Series X|S
+NOTA METACRITIC: 94/100
+Disponible con optimización para Xbox Series X|S.
+
+PLATAFORMA: Nintendo Switch
+Versión portátil completa del juego.

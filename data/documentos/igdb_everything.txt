@@ -1,0 +1,23 @@
+JUEGO: Everything
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: PlayStation 4, Linux, PC (Microsoft Windows), Mac, PlayStation Vita, Nintendo Switch
+GÉNEROS: RPG, Simulación, Aventura, Indie
+TEMAS: Fantasía, Sandbox, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: David OReilly
+PUBLISHER: David OReilly, Double Fine Productions
+FECHA DE LANZAMIENTO: 2017-03-21
+NOTA DE LA CRÍTICA (IGDB): 72/100 (9 críticas)
+NOTA DE USUARIOS (IGDB): 71/100 (64 votos)
+TAMBIÉN CONOCIDO COMO: EVERYTHING, Everything.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co24rj.jpg
+URL: https://www.igdb.com/games/everything
+
+RESUMEN:
+Everything is an interactive experience where everything you see is a thing you can be, from animals to planets to galaxies and beyond. Travel between outer and inner space, and explore a vast, interconnected universe of things without enforced goals, scores, or tasks to complete. Everything is a procedural, AI-driven simulation of the systems of nature, seen from the points of view of everything in the Universe. Narrated by the late British philosopher Alan Watts.
+
+JUEGOS PARECIDOS:
+Si te gusta Everything, también podrían gustarte: James Bond 007: Everything or Nothing, Scribblenauts Unlimited, Animal Crossing: Wild World, Little Alchemy 2, Wurm Online, Little Alchemy, Tomb Raider, Party Animals, Impossible Creatures, Tibia.

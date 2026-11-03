@@ -1,0 +1,24 @@
+JUEGO: Vietcong
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Shooter
+TEMAS: Acción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Illusion Softworks, Pterodon
+PUBLISHER: Gathering of Developers
+FECHA DE LANZAMIENTO: 2003-03-26
+NOTA DE LA CRÍTICA (IGDB): 70/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 73/100 (51 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7nmi.jpg
+URL: https://www.igdb.com/games/vietcong
+
+RESUMEN:
+Vietcong is an tactical FPS known for its realism focused gameplay and at the time, original Vietnam war setting. The game featured many early examples of later genre conventions such as iron sights and a cover system.
+
+In addition to the main story-driven campaign, the game also features a number of quick skirmish style missions for single player, as well as a fairly robust set of both cooperative and competitive multiplayer modes, including a downloadable set of coop missions entitled "Red Dawn" played from the perspective of Vietcong soldiers.
+
+JUEGOS PARECIDOS:
+Si te gusta Vietcong, también podrían gustarte: Vietcong 2, Tunnel Rats, Battlefield Vietnam, Conflict: Vietnam, Men of Valor, Delta Force: Black Hawk Down, Shellshock 2: Blood Trails, Cannon Fodder, Conflict: Global Terror, Brothers in Arms DS.

@@ -1,0 +1,22 @@
+JUEGO: Rygar
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Wii, Family Computer, Nintendo Entertainment System
+DISPONIBLE EN: Arcade, Wii, Family Computer, Nintendo Entertainment System
+GÉNEROS: Plataformas, RPG, Hack and slash, Aventura, Arcade
+TEMAS: Acción, Fantasía
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica, Vista lateral
+DESARROLLADOR: Tecmo
+PUBLISHER: Nintendo, Tecmo
+FECHA DE LANZAMIENTO: 1987-04-17
+NOTA DE USUARIOS (IGDB): 72/100 (34 votos)
+TAMBIÉN CONOCIDO COMO: Argos no Senshi, Warrior of Argus, Argos no Senshi: Legendary Warrior
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3wof.jpg
+URL: https://www.igdb.com/games/rygar--1
+
+RESUMEN:
+An open-world action-adventure game for the Nintendo Entertainment System that features a barbarian warrior with a distinctive "diskarmor" weapon. It is distinct from the original 1986 Arcade game Rygar, which saw numerous home console ports.
+
+JUEGOS PARECIDOS:
+Si te gusta Rygar, también podrían gustarte: Faxanadu, Grimvalor, Demon's Crest, Castlevania II: Simon's Quest, Monster World IV, Blasphemous II, Super Mario World 2: Yoshi's Island, Vagante, Breath of Fire II, Warhammer: Chaosbane.

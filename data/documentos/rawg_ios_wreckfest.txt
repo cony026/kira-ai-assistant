@@ -1,0 +1,16 @@
+JUEGO: Wreckfest
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: PC, PlayStation 4, iOS, Xbox One, Android, Xbox Series S/X, PlayStation 5, Nintendo Switch
+FECHA DE LANZAMIENTO: 2018-06-13
+DESARROLLADOR: Handy Games, Bugbear Entertainment, Bugbear
+PUBLISHER: THQ Nordic, www.handy-games.com
+GÉNEROS: Racing, Arcade
+NOTA METACRITIC: 79
+RATING USUARIOS: 3.68/5 (384 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Multiplayer, Atmospheric, Co-op, cooperative, First-Person, Third Person, Partial Controller Support, Funny, Steam Leaderboards, Online multiplayer, Early Access, Steam Workshop, Realistic, Physics
+
+DESCRIPCIÓN:
+Wreckfest is a demolition derby themed racing game with soft-body damage modeling and in-depth vehicle upgrading, featuring both demolition derbies and more traditional track races. It’s all about fun, breakneck racing and over-the-top crashes.

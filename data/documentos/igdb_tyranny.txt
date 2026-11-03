@@ -1,0 +1,26 @@
+JUEGO: Tyranny
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia en tiempo real, RPG, Estrategia, Aventura
+TEMAS: Acción, Fantasía, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Obsidian Entertainment
+PUBLISHER: Paradox Interactive
+FECHA DE LANZAMIENTO: 2016-11-10
+NOTA DE LA CRÍTICA (IGDB): 81/100 (10 críticas)
+NOTA DE USUARIOS (IGDB): 84/100 (123 votos)
+TAMBIÉN CONOCIDO COMO: Tyranny.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1zzh.jpg
+URL: https://www.igdb.com/games/tyranny
+
+RESUMEN:
+Experience a story-driven RPG where your choices mean all the difference in the world.
+
+HISTORIA:
+You are a Fatebinder, the judge and executioner of Kyros’ law, acting under the watchful eye of the Overlords Archon of Justice, Tunon the Adjudicator. Your words shape the lives of thousands. Will you use that power to bring justice and inspire loyalty? Or will you bring fear and cruelty to the beaten people of the Tiers?
+
+JUEGOS PARECIDOS:
+Si te gusta Tyranny, también podrían gustarte: Undead Horde, Exiled Kingdoms, Drova: Forsaken Kin, Arknights, Black Moon Chronicles, Brown Dust II, ZanZarah: The Hidden Portal, Baldur's Gate, Total War: Warhammer III, Raid: Shadow Legends.

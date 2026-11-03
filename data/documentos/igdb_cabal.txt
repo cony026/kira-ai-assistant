@@ -1,0 +1,22 @@
+JUEGO: Cabal
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Commodore C64/128/MAX, ZX Spectrum, Atari ST/STE
+DISPONIBLE EN: Arcade, Commodore C64/128/MAX, ZX Spectrum, Atari ST/STE, DOS, Amiga, Amstrad CPC, Nintendo Entertainment System
+GÉNEROS: Shooter, Arcade
+TEMAS: Acción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Tad Corporation
+PUBLISHER: Tad Corporation, Ocean, Capcom, Milton Bradley, Special FX
+FECHA DE LANZAMIENTO: 1988-12-31
+NOTA DE USUARIOS (IGDB): 54/100 (33 votos)
+TAMBIÉN CONOCIDO COMO: Kaberu
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6yjf.jpg
+URL: https://www.igdb.com/games/cabal
+
+RESUMEN:
+Originating in the arcades, Cabal is a shooter where the protagonist runs back and forth along the bottom of the screen, ducking and dodging bullets and grenades from the enemy. The roll maneuver from the arcade was not implemented in the PC version. The player returns fire by moving a target around the screen which also moves the player character and may expose him to enemy fire.
+
+JUEGOS PARECIDOS:
+Si te gusta Cabal, también podrían gustarte: Falcon Patrol, Battle Bakraid, Battlezone, Air Gallet, Silk Worm, Shock Troopers, Ikari Warriors, River Raid, Tiger Heli, Combat.

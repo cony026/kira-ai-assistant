@@ -1,0 +1,29 @@
+JUEGO: Black Mesa
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows)
+DISPONIBLE EN: Linux, PC (Microsoft Windows)
+GÉNEROS: Shooter, Plataformas, Aventura, Indie
+TEMAS: Acción, Ciencia ficción, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Crowbar Collective
+PUBLISHER: Crowbar Collective
+FECHA DE LANZAMIENTO: 2020-03-06
+NOTA DE LA CRÍTICA (IGDB): 88/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 88/100 (557 votos)
+FRANQUICIA: Half-Life
+TAMBIÉN CONOCIDO COMO: Black Mesa: Source, Black Mesa Legacy
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co20n4.jpg
+URL: https://www.igdb.com/games/black-mesa
+
+RESUMEN:
+Black Mesa is a re-envisioning of Valve Software's classic science fiction first person shooter, Half-Life. Powered by Source Engine, You will re-visit the inaugural role of Gordon Freeman and his memorable journey through the Black Mesa Research Facility. Expect detailed environments to explore, a huge cast of characters and experimental weaponry. All-new music, voice acting, choreography and added dialogue give way to a more expansive and immersive experience than ever before.
+
+HISTORIA:
+The plot of Black Mesa is almost identical to Half-Life's storyline, playable through the "Lambda Core" chapter. As in the original game, the player controls Gordon Freeman, a scientist working at the Black Mesa Research Facility. He is tasked to place a sample of a strange material into an electromagnetic instrument, using the Hazardous Environment Suit Mark IV to do so safely. However, the sample material causes a "resonance cascade", devastating the facility and creating an interdimensional rift to an alien dimension called Xen, bringing its alien creatures to Earth.
+
+Freeman survives, finds other survivors, and makes his way to the surface with the protection of his hazard suit to get help. Upon reaching the surface, however, he finds that the facility is being cleansed of any living thing - human or alien - by armed forces. From other scientists, Freeman finds the only way to stop the alien invasion is to cross over to Xen and destroy the entity holding the portal open.
+
+JUEGOS PARECIDOS:
+Si te gusta Black Mesa, también podrían gustarte: Half-Life 2, Half-Life, Butcher, Cry of Fear, Magnetic: Cage Closed, Ibb & Obb, Payday: The Heist, Antichamber, Kingpin: Life of Crime, Iconoclasts.

@@ -1,0 +1,13 @@
+JUEGO: Marvel Snap
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Android, iOS, PC
+FECHA DE LANZAMIENTO: 2022-10-18
+DESARROLLADOR: Second Dinner
+PUBLISHER: Nuverse
+GÉNEROS: Card, Strategy
+TAGS: Free to Play, Multiplayer, PvP, Marvel, Fast-Paced, Cross-Platform
+
+DESCRIPCIÓN:
+Marvel Snap is a fast-paced digital collectible card game where two players build small decks of Marvel characters and compete to control two of three locations after six turns. Matches typically last only a few minutes, and a risk/reward 'Snap' mechanic lets players double the stakes mid-match. New locations and cards are added on a monthly season schedule.

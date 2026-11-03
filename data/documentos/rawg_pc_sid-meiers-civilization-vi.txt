@@ -1,0 +1,18 @@
+JUEGO: Sid Meier’s Civilization VI
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: iOS, PC, macOS, PlayStation 4, Xbox One, Nintendo Switch, Linux
+FECHA DE LANZAMIENTO: 2016-10-20
+DESARROLLADOR: Aspyr Media, Firaxis
+PUBLISHER: 2K Games, Aspyr
+GÉNEROS: Strategy, Simulation
+NOTA METACRITIC: 88
+RATING USUARIOS: 4.16/5 (1436 votos)
+TIEMPO DE JUEGO MEDIO: 15 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, steam-trading-cards, Great Soundtrack, Co-op, Open World, Online Co-Op, Tactical, Steam Workshop, Moddable, War, Turn-Based, Historical, Memes
+
+DESCRIPCIÓN:
+The sixth installment in Sid Meier’s Civilization series. Like in all previous Civilization games, the player controls one of eighteen unique historical civilizations, builds its cities, explores the hexagonal map of the world, researches technologies, develops his country's culture, establishes relationships with other civilizations and wages wars. All the traditional victory types are in place, and a new one, religious, is introduced.
+
+A distinct new feature in the sixth part is that city improvements are no more concentrated in each city's only main tile. Instead, they are distributed throughout its whole surrounding area. Each of them is now considered a "district" with a specific purpose, and some of them should be built only on specific terrain. Similarly, wonders now occupy tiles on their own. Technology tree was also modified to take into account the player's terrain improvements that may speed up the research of certain technologies. Cultural achievements, such as Opera or Drama, are no more considered "technologies" and form a separate Civics research tree instead. Also, unlike most of its predecessors, Civilization VI allows stacking similar types of military units.

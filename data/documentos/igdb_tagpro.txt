@@ -1,0 +1,21 @@
+JUEGO: TagPro
+
+FUENTE: IGDB
+PLATAFORMA: Web browser, Android
+DISPONIBLE EN: Web browser, Android
+GÉNEROS: Estrategia, Indie, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Multijugador, Cooperativo
+PERSPECTIVA: Isométrica, Vista lateral
+DESARROLLADOR: Koalabeast
+FECHA DE LANZAMIENTO: 2013-02-01
+NOTA DE USUARIOS (IGDB): 84/100 (181 votos)
+TAMBIÉN CONOCIDO COMO: TagPro: Tag, Capture, Win
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3wf7.jpg
+URL: https://www.igdb.com/games/tagpro
+
+RESUMEN:
+TagPro is a free-to-play online multiplayer capture the flag video game originally designed and programmed by Nick Riggs. The first version was released in February 2013, after Riggs began experimenting with software platform Node.js. The game is named after one of its three obtainable power-ups. It follows the basic rules of capture the flag, along with some modifications, including power-ups, spikes, and other map elements.
+
+JUEGOS PARECIDOS:
+Si te gusta TagPro, también podrían gustarte: Soul Knight, Red Risk, Lethal League Blaze, Super Blood Hockey, Lumencraft, Royal Revolt II, Couplinked, Airships: Conquer the Skies, Forts, Total War: Warhammer III.

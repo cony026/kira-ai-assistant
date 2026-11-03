@@ -1,0 +1,20 @@
+JUEGO: Marble Racing Manager
+
+FUENTE: IGDB
+PLATAFORMA: Web browser
+DISPONIBLE EN: Web browser
+GÉNEROS: Simulación
+MODOS DE JUEGO: Un jugador, MMO
+PERSPECTIVA: Texto
+DESARROLLADOR: Pixel by Pixel Studios
+PUBLISHER: Pixel by Pixel Studios
+FECHA DE LANZAMIENTO: 2025-11-01
+NOTA DE USUARIOS (IGDB): 88/100 (63 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cobqc9.jpg
+URL: https://www.igdb.com/games/marble-racing-manager
+
+RESUMEN:
+Marble Racing Manager is an idle racing game where players collect and manage marbles that compete automatically. Players begin with free gems to purchase their first marble and expand their collection over time. Marbles are placed in a racing tray to enter competitions that occur automatically every 60 seconds, generating rewards without active player input. The game features an idle progression system where marbles continue racing and earning resources while the player is away.
+
+JUEGOS PARECIDOS:
+Si te gusta Marble Racing Manager, también podrían gustarte: Dragon City, Captain Contraption's Chocolate Factory, Chef: A Restaurant Tycoon Game, OS: Memories, Nonvilia, Ancient Life, Day of Dragons, Lu Bu Maker, Miami Nights: Singles in the City, KinitoPet.

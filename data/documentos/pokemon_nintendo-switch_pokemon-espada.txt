@@ -1,0 +1,24 @@
+JUEGO: Pokémon Espada
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Sword
+PLATAFORMA: Nintendo Switch
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación VIII
+REGIÓN PRINCIPAL: Galar
+LANZADO JUNTO A: Pokémon Escudo
+
+DESCRIPCIÓN:
+Pokémon Espada es un juego de rol de la saga principal de Pokémon, de la Generación VIII, para Nintendo Switch. La aventura transcurre en la región de Galar. Se lanzó junto a Pokémon Escudo; cada versión tiene algunos Pokémon exclusivos. Los Pokémon iniciales que se pueden elegir al comenzar son Grookey, Scorbunny y Sobble. Su Pokédex regional reúne 584 especies de Pokémon distintas. Incluye Pokémon legendarios como Código Cero, Silvally, Zacian, Zamazenta, Eternatus y Kubfu.
+
+POKÉDEX:
+- Galar: 400 Pokémon
+- Isla de la Armadura: 211 Pokémon
+- Nieves de la Corona: 210 Pokémon
+
+POKÉMON INICIALES:
+Grookey, Scorbunny, Sobble
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Código Cero, Silvally, Zacian, Zamazenta, Eternatus, Kubfu, Urshifu, Regirock, Regice, Registeel, Regieleki, Regidrago, Articuno, Zapdos, Moltres, Cobalion, Terrakion, Virizion, Glastrier, Spectrier, Calyrex
+Singulares (míticos): Zarude

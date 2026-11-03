@@ -1,0 +1,23 @@
+JUEGO: Grid
+
+FUENTE: IGDB
+PLATAFORMA: Google Stadia, PlayStation 4, PC (Microsoft Windows), Xbox One
+DISPONIBLE EN: Google Stadia, PlayStation 4, PC (Microsoft Windows), Xbox One
+GÉNEROS: Carreras, Simulación, Deportes
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Codemasters
+PUBLISHER: Codemasters
+FECHA DE LANZAMIENTO: 2019-10-10
+NOTA DE LA CRÍTICA (IGDB): 72/100 (8 críticas)
+NOTA DE USUARIOS (IGDB): 71/100 (46 votos)
+TAMBIÉN CONOCIDO COMO: Grid (2019), GRID 4
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cocsvq.jpg
+URL: https://www.igdb.com/games/grid
+
+RESUMEN:
+Grid is a racing experience like no other. Offering unrivalled moment-to-moment racing, Grid returns with an all-new experience where every race is the chance to choose your own path, create your own story and conquer the world of motorsport.
+
+JUEGOS PARECIDOS:
+Si te gusta Grid, también podrían gustarte: Dakar Desert Rally, Riders Republic, EA Sports WRC, Dirt Rally 2.0, DCL: The Game, Ride 5, NASCAR Heat 5, Monster Jam Steel Titans 2, Need for Speed II, Kanjozoku Game Racer.

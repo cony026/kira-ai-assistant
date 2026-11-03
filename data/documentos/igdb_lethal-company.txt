@@ -1,0 +1,24 @@
+JUEGO: Lethal Company
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Indie
+TEMAS: Acción, Ciencia ficción, Terror, Comedia
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Zeekerss
+PUBLISHER: Zeekerss
+FECHA DE LANZAMIENTO: 2023-10-23
+NOTA DE USUARIOS (IGDB): 76/100 (220 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co5ive.jpg
+URL: https://www.igdb.com/games/lethal-company
+
+RESUMEN:
+Lethal Company is a co-op horror roguelite game about scavenging at abandoned moons to sell scrap to the Company.
+
+HISTORIA:
+You are a contracted worker for the Company. Your job is to collect scrap from abandoned, industrialized moons to meet the Company's profit quota. You can use the cash you earn to travel to new moons with higher risks and rewards--or you can buy fancy suits and decorations for your ship. Experience nature, scanning any creature you find to add them to your bestiary. Explore the wondrous outdoors and rummage through their derelict, steel and concrete underbellies. Just never miss the quota.
+
+JUEGOS PARECIDOS:
+Si te gusta Lethal Company, también podrían gustarte: Panicore, The Outlast Trials, Devour, Directive 8020, Signalis, Sons of the Forest, Pacify, Serious Sam: The First Encounter, Void Crew, Bigfoot.

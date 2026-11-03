@@ -1,0 +1,23 @@
+JUEGO: Sunless Sea
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), iOS, Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: Estrategia en tiempo real, RPG, Estrategia, Aventura, Indie
+TEMAS: Fantasía, Terror, Suspenso, Supervivencia, Histórico, Misterio
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Failbetter Games
+PUBLISHER: Failbetter Games
+FECHA DE LANZAMIENTO: 2015-02-06
+NOTA DE LA CRÍTICA (IGDB): 85/100 (4 críticas)
+NOTA DE USUARIOS (IGDB): 76/100 (80 votos)
+TAMBIÉN CONOCIDO COMO: Sunless Sea.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2h1v.jpg
+URL: https://www.igdb.com/games/sunless-sea
+
+RESUMEN:
+Play as the captain of a steamship on an underwater ocean surrounding the fictional city of Fallen London. Manage your ship's fuel and food supplies as you try not to go mad fighting off Lovecraftian monsters.
+
+JUEGOS PARECIDOS:
+Si te gusta Sunless Sea, también podrían gustarte: Sunless Skies, Chaos Reborn, Darkest Dungeon, Grim Dawn, CrossCode, Undead Horde, Armello, Kentucky Route Zero, Arknights, Hero of the Kingdom II.

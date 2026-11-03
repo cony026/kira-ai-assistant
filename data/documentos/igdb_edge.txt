@@ -1,0 +1,23 @@
+JUEGO: Edge
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 3, Linux, Nintendo 3DS, Android
+DISPONIBLE EN: PlayStation 3, Linux, Nintendo 3DS, Android, PC (Microsoft Windows), iOS, Mac, Wii U, PlayStation Portable
+GÉNEROS: Plataformas, Puzle, Aventura, Indie
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Two Tribes Publishing, Mobigame
+PUBLISHER: Two Tribes Publishing, Mobigame
+FECHA DE LANZAMIENTO: 2008-12-01
+NOTA DE LA CRÍTICA (IGDB): 86/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 73/100 (34 votos)
+TAMBIÉN CONOCIDO COMO: edge.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2q16.jpg
+URL: https://www.igdb.com/games/edge
+
+RESUMEN:
+In Edge players take direct control of the cube and roll their way around the game's dozens of levels. Search for all the prisms and find the shortcuts to improve your times.
+
+JUEGOS PARECIDOS:
+Si te gusta Edge, también podrían gustarte: Thomas Was Alone, Ibb & Obb, Splice, Super Hexagon, Figment, Trine, Quest of Dungeons, Little Nightmares, The Impossible Game, Limbo.

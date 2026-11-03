@@ -1,0 +1,28 @@
+JUEGO: Left 4 Dead 2
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac, Xbox 360
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac, Xbox 360
+GÉNEROS: Shooter
+TEMAS: Acción, Terror, Supervivencia
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Turtle Rock Studios, Valve
+PUBLISHER: Valve, Electronic Arts
+FECHA DE LANZAMIENTO: 2009-11-17
+NOTA DE LA CRÍTICA (IGDB): 89/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (1211 votos)
+TAMBIÉN CONOCIDO COMO: left4dead2.exe, L4D2
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1y2f.jpg
+URL: https://www.igdb.com/games/left-4-dead-2
+
+RESUMEN:
+Left 4 Dead 2 is a cooperative first-person shooter video game, the sequel to Valve Corporation's Left 4 Dead. The Game builds upon cooperatively focused gameplay and Valve's proprietary Source engine, the same game engine used in the original Left 4 Dead. Set during the aftermath of an apocalyptic pandemic, Left 4 Dead 2 focuses on four new Survivors, fighting against hordes of the Infected, who develop severe psychosis and exhibit zombie-like tendencies. The Survivors must fight their way through five campaigns, interspersed with safe houses that act as checkpoints, with the goal of escape at each campaign's finale.
+
+HISTORIA:
+Four survivors, Coach, Ellis, Nick, and Rochelle, find themselves abandoned on a hotel rooftop in Savannah, Georgia after rescue helicopters leave without them. In the aftermath of a pandemic known as the "Green Flu" that has turned the population into aggressive zombie-like creatures, the group must fight their way south toward New Orleans, rumored to be the last standing city in America.
+
+Their journey takes them through a shopping mall, an abandoned amusement park, swamplands, and eventually the streets of New Orleans itself, where the military is conducting a final evacuation. Along the way, they rely on safe houses, improvised weapons, and each other to survive against increasingly dangerous hordes of the Infected.
+
+JUEGOS PARECIDOS:
+Si te gusta Left 4 Dead 2, también podrían gustarte: Back 4 Blood, Bigfoot, Zombie Army 4: Dead War, Call of Duty: Black Ops 4, Dying Light 2: Stay Human, Hunt: Showdown 1896, John Carpenter's Toxic Commando, Serious Sam 4, Tom Clancy's Splinter Cell: Conviction, F.E.A.R. 2: Project Origin.

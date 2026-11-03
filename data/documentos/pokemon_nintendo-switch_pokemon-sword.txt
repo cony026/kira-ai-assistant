@@ -1,0 +1,10 @@
+JUEGO: Pokémon Sword
+PLATAFORMA: Nintendo Switch
+GÉNEROS: RPG, Aventura
+NOTA METACRITIC: 80
+
+RESEÑA / DESCRIPCIÓN:
+Pokémon Sword es la versión del juego que explora la región de Galar. Participa en emocionantes batallas gimnasia, atrapa Pokémon Gigantamax y compite en torneos. Incluye el Poké Ball Plus compatible y opciones de multijugador en línea.
+
+REQUISITOS MÍNIMOS:
+Nintendo Switch

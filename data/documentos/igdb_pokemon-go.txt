@@ -1,0 +1,24 @@
+JUEGO: Pokémon Go
+
+FUENTE: IGDB
+PLATAFORMA: Android, iOS
+DISPONIBLE EN: Android, iOS
+GÉNEROS: RPG, Simulación
+TEMAS: Acción, Fantasía, Mundo abierto
+MODOS DE JUEGO: Un jugador, MMO
+PERSPECTIVA: Tercera persona, Isométrica, Vista lateral
+DESARROLLADOR: Niantic Labs, The Pokémon Company
+PUBLISHER: Niantic Labs
+FECHA DE LANZAMIENTO: 2016-07-06
+NOTA DE LA CRÍTICA (IGDB): 63/100 (11 críticas)
+NOTA DE USUARIOS (IGDB): 66/100 (493 votos)
+FRANQUICIA: Pokémon
+TAMBIÉN CONOCIDO COMO: Pokémon GO, PoGo
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co9gmb.jpg
+URL: https://www.igdb.com/games/pokemon-go
+
+RESUMEN:
+Pokémon Go is an augmented reality mobile game that uses GPS to let players locate, capture, train, and battle Pokémon in real-world locations. Players explore their physical surroundings to find PokéStops for items, battle at Gyms for team control, participate in Raid Battles cooperatively, and compete in the Go Battle League's player-versus-player format. The game is free-to-play with in-app purchases and features Pokémon from across multiple generations of the franchise.
+
+JUEGOS PARECIDOS:
+Si te gusta Pokémon Go, también podrían gustarte: Pokémon Moon, Pokémon Rumble Blast, Pokémon Diamond Version, Pokémon White Version 2, Pokémon Y, Dragon Quest Builders, Pokémon Rumble, Pokémon Stadium 2, Pokémon Trozei!, Learn with Pokémon: Typing Adventure.

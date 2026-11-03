@@ -1,0 +1,26 @@
+JUEGO: Out of This World
+
+FUENTE: IGDB
+PLATAFORMA: Atari ST/STE, Amiga, Game Boy Advance
+DISPONIBLE EN: Atari ST/STE, Amiga, Game Boy Advance
+GÉNEROS: Plataformas, Aventura
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Delphine Software
+PUBLISHER: U.S. Gold, Interplay Entertainment, Delphine Software, FoxySofts
+FECHA DE LANZAMIENTO: 1991-11-01
+NOTA DE USUARIOS (IGDB): 84/100 (200 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co9ssg.jpg
+URL: https://www.igdb.com/games/out-of-this-world
+
+RESUMEN:
+Out of This World (Another World in Europe) is a cinematic platformer that uses vector-based graphics and rotoscoped animations to deliver a minimalistic yet expressive visual style. It features a combination of action, platforming, and puzzle-solving mechanics, with a deliberate lack of HUD and textual guidance. Gameplay emphasizes trial-and-error, timing, and exploration, with a limited checkpoint system.
+
+In 2005, a homebrew port of the Atari ST version was released for the Game Boy Advance, officially allowed by Éric Chahi to be published with the original assets.
+
+HISTORIA:
+You assume the role of Lester Knight Chaykin, a young physicist hurtled through space and time by a nuclear experiment gone wrong. You'll need to dodge, outwit, and overcome a host of alien monsters and deadly earthquakes that plague the alien landscape you now call home.
+
+JUEGOS PARECIDOS:
+Si te gusta Out of This World, también podrían gustarte: Oddworld: Abe's Oddysee, Prince of Persia, Oddworld: Abe's Exoddus, Metroid Fusion, Ghost 1.0, Limbo, Black the Fall, God of War: Ghost of Sparta, Blasphemous, Cyberpunk 2077.

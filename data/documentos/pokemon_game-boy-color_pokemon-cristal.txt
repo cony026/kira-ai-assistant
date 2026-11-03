@@ -1,0 +1,21 @@
+JUEGO: Pokémon Cristal
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Crystal
+PLATAFORMA: Game Boy Color
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación II
+REGIÓN PRINCIPAL: Kanto, Johto
+
+DESCRIPCIÓN:
+Pokémon Cristal es un juego de rol de la saga principal de Pokémon, de la Generación II, para Game Boy Color. La aventura transcurre en las regiones de Kanto y Johto. Los Pokémon iniciales que se pueden elegir al comenzar son Chikorita, Cyndaquil y Totodile. Su Pokédex regional reúne 251 especies de Pokémon distintas. Incluye Pokémon legendarios como Articuno, Zapdos, Moltres, Raikou, Entei y Suicune.
+
+POKÉDEX:
+- Johto Original: 251 Pokémon
+
+POKÉMON INICIALES:
+Chikorita, Cyndaquil, Totodile
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Articuno, Zapdos, Moltres, Raikou, Entei, Suicune, Lugia, Ho-Oh, Mewtwo
+Singulares (míticos): Mew, Celebi

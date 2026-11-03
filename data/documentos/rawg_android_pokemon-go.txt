@@ -1,0 +1,13 @@
+JUEGO: Pokémon GO
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, iOS
+FECHA DE LANZAMIENTO: 2016-07-06
+DESARROLLADOR: Niantic
+PUBLISHER: Niantic (con Nintendo y The Pokémon Company)
+GÉNEROS: Adventure, Casual, Family
+TAGS: Free to Play, Augmented Reality, Location-Based, Multiplayer, Outdoors
+
+DESCRIPCIÓN:
+Pokémon GO is a location-based augmented reality game that uses a player's real-world movement and GPS position to find, catch and train Pokémon at real locations mapped as PokéStops and Gyms. It includes cooperative Raid battles, in-person trading, and regular real-world community events tied to in-game bonuses.

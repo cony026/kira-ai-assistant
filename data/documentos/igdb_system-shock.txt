@@ -1,0 +1,27 @@
+JUEGO: System Shock
+
+FUENTE: IGDB
+PLATAFORMA: PC-9800 Series, PC (Microsoft Windows), Mac, DOS
+DISPONIBLE EN: PC-9800 Series, PC (Microsoft Windows), Mac, DOS
+GÉNEROS: Shooter, RPG
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Looking Glass Studios
+PUBLISHER: Origin Systems, Electronic Arts, Dong Seo Interactive
+FECHA DE LANZAMIENTO: 1994-09-22
+NOTA DE USUARIOS (IGDB): 91/100 (89 votos)
+TAMBIÉN CONOCIDO COMO: System Shock: Classic, システムショック, Alien Commander
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4e44.jpg
+URL: https://www.igdb.com/games/system-shock
+
+RESUMEN:
+A seminal cyberpunk first-person exploratory adventure game with RPG elements in which, waking up in the Citadel Space Station, a lone hacker has to survive corrupted enemies and collect audio logs and equipment from former station workers in order to shut down SHODAN, the station's artificial intelligence that has killed everyone on board and now intends to destroy the world.
+
+HISTORIA:
+You are a hacker. You have attempted to hack into the TriOptimum Corporation Network, and gain unauthorized access to protected files concerning the Space Station Citadel. Unfortunately, your hacking attempts have been detected, and your location is soon tracked. Edward Diego (an executive at TriOptimum Corporation) sees your potential, and is eager to make a deal with you. He will drop all charges against you, if you hack into SHODAN, the artificial intelligence that controls Citadel Station. You will also gain a military grade neuro interface if you are successful. Naturally, you agree to this offer, and Edward Diego gives you Level 1 access to SHODAN. You receive your neuro implant, and undergo a 6-month healing coma.
+
+The game starts when you awake from your coma. But somehow, things are not quite how you remember them. You find an audio log (as well as some other goodies) hidden in a cupboard. The log is from Rebecca Lansing, who is a TriOptimum counter terrorism consultant based on Earth. She tells you that they have detected a disruption on Citadel Station, and that a mining beam is preparing to fire at Earth. Since you are the only contact between Earth and Citadel Station, it is up to you to find out what is going on. You soon discover that when you hacked into SHODAN 6 months ago, you removed all of her ethical restraints. Now she has re-examined her priorities, and drawn her own conclusions about humanity!
+
+JUEGOS PARECIDOS:
+Si te gusta System Shock, también podrían gustarte: Project Eden, Ghost in the Shell, System Shock 2, SiN, Pragmata, E.Y.E: Divine Cybermancy, Fighting Force 2, Marathon, Prey, Shadowrun.

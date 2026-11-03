@@ -1,0 +1,29 @@
+JUEGO: Heroes of Might & Magic III - HD Edition
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: PC, iOS
+FECHA DE LANZAMIENTO: 2015-01-28
+DESARROLLADOR: Ubisoft, DotEmu
+PUBLISHER: Ubisoft Entertainment
+GÉNEROS: Strategy
+NOTA METACRITIC: 65
+RATING USUARIOS: 4.23/5 (330 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Atmospheric, Great Soundtrack, RPG, Co-op, cooperative, Fantasy, Classic, Local Co-Op, Local Multiplayer, Retro, Includes level editor, Turn-Based
+
+DESCRIPCIÓN:
+Heroes of Might and Magic III is a part of Might & Magic franchise and the third installment in its series. It is one of the most popular turn-based strategies ever created.
+
+###Plot
+The game takes place in the fantasy world of Enroth. The story mode follows a large-scale war for the country of Erathia. Its queen Catherine defends her homeland from invading dark forces. The game's seven campaigns allow the player to participate in this war on various sides.
+
+###Gameplay
+AI and human players take turns, each turn representing an in-game day. Each player controls cities, heroes, and units. The default victory condition is to eliminate rival players by capturing their cities. The story mode, though, has missions with specific plot-related conditions.
+
+There are eight types of cities. Each type has a set of units and a unique style, based on a fantasy culture such as elves, orcs, demons or the undead. Any player can conquer and control any city. A player who loses all his or her cities is eliminated.
+
+A hero leads an army of units. Heroes explore the map, capture resources, fight enemies and neutral monsters. As they gain experience, heroes level up and obtain new skills and spells. Each hero has eight unit slots. Units of the same type stack and act as a single, stronger unit. During combat, units take turns on a hexagonal grid. 
+
+###HD Edition
+A new edition, released in 2015, includes slightly improved graphics redesigned for modern monitors and tablets. Otherwise, the game is identical to its original version.

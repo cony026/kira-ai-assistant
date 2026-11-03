@@ -1,0 +1,13 @@
+JUEGO: Cinco Paus
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: PC
+DISPONIBLE EN: iOS, PC
+FECHA DE LANZAMIENTO: 2017-12-25
+DESARROLLADOR: Michael Brough
+PUBLISHER: Michael Brough
+GÉNEROS: Adventure, Strategy, Puzzle
+NOTA METACRITIC: 91
+
+DESCRIPCIÓN:
+You have five magic wands but you don't know what they do. Try to discover its effects and traverse all five zones. Get the treasures too if you can!

@@ -1,0 +1,24 @@
+JUEGO: Wargroove
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Xbox One
+DISPONIBLE EN: PlayStation 4, Xbox One, Nintendo Switch, PC
+FECHA DE LANZAMIENTO: 2019-02-01
+DESARROLLADOR: Chucklefish
+PUBLISHER: Chucklefish
+GÉNEROS: Strategy, Indie
+NOTA METACRITIC: 83
+RATING USUARIOS: 3.6/5 (213 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Full controller support, Steam Cloud, Co-op, 2D, Online Co-Op, Online multiplayer, Split Screen, Local Co-Op, Local Multiplayer, Cross-Platform Multiplayer, Includes level editor, Steam Turn Notifications
+
+DESCRIPCIÓN:
+Wargroove is a high fantasy game that was strongly inspired by such turn-based tactics games as Advance Wars and Fire Emblem. It features minimalist pixelated visual style and a 2D top-down view. The game is made for Nintendo Switch and aims to recreate the retro atmosphere of the old games from the early 2000s handheld consoles. 
+ 
+###Gameplay
+The player assumes the role of one of the commanders. There are twelve unique commanders, each of them has a distinct personality, motivation, and a personal set of missions. The player navigates his or her commander on the map and fights the enemies. New commanders can be unlocked as the player progresses in the game. The commanders belong to four different factions: Cherrystone Kingdom, Felheim Legion, Heavensong Empire and Floran Tribes (the latter also featured in Starbound). 
+
+###Modes
+Wargroove includes a variety of modes, such as single player, cooperative multiplayer and player versus player, in both online and local modes. The multiplayer modes allow up to four players to participate in a game. The game allows the players to customize the rules and other options in this mode.
+
+The game also includes a map editor that lets the players make their own campaigns. The editor features the option to interlink the various missions to create your own non-linear campaigns.

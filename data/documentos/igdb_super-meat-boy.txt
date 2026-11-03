@@ -1,0 +1,26 @@
+JUEGO: Super Meat Boy
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, Linux, Wii, PC (Microsoft Windows)
+DISPONIBLE EN: PlayStation 4, Linux, Wii, PC (Microsoft Windows), Mac, Wii U, PlayStation Vita, Xbox 360, Nintendo Switch
+GÉNEROS: Plataformas, Aventura, Indie
+TEMAS: Acción, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Team Meat
+PUBLISHER: BlitWorks, Team Meat
+FECHA DE LANZAMIENTO: 2010-10-20
+NOTA DE LA CRÍTICA (IGDB): 85/100 (4 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (842 votos)
+TAMBIÉN CONOCIDO COMO: SMB, SuperMeatBoy.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co276m.jpg
+URL: https://www.igdb.com/games/super-meat-boy
+
+RESUMEN:
+Super Meat Boy is a platform game in which players control Meat Boy, a small, dark red, cube-shaped character who must rescue his girlfriend Bandage Girl from the scientist Dr. Fetus. The game is divided into chapters containing over 300 levels, each requiring players to reach the end while avoiding saw blades, crumbling blocks, and other hazards. Players can jump, run on platforms, and slide down walls. Deaths are instant and levels restart immediately with unlimited attempts. Completing levels quickly unlocks harder alternate "dark world" versions, and hidden warp zones contain bonus stages. Additional playable characters with unique abilities can be unlocked through collectibles.
+
+HISTORIA:
+Meat Boy and Bandage Girl are in love, but Dr. Fetus, an intelligent fetus in a jar piloting a mechanical suit, is unloved and hates everyone. In a fit of jealousy, Dr. Fetus kidnaps Bandage Girl. Meat Boy chases Dr. Fetus through increasingly dangerous environments to rescue her, facing obstacles and boss creatures along the way, while Dr. Fetus repeatedly escapes with Bandage Girl at the end of each chapter.
+
+JUEGOS PARECIDOS:
+Si te gusta Super Meat Boy, también podrían gustarte: Tales from Space: Mutant Blobs Attack, Ultimate Chicken Horse, Hue, Max: The Curse of Brotherhood, Lovers in a Dangerous Spacetime, Shantae: Half-Genie Hero, Celeste, Butcher, BattleBlock Theater, Jump King.

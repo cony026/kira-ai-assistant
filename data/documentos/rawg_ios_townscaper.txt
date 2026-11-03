@@ -1,0 +1,19 @@
+JUEGO: Townscaper
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Android, iOS, PC, macOS
+FECHA DE LANZAMIENTO: 2020-06-30
+DESARROLLADOR: Raw Fury, Oskar Stålberg
+PUBLISHER: Raw Fury, Oskar Stålberg
+GÉNEROS: Simulation, Casual, Indie
+RATING USUARIOS: 3.7/5 (199 votos)
+TIEMPO DE JUEGO MEDIO: 1 horas
+TAGS: Singleplayer, Atmospheric, Sandbox, Early Access, Cute, Colorful, Building, Relaxing, City Builder, Beautiful
+
+DESCRIPCIÓN:
+Build quaint island towns with curvy streets. Build small hamlets, soaring cathedrals, canal networks, or sky cities on stils. Block by block.
+
+No goal. No real gameplay. Just plenty of building and plenty of beauty. That's it.
+
+Townscaper is an experimental passion project. More of a toy than a game. Pick colors from the palette, plop down colored blocks of house on the irregular grid, and watch Townscaper's underlying algorithm automatically turn those blocks into cute little houses, arches, stairways, bridges and lush backyards, depending on their configuration.

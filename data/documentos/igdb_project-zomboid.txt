@@ -1,0 +1,25 @@
+JUEGO: Project Zomboid
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: RPG, Simulación, Indie
+TEMAS: Terror, Supervivencia, Sandbox, Mundo abierto
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Isométrica
+DESARROLLADOR: The Indie Stone
+PUBLISHER: The Indie Stone
+FECHA DE LANZAMIENTO: 2013-11-08
+NOTA DE USUARIOS (IGDB): 82/100 (220 votos)
+TAMBIÉN CONOCIDO COMO: PZ, 프로젝트 좀보이드, ProjectZomboid32.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7kod.jpg
+URL: https://www.igdb.com/games/project-zomboid
+
+RESUMEN:
+Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, a massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die?
+
+HISTORIA:
+The Knox Event is used to refer to the zombie outbreak that occurs prior to and throughout the game. The event first takes place around Muldraugh and West Point, Kentucky. The incident is considered to have begun on the 4th of July, 1993, American Day of Independence. Just two days later the military evacuated residences from around the affected area and set up blockades in what is now known as the Knox Evacuation. The affected area is given the name: the Exclusion Zone, with the primary camp being south of Louisville.
+
+JUEGOS PARECIDOS:
+Si te gusta Project Zomboid, también podrían gustarte: Core Keeper, 7 Days to Die, Rain World, Skyhill, Northgard, Craft the World, Unturned, Rising World, Polity, Hammerting.

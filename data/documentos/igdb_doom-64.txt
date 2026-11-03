@@ -1,0 +1,27 @@
+JUEGO: Doom 64
+
+FUENTE: IGDB
+PLATAFORMA: Nintendo 64
+DISPONIBLE EN: Nintendo 64
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Terror
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Midway Studios San Diego
+PUBLISHER: Midway Home Entertainment
+FECHA DE LANZAMIENTO: 1997-04-04
+NOTA DE LA CRÍTICA (IGDB): 77/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 76/100 (88 votos)
+FRANQUICIA: Doom
+TAMBIÉN CONOCIDO COMO: D64, DOOM 64
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2gro.jpg
+URL: https://www.igdb.com/games/doom-64
+
+RESUMEN:
+You killed the Demons once, they were all dead. Or so you thought... A single Demon Entity escaped detection. Systematically it altered decaying, dead carnage back into grotesque living tissue. The Demons have returned - stronger and more vicious than ever before. You mission is clear, there are no options: kill or be killed!
+
+HISTORIA:
+In the aftermath of the lone Marine's legendary victories against the forces of Hell, the ravaged research installations of the Union Aerospace Corporation are sealed off under quarantine, left to fester beneath apocalyptic levels of radiation. For years the abandoned facilities lie silent. Then a barely functioning monitoring satellite transmits an ominous message back to Earth: a single mysterious entity, its presence long masked by the deadly radiation, wields vast powers of rejuvenation. This hidden horror has been steadily resurrecting the fallen demons, warping decayed corpses back into corrupted, living flesh and rebuilding an infernal army. With the threat mounting and no one else equal to the task, the battle-hardened Marine, the only experienced survivor of the earlier campaigns against Hell, is sent in alone to hunt down the demons and end the menace once and for all.
+
+JUEGOS PARECIDOS:
+Si te gusta Doom 64, también podrían gustarte: Doom II: Hell on Earth, Quake, Doom, Quake II, Doom, Clive Barker's Jericho, DRL, Shadows of the Damned, NecroVisioN, Perfect Dark.

@@ -1,0 +1,108 @@
+JUEGO: Farming Simulator 25
+PLATAFORMA: PC (Steam)
+GÉNEROS: Simuladores
+DESARROLLADOR: GIANTS Software
+PUBLISHER: GIANTS Software
+FECHA DE LANZAMIENTO: 12 NOV 2024
+PRECIO: $29.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (57242 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Disfruta de la vida en la granja con Farming Simulator 25 tanto en solitario como de forma cooperativa en modo multijugador. ¡La granja es tuya!
+
+DESCRIPCIÓN DETALLADA:
+¡Disfruta de la vida en la granja con Farming Simulator 25! Construye tu legado en solitario o de forma cooperativa en modo multijugador. En tu granja, tú decides.¡Esta granja es tuya!Construye una granja junto a ríos sinuosos y elevadores de grano históricos en América del Norte, rodeada de estanques en Europa central o en un paisaje exuberante de Asia oriental repleto de arrozales junto a una ciudad portuaria iluminada con luces de neón. Cultiva, cría animales, practica la silvicultura y gestiona un imperio agrícola formado por tiendas, producciones y construcciones.Condiciones climáticas cambiantes que deforman el terrenoLos tornados y el granizo añaden nuevos desafíos y obligan a los granjeros a prepararse y evaluar el impacto en sus cultivos. Ahora, los neumáticos causan impacto debido a la deformación del terreno. Además, hay un montón de efectos meteorológicos nuevos que le dan un toque romántico e inmersivo a tu granja. ¡Empieza el día con rayos de sol que atraviesan las copas de los árboles y tiñen de dorado la niebla matutina!Agricultura asiática, cultivos y animales nuevosCultiva dos tipos de arroz en arrozales inundados o bien espinacas, guisantes y judías verdes; la lista de cultivos crece en Farming Simulator 25 y alcanza los 25 cultivos en total. Disfruta de una variedad aún mayor con varias especies de árboles y hortalizas de invernadero. La agricultura asiática llega al juego: recorre tus campos operando nuevos tipos de equipo y cría búfalos y cabras, que llegan a tus pastos y recintos y se unen a las vacas, las ovejas, los cerdos, los pollos, los caballos y demás ganado. ¡Y también crías de animales!Maquinaria auténtica con GPSCultiva con precisión gracias a la dirección asistida por GPS y la automatización mejorada. Opera más de 400 vehículos y herramientas auténticos de más de 150 marcas internacionales líderes como Case IH, CLAAS, Fendt, John Deere, Kubota, Massey Ferguson, New Holland, Valtra y muchas más. ¡Escoge tu marca favorita o descubre tecnologías nuevas y emocionantes!Mejoras en la calidad de la agriculturaConecta de manera más profunda con los campos y la naturaleza gracias a una actualización tecnológica general con gráficos y físicas mejorados basados en el último Engine 10 de GIANTS. La accesibilidad mejorada y las funciones de calidad de vida hacen que Farming Simulator 25 sea ideal tanto para granjeros novatos como experimentados. Por si fuera poco, ¡descárgate creaciones de usuarios aprobadas por los desarrolladores en ModHub dentro del juego!
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64bit
+
+- Procesador: Intel Core i5-6400, AMD Ryzen 5 1400, or better
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card or better (min 3GB VRAM, DX12 support)
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Tarjeta de sonido: Sound card
+
+- Compatibilidad con RV: N/A
+
+- Notas adicionales: These system requirements can´t cover all possible system configurations so issues could occur that avoid or influence the functionality in some cases.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64bit
+
+- Procesador: Intel Core i7-10700, AMD Ryzen 7 3800X, or better
+
+- Memoria: 12 GB de RAM
+
+- Gráficos: Nvidia GeForce RTX 2070, AMD Radeon RX 5700 XT, Intel Arc A750 graphics card or better (min 8GB VRAM, DX12 support)
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Tarjeta de sonido: Sound card
+
+- Compatibilidad con RV: N/A
+
+- Notas adicionales: These system requirements can´t cover all possible system configurations so issues could occur that influence the functionality in some cases.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+- SO: MacOS 11.3 or newer
+
+- Procesador: Intel Core i5-6400, Apple M1, or better
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: AMD Radeon RX 470 or Apple M1 or better (min. 3 GB VRAM, DX12 support)
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Tarjeta de sonido: Sound Card
+
+- Notas adicionales: These system requirements can´t cover all possible system configurations so issues could occur that avoid or influence the functionality in some cases.
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+- SO: MacOS 11.3 or newer
+
+- Procesador: Apple M1 Pro or better
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Apple M1 Pro or better
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Tarjeta de sonido: Sound Card
+
+- Notas adicionales: These system requirements can´t cover all possible system configurations so issues could occur that influence the functionality in some cases.
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

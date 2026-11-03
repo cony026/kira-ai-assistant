@@ -1,0 +1,21 @@
+JUEGO: Pokémon Amarillo
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Yellow
+PLATAFORMA: Game Boy
+GÉNEROS: RPG, Aventura
+GENERACIÓN: Generación I
+REGIÓN PRINCIPAL: Kanto
+
+DESCRIPCIÓN:
+Pokémon Amarillo es un juego de rol de la saga principal de Pokémon, de la Generación I, para Game Boy. La aventura transcurre en la región de Kanto. Los Pokémon iniciales que se pueden elegir al comenzar son Bulbasaur, Charmander y Squirtle. Su Pokédex regional reúne 151 especies de Pokémon distintas. Incluye Pokémon legendarios como Articuno, Zapdos, Moltres y Mewtwo.
+
+POKÉDEX:
+- Kanto: 151 Pokémon
+
+POKÉMON INICIALES:
+Bulbasaur, Charmander, Squirtle
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Articuno, Zapdos, Moltres, Mewtwo
+Singulares (míticos): Mew

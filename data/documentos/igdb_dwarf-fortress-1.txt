@@ -1,0 +1,27 @@
+JUEGO: Dwarf Fortress
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows)
+DISPONIBLE EN: Linux, PC (Microsoft Windows)
+GÉNEROS: RPG, Simulación, Estrategia, Indie
+TEMAS: Fantasía, Supervivencia, Sandbox, Mundo abierto, 4X (explore, expand, exploit, and exterminate)
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica, Texto
+DESARROLLADOR: Bay 12 Games
+PUBLISHER: Kitfox Games
+FECHA DE LANZAMIENTO: 2022-12-06
+NOTA DE LA CRÍTICA (IGDB): 84/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (34 votos)
+TAMBIÉN CONOCIDO COMO: Slaves to Armok: God of Blood Chapter II: Dwarf Fortress, Dwarf Fortress.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co5v53.jpg
+URL: https://www.igdb.com/games/dwarf-fortress--1
+
+RESUMEN:
+In this complex construction/management/roguelike simulation, every generated world brings a unique challenge, whether it’s dwarves with their own simulated personalities or aquifers. Observe what makes your civilization fall into eventual decline, and learn for next time… until something else inevitably goes wrong.
+
+The combat model includes skills, body parts, material properties, aimed attacks, wrestling, pain, nausea, various poison effects, and much more.
+
+It’s difficult to convey the depth of the generation. Hundreds of animals and monsters, many of which are randomly created for each world, as well as generated poetry, musical forms, instruments, and dances for your dwarves to practice and perform. A dynamic weather model tracks wind, humidity, and air masses to create fronts, clouds, storms, and blizzards. Over two hundred rock and mineral types can appear, in their proper geological environments.
+
+JUEGOS PARECIDOS:
+Si te gusta Dwarf Fortress, también podrían gustarte: Rise of Industry, Rise to Ruins, Songs of Syx, The Universim, Clanfolk, Odd Realm, Stardeus, Scorchlands, Hero's Adventure: Road to Passion, Shapez 2: Factory.

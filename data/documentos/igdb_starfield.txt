@@ -1,0 +1,25 @@
+JUEGO: Starfield
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+DISPONIBLE EN: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+GÉNEROS: Shooter, RPG, Aventura
+TEMAS: Acción, Ciencia ficción, Sandbox, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Bethesda Game Studios
+PUBLISHER: Bethesda Softworks
+FECHA DE LANZAMIENTO: 2023-09-06
+NOTA DE LA CRÍTICA (IGDB): 85/100 (10 críticas)
+NOTA DE USUARIOS (IGDB): 71/100 (348 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co39vv.jpg
+URL: https://www.igdb.com/games/starfield
+
+RESUMEN:
+Starfield is a single-player action role-playing game developed by Bethesda Game Studios and set in an open-world space environment. Players create a customizable character and explore a region of the Milky Way galaxy spanning approximately 50 light-years, landing on over 1,000 planets with procedurally generated landscapes. Gameplay includes first-person and third-person combat using firearms, explosives, and melee weapons, as well as spaceship construction, outpost building, resource gathering, and crafting. Players recruit companion characters, join factions, and progress through skill trees spanning Physical, Social, Combat, Science, and Tech categories.
+
+HISTORIA:
+In the year 2330, twenty years after a devastating interstellar conflict known as the Colony War, the player character works as a space miner for Argos Extractors. During a routine dig, they uncover a strange artifact with unusual gravitational properties and experience a powerful vision upon touching it. This discovery draws the attention of Constellation, a renowned group of galactic explorers who believe these artifacts represent one of the greatest remaining mysteries in the settled systems. After delivering the artifact to Constellation's headquarters in New Atlantis, the capital of the United Colonies, the player joins the group in their quest to locate more artifacts scattered across known space. Their search soon draws competition from the Starborn, enigmatic beings with their own claims to the artifacts, raising the stakes of what began as simple exploration into something far more consequential.
+
+JUEGOS PARECIDOS:
+Si te gusta Starfield, también podrían gustarte: Star Wars Outlaws, Everspace 2, Atomic Heart, Just Cause 4, Critter Cove, The Outer Worlds, The First Descendant, The Elder Scrolls VI, Cyberpunk 2077, Dune: Awakening.

@@ -1,0 +1,22 @@
+JUEGO: Gobliiins
+
+FUENTE: IGDB
+PLATAFORMA: Atari ST/STE, PC (Microsoft Windows), iOS, Mac
+DISPONIBLE EN: Atari ST/STE, PC (Microsoft Windows), iOS, Mac, DOS, Amiga
+GÉNEROS: Point and click, Puzle, Aventura
+TEMAS: Fantasía, Histórico, Comedia
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Coktel Vision
+PUBLISHER: Sierra On-Line, Coktel Vision
+FECHA DE LANZAMIENTO: 1991-12-31
+NOTA DE USUARIOS (IGDB): 79/100 (37 votos)
+TAMBIÉN CONOCIDO COMO: Goblins
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2ibj.jpg
+URL: https://www.igdb.com/games/gobliiins
+
+RESUMEN:
+Gobliiins is an adventure game where the player controls a team of three goblins: Oups, Ignatius and Asgard (Hooter, Dwayne, and BoBo in the US release) to find four magic components. A voodoo doll has turned their king Angoulafre mad and by collecting the components they can track down Niak the Wizard, the only one who can put things right. The player needs to solve various puzzles by combining the different skills of the three goblins. It's possible switch between them and control them separately. Most of the puzzles are based on coordinated actions. One can cast powerful but erratic spells, another can collect and use objects, and the last can hit things. Action icons are activated at the bottom of the screen. The game takes in 22 landscapes, each of which has puzzles which must be cleared. The characters have limited energy, which can be sapped by traps.
+
+JUEGOS PARECIDOS:
+Si te gusta Gobliiins, también podrían gustarte: Goblins Quest 3, The Secret of Monkey Island, Gobliins 2: The Prince Buffoon, Monkey Island 2: LeChuck's Revenge, Full Pipe, Torin's Passage, Blazing Dragons, Zork: Grand Inquisitor, Zack & Wiki: Quest for Barbaros' Treasure, King's Quest II: Romancing the Throne.

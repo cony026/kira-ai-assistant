@@ -1,0 +1,24 @@
+JUEGO: Uno
+
+FUENTE: IGDB
+PLATAFORMA: Google Stadia, Xbox Series X|S, PlayStation 4, PC (Microsoft Windows)
+DISPONIBLE EN: Google Stadia, Xbox Series X|S, PlayStation 4, PC (Microsoft Windows), PlayStation 5, Xbox One, Nintendo Switch
+GÉNEROS: Estrategia, Cartas y tablero
+TEMAS: Infantil, Party
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona, Isométrica
+DESARROLLADOR: Ubisoft Chengdu
+PUBLISHER: Ubisoft Entertainment
+FECHA DE LANZAMIENTO: 2016-08-16
+NOTA DE LA CRÍTICA (IGDB): 52/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 70/100 (62 votos)
+FRANQUICIA: Uno
+TAMBIÉN CONOCIDO COMO: UNO, UNO.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1veg.jpg
+URL: https://www.igdb.com/games/uno--1
+
+RESUMEN:
+Uno makes its return with new exciting features! Match cards by color or value and play action cards to change things up. Race against others to empty your hand before everyone else in Classic play or customize your experience with House Rules.
+
+JUEGOS PARECIDOS:
+Si te gusta Uno, también podrían gustarte: Yu-Gi-Oh! Master Duel, Songs of Conquest, Farming Simulator 19, Quiplash, Cricket 24, Transformers: Battlegrounds, Puyo Puyo Tetris 2, Quiplash 2 Interlashional, Drawful 2, The Jackbox Party Pack 8.

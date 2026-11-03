@@ -1,0 +1,23 @@
+JUEGO: Columns
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Sharp X68000, Linux, Wii
+DISPONIBLE EN: Arcade, Sharp X68000, Linux, Wii, Sega Mega Drive/Genesis, PC (Microsoft Windows), TurboGrafx-16/PC Engine, Mac, FM Towns, Super Famicom
+GÉNEROS: Puzle, Estrategia
+TEMAS: Fantasía, Educativo
+MODOS DE JUEGO: Un jugador, Multijugador, Pantalla dividida
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Sega Enterprises, Ltd.
+PUBLISHER: Tec Toy, Media Factory, Sega Enterprises, Ltd., Sega, Telenet Japan
+FECHA DE LANZAMIENTO: 1990-03-01
+NOTA DE USUARIOS (IGDB): 67/100 (57 votos)
+FRANQUICIA: Columns
+TAMBIÉN CONOCIDO COMO: Shapes and Columns
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2897.jpg
+URL: https://www.igdb.com/games/columns
+
+RESUMEN:
+Go back in time to a bygone civilization: the ancient world of Phoenicia. There you will play a simple and captivating game where sparkling, rainbow-coloured jewels drop one after another. According to the ancient merchants, by arranging three or more of the same jewels horizontally, vertically or diagonally, you shall perform miracles.
+
+JUEGOS PARECIDOS:
+Si te gusta Columns, también podrían gustarte: Crazy Machines Elements, Kid Chameleon, Dr. Mario, Crazy Machines 2, Gardenscapes, Rocket Mania Deluxe, Light Crusader, Alien Storm, Flow Free, Tetris Party.

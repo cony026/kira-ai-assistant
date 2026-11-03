@@ -1,0 +1,17 @@
+JUEGO: Half-Life 2
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: PC, macOS, Xbox 360, Linux, Xbox, Android
+FECHA DE LANZAMIENTO: 2004-11-16
+DESARROLLADOR: Valve Software, NVIDIA Lightspeed Studios
+PUBLISHER: Valve
+GÉNEROS: Action, Shooter
+NOTA METACRITIC: 96
+RATING USUARIOS: 4.48/5 (4118 votos)
+TIEMPO DE JUEGO MEDIO: 7 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Steam Cloud, Atmospheric, steam-trading-cards, Great Soundtrack, Story Rich, First-Person, Sci-fi, Partial Controller Support, Horror, FPS, Classic, Zombies
+
+DESCRIPCIÓN:
+Gordon Freeman became the most popular nameless and voiceless protagonist in gaming history. He is painted as the most famous scientist and a hero within the world of Half-Life, and for a good reason. In the first game he saved the planet from alien invasion, this time, when the invasion is already begun, the world needs his help one more time. And you, as a player, will help this world to survive. This time Gordon arrives in City 17, ravaged and occupied by Combines, where he meets his old Black Mesa friends. 
+What is different, aside from the overall design quality, is the use of Valve’s Source engine that not only expands on the fluidity of character model animations and movement but allows players to interact with a myriad of objects with the advanced and realistic (to an extent) physics. Classic Headcrab Zombies are revamped and have new variants that provide players with different threats. For a story-driven FPS, Half-Life 2 is unique in its plot delivery, and making in-game mechanics feel natural, be it platforming or driving.

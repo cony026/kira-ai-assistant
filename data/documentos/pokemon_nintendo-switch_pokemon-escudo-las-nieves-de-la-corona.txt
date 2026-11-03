@@ -1,0 +1,18 @@
+JUEGO: Pokémon Escudo: Las nieves de la corona
+
+FUENTE: PokeAPI
+NOMBRE EN INGLÉS: Pokémon Shield: The Crown Tundra
+PLATAFORMA: Nintendo Switch
+GÉNEROS: Expansión (DLC), RPG, Aventura
+GENERACIÓN: Generación VIII
+REGIÓN PRINCIPAL: Galar
+LANZADO JUNTO A: Pokémon Espada: Las nieves de la corona
+
+DESCRIPCIÓN:
+Pokémon Escudo: Las nieves de la corona es una expansión descargable (DLC) de Pokémon Espada y Pokémon Escudo, de la Generación VIII, para Nintendo Switch. La aventura transcurre en la región de Galar. Se lanzó junto a Pokémon Espada: Las nieves de la corona; cada versión tiene algunos Pokémon exclusivos. Su Pokédex regional reúne 210 especies de Pokémon distintas. Incluye Pokémon legendarios como Regirock, Regice, Registeel, Regieleki, Regidrago y Articuno.
+
+POKÉDEX:
+- Nieves de la Corona: 210 Pokémon
+
+LEGENDARIOS Y SINGULARES:
+Legendarios: Regirock, Regice, Registeel, Regieleki, Regidrago, Articuno, Zapdos, Moltres, Cobalion, Terrakion, Virizion, Glastrier, Spectrier, Calyrex

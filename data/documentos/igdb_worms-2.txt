@@ -1,0 +1,22 @@
+JUEGO: Worms 2
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Shooter, Plataformas, Estrategia
+TEMAS: Acción, Comedia, Party
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Team17
+PUBLISHER: MicroProse Software, Inc., Team17
+FECHA DE LANZAMIENTO: 1997-12-31
+NOTA DE USUARIOS (IGDB): 81/100 (97 votos)
+FRANQUICIA: Worms
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1xjb.jpg
+URL: https://www.igdb.com/games/worms-2
+
+RESUMEN:
+Worms 2 is a turn-based strategy game, with each team moving in a randomly determined sequence across two-dimensional terrain. During a single turn, a team can only move one of its worms. Worms can crawl and jump, as well as swing by ninja-rope, parachute, teleport, and bungee when the appropriate items are available. The objective of a traditional match or campaign mission is to defeat all opposing teams by killing their worms. When hit with a weapon, the worm will lose health depending on the power of the weapon and the directness of the hit. A worm can be killed either by having its health reduced to zero or being knocked into the water around and below the level.
+
+JUEGOS PARECIDOS:
+Si te gusta Worms 2, también podrían gustarte: Worms Armageddon, Worms World Party, Worms, Worms 3D, Earth Defense Force 5, Level Devil, Raft Wars, Forts, Patapon 3, Struggling.

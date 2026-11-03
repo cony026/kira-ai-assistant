@@ -1,0 +1,34 @@
+JUEGO: Alien Storm
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, PlayStation 3, Commodore C64/128/MAX, ZX Spectrum
+DISPONIBLE EN: Arcade, PlayStation 3, Commodore C64/128/MAX, ZX Spectrum, Linux, Wii, Sega Mega Drive/Genesis, Atari ST/STE, PC (Microsoft Windows), Mac, Amiga, Xbox 360, Amstrad CPC, Sega Master System/Mark III
+GÉNEROS: Shooter, Hack and slash, Arcade
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona, Vista lateral
+DESARROLLADOR: Team Shinobi
+PUBLISHER: Sega of America, Tec Toy, U.S. Gold, Sega Enterprises, Ltd., Sega Corporation
+FECHA DE LANZAMIENTO: 1990-12-31
+NOTA DE USUARIOS (IGDB): 68/100 (46 votos)
+TAMBIÉN CONOCIDO COMO: エイリアンストーム
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2er6.jpg
+URL: https://www.igdb.com/games/alien-storm
+
+RESUMEN:
+Alien Storm is a side-scrolling beat 'em up. The game resembles Golden Axe, with a similar artistic style, three playable characters (a man, a woman, and a novelty character) and pick-up or power-up special attacks. The player (one player only on the Master System version, up to two players on the Mega Drive version, three on the arcade version) selects from the three different characters to embark upon a quest to save the Earth from an alien invasion.
+
+All of the Busters are playable from the beginning of the game. There are 6 missions to complete (8 in the Mega Drive version) with several stages, and each mission has the player blasting aliens, from the streets to the mother ship, where the mother of all aliens can be found. This task becomes increasingly difficult with each new mission, and the aliens are capable of hiding inside objects such as plants, postboxes, trashcans, drums, and other items. Each mission has an objective such as rescuing people or destroying an UFO.
+
+When dealing with a few aliens, flying heads will appear, which can be shot to collect life or energy. Energy is used specifically to power the energy based attacks of the player's weapon (such as flames or electricity) and to use the much more powerful special weapons.
+
+In a similar format as other early Sega arcade games, each character has unlimited usage of various short-range attacks, i.e. punches, kicks. Along with these standard attacks, each character has their own individual weapon (Garth's weapon that shoots lightning is replaced with a flame weapon in the Master System version). Special attacks are also included, and vary depending on the character chosen at the start of the game. For instance, Garth summons an U.S. Air Force starship that drops bombs across the street (in the Master System version he has Karen's special, a ballistic missile strike). Scooter will teleport out of his present location and leave a series of bombs that will blow up on the appearance of aliens, after which he will re-appear (in the Mega Drive version he just explodes, leaving his head, which his new body returns to retrieve). Karen calls down a nuclear missile, which incinerates every foe on the screen. However, a large amount of energy is depleted by using each character's special attack, and cannot be used if the energy of the player's character is too low.
+
+There are few bosses in the game. The arcade original only features a single boss that has three distinct forms. The Mega Drive port has two of these forms as two separate bosses. At the end of each mission, the side-scrolling gameplay shifts to either a shooting gallery perspective where the player must take out the aliens that pop out of various locations, similar to the bonus stages of Shinobi and Shadow Dancer, both also by Sega, or a running section that is similar to the side scrolling mode but plays like a horizontal shooter instead with projectile weapons.
+
+HISTORIA:
+Vicious predators from the far ends of the universe are invading our planet! They’re mean and wicked, creating havoc everywhere they go! Time for the aptly named “Alien Busters” to take control: Karen (absent in the Master System version, named "Karla" in some versions), Garth (named "Gordon" in some versions) and Scooter (the robot, named "Slammer" in Master System and PAL versions).
+Get nasty and kick some serious martian butt!
+
+JUEGOS PARECIDOS:
+Si te gusta Alien Storm, también podrían gustarte: Alien Soldier, Forgotten Worlds, Galaxy Force II, Super Fantasy Zone, Collapse, Target Earth, Wild Guns, Bonanza Bros., Crack Down, Incoming Forces.

@@ -1,0 +1,24 @@
+JUEGO: Lumines
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), iOS, PlayStation Portable, Xbox 360
+DISPONIBLE EN: PC (Microsoft Windows), iOS, PlayStation Portable, Xbox 360, Legacy Mobile Device
+GÉNEROS: Música, Puzle
+TEMAS: Infantil
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Gameloft, Q Entertainment
+PUBLISHER: Gameloft, Bandai, WildTangent, Q Entertainment
+FECHA DE LANZAMIENTO: 2004-12-12
+NOTA DE LA CRÍTICA (IGDB): 85/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 81/100 (29 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co53gv.jpg
+URL: https://www.igdb.com/games/lumines
+
+RESUMEN:
+Lumines is a block-dropping game, that may seem at first to be similar to Columns and Tetris. A 2 x 2 square (an O tetromino) made of four smaller block pieces is dropped into the playing field, which may appear different as the player advances through levels or skins. The small blocks that comprise the larger blocks will be one of two different colors. The objective is to rotate and align the blocks in such a way as to create 2x2 squares of the same color, which may span multiple blocks and, indeed, share blocks. For example, if one should get a 2x3 area of matching blocks, the middle portion will "share" itself with both the left and right halves and create two 2x2 squares. After the "timeline", which is synchronized to the music, sweeps over the matching blocks, they disappear. When too many unmatched blocks pile up to the point where no more blocks may be dropped in the playing field, the game ends.
+When part of a falling block hits an obstruction, the unobstructed portion of the block will split off and continue to fall. More points are scored by creating the largest number of squares during one "timeline" sweep. Increasing score multipliers are earned by repeatedly clearing squares on consecutive timeline sweeps. Bonuses are also awarded by reducing all remaining tiles to one single color or for removing all non-active tiles from the screen altogether.
+Occasionally, a block falls with a special square of one of the two colors with a "jewel" in the center. This square, when cleared as part of a matched 2x2 square, will cause all individual blocks of the same color that are horizontally or vertically adjacent to the matched 2x2 square, or to an adjacent square, to be cleared without score. These can be used for both generating large bonuses, since generally several blocks of the other color will be formed once these are removed, as well as to help the player recover if the field becomes too cluttered.
+
+JUEGOS PARECIDOS:
+Si te gusta Lumines, también podrían gustarte: Lumines Electronic Symphony, Taiko no Tatsujin: The Drum Master!, 3D Color Labyrinth, Pokémon, Poly Match, Tile Tale, Digit Dare, Joining Hands 2, Tricky Gems, Colorim.

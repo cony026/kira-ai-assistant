@@ -1,0 +1,23 @@
+JUEGO: Bad Piggies
+
+FUENTE: IGDB
+PLATAFORMA: BlackBerry OS, Windows Phone, Android, PC (Microsoft Windows)
+DISPONIBLE EN: BlackBerry OS, Windows Phone, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: Puzle
+TEMAS: Sandbox
+MODOS DE JUEGO: Un jugador, Battle Royale
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Rovio Entertainment
+PUBLISHER: Rovio Entertainment
+FECHA DE LANZAMIENTO: 2012-09-27
+NOTA DE LA CRÍTICA (IGDB): 75/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 68/100 (45 votos)
+FRANQUICIA: Angry Birds
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co49p4.jpg
+URL: https://www.igdb.com/games/bad-piggies
+
+RESUMEN:
+Bad Piggies is a puzzle video game and a spin-off to Angry Birds. Unlike previous games in the series, in this entry the player controls the pigs, building devices that travel on land and air to find pieces of a map to find the Angry Birds' eggs The objective of the game is to build a contraption that transports the pig from a starting point to the finish line, usually indicated by a map. Such contraptions are made of wood and iron as well as other objects such as wheels, soda bottles, umbrellas (to increase air resistance), motors, fans, TNT, and balloons.
+
+JUEGOS PARECIDOS:
+Si te gusta Bad Piggies, también podrían gustarte: There Is No Game, Poly Bridge 2, Three Digits, Tetr.io, Pokémon Café Mix, Genius Greedy Mouse, Melon Sandbox, That Level Again 2, That Level Again, The Powder Toy.

@@ -1,0 +1,22 @@
+JUEGO: Crypt of the NecroDancer
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Nintendo Switch
+DISPONIBLE EN: Xbox One, iOS, PC, macOS, Linux, Nintendo Switch, PlayStation 4, PS Vita
+FECHA DE LANZAMIENTO: 2015-04-22
+DESARROLLADOR: Brace Yourself Games
+PUBLISHER: Klei Entertainment, Brace Yourself Games
+GÉNEROS: Action, RPG, Indie
+NOTA METACRITIC: 87
+RATING USUARIOS: 3.99/5 (599 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Steam Cloud, steam-trading-cards, Great Soundtrack, RPG, Co-op, cooperative, 2D, Fantasy, Difficult, Steam Leaderboards, Female Protagonist, Local Co-Op
+
+DESCRIPCIÓN:
+Crypt of the NecroDancer is an indie roguelike game developed by Brace Yourself Games.
+
+You control Cadence, who looks for her missing father. During the search, she falls into a crypt, where the NecroDancer steals Cadence's heart. Cadence can't do anything without following the music's beat and has to find both her heart and her father.
+
+Crypt of the NecroDancer can be played with a dance pad, a gamepad or a keyboard. Having the Protagonists able to do anything only as the music beats makes the Crypt of the NecroDancer a rhythm roguelike game. Movement, attacking and using your items has to be planned in advance, as the player can't do anything between the beats. If the player misses the beat, no actual harm to the character is done, yet the scoring multiplier resets. The players set out to explore a procedurally generated underground dungeon. 
+
+The players can find new weapons, items, and equipment during the exploration of the dungeon. Your inventory is managed by the game. As in most roguelike games, your inventory is lost on death, yet any diamonds the players find still persists. On death, the players return to a game lobby, where they can buy permanent upgrades.

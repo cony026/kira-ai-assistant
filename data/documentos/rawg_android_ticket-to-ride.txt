@@ -1,0 +1,24 @@
+JUEGO: Ticket to Ride
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: PC, Xbox One, Xbox 360, PlayStation 4, Android, macOS, iOS
+FECHA DE LANZAMIENTO: 2009-12-18
+DESARROLLADOR: Plug In Digital, Asmodee Digital, Days of Wonder, Marmalade Game Studio, Next Level Games
+PUBLISHER: Microsoft Studios, Asmodee Digital, Days of Wonder, Marmalade Game Studio
+GÉNEROS: Strategy, Simulation, Board Games, Casual, Indie
+NOTA METACRITIC: 91
+RATING USUARIOS: 3.56/5 (117 votos)
+TIEMPO DE JUEGO MEDIO: 3 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Steam Cloud, 2D, Online multiplayer, Split Screen, Tactical, Local Multiplayer, PvP, Cross-Platform Multiplayer, In-App Purchases, Family Friendly, Turn-Based, 3D
+
+DESCRIPCIÓN:
+Ticket to Ride is a turn-based strategy game, an adaptation of a board game of the same name. 
+
+### Gameplay  
+The gameplay copies the board game entirely. The game takes place on a map of the United States and south Canada filled with multicolored railroads.
+Each player starts with 45 train pieces and has to choose two Destination Cards. The Destination Ticket cards show two cities that player has to connect. Each turn every player chooses one of three actions: spend their train pieces to claim part of the railroad, draw three more destination tickets and keep at least one of them and draw two railway car cards. You can only claim railroad parts if you have enough railway car cards that match the road’s color. The amount of train pieces you spend depends on the length of the railroad fragment. 
+Claiming routes and connecting cities on your Destination Ticket card give you points at the end of the game. However, incomplete tickets make you lose points. The player with the most points wins the match. 
+
+### Downloadable content  
+Ticket to Ride features several DLCs in the form of extra maps. Europe and 1910 USA maps were released in 2008 for Xbox 360 version of the game. These maps appeared later in the Mac and PC versions of the game alongside the Switzerland and Legendary Asia maps.

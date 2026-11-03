@@ -1,0 +1,23 @@
+JUEGO: PAC-MAN Championship Edition DX+
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Xbox 360, iOS, PC, PlayStation 3, Android
+FECHA DE LANZAMIENTO: 2013-09-24
+DESARROLLADOR: BANDAI NAMCO Entertainment America, Mine Loader Software Co
+PUBLISHER: Bandai Namco Entertainment, BANDAI NAMCO Entertainment US
+GÉNEROS: Action, Arcade, Puzzle
+RATING USUARIOS: 3.79/5 (155 votos)
+TIEMPO DE JUEGO MEDIO: 1 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Full controller support, Steam Cloud, Great Soundtrack, 2D, Steam Leaderboards, Classic, Controller, Retro, Roguelike, Fast-Paced, Remake, Touch-Friendly
+
+DESCRIPCIÓN:
+PAC-MAN Championship Edition DX is an arcade game; a part of the Namco Bandai’s long-running PAC-MAN series and a follow-up to the 2007 title PAC-MAN Championship Edition. 
+
+###Gameplay 
+The core gameplay is similar to most other PAC-MAN games. The player controls Pac-Man through the maze where he must eat dots and avoid hostile ghosts. Besides dots, the player can collect bonus items that give additional points, and power pellets that allow Pac-Man to eat ghosts. Eating several ghosts in a row triggers a combo that gives the player a huge amount of extra points. 
+Though the base gameplay is similar to that of the original arcade game, there are numerous new mechanics and gameplay differences in Championship Edition DX. The mazes consist of two halves. Eating all the dots on one of them makes a bonus item appear on the other half and eating an item makes a new dots layout appear on the other side. If a ghost is about to catch Pac-Man, a slow-motion effect kicks in giving the player an opportunity to avoid it. 
+There are three main game modes in the game: Score Attack, Time Attack, and Ghost Combo. The game features nine different courses and several visual style options. 
+
+###DX+ version 
+In 2013, the game was renamed as PAC-MAN Championship Edition DX+ and received a free update. It featured an upgrade to the online component of the game and new paid downloadable content such as new skins and courses.

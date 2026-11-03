@@ -1,0 +1,66 @@
+JUEGO: STAR WARS Zero Company™
+PLATAFORMA: PC (Steam)
+GÉNEROS: Estrategia
+DESARROLLADOR: Bit Reactor
+PUBLISHER: Electronic Arts
+FECHA DE LANZAMIENTO: 27 AGO 2026
+PRECIO: $49.99
+
+RESEÑA / DESCRIPCIÓN:
+Dirige un escuadrón de élite a lo largo de una auténtica y apasionante historia en STAR WARS Zero Company™, un juego táctico por turnos para un jugador ambientado en el ocaso de las Guerras Clon.
+
+DESCRIPCIÓN DETALLADA:
+Dirige un escuadrón de élite a lo largo de una historia auténtica y desgarradora en STAR WARS Zero Company™, un juego táctico por turnos en solitario, ambientado en el ocaso de las Guerras Clon.
+
+Ponte en la piel de Hawks, exoficial de la República que lidera la Compañía Cero, la cual ha sido reclutada para una operación contra una amenaza emergente que podría llegar a destruir toda la galaxia.Lidera el mejor grupo de agentes de las Guerras Clon
+Dirige el mejor escuadrón de la galaxia en operaciones tácticas, investigaciones y otras emocionantes misiones a través de una historia cinematográfica original.Elige tu camino hacia la victoria
+Crea estrategias y adáptate tanto en tu base de operaciones como en el caos del campo de batalla para que cada movimiento cuente: los resultados de tus decisiones harán diferente cada partida.Lucha en combates tácticos de Star Wars
+Despliega a un equipo de agentes compuesto por una variedad de arquetipos, desde canallas hasta astromecánicos, e incluso una Jedi, y elige entre un arsenal de habilidades tácticas para superar y vencer al enemigo.Forja lazos profundos con tu escuadrón
+Mejora las habilidades de tu escuadrón y despliégalo en misiones donde aprenderán a trabajar en equipo y desbloquearán sinergias que podrían inclinar la balanza a tu favor.Lucha como tú quieras
+Personaliza el aspecto y la especialización de combate de Hawks y crea un equipo con personajes nuevos y originales de Star Wars, cambiando su aspecto, equipamiento y habilidades, para adaptarlos a tu estilo de juego.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: 64 bit Windows 10/11 (Windows 11 Recommended)	
+
+- Procesador: Intel Core i5-8400 or Ryzen 5 2600X		
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia GeForce GTX 1080, Radeon RX 5600 XT, or Intel ARC B580		
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Notas adicionales: Resolution: 1920x1080 FPS: 30 Graphics Settings Preset: Low
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: 64 bit Windows 10/11 (Windows 11 Recommended)
+
+- Procesador: Intel Core i7-10700K or Ryzen 7 3700X
+
+- Memoria: 32 GB de RAM
+
+- Gráficos: Nvidia Geforce RTX 3080 or Radeon RX 7800 XT	
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Notas adicionales: Resolution: 2560x1440 FPS: 60 Graphics Settings Preset: High
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

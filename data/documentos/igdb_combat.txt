@@ -1,0 +1,22 @@
+JUEGO: Combat
+
+FUENTE: IGDB
+PLATAFORMA: Atari 2600
+DISPONIBLE EN: Atari 2600
+GÉNEROS: Shooter, Arcade
+TEMAS: Acción, Bélico
+MODOS DE JUEGO: Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Atari
+PUBLISHER: Atari, Polyvox
+FECHA DE LANZAMIENTO: 1977-09-11
+NOTA DE USUARIOS (IGDB): 70/100 (32 votos)
+TAMBIÉN CONOCIDO COMO: Tank Plus, Combate, Combat ~ Tank-Plus
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6s9a.jpg
+URL: https://www.igdb.com/games/combat
+
+RESUMEN:
+Combat is an early video game by Atari, Inc. for the Atari 2600. It was based on two earlier black-and-white coin-operated arcade games produced by Atari. Combat had color graphics and numerous gameplay variations. The 27 game modes featured a variety of different combat scenarios, including tanks, biplanes, and jet fighters. The tank games had interesting options such as bouncing munitions ("Tank-Pong") and invisibility. The biplane and jet games also allowed for variation, such as multiple planes per player and an inventive game with a squadron of planes versus one giant bomber.
+
+JUEGOS PARECIDOS:
+Si te gusta Combat, también podrían gustarte: Hell Let Loose, Battle Tanks, Cabal, Silk Worm, Battle Bakraid, Army Men: RTS, River Raid, Heliborne, Falcon Patrol, Battlezone.

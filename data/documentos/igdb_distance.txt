@@ -1,0 +1,23 @@
+JUEGO: Distance
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Carreras, Aventura, Indie, Arcade
+TEMAS: Acción, Supervivencia
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Primera persona, Tercera persona, Realidad virtual
+DESARROLLADOR: Refract Studios
+PUBLISHER: Refract Studios
+FECHA DE LANZAMIENTO: 2018-09-18
+NOTA DE LA CRÍTICA (IGDB): 90/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 78/100 (31 votos)
+TAMBIÉN CONOCIDO COMO: Distance.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/i4ro9zah58pxnlmlucja.jpg
+URL: https://www.igdb.com/games/distance
+
+RESUMEN:
+Distance is a survival racing game where you pilot a versatile car through a mysterious, ruined world, using boost, jump, rotate, and flight abilities to navigate treacherous tracks and uncover the story of its past. It blends arcade-style racing with exploration, offering solo adventure, multiplayer modes, a built-in level editor with Steam Workshop support, and an original soundtrack.
+
+JUEGOS PARECIDOS:
+Si te gusta Distance, también podrían gustarte: Race the Sun, Road Redemption, Chkn, Hover: Revolt of Gamers, Forced, Chasm, Unturned, Contagion, SpeedRunners, A Hat in Time.

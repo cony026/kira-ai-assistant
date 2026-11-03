@@ -1,0 +1,20 @@
+JUEGO: Cruis'n USA
+
+FUENTE: IGDB
+PLATAFORMA: Arcade
+DISPONIBLE EN: Arcade
+GÉNEROS: Carreras, Arcade
+MODOS DE JUEGO: Un jugador, Multijugador, Pantalla dividida
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Midway Games
+PUBLISHER: Nintendo
+FECHA DE LANZAMIENTO: 1994-12-01
+NOTA DE USUARIOS (IGDB): 66/100 (33 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2b2v.jpg
+URL: https://www.igdb.com/games/cruis-n-usa
+
+RESUMEN:
+Cruis'n USA is an arcade racing game originally released in 1994. It was developed by Midway Games and published and distributed by Nintendo. It is the first game in the Cruis'n series and features locations around the United States.
+
+JUEGOS PARECIDOS:
+Si te gusta Cruis'n USA, también podrían gustarte: TrackMania, Sega Rally Championship, California Speed, Rad Racer, Super GT 24h, Need for Speed: Hot Pursuit 2, Juiced: Eliminator, Cruis'n World, Top Gear, Need for Speed: High Stakes.

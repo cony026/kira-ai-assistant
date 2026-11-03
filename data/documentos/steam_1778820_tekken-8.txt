@@ -1,0 +1,79 @@
+JUEGO: TEKKEN 8
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción
+DESARROLLADOR: Bandai Namco Studios Inc.
+PUBLISHER: Bandai Namco Entertainment
+FECHA DE LANZAMIENTO: 25 ENE 2024
+PRECIO: $23.99
+NOTA METACRITIC: 91/100
+RESEÑAS DE USUARIOS (STEAM): Mixed (72193 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+TEKKEN 8 es la última entrega de la saga TEKKEN, la cúspide de los juegos de lucha 3D. Únete a la lucha con más de 32 personajes y no te pierdas la continuación de esta épica saga. ¡Prepárate para el mejor y mayor juego de TEKKEN hasta la fecha!
+
+DESCRIPCIÓN DETALLADA:
+TEKKEN 8 es la última entrega de la saga TEKKEN, que ha cumplido 30 años en 2025, año en el que también ha superado la cifra de 59 millones de copias vendidas en todo el mundo.
+
+El juego incluye más de 32 personajes con modelos de alta resolución meticulosamente detallados que llevan al límite el hardware moderno. Disfruta de combates llenos de emoción con nuevas funciones como Heat, o sal de situaciones complicadas con poderosos movimientos definitivos conocidos como Rage Arts. Con el nuevo sistema de control Special Style, puedes jugar con un solo botón, lo que te permite disfrutar de aspectos como predecir el próximo movimiento de tu oponente.
+
+TEKKEN 8 ofrece varias formas de jugar. Sumérgete en la trama con mayor recorrido de la historia de los videojuegos con el modo de juego Historia, para un jugador, y conoce mejor a tu luchador preferido mediante episodios de personaje individuales. Diviértete dando forma a tu propio avatar y deja huella en varios arcades, donde además aprenderás los fundamentos del combate. También puedes visitar la sala online interactiva donde se reúnen jugadores de todos los rincones del mundo y medirte con ellos.
+
+¿Quieres mejorar tus habilidades? Puedes luchar contra tu propio fantasma o los de otros jugadores, que aprenden tu estilo de lucha usando tecnología de IA. También puedes ver repeticiones de combates para recibir consejos y mejorar tus habilidades.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-Bit
+
+- Procesador: Intel Core i5-6600K/AMD Ryzen 5 1600
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Nvidia GeForce GTX 1050Ti/AMD Radeon R9 380X
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 100 GB de espacio disponible
+
+- Tarjeta de sonido: DirectX compatible soundcard/Onboard chipset
+
+- Notas adicionales: *&quot;FPS (frame rate/second): Stable over 60&quot; is guaranteed and selected under the graphic settings by default when the game is launched for the first time.*Frame rate may drop when other applications are running in the background.*Please note that minimum and recommended specifications are subjected to changes without notice.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 64-Bit
+
+- Procesador: Intel Core i7-7700K/AMD Ryzen 5 2600
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: Nvidia GeForce RTX 2070/AMD Radeon RX 5700 XT
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 100 GB de espacio disponible
+
+- Tarjeta de sonido: DirectX compatible soundcard/Onboard chipset
+
+- Notas adicionales: *&quot;FPS (frame rate/second): Stable over 60&quot; is guaranteed and selected under the graphic settings by default when the game is launched for the first time.*Frame rate may drop when other applications are running in the background.*Please note that minimum and recommended specifications are subjected to changes without notice.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

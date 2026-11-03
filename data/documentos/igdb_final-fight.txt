@@ -1,0 +1,32 @@
+JUEGO: Final Fight
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, Sharp X68000, Commodore C64/128/MAX, ZX Spectrum
+DISPONIBLE EN: Arcade, Sharp X68000, Commodore C64/128/MAX, ZX Spectrum, Atari ST/STE, iOS, Amiga, Amstrad CPC
+GÉNEROS: Hack and slash, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Tercera persona, Vista lateral
+DESARROLLADOR: Capcom
+PUBLISHER: Capcom, Kixx, U.S. Gold
+FECHA DE LANZAMIENTO: 1989-11-25
+NOTA DE USUARIOS (IGDB): 79/100 (150 votos)
+FRANQUICIA: Final Fight
+TAMBIÉN CONOCIDO COMO: Street Fighter '89, Street Fighter: The Final Fight
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co4a0q.jpg
+URL: https://www.igdb.com/games/final-fight
+
+RESUMEN:
+Final Fight is a side-scrolling beat-'em-up produced by Capcom. Final Fight can be played by up to two players simultaneously. Before the game begins, the player chooses between the three main characters: Haggar, Cody, and Guy. Each has his own fighting style and attributes. Health gauges are displayed for both player and enemy characters.
+
+The controls for Final Fight consist of an eight-way joystick and two buttons for attacking and jumping respectively. Pressing the attack button repeatedly when attacking an enemy or multiple enemies will cause the player character to perform a combo. The final blow of the combo can be changed to a throw if the player moves the joystick in the opposite direction just before landing it. The player can also perform a jump attack. Pressing the attack and jump buttons simultaneously allows the player to perform a special attack that strikes all surrounding enemies, but will drain a small portion of the player's health.
+
+Enemies can be grabbed simply by walking into one of them. When an enemy is grabbed, the player can perform a grab attack by pressing the attack button or perform a throw by tilting the joystick left or right. A thrown enemy can be tossed at another for additional damage. Items such as weapons, health recovery items, and items awarding extra points can be picked up by standing over one and pressing the attack button. Weapons have limited uses and will disappear if the player is disarmed by an enemy too much or when the player moves to a new area.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.
+
+HISTORIA:
+Set in the fictional Metro City, the player controls one of three characters—former pro wrestler and newly elected mayor Mike Haggar, his daughter's boyfriend Cody, and Cody's best friend Guy—as they set out to defeat the Mad Gear gang and rescue Haggar's young daughter Jessica.
+
+JUEGOS PARECIDOS:
+Si te gusta Final Fight, también podrían gustarte: Final Fight 2, Final Fight 3, Double Dragon, Streets of Rage, Mighty Final Fight, Streets of Rage 2, Super Double Dragon, Shinobi, Double Dragon II: The Revenge, Golden Axe III.

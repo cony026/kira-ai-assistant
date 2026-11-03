@@ -1,0 +1,27 @@
+JUEGO: Call of Duty
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Shooter
+TEMAS: Acción, Histórico, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Infinity Ward
+PUBLISHER: Aspyr Media, Activision
+FECHA DE LANZAMIENTO: 2003-10-29
+NOTA DE LA CRÍTICA (IGDB): 87/100 (3 críticas)
+NOTA DE USUARIOS (IGDB): 81/100 (851 votos)
+FRANQUICIA: Call of Duty
+TAMBIÉN CONOCIDO COMO: COD, Call of Duty 1, CoDSP.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2n19.jpg
+URL: https://www.igdb.com/games/call-of-duty
+
+RESUMEN:
+Call of Duty is a first-person shooter set during World War II, developed by Infinity Ward using a modified id Tech 3 engine. The single-player campaign spans three separate perspectives, with the player controlling American, British, and Soviet soldiers across the European theater. Gameplay emphasizes squad-based combat with AI-controlled allies who support the player during missions, making use of authentic period firearms, iron sight aiming, and a health point system with medkits.
+
+HISTORIA:
+The American campaign follows Private Martin of the 506th Parachute Infantry Regiment from basic training at Camp Toccoa through the chaos of the Normandy airdrops on D-Day. Scattered from his unit, Martin fights alongside whatever soldiers he can find to secure towns, silence German artillery threatening Utah Beach, and rescue captured British officers before facing German armor during the Battle of the Bulge. The British campaign puts Sergeant Jack Evans in a Horsa glider during the assault on Pegasus Bridge, then follows his transfer to the SAS for sabotage missions deep behind enemy lines, including the destruction of a restored dam and an infiltration of the battleship Tirpitz. The Soviet campaign traces Corporal Voronin from the desperate river crossing at Stalingrad, where Soviet officers execute soldiers who retreat, through the recapture of a key apartment building, and eventually forward to 1945 where he commands a tank during the advance on Berlin and storms the Reichstag to raise the victory banner.
+
+JUEGOS PARECIDOS:
+Si te gusta Call of Duty, también podrían gustarte: Call of Duty 2, Call of Duty 3, Call of Duty 4: Modern Warfare, Medal of Honor: Airborne, Call of Duty: World at War, Battlefield 2, Call of Duty: Black Ops II, Battlefield 1942, Medal of Honor, Call of Duty: Modern Warfare 3.

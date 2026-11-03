@@ -1,0 +1,24 @@
+JUEGO: North & South
+
+FUENTE: IGDB
+PLATAFORMA: Commodore C64/128/MAX, ZX Spectrum, Atari ST/STE, DOS
+DISPONIBLE EN: Commodore C64/128/MAX, ZX Spectrum, Atari ST/STE, DOS, Amiga, Family Computer, Amstrad CPC, Nintendo Entertainment System, MSX
+GÉNEROS: Plataformas, Simulación, Estrategia
+TEMAS: Acción, Fantasía, Histórico, Comedia, Bélico
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica, Vista lateral
+DESARROLLADOR: Infogrames
+PUBLISHER: Infogrames, Kotobuki Systems
+FECHA DE LANZAMIENTO: 1989-12-31
+NOTA DE USUARIOS (IGDB): 75/100 (34 votos)
+TAMBIÉN CONOCIDO COMO: North and South
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2yey.jpg
+URL: https://www.igdb.com/games/north-south
+
+RESUMEN:
+Your objective is ensure victory for your side by eliminating all the enemy armies. You will be controlling armies across all the combat zones of the Civil War. You may respect history or not, as you like. North and South does not try to reconstitute history and places playability over realism, it only tries to emulate the atmosphere and overall strategic conditions of the Civil War. Thus, as in reality, the player may choose to advance deep into the South or North, to attack in the center or to attempt a turning movement.
+
+This game can be played against computer or between two human opponents. You can also choose between a full strategic mode without the arcade parts or use the arcade mode during the fights, which allows you to directly control your own units.
+
+JUEGOS PARECIDOS:
+Si te gusta North & South, también podrían gustarte: Fantasy: Battle Simulator, Sid Meier's Civilization Revolution, Age of Empires III, Three Kingdoms: Fate of the Dragon, Gary Grigsby's War in the East, Lords of the Realm III, Bad North, Ultimate General: Civil War, Sānguó Qúnyīng Zhuán, Beyond All Reason.

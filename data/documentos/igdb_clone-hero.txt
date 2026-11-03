@@ -1,0 +1,23 @@
+JUEGO: Clone Hero
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Música, Simulación, Indie
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida
+PERSPECTIVA: Vista lateral
+FECHA DE LANZAMIENTO: 2022-11-29
+NOTA DE USUARIOS (IGDB): 89/100 (31 votos)
+TAMBIÉN CONOCIDO COMO: GuitaRPG, GuitarGame, StrikeLine
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cobyi5.jpg
+URL: https://www.igdb.com/games/clone-hero
+
+RESUMEN:
+Clone Hero is a free rhythm game, which can be played with any 5 or 6 button Guitars, Drums (knockoffs, MiDis and from official guitar hero or rock band series), Gamepad Controllers, or just your standard computer keyboard. Download the game, copy your song charts into the song folder and enjoy hours of fun!
+
+HISTORIA:
+Clone Hero is exactly as its name implies. It is a Guitar Hero Clone, much like its predecessors, Frets on Fire, Phase Shift, and even modded Guitar Hero 3 on PC as well. Clone Hero is currently in development in the Unity engine, being lead by Srylain The 2nd.
+
+JUEGOS PARECIDOS:
+Si te gusta Clone Hero, también podrían gustarte: Rhythm Doctor, Airships: Conquer the Skies, Abandoned Archive, Fireboy & Watergirl in the Forest Temple, Evolvation, Muck, Feed and Grow: Fish, Into the Flames, Storm Chasers, Chicken Invaders 4.

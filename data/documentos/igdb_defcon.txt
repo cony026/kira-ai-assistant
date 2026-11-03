@@ -1,0 +1,23 @@
+JUEGO: DEFCON
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia en tiempo real, Simulación, Estrategia, Indie
+TEMAS: Bélico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Introversion Software
+PUBLISHER: Introversion Software, Encore Software, Pinnacle Entertainment, Ambrosia Software
+FECHA DE LANZAMIENTO: 2006-09-29
+NOTA DE LA CRÍTICA (IGDB): 85/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 77/100 (32 votos)
+TAMBIÉN CONOCIDO COMO: DEFCON: Global Thermonuclear War, DEFCON: Everybody Dies, DEFCOИ, defcon.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3ob4.jpg
+URL: https://www.igdb.com/games/defcon
+
+RESUMEN:
+You play the role of a military commander hidden deep within an underground bunker. Your mission - to successfully exterminate your enemy's civilian population whilst disabling their ability to attack your own. Start by launching your battleships, submarines, and bombers in order to decimate your opponent's defences. Scramble together your alliances, but remember only one can stand victorious. Prepare your pre-emptive strike before one of your supposed allies get the same idea. Choose the perfect moment for betrayal, obliterating your opponents with an apocalyptic thermonuclear barrage, but get it wrong and their devastating counter attack will bring you to your knees!
+
+JUEGOS PARECIDOS:
+Si te gusta DEFCON, también podrían gustarte: Conflict of Nations: World War 3, Cosmoteer: Starship Architect & Commander, Steel Division 2, Sudden Strike 4, Total War: Warhammer III, Software Inc., Thunder Tier One, AI War 2, TheoTown, Bronze Age.

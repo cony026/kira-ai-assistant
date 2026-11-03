@@ -1,0 +1,24 @@
+JUEGO: Armello
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: Xbox One, iOS, Nintendo Switch, PlayStation 4, PC, Linux, macOS
+FECHA DE LANZAMIENTO: 2015-09-01
+DESARROLLADOR: League of Geeks
+PUBLISHER: League of Geeks
+GÉNEROS: Adventure, RPG, Strategy, Board Games, Indie
+NOTA METACRITIC: 75
+RATING USUARIOS: 3.59/5 (212 votos)
+TIEMPO DE JUEGO MEDIO: 5 horas
+TAGS: Singleplayer, Steam Achievements, Multiplayer, Full controller support, Steam Cloud, steam-trading-cards, Great Soundtrack, RPG, Fantasy, Online multiplayer, role-playing, In-App Purchases, Turn-Based, Dark Fantasy, Turn-Based Strategy
+
+DESCRIPCIÓN:
+Armello is a digital role-playing tabletop game developed by an indie Australian studios League of Geeks. It is the debut project of the game.
+
+###Plot
+The game is set in a “dark fairytale” kingdom of Armello, where the anthropomorphic animals from many clans live. The king has gone crazy and is slowly dying because of the dark force named the Rot. The representatives of several factions come to the kingdom's capital to become the new king. Four characters are present at the beginning of the game: Tane the wolf, Amber the rabbit, Mercurio the rat, and Sanah, the bear. 
+
+###Gameplay
+Armello is a digital remake of a traditional fantasy tabletop role-playing game in which there are rolling dice and cards, that allows the players to execute certain actions. The gaming area is divided into hexagonal plates, that contain procedurally generated features like caves, buildings, other characters or pieces of equipment. As the game progresses, the players can buy in-game currency to purchase special abilities using the skill tree, that is unique to every character.
+
+The game uses a turn-based system, where the players can equip new items or acquire new skills while the other players make their turn. The cards and dice are used only when the players directly interact with the in-game world. The players use cards for casting spells, hiring teammates, treating wounds or using the special items that grant temporary abilities.

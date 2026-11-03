@@ -1,0 +1,23 @@
+JUEGO: Noita
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Shooter, RPG, Simulación, Aventura, Indie, Arcade
+TEMAS: Acción, Fantasía, Sandbox
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Nolla Games
+PUBLISHER: Nolla Games
+FECHA DE LANZAMIENTO: 2020-10-15
+NOTA DE LA CRÍTICA (IGDB): 80/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 78/100 (100 votos)
+TAMBIÉN CONOCIDO COMO: 노이타
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1qp1.jpg
+URL: https://www.igdb.com/games/noita
+
+RESUMEN:
+Noita is a magical action roguelite set in a world where every pixel is physically simulated. Fight, explore, melt, burn, freeze and evaporate your way through the procedurally generated world using spells you've created yourself. Explore a variety of environments ranging from coal mines to freezing wastelands while delving deeper in search for unknown mysteries.
+
+JUEGOS PARECIDOS:
+Si te gusta Noita, también podrían gustarte: Tale of Immortal, Neverlooted Dungeon, Unexplored 2: The Wayfarer's Legacy, Peglin, MapleStory 2, Hytale, Tiny Rogues, Happy's Humble Burger Farm, AdventureQuest Worlds, Cuisineer.

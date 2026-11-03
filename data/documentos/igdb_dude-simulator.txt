@@ -1,0 +1,22 @@
+JUEGO: Dude Simulator
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Simulación, Aventura, Indie
+TEMAS: Acción, Sandbox, Mundo abierto
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Kiddy
+PUBLISHER: Kiddy
+FECHA DE LANZAMIENTO: 2017-07-13
+NOTA DE USUARIOS (IGDB): 72/100 (39 votos)
+TAMBIÉN CONOCIDO COMO: DudeSimulator.exe, DudeSimulator.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coa93t.jpg
+URL: https://www.igdb.com/games/dude-simulator
+
+RESUMEN:
+Dude Simulator is an open world sandbox game. This is a life simulator. The main objective is to enjoy what you are doing.
+
+JUEGOS PARECIDOS:
+Si te gusta Dude Simulator, también podrían gustarte: Ghost Hunter, The Long Drive, Critter Cove, Astro Colony, Dude Simulator 2, Radiation Island, The Muller-Powell Principle, Mist Survival, Tribe: Primitive Builder, Backrooms: The Project.

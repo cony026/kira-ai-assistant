@@ -1,0 +1,26 @@
+JUEGO: Ark: Survival Evolved
+
+FUENTE: IGDB
+PLATAFORMA: Google Stadia, Xbox Series X|S, PlayStation 4, Linux
+DISPONIBLE EN: Google Stadia, Xbox Series X|S, PlayStation 4, Linux, Android, PC (Microsoft Windows), iOS, Mac, Xbox One, Nintendo Switch
+GÉNEROS: Shooter, RPG, Simulación, Aventura, Indie
+TEMAS: Acción, Supervivencia, Sandbox, Mundo abierto
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, Pantalla dividida, MMO, Battle Royale
+PERSPECTIVA: Primera persona, Tercera persona, Realidad virtual
+DESARROLLADOR: Studio Wildcard
+PUBLISHER: Studio Wildcard, Snail Games, Snail Games USA
+FECHA DE LANZAMIENTO: 2017-08-27
+NOTA DE LA CRÍTICA (IGDB): 69/100 (8 críticas)
+NOTA DE USUARIOS (IGDB): 68/100 (264 votos)
+TAMBIÉN CONOCIDO COMO: 方舟：生存进化, ARK: Survival Evolved, ARK: Survival of the Fittest, 方舟：生存進化, ShooterGame_BE.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co493k.jpg
+URL: https://www.igdb.com/games/ark-survival-evolved
+
+RESUMEN:
+Ark: Survival Evolved is an open-world action-adventure survival game where players awaken stranded on a mysterious island populated by dinosaurs, prehistoric creatures, and mythical beasts. Gameplay revolves around gathering resources, crafting tools and structures, and taming creatures that can be ridden or used for combat and transportation. The game supports both single-player and multiplayer modes, with multiplayer servers allowing players to form tribes and compete or cooperate. Several expansion packs add new maps and storylines, and the game spawned an animated series, a remaster in Unreal Engine 5 titled Ark: Survival Ascended, and a planned sequel.
+
+HISTORIA:
+Players awaken on a mysterious island called the Ark with no memory of how they arrived. Surrounded by dinosaurs and other prehistoric creatures, they must survive while uncovering the island's secrets through scattered explorer notes left by previous inhabitants. As survivors progress through increasingly difficult boss encounters, they begin to piece together the truth about the Ark and the technology sustaining it. The deeper story, revealed through expansion packs, follows survivors as they travel from the island to an underground alien world, a corrupted future Earth, and eventually aboard a massive colony ship traveling through deep space in search of a new home for humanity.
+
+JUEGOS PARECIDOS:
+Si te gusta Ark: Survival Evolved, también podrían gustarte: 7 Days to Die, Rising World, Astroneer, Empyrion: Galactic Survival, Valheim, Unturned, Citadel: Forged With Fire, Risk of Rain 2, Grounded, Once Human.

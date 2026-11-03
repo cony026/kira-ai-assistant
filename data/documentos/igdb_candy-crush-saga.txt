@@ -1,0 +1,22 @@
+JUEGO: Candy Crush Saga
+
+FUENTE: IGDB
+PLATAFORMA: Amazon Fire TV, Windows Phone, Android, PC (Microsoft Windows)
+DISPONIBLE EN: Amazon Fire TV, Windows Phone, Android, PC (Microsoft Windows), iOS
+GÉNEROS: Puzle, Estrategia, Arcade
+TEMAS: Fantasía
+MODOS DE JUEGO: Un jugador, Cooperativo
+PERSPECTIVA: Isométrica
+DESARROLLADOR: King
+PUBLISHER: King
+FECHA DE LANZAMIENTO: 2012-04-12
+NOTA DE USUARIOS (IGDB): 58/100 (80 votos)
+TAMBIÉN CONOCIDO COMO: Candy Crush
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co25lo.jpg
+URL: https://www.igdb.com/games/candy-crush-saga
+
+RESUMEN:
+Candy Crush Saga is a free-to-play match-three puzzle video game released by King as a variation of their browser game Candy Crush. In the game, players complete levels by swapping colored pieces of candy on a game board to make a match of three or more of the same color, eliminating those candies from the board and replacing them with new ones, which could potentially create further matches. Boards have various goals that must be completed within a fixed number of moves, such as collecting a specific number of a type of candy.
+
+JUEGOS PARECIDOS:
+Si te gusta Candy Crush Saga, también podrían gustarte: Bejeweled, Warhammer 40,000: Gladius - Relics of War, Baldur's Gate, Total War: Warhammer III, Alice's Patchwork, Blacksmith Master, Cookie Run: Kingdom, Songs of Conquest, Card Hog, WayOut.

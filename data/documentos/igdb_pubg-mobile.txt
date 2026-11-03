@@ -1,0 +1,24 @@
+JUEGO: PUBG Mobile
+
+FUENTE: IGDB
+PLATAFORMA: Android, iOS
+DISPONIBLE EN: Android, iOS
+GÉNEROS: Shooter, Estrategia
+TEMAS: Acción
+MODOS DE JUEGO: Battle Royale
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: LightSpeed Studios
+PUBLISHER: Tencent Games, Level Infinite, Krafton
+FECHA DE LANZAMIENTO: 2018-03-19
+NOTA DE LA CRÍTICA (IGDB): 87/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 62/100 (147 votos)
+FRANQUICIA: PlayerUnknown's Battlegrounds
+TAMBIÉN CONOCIDO COMO: PLAYERUNKNOWN'S BATTLEGROUNDS MOBILE, PUBG MOBILE
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1njn.jpg
+URL: https://www.igdb.com/games/pubg-mobile
+
+RESUMEN:
+PUBG Mobile is the mobile version of PlayerUnknown's Battlegrounds, a battle royale game where up to 100 players parachute onto an island, scavenge for weapons and equipment, and fight to be the last person or team standing as the playable area gradually shrinks. The game includes several modes beyond the standard battle royale, including smaller team-based formats. It is free-to-play with in-app purchases.
+
+JUEGOS PARECIDOS:
+Si te gusta PUBG Mobile, también podrían gustarte: PUBG: Battlegrounds, Free Fire, Double Action: Boogaloo, Z1: Battle Royale, Blood Strike, Arena Breakout, Paladins, Combat Master, Black Squad, Modern War.

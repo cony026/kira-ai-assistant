@@ -1,0 +1,30 @@
+JUEGO: Hexen II
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows), Mac
+DISPONIBLE EN: PC (Microsoft Windows), Mac
+GÉNEROS: Shooter, RPG, Aventura
+TEMAS: Acción, Fantasía, Histórico
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Raven Software, MumboJumbo
+PUBLISHER: id Software, MacPlay
+FECHA DE LANZAMIENTO: 1997-09-11
+NOTA DE USUARIOS (IGDB): 69/100 (34 votos)
+TAMBIÉN CONOCIDO COMO: Hexen 2
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2nnx.jpg
+URL: https://www.igdb.com/games/hexen-ii
+
+RESUMEN:
+The Four Horsemen of the Apocalypse lurk in the shadows before you. They are Death, Pestilence, Famine, and War. They are the root of all that is evil. They are the least of your worries. The last know Serpent Rider, Eidolon, lives. As the Necromancer, the Assassin, the Crusader, or the Paladin, you must defeat the dark generals and their Hell-spawned legions before you can face the Archfiend and attempt to end his ravenous onslaught. Go in peace and you will surely die.
+
+Experience the Quake Engine's true, polygon-based modeling for the most realistic, detailed environments ever seen in 3D gaming.
+Possess distinct spells, powers and 32 new weapons. With experience, gain levels, more hit points and certain abilities that apply to your specific character class, such as increased speed, firepower, and jump distance.
+Bludgeon your way through four demon-infested worlds - Medieval, Egyptian, Mesoamerican and Roman. Smash stained glass windows, collapse structural beams, and pulverize trees.
+Come face-to-face with Knight Archers, Fire Imps, Were-Jaguars, Skull Wizards and more. Go in with friends, or go against foes in a bloody Deathmatch. Up to 16 players can go at it via LAN and over the Internet.
+
+HISTORIA:
+The world of Thyrion lies enslaved beneath the cruel dominion of the Serpent Riders, a trio of monstrous overlords. In earlier struggles, two of the three brothers were struck down and their conquered worlds freed, but the greatest threat still remains. Eidolon, the oldest and most powerful of the Serpent Riders, now rules over Thyrion, and only his defeat can break the chains binding the land. Eidolon does not stand alone: he is served by four dreaded generals, dark reflections of the Four Horsemen of the Apocalypse, each holding sway over a different continent steeped in its own distinct culture and peril. Taking up the role of one of four mighty heroes, the player must journey across these far-flung realms, vanquish each of the generals in turn, and finally descend into Eidolon's own stronghold for a climactic reckoning.
+
+JUEGOS PARECIDOS:
+Si te gusta Hexen II, también podrían gustarte: Heretic, Hexen: Beyond Heretic, Witchaven, Avencast: Rise of the Mage, Stronghold Legends, Enclave, King's Field, Clans, Sword Legacy: Omen, Memories of a Vagabond.

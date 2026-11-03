@@ -1,0 +1,28 @@
+JUEGO: Dota 2
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Estrategia, MOBA
+TEMAS: Acción, Fantasía, Bélico
+MODOS DE JUEGO: Multijugador, Cooperativo
+PERSPECTIVA: Tercera persona, Isométrica
+DESARROLLADOR: Valve
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2013-07-09
+NOTA DE LA CRÍTICA (IGDB): 90/100 (4 críticas)
+NOTA DE USUARIOS (IGDB): 79/100 (774 votos)
+FRANQUICIA: Dota
+TAMBIÉN CONOCIDO COMO: Защита Древних 2, Dota 2 Test, 刀塔2, дота 2, Defense of the Ancients 2
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cobfk4.jpg
+URL: https://www.igdb.com/games/dota-2
+
+RESUMEN:
+Dota 2 is a multiplayer online battle arena video game and the stand-alone sequel to the Defense of the Ancients (DotA) mod. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has taken on a life of its own.
+
+HISTORIA:
+Each match of Dota 2 involves two teams, both containing five players and occupying a fortified stronghold at either end of the map. Victory is achieved by destroying the enemy's Ancient, a building that is invulnerable until certain objectives are achieved. Each player controls a "Hero" character and focuses on leveling up, acquiring items and fighting against the other team to achieve victory during each match.
+The previous match has no connection with the next match. All heroes are playable as in you do not have to "purchase/unlock" heroes to play them. The game development team try their best at balancing the heroes so that all heroes can be played in any match
+
+JUEGOS PARECIDOS:
+Si te gusta Dota 2, también podrían gustarte: Vainglory, Dungeon Defenders, Counter-Strike: Global Offensive, League of Legends, Heroes of Newerth, Dead Rising 3, Counter-Strike, StarCraft, Halo 5: Guardians, Risen 3: Titan Lords.

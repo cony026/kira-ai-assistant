@@ -1,0 +1,73 @@
+JUEGO: PEAK
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Indie
+DESARROLLADOR: Team PEAK
+PUBLISHER: Aggro Crab, Evil Landfall?
+FECHA DE LANZAMIENTO: 16 JUN 2025
+PRECIO: $7.99
+RESEÑAS DE USUARIOS (STEAM): Very Positive (360934 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+PEAK es un juego cooperativo de escalada en el que un solo error puede ser fatal. Ya sea en solitario o en grupo, la única esperanza de salir de la misteriosa isla es subiendo hasta la cima de la montaña del centro. ¿Tenéis lo que hace falta para subir al PICO?
+
+DESCRIPCIÓN DETALLADA:
+PEAK es un juego cooperativo de escalada en el que un solo error puede ser fatal. Ya sea en solitario o en grupo, la única esperanza de salir de la misteriosa isla es subiendo hasta la cima de la montaña del centro. ¿Tenéis lo que hace falta para subir al PICO?TRABAJO EN EQUIPO¿Necesitas que te echen una mano? Tendrás que confiar en tus amigos si pretendes escalar una montaña cuyo trazado cambia día que juegas. Ayudaos mutuamente para encaramaros a cornisas, o fijad sogas y ganchos de escalada para facilitar el ascenso a quienes vengan detrás.ALPINISMO¡La montaña no hace prisioneros! Recorred 4 biomas sorteando letales obstáculos en el ascenso a la cima del PICO. Para sobrevivir tendréis que comer alimentos de dudosa procedencia y tratad vuestras heridas con cuidado; cada percance reducirá vuestro aguante y dificultará aún más la escalada.SUPERVIVENCIAPreparaos para lo peor empleando una variedad de útiles artículos de supervivencia, desde bebidas energéticas hasta ganchos de escalada, pasando por la misteriosa anticuerda. Aprovechad todas las ventajas disponibles si queréis albergar la más mínima esperanza de alcanzar la cumbre del PICO.UNA ISLA NUEVA CADA DÍA¡El mapa del juego rota cada 24 horas! Probad un nuevo recorrido a diario, o explorad a fondo la isla del día hasta coronar la cima.OBTENED INSIGNIASUn explorador avezado consigue docenas de insignias y artículos decorativos para hacer gala de sus dotes de supervivencia.SE ESCALA MEJOR EN COMPAÑÍAEl multijugador en PEAK es solo para amigos: ¡invita a otros tres exploradores en Steam para escalar juntos, o enfréntate en solitario a la montaña si eres valiente!CARACTERÍSTICAS
+- Escala con otros 4 colegas
+- Comunicación en equipo mediante chat de proximidad 
+- 4 biomas diferentes por los que escalar
+- Un montón de comida de dudosa procedencia
+- Un surtido variadísimo de equipo de escalada
+- Fogatas y nubes de caramelo
+- Personalización de personajes
+- Cooperativo en línea y modo solitario sin conexión
+- Fantasmas
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Win 10
+
+- Procesador: Intel Core i5 @ 2.5 GHz or equivalent
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: GTX 1060 or RX 6600 XT
+
+- DirectX: Versión 12
+
+- Almacenamiento: 4 GB de espacio disponible
+
+- Notas adicionales: Requires a 64-bit processor and operating system
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Win 11
+
+- Procesador:  Intel Core i5 @ 3.0 GHz or AMD Ryzen 5 or equivalent
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: RTX 2060 or RX 7600xt or equivalent
+
+- DirectX: Versión 12
+
+- Almacenamiento: 6 GB de espacio disponible
+
+- Notas adicionales: Requires a 64-bit processor and operating system
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

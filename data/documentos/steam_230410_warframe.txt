@@ -1,0 +1,51 @@
+JUEGO: Warframe
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Rol, Free to Play
+DESARROLLADOR: Digital Extremes
+PUBLISHER: Digital Extremes
+FECHA DE LANZAMIENTO: 25 MAR 2013
+PRECIO: Gratis
+NOTA METACRITIC: 69/100
+RESEÑAS DE USUARIOS (STEAM): Very Positive (675106 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Despierta como un guerrero imparable y lucha junto a tus amigos en este juego de acción gratuito en línea y basado en historias.
+
+DESCRIPCIÓN DETALLADA:
+Despierta como un guerrero imparable y lucha junto a tus amigos en este juego de acción gratuito en línea y basado en historias. Enfréntate a las facciones en guerra en un extenso sistema interplanetario bajo la guía de la misteriosa Lotus, mejora tu warframe, construye un arsenal destructivo y descubre tu verdadero potencial en los enormes mundos abiertos de esta emocionante experiencia de combate en tercera persona que define el género.
+
+CONVIÉRTETE EN UN PODEROSO GUERRERO
+Equipa tu warframe: un traje biometálico increíblemente poderoso. Desata sus habilidades y usa una gran variedad de armas devastadoras para aniquilar sin esfuerzo a las hordas de enemigos. Y cuando termine la matanza, podrás obtener o desbloquear instantáneamente a más de 40 warframes diferentes, cada uno con sus poderes únicos, para volver a experimentar el caos como lo prefieras.
+
+COMBATE AL LADO DE TUS AMIGOS
+Forma un escuadrón con tus amigos y obtén valiosas recompensas cuando completen misiones juntos a través de un juego cooperativo altamente colaborativo. Usa los poderes de tu warframe para curar aliados, redirigir el fuego enemigo y conseguir tus objetivos. ¿Estás atrapado en un desafío en particular? El emparejamiento en el juego facilita la conexión con tenno amigables para cuando necesites un poco más de ayuda.
+
+EXPLORA UN ENORME SISTEMA
+Muévete hábilmente a través de las misiones terrestres con las fascinantes habilidades de parkour de tu warframe, o vuela hacia las estrellas y participa en batallas espaciales masivas con tu propia nave espacial personalizable. Piérdete en los misteriosos paisajes de los mundos abiertos y descubre un sistema repleto de formas de vida fascinantes, tanto amistosas como hostiles.
+
+DESCUBRE UNA HISTORIA ÉPICA
+Maravíllate con la extraordinaria historia del Sistema Origen mientras descubres la amplia narrativa cinemática de Warframe a lo largo de 5 expansiones distintas y más de 30 aventuras. Descubre tu poder interior y experimenta por primera vez la invencibilidad con uno de los tres warframes originales antes de comenzar tu viaje, desarrollar tus habilidades y buscar la verdad detrás de tu despertar.
+
+DOMINA TU ARSENAL
+Tus armas iniciales son solo el comienzo. Crea cientos de armas destructivas, además de vehículos, compañeros y mucho más. Mejóralos y experimenta hasta que encuentres la combinación correcta de equipamiento que se adapte a tu estilo de juego. Modifica tu armamento para darle una apariencia atemorizante que complemente tu equipamiento personalizado.
+
+PERSONALIZA CON INFINITAS OPCIONES
+Entrar al Sistema Origen significa unirse a legiones de tenno aliados, cada uno con sus propios warframes, armas y equipo personalizados. Con una impresionante cantidad de opciones de personalización disponibles para mejorar tu equipamiento, diseñar la apariencia perfecta para tu warframe presenta un desafío infinitamente gratificante para ti y tu escuadrón.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Minimum:
+
+- SO: Windows 7 de 64 bits (no compatible con 32 bits)
+
+- Procesador:  Intel Core i7 860, Intel Core i5 750 o AMD FX-4100 (compatibilidad requerida con SSE 4.2)
+
+- Video: tarjeta gráfica compatible con DirectX 11+
+
+- Memoria: 4 GB de RAM
+
+- Almacenamiento: 50 GB de espacio disponible en HD
+
+- Internet: conexión a Internet de banda ancha
+Nota: Actualmente no hay soporte disponible para Mac o Linux
+
+La compatibilidad con DirectX 12 requiere al menos Windows 10 20H2 (lanzado en 2020) o Windows 11

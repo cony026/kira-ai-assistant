@@ -1,0 +1,60 @@
+JUEGO: Fallout 76
+PLATAFORMA: PC (Steam)
+GÉNEROS: Rol
+DESARROLLADOR: Bethesda Game Studios
+PUBLISHER: Bethesda Softworks
+FECHA DE LANZAMIENTO: 14 ABR 2020
+PRECIO: $39.99
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (140378 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Bethesda Game Studios te da la bienvenida a Fallout 76. Veinticinco años después de la caída de las bombas, saldrás junto a los demás compañeros moradores del refugio a la América posnuclear. Explora un amplio Yermo en este juego multijugador de mundo abierto que completa la historia de Fallout.
+
+DESCRIPCIÓN DETALLADA:
+Bethesda Game Studios, los galardonados creadores de Skyrim y Fallout 4, te dan la bienvenida a Fallout 76. Veinticinco años después de la caída de las bombas, saldrás junto a los demás moradores del refugio (elegidos de entre lo mejor de la nación) a los Estados Unidos posnucleares el Día de la Recuperación de 2102. Juega solo o forma un equipo mientras exploras, completas misiones, construyes y superas las mayores amenazas. Explora un amplio Yermo devastado por el conflicto nuclear en este juego multijugador de mundo abierto que completa la historia de Fallout. Experimenta el mundo más grande y dinámico jamás creado para este legendario universo.  Cadenas de misiones inmersivas y personajes interesantesDescubre los secretos de Virginia Occidental mientras completas la compleja misión principal, que comienza en el momento en que abandonas el Refugio 76. Haz amigos y enemigos entre los vecinos que han venido a reconstruir el mundo y vive Appalachia a través de los ojos de sus habitantes. Tablero De S.c.o.r.e. De La TemporadaVe avanzando a lo largo de cada temporada para completar desafíos por tiempo limitado y desbloquear una serie de recompensas totalmente gratuitas, como consumibles, objetos para el C.A.M.P. y más. Juego De Rol MultijugadorAprovecha el sistema de S.P.E.C.I.A.L. para crear tu personaje y labrarte una reputación en un Yermo que cuenta con cientos de ubicaciones por descubrir.  Montaña Esplendorosa La historia se desarrolla a través del mundo de Fallout 76, que cuenta con seis regiones de Virginia Occidental muy diferentes entre sí. Desde los bosques de Appalachia hasta las peligrosas llanuras escarlata del pantano de Cranberry, cada zona plantea sus propios riesgos y recompensas.  El Nuevo Sueño AmericanoEmplea el nuevo “Centro Ambulante de Montaje y Planificación”, el C.A.M.P., para construir y fabricar objetos en cualquier rincón del mundo. El C.A.M.P. te ofrecerá refugio, provisiones y seguridad en un mundo donde nunca están de más. También podrás establecer un lugar en el que comerciar con otros supervivientes. Mundos De FalloutDisfruta de aventuras únicas por Appalachia con Mundos de Fallout, que es un conjunto de funcionalidades en constante evolución que ofrecen a los jugadores la posibilidad de experimentar Fallout 76 de formas únicas con ajustes personalizables.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO *: Windows 8.1/10 (64-bit versions)
+
+- Procesador: Intel Core i5-6600k 3.5 GHz /AMD Ryzen 3 1300X 3.5 GHz or equivalent
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GTX 780 3GB /AMD Radeon R9 285 2GB or equivalent
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 96 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO *: Windows 8.1/10 (64-bit versions)
+
+- Procesador: Intel Core i7-4790 3.6 GHz /AMD Ryzen 5 1500X 3.5 GHz
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GTX 970 4GB /AMD R9 290X 4GB
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 96 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

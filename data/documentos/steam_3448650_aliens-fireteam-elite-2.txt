@@ -1,0 +1,56 @@
+JUEGO: Aliens: Fireteam Elite 2
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción
+DESARROLLADOR: Cold Iron Studios
+PUBLISHER: Daybreak Game Company
+FECHA DE LANZAMIENTO: 25 AGO 2026
+PRECIO: $49.99
+RESEÑAS DE USUARIOS (STEAM): Mixed (785 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Esto no es una misión de rescate: es una lucha por la supervivencia. Los xenomorfos acechan por los pasillos, emboscan desde las sombras y atacan en enjambres abrumadores. Cada sala podría ser la última.
+
+DESCRIPCIÓN DETALLADA:
+Aliens: Fireteam Elite 2 pone hasta a cuatro jugadores en la piel de marines coloniales desplegados en los rincones más hostiles del universo de Aliens. Esto no es una misión de rescate: es una lucha por la supervivencia. Los xenomorfos acechan por los pasillos, emboscan desde las sombras y atacan en enjambres abrumadores. Cada sala podría ser la última. Coordínate con tu escuadrón, aprovecha las habilidades únicas de cada clase y adáptate sobre la marcha cuando los enfrentamientos pasen de tensos cara a cara a una guerra total. Con mecánicas de escuadrón más profundas, enemigos más inteligentes y una clase de especialista totalmente personalizable, AFE2 ofrece la experiencia cooperativa definitiva de Aliens.Combate cooperativo en escuadrón para 4 jugadoresAl pasar de tres a cuatro jugadores, AFE2 introduce mecánicas de equipo más profundas que recompensan la coordinación y una composición estratégica de clases. Las clases nuevas y mejoradas aportan estilos de juego y habilidades tácticas distintas al combate, haciendo que cada combinación de escuadrón se sienta diferente.Xenomorfos que te sobrepasanLos icónicos xenomorfos son más feroces que nunca. La enorme variedad de nuevos xenomorfos de AFE2 obligará a los jugadores a mantenerse en movimiento, conservar la conciencia situacional y usar todas las herramientas a su disposición. Desde porras eléctricas para el combate cuerpo a cuerpo en los momentos más desesperados hasta munición incendiaria y eléctrica para desgastar el implacable frente xenomorfo antes de que os arrolle a ti y a tu escuadrón, la batalla puede pasar de una tensión calculada a una última resistencia desesperada en cuestión de segundos. La clase especialista: juega a tu maneraMás allá de la personalización ampliada de armas y equipo, AFE2 introduce la clase especialista: una clase totalmente personalizable que permite a los jugadores combinar habilidades principales y secundarias de todas las clases disponibles. Crea un equipamiento adaptado a tu estilo de juego exacto y cubre cualquier rol que necesite tu escuadrón.Modo Horda: sobrevive al enjambreAFE2 se lanza con varios mapas de Horda dedicados que llevan a los escuadrones al límite. Lucha contra oleadas crecientes de xenomorfos y otros enemigos letales, y consigue recompensas cada vez más valiosas cuanto más resistas el asalto. Aquí es donde el trabajo en equipo y la habilidad se ponen a prueba al máximo.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 11
+
+- Procesador: AMD Ryzen 5 2600 / Intel Core i5-8400
+
+- Memoria: 10 GB de RAM
+
+- Gráficos: NVIDIA RTX 2060
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 35 GB de espacio disponible
+
+- Tarjeta de sonido: Integrated or dedicated Direct X 12 compatible sound card
+
+- Notas adicionales: Target Performance: 1080p resolution / 30 frames per second (low graphics setting)
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 11
+
+- Procesador: AMD Ryzen 5 5600G / Intel Core i5-12600
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: AMD 6700 / NVIDIA RTX 3070
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 35 GB de espacio disponible
+
+- Tarjeta de sonido: Integrated or dedicated Direct X 12 compatible sound card
+
+- Notas adicionales: Target Performance: 1080p resolution / 60 frames per second (high graphics setting)

@@ -1,0 +1,25 @@
+JUEGO: Wii Fit
+
+FUENTE: IGDB
+PLATAFORMA: Wii
+DISPONIBLE EN: Wii
+GÉNEROS: Simulación, Deportes
+TEMAS: Educativo
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Nintendo EAD Software Development Group No.5
+PUBLISHER: Nintendo
+FECHA DE LANZAMIENTO: 2007-12-01
+NOTA DE LA CRÍTICA (IGDB): 74/100 (4 críticas)
+NOTA DE USUARIOS (IGDB): 61/100 (62 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co86ml.jpg
+URL: https://www.igdb.com/games/wii-fit
+
+RESUMEN:
+Wii Fit is an exercise game consisting of activities using the Wii Balance Board peripheral.
+The game uses a unique platform peripheral called the Wii Balance Board, on which the player stands during exercise. The game features yoga, strength training, aerobics, and balance games. Wii Fit has been used for physiotherapy rehabilitation and has been adopted by various health clubs around the world. Additionally, the game has been used in nursing homes to improve posture in the elderly. The game has received generally positive reviews, despite criticism over the lack of intensity in some of its workout activities
+
+As of March 2012, Wii Fit has held the position of third best selling console game not packaged with a console, with 22.67 million copies sold.
+
+JUEGOS PARECIDOS:
+Si te gusta Wii Fit, también podrían gustarte: Wii Fit Plus, Wii Sports, Wii Fit U, Wii Party, Wii Sports Resort, Wii Play, Wii Play: Motion, Dance Dance Revolution, Ski or Die, Rec Room.

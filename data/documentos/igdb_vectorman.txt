@@ -1,0 +1,28 @@
+JUEGO: VectorMan
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Wii, Sega Mega Drive/Genesis, PC (Microsoft Windows)
+DISPONIBLE EN: Linux, Wii, Sega Mega Drive/Genesis, PC (Microsoft Windows), Mac
+GÉNEROS: Plataformas, Aventura, Arcade
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: BlueSky Software
+PUBLISHER: Sega, Tec Toy
+FECHA DE LANZAMIENTO: 1995-10-24
+NOTA DE USUARIOS (IGDB): 80/100 (45 votos)
+TAMBIÉN CONOCIDO COMO: VectorMan
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3s8c.jpg
+URL: https://www.igdb.com/games/vectorman
+
+RESUMEN:
+By the year 2049, Earth has been turned into a toxic waste dump. Humankind has fled into space leaving behind an army of mechanized “Orbots” to clean up the mess.
+But when the Orbot leader “WarHead” goes haywire and starts a global revolt against the humans, it falls on the shoulders of the last Orbot loyal to its human masters to save the planet.
+
+HISTORIA:
+In 2049, the human population of Earth embarks on a migratory voyage to try to colonize other planets. They leave mechanical "orbots" to clean up the mess they made on Earth through littering and pollution. Raster, a high-level orbot who watches Earth through a planetwide computer network, is accidentally attached to a working nuclear missile by a lesser orbot and goes insane, becoming an evil dictator named Warhead. He declares himself ruler of Earth, and begins preparing to execute any humans who dare return to their planet.
+
+Enter VectorMan, a humble orbot in charge of cleaning up toxic sludge by simply discharging it into the sun. As he lands on Earth after his last trip, he finds chaos and confusion. Because all the other Orbots are controlled by Warhead (VectorMan having not been affected because he was away), VectorMan takes it upon himself to destroy the errant orbot and restore peace to Earth.
+
+JUEGOS PARECIDOS:
+Si te gusta VectorMan, también podrían gustarte: Ristar, Alien Storm, Kirby's Dream Land 3, Ecco the Dolphin, Poncho, VectorMan 2, Psycho Dream, Kirby: Canvas Curse, Alien Soldier, Kid Chameleon.

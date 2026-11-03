@@ -1,0 +1,72 @@
+JUEGO: Schedule I
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Indie, Simuladores, Estrategia, Acceso anticipado
+DESARROLLADOR: TVGS
+PUBLISHER: TVGS
+FECHA DE LANZAMIENTO: 24 MAR 2025
+PRECIO: $19.99
+RESEÑAS DE USUARIOS (STEAM): Overwhelmingly Positive (313881 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+From small-time dope pusher to kingpin - manufacture and distribute a range of drugs throughout the grungy city of Hyland Point. Expand your empire with properties, businesses, employees and more.
+
+DESCRIPCIÓN DETALLADA:
+Schedule I drugs, substances, or chemicals are defined as drugs with no currently accepted medical use and a high potential for abuse. - The Drug Enforcement Administration
+
+You're a small-time drug dealer rolling into a fresh town with no cash, no product and no connections. Build your drug empire from the ground up in the grungy west-coast city of Hyland Point. Contend against intensifying law enforcement and deadly cartel competitors to expand your empire and reach the peak of the underworld.
+
+Produce a range of drugs to satisfy your customers, each one with it's own unique production process. Discover special recipes to create new drug variants with special properties.
+
+Walk, skate or drive throughout Hyland Point to get product into the hands of customers. Hire dealers to handle distribution for you.
+
+Purchase new properties and hire employees to expand the scope and scale of your operations. Work with suppliers to build a fully automated production and distribution chain.
+
+This is a dangerous line of work - you'll have to contend with increasing law enforcement, as well as deadly cartel competitors. Fight with fists, melee weapons or firearms.
+
+A growing empire needs skilled management. Reach new heights in co-op multiplayer.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64-bit)
+
+- Procesador: 3GHz 4-Core or similar
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: GeForce GTX 1060 6GB or Radeon RX 580
+
+- DirectX: Versión 11
+
+- Almacenamiento: 8 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10 (64-bit)
+
+- Procesador: 3.5GHz 6-Core or similar
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: GeForce RTX 3060 or Radeon RX 6700
+
+- DirectX: Versión 11
+
+- Almacenamiento: 10 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

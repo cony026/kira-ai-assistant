@@ -1,0 +1,29 @@
+JUEGO: Papers, Please
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Linux, Android, PC (Microsoft Windows), iOS, Mac, PlayStation Vita
+GÉNEROS: Point and click, Puzle, Simulación, Indie
+TEMAS: Suspenso
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona, Texto
+DESARROLLADOR: Lucas Pope
+PUBLISHER: 3909
+FECHA DE LANZAMIENTO: 2013-08-08
+NOTA DE LA CRÍTICA (IGDB): 82/100 (5 críticas)
+NOTA DE USUARIOS (IGDB): 82/100 (731 votos)
+TAMBIÉN CONOCIDO COMO: PapersPlease.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1vep.jpg
+URL: https://www.igdb.com/games/papers-please
+
+RESUMEN:
+The communist state of Arstotzka has just ended a 6-year war with neighboring Kolechia and reclaimed its rightful half of the border town, Grestin. Your job as immigration inspector is to control the flow of people entering the Arstotzkan side of Grestin from Kolechia. Among the throngs of immigrants and visitors looking for work are hidden smugglers, spies, and terrorists. Using only the documents provided by travelers and the Ministry of Admission's primitive inspect, search, and fingerprint systems you must decide who can enter Arstotzka and who will be turned away or arrested.
+
+HISTORIA:
+The gameplay of Papers, Please focuses on the work life of an immigration inspector at a border checkpoint for the fictitious Eastern Bloc country of Arstotzka. The player inspects would-be immigrants' documents and uses a sparse array of tools to determine whether the papers are in order for the purpose of keeping spies, smugglers and other unwanted individuals out of the country. At the end of each in-game day, the player earns money based on how many immigrants they processed less any penalties for mistakes, and then must decide on a simple budget to spend that money on rent, food, heat, and other necessities in low-class housing for themselves and their family. As relations between Arstotzka and nearby countries deteriorate due to multiple terrorist attacks, each day introduces a new set of rules for immigration based on the game's story, such as denying citizens of specific countries or demanding more exacting identification from citizens. The player may be challenged with moral dilemmas and social engineering as the game progresses; such as allowing the supposed spouse of one immigrant through despite them lacking complete papers, even though they may be planning to attack your fellow guards.
+A mysterious anti-government organisation also appears, with several of its members appearing in the checkpoint, giving the inspector orders on what to do in order to help the organisation bring down the government and establish a new one; the player can choose whether or not to help this organisation.
+The game has a scripted story mode with multiple possible endings depending on the player's previous actions, as well as an unlockable, randomized endless-play mode.
+Papers, Please has been praised by the sense of immersion provided by the game mechanics, and the intense emotional reaction.[12] CBC News' Jonathan Ore called Papers, Please a "nerve-racking sleuthing game with relentless pacing and dozens of compelling characters - all from a desk job"
+
+JUEGOS PARECIDOS:
+Si te gusta Papers, Please, también podrían gustarte: Buckshot Roulette, Enigmatis: The Ghosts of Maple Creek, Orwell: Ignorance is Strength, The Little Acre, Minami Lane, Constant C, Hidden Folks, The Operator, Ibb & Obb, Coffee Talk.

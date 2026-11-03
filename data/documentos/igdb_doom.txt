@@ -1,0 +1,31 @@
+JUEGO: Doom
+
+FUENTE: IGDB
+PLATAFORMA: Windows Mobile, PC-9800 Series, Linux, DOS
+DISPONIBLE EN: Windows Mobile, PC-9800 Series, Linux, DOS
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Terror
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: id Software
+PUBLISHER: id Software, Imagineer
+FECHA DE LANZAMIENTO: 1993-12-10
+NOTA DE LA CRÍTICA (IGDB): 80/100 (0 críticas)
+NOTA DE USUARIOS (IGDB): 85/100 (1003 votos)
+FRANQUICIA: Doom
+TAMBIÉN CONOCIDO COMO: Doom: Evil Unleashed, 毁灭战士, DOOM
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co5rav.jpg
+URL: https://www.igdb.com/games/doom
+
+RESUMEN:
+In the future, humans have left Earth and settled throughout the galaxy. On Mars, the Union Aerospace Corporation has established a radioactive waste facility and allowed the military to conduct teleportation experiments on the nearby moons of Deimos and Phobos. Hours ago, the base on Mars began receiving incoherent distress messages from Phobos, while Deimos has disappeared completely. With all attempts to establish contact failing, you and your team have been dispatched to investigate. Upon arrival, you secure the perimeter as the rest of your team enters the facility. As you stand guard, your radio crackles with the sound of gunfire, cracking bones and blood-curdling screams and eventually falls silent. Alone, with no way off the planet or means to defend yourself other than your trusty pistol, there’s only one way out - into the complex of death and the horrors that await you within. If you plan to get out of here alive you must fend off the hordes of demonic imps, haunting spectres and your undead, former comrades waiting to tear you limb from limb. So, grab the nearest shotgun and blast your way out of this fragging madness!
+
+HISTORIA:
+The player takes the role of a marine (unnamed to further represent the person playing), "one of Earth's toughest, hardened in combat and trained for action", who has been incarcerated on Mars after assaulting a senior officer when ordered to fire upon civilians. There, he works alongside the Union Aerospace Corporation (UAC), a multi-planetary conglomerate and military contractor performing secret experiments on interdimensional travel. Recently, the teleportation has shown signs of anomalies and instability, but the research continues nonetheless.
+
+Suddenly, something goes wrong and creatures from hell swarm out of the teleportation gates on Deimos and Phobos. A defensive response from base security fails to halt the invasion, and the bases are quickly overrun by monsters; all personnel are killed or turned into zombies
+
+A military detachment from Mars travels to Phobos to investigate the incident. The player is tasked with securing the perimeter, as the assault team and their heavy weapons are brought inside. Radio contact soon ceases and the player realizes that he is the only survivor. Being unable to pilot the shuttle off of Phobos by himself, the only way to escape is to go inside and fight through the complexes of the moon base.
+
+JUEGOS PARECIDOS:
+Si te gusta Doom, también podrían gustarte: Serious Sam 4, Serious Sam: The First Encounter, Wolfenstein: Youngblood, Bigfoot, Scathe, Killzone 2, Rage, Far Cry, Left 4 Dead 2, Helldivers 2.

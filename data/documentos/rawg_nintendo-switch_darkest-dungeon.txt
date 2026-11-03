@@ -1,0 +1,24 @@
+JUEGO: Darkest Dungeon
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Nintendo Switch
+DISPONIBLE EN: PC, macOS, Nintendo Switch, Linux, PS Vita, Xbox One, PlayStation 4
+FECHA DE LANZAMIENTO: 2016-01-18
+DESARROLLADOR: Red Hook Studios
+PUBLISHER: Red Hook Studios
+GÉNEROS: RPG, Strategy, Indie
+NOTA METACRITIC: 84
+RATING USUARIOS: 4.17/5 (1364 votos)
+TIEMPO DE JUEGO MEDIO: 8 horas
+TAGS: Singleplayer, Steam Achievements, Steam Cloud, Atmospheric, steam-trading-cards, RPG, 2D, Partial Controller Support, Horror, Fantasy, Difficult, Dark, role-playing, Turn-Based, controller support
+
+DESCRIPCIÓN:
+Darkest Dungeon is a roguelike RPG developed by Red Hook Studios.
+
+The works of Howard Lovecraft served as the main inspiration for the game which addresses the themes of fear and psychological trauma. 
+
+The story begins when the player learns that they inherited a manor from a distant relative who died excavating the catacombs under the manor and accidentally released a number of monsters.
+
+The player controls a group of adventure seekers that explore the dungeons beneath an old manor. Before every expedition, the player has to choose several heroes from the suggested roster and lead them through procedurally generated dungeons collecting treasures and killing various monsters.
+
+The main objective is to save the lives and mental health of the heroes. Mental health declines every time when the player's comrades suffer damage, walk into traps or fall back from the battlefield. If the hero suffers a breakdown, they start to behave unexpectedly. During the expedition, the characters obtain their own traits - permanent behavior patterns, which can be both negative, such as alcoholism and kleptomania or positive like bravery.

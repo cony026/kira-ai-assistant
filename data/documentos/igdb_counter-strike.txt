@@ -1,0 +1,24 @@
+JUEGO: Counter-Strike
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter
+TEMAS: Acción, Bélico
+MODOS DE JUEGO: Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve
+PUBLISHER: Valve, Sierra Entertainment
+FECHA DE LANZAMIENTO: 2000-11-09
+NOTA DE LA CRÍTICA (IGDB): 70/100 (2 críticas)
+NOTA DE USUARIOS (IGDB): 83/100 (771 votos)
+FRANQUICIA: Half-Life
+TAMBIÉN CONOCIDO COMO: Counter-Strike 1.6, CS1.6, CS, Half-Life: Counter-Strike, 反恐精英
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/coc32b.jpg
+URL: https://www.igdb.com/games/counter-strike
+
+RESUMEN:
+Counter-Strike is a team-based multiplayer tactical first-person shooter in which players join either the Terrorist or Counter-Terrorist side and compete in objective-based rounds. The primary game modes involve bomb defusal and hostage rescue, played across designated maps. Players purchase weapons and equipment between rounds using money earned from eliminations and completed objectives, and eliminated players must wait until the next round to respawn. Originally a fan-made modification for Half-Life created by Minh Le and Jess Cliffe in 1999, it was acquired by Valve and released as a standalone retail product in 2000, becoming one of the most influential first-person shooters and spawning multiple sequels including Counter-Strike: Source, Global Offensive, and Counter-Strike 2.
+
+JUEGOS PARECIDOS:
+Si te gusta Counter-Strike, también podrían gustarte: Counter-Strike: Condition Zero, Team Fortress Classic, Crossfire, Battlefield 2, Call of Duty 4: Modern Warfare, Day of Defeat, Call of Duty 2, Half-Life, Call of Duty, Quake III Arena.

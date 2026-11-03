@@ -1,0 +1,37 @@
+JUEGO: Chroma Squad
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: iOS (iPhone/iPad)
+DISPONIBLE EN: PlayStation 4, Xbox One, Nintendo Switch, macOS, PC, Linux, Android, iOS
+FECHA DE LANZAMIENTO: 2015-04-29
+DESARROLLADOR: BANDAI NAMCO Entertainment America, Behold Studios
+PUBLISHER: BANDAI NAMCO Entertainment US, Plug In Digital, Behold Studios
+GÉNEROS: RPG, Strategy, Indie
+NOTA METACRITIC: 75
+RATING USUARIOS: 3.56/5 (96 votos)
+TIEMPO DE JUEGO MEDIO: 4 horas
+TAGS: Singleplayer, Steam Achievements, Steam Cloud, steam-trading-cards, Great Soundtrack, RPG, 2D, Partial Controller Support, Funny, Steam Leaderboards, Comedy, Pixel Graphics, role-playing, Turn-Based, Captions available
+
+DESCRIPCIÓN:
+Chroma Squad is a tactical role-playing video game. The game is influenced by tokusatsu TV shows, particularly the Super Sentai and Power Rangers.
+
+###Tokusatsu
+The genre of tokusatsu TV shows is briefly defined as “a fantastic movie with special effects about superheroes”. It originated in the 50s and exists primarily in the form of serials, rather than individual films.
+
+The tokusatsu genre is characterized by a story about one or more heroes endowed with superpowers - technological or magical.
+
+A hero or heroes use their forces, ordinary and unusual, to battle with various evil forces — aliens, terrorists, monsters from the depths of the ocean, demons, and so on.
+
+Battles with enemies are abundantly present on the screen, filled with numerous special effects.
+
+###Plot
+The game has a team of stunt actors who have ceased to like their work and they decide to create their own company that will shoot TV shows in the genre of tokusatsu.
+
+###Gameplay
+When the company is founded, the player must find the actors and conclude contracts with them. For each actor a separate contract is drawn up with special conditions, in accordance with their roles in the team.
+
+The action in the game develops from episode to episode, each episode of the game corresponds to one episode of the series, which the company produces. And in the episodes of the series, the heroes fight with the villains, sometimes other characters adjoin the villains.
+
+The series is shown on TV. He collects a certain audience, gaining (or not gaining) rating. Receipts in the company depend on these indicators. Money is needed for the company to maintain and develop activities.
+
+The episodes are grouped into seasons, and if the company for one reason or another fails to finish the season, the game ends.

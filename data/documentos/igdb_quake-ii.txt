@@ -1,0 +1,25 @@
+JUEGO: Quake II
+
+FUENTE: IGDB
+PLATAFORMA: Zeebo, Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Zeebo, Linux, PC (Microsoft Windows), Mac, Amiga, PlayStation, Xbox 360
+GÉNEROS: Shooter
+TEMAS: Acción, Ciencia ficción, Terror
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Hammerhead, id Software
+PUBLISHER: Macmillan Digital Publishing, Hyperion Entertainment, TecToy, Activision
+FECHA DE LANZAMIENTO: 1997-12-09
+NOTA DE USUARIOS (IGDB): 83/100 (333 votos)
+TAMBIÉN CONOCIDO COMO: Quake 2, Q2
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co9bg8.jpg
+URL: https://www.igdb.com/games/quake-ii
+
+RESUMEN:
+Quake II is a first-person shooter video game developed by id Software and published by Activision. It is not a direct sequel to Quake, id decided to revert to an existing trademark when they were unable to agree on a new name that did not violate another company's trademark.
+
+HISTORIA:
+Humanity is locked in a desperate war against the Strogg, a merciless alien race of cyborgs who convert the living into machines of war. In a bold gambit to end the conflict, Earth launches a full invasion of the enemy homeworld, Stroggos. The assault falls apart on arrival, and a lone marine crash-lands as the only survivor of his squad, stranded deep in hostile territory. Cut off and alone, he must fight through the Strogg's sprawling industrial city, striking at their defenses and war effort to cripple the alien threat.
+
+JUEGOS PARECIDOS:
+Si te gusta Quake II, también podrían gustarte: Quake III Arena, Quake, Doom II: Hell on Earth, Quake 4, Unreal Tournament III, Doom, Duke Nukem 3D, Half-Life, Return to Castle Wolfenstein, Shadow Warrior 2.

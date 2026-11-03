@@ -1,0 +1,22 @@
+JUEGO: BurgerTime
+
+FUENTE: IGDB
+PLATAFORMA: ColecoVision, Arcade, PC-8800 Series, Sharp X1
+DISPONIBLE EN: ColecoVision, Arcade, PC-8800 Series, Sharp X1, Intellivision, DOS, Apple II, Sharp MZ-2200, Texas Instruments TI-99, MSX
+GÉNEROS: Puzle, Estrategia, Arcade
+TEMAS: Comedia, Gestión
+MODOS DE JUEGO: Un jugador, Pantalla dividida
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Data East
+PUBLISHER: Bally Midway, Data East, Coleco, Dempa Shimbunsha, Texas Instruments Incorporated, Mattel Electronics, Digiplay
+FECHA DE LANZAMIENTO: 1982-08-25
+NOTA DE USUARIOS (IGDB): 76/100 (44 votos)
+TAMBIÉN CONOCIDO COMO: Burger Time, Burger Time, Бърз Бургер
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co3sj9.jpg
+URL: https://www.igdb.com/games/burgertime
+
+RESUMEN:
+BurgerTime is a 1982 arcade game created by Data East for its DECO Cassette System. The game's original title, Hamburger, was changed to BurgerTime before its introduction to the US. The player is chef Peter Pepper, who must walk over hamburger ingredients located across a maze of platforms while avoiding pursuing characters. The game was popular in arcades. In the US, Data East USA licensed BurgerTime for distribution by Bally Midway. The Data East and Midway versions are distinguished by the manufacturer's name on the title screen and by the marquee and cabinet artworks.
+
+JUEGOS PARECIDOS:
+Si te gusta BurgerTime, también podrían gustarte: Puyo Puyo Tetris 2, There Is No Game, Diner Dash: Flo on the Go, Pranksterz: Off Your Boss, Lil' Guardsman, TTV2, Monkey Math, Jumpala, Angry Birds 2, Angry Birds Rio.

@@ -1,0 +1,28 @@
+JUEGO: Prince of Persia
+
+FUENTE: IGDB
+PLATAFORMA: DOS
+DISPONIBLE EN: DOS
+GÉNEROS: Plataformas, Puzle, Aventura
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Brøderbund Software
+PUBLISHER: Brøderbund Software
+FECHA DE LANZAMIENTO: 1990-09-01
+NOTA DE USUARIOS (IGDB): 82/100 (32 votos)
+FRANQUICIA: Prince of Persia
+TAMBIÉN CONOCIDO COMO: POP
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7pdv.jpg
+URL: https://www.igdb.com/games/prince-of-persia--8
+
+RESUMEN:
+The DOS port of Prince of Persia.
+
+Prince of Persia is a cinematic platform game originally developed and published by Broderbund for the Apple II in 1989. Taking place in medieval Persia, players control an unnamed protagonist who must venture through a series of dungeons to defeat the evil Grand Vizier Jaffar and save an imprisoned princess. Ported to a wide range of platforms after the original Apple II release, it is believed to have been the first cinematic platformer, inspiring many games in this subgenre.
+
+HISTORIA:
+The game is set in ancient Persia. While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is the Sultan's daughter (although the game never specifically mentions how). Jaffar locks her in a tower and orders her to become his wife, or she would die within 60 minutes (extended to 120 minutes in the Super NES version, which has longer and harder levels). The game's unnamed protagonist, whom the Princess loves, is thrown prisoner into the palace dungeons. In order to free her, he must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. But in addition to guards, various traps and dungeons, the protagonist is further hindered by his own doppelgänger, an apparition of his own self that is conjured out of a magic mirror.
+
+JUEGOS PARECIDOS:
+Si te gusta Prince of Persia, también podrían gustarte: LittleBigPlanet, Badland 2, Jusant, Candleman, Prinny 2: Dawn of Operation Panties, Dood!, Prinny: Can I Really Be the Hero?, Oddworld: Soulstorm, Bayonetta Origins: Cereza and the Lost Demon, Promenade, Swordigo.

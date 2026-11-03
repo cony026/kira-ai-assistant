@@ -1,0 +1,37 @@
+JUEGO: Mortal Shell II
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Rol
+DESARROLLADOR: Cold Symmetry
+PUBLISHER: Playstack
+FECHA DE LANZAMIENTO: 20 AGO 2026
+PRECIO: $49.99
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (11068 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Su carne es tu arma. Mortal Shell II es la secuela independiente de un RPG de acción con peleas despiadadas y llenas de adrenalina. Posee guerreros excepcionales, derroca dioses falsos y redime un mundo en destrucción.
+
+DESCRIPCIÓN DETALLADA:
+Mortal Shell II es una secuela independiente de Mortal Shell que amplía considerablemente el título original con un combate frenético y cargado de adrenalina, numerosas mejoras de armas y un mundo abierto que explorar libremente.
+
+Los ocho Receptáculos de los guerreros olvidados están dispersos por el devastado mundo de Mortal Shell II. Busca y hazte con estos Receptáculos, desata sus habilidades innatas y descubre la historia de cada uno desentrañando sus secretos.
+
+Mortal Shell II ofrece un sistema de combate dinámico e impecable pero realista, con opciones para pensar estratégicamente a la hora de mejorar armas cuerpo a cuerpo y a distancia. Sin las limitaciones del medidor de resistencia, el jugador puede sacar partido a múltiples tácticas para romper la postura del enemigo y asestar golpes críticos.El mundo abierto de Mortal Shell II es compacto, inmersivo y está estrechamente interconectado: ha sido diseñado para poner en valor el tiempo del jugador.
+
+Aquellos que se alejen del camino marcado podrán descubrir nuevos Receptáculos, armas, mejoras, curiosidades y mucho más.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10
+
+- Procesador: Intel Core i5-10600 / AMD RYZEN 5 5500
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB
+
+- DirectX: Versión 12
+
+- Almacenamiento: 70 GB de espacio disponible
+
+- Notas adicionales: SSD required

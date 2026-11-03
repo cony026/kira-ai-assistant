@@ -1,0 +1,23 @@
+JUEGO: Pong
+
+FUENTE: IGDB
+PLATAFORMA: Arcade, PC (Microsoft Windows), Plug & Play, Legacy Mobile Device
+DISPONIBLE EN: Arcade, PC (Microsoft Windows), Plug & Play, Legacy Mobile Device
+GÉNEROS: Simulación, Deportes, Arcade
+TEMAS: Acción
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Atari
+PUBLISHER: Atari, Namco, Atari, Inc., Sears, Hunter Electronics, TOPICS Entertainment
+FECHA DE LANZAMIENTO: 1972-11-29
+NOTA DE USUARIOS (IGDB): 79/100 (136 votos)
+FRANQUICIA: Pong
+TAMBIÉN CONOCIDO COMO: Atari PONG, Sears Tele-Games PONG
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2erg.jpg
+URL: https://www.igdb.com/games/pong
+
+RESUMEN:
+Pong is a table tennis-themed twitch arcade video game with simple two-dimensional graphics. It was the first sports arcade video game and one of the earliest arcade video games in history, helping to establish the video game industry along with the Magnavox Odyssey. Soon after its release, several companies began producing games that closely mimicked its gameplay.
+
+JUEGOS PARECIDOS:
+Si te gusta Pong, también podrían gustarte: Tennis for Two, Wild Card Football, Quadrapong, Table Tennis Touch, Super Tennis, Moto Rush GT, Super Pong, Fishing Derby, Kaboom!, Table Top Racing.

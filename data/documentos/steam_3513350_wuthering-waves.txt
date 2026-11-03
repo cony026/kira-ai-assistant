@@ -1,0 +1,72 @@
+JUEGO: Wuthering Waves
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Rol, Free to Play
+DESARROLLADOR: KURO GAMES
+PUBLISHER: KURO GAMES
+FECHA DE LANZAMIENTO: 28 ABR 2025
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Very Positive (54866 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Wuthering Waves es un juego de rol de mundo abierto lleno de historias y que permite un alto grado de libertad de juego. Despiertas como Errante, acompañado de un elenco vibrante de Resonadores, en un viaje para recuperar tus recuerdos perdidos, explorar y transformar el mundo.
+
+DESCRIPCIÓN DETALLADA:
+Wuthering Waves es un juego de rol de mundo abierto lleno de historias y que permite un alto grado de libertad de juego. Despiertas como Errante, acompañado de un elenco vibrante de Resonadores, en un viaje para recuperar tus recuerdos perdidos, explorar y transformar el mundo.  Te damos la bienvenida, Errante.La marea desciende dejando un silencio pesado.Golpeada por el Lamento, la humanidad sufre como si se hubiera encallado en un arrecife.Sin embargo, contraataca con un grito que rompe el silencio.La calamidad que trae la destrucción también envía el resurgimiento. Un nuevo mundo ha nacido.Errante, este es solo el comienzo de la historia, la tuya.Amigos que conocer, adversarios que derrotar, poderes nuevos que obtener, verdades secretas que descubrir y espectáculos nunca antes vistos que contemplar. Un mundo inmenso de infinitas posibilidades te aguarda. Pero la elección es tuya. Sé la respuesta, sé el líder y sigue los sonidos para llegar a un nuevo futuro.Partimos mientras la marea sube y baja.Levántate, Errante, esta es tu odisea.Adéntrate en un mundo en expansión / La civilización, devastada por el Lamento, renace Abraza nuevos niveles de libertad explorando este inmersivo mundo. Líbrate de las cadenas de lo físico corriendo rápidamente, haciendo parkour por las paredes, volando y pilotando una moto para disfrutar de la exploración del entorno. El mundo de Solaris-3 se abre ante ti mientras recuperas lentamente tus recuerdos y presencias su resurgir a través de tu interminable misión.Disfruta de batallas extremas / Participa en combates ágiles y frenéticos Enfréntate a los ataques enemigos en combates suaves y rápidos. Aplica controles sencillos de Evasión, Contraataque evasivo, Habilidad de Eco y mecanismos únicos de QTE para ofrecer una experiencia de combate óptima.Sumérgete en una narrativa sobrecogedora / Contempla una maravillosa fusión de historia, gráficos y sonidoA través de sus narrativas cinemáticas, profundas músicas e impresionantes animaciones, Solaris te lleva en un viaje sensorial que llena de vida cada pequeña historia.Encuentra a otros Resonadores / Viaja junto a tus compañeros y sus FortesConforma un armónico concierto de batalla con Resonadores de diferentes habilidades. Sus Fortes únicos revelan personalidades diferentes que serán tus más valiosos recursos para el viaje que te espera.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows10 64-bit
+
+- Procesador: Intel Core i5 (9th Gen) / Ryzen 2700
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 1060/AMD Radeon RX 570/Intel ARC A380
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 150 GB de espacio disponible
+
+- Tarjeta de sonido: Windows Compatible Audio Device
+
+- Notas adicionales: HDD Supported, SSD Recommended.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows10 64-bit
+
+- Procesador: Intel Core i7 (9th Gen) / Ryzen 3700
+
+- Memoria: 32 GB de RAM
+
+- Gráficos: NVIDIA GeForce RTX 2060/AMD Radeon RX 5700XT/intel ARC A750
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 150 GB de espacio disponible
+
+- Tarjeta de sonido: Windows Compatible Audio Device
+
+- Notas adicionales: SSD Required.
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

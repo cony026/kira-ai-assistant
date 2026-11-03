@@ -1,0 +1,22 @@
+JUEGO: Ark: Survival Ascended
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+DISPONIBLE EN: Xbox Series X|S, PC (Microsoft Windows), PlayStation 5
+GÉNEROS: Shooter, RPG, Simulación, Aventura, Indie
+TEMAS: Acción, Ciencia ficción, Supervivencia, Sandbox, Mundo abierto
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, MMO
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Studio Wildcard
+PUBLISHER: Studio Wildcard
+FECHA DE LANZAMIENTO: 2023-10-25
+NOTA DE USUARIOS (IGDB): 72/100 (31 votos)
+TAMBIÉN CONOCIDO COMO: ARK: Survival Ascended, ShooterGame\Binaries\Win64\ArkAscended_BE.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7ace.jpg
+URL: https://www.igdb.com/games/ark-survival-ascended
+
+RESUMEN:
+Ark: Survival Ascended is a next-generation remaster of our beloved ARK: Survival Evolved, harnessing the power of Unreal Engine 5. The base game will include SOTF and all the Ark: Survival Evolved DLC maps (which will be added to ASA over time).
+
+JUEGOS PARECIDOS:
+Si te gusta Ark: Survival Ascended, también podrían gustarte: Citadel: Forged With Fire, Dune: Awakening, Empyrion: Galactic Survival, Space Engineers, Ark II, Critter Cove, Warhammer 40,000: Darktide, Fallout 76, Grounded, Scum.

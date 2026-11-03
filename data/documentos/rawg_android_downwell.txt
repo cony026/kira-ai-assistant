@@ -1,0 +1,17 @@
+JUEGO: Downwell
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: PS Vita, PlayStation 4, Nintendo Switch, iOS, Android, PC
+FECHA DE LANZAMIENTO: 2015-10-14
+DESARROLLADOR: Devolver Digital, Moppin
+PUBLISHER: Devolver Digital, GHI Media
+GÉNEROS: Action, Adventure, Arcade, Casual, Indie, Platformer
+NOTA METACRITIC: 81
+RATING USUARIOS: 3.85/5 (457 votos)
+TIEMPO DE JUEGO MEDIO: 2 horas
+TAGS: Singleplayer, Steam Achievements, Great Soundtrack, 2D, Partial Controller Support, Difficult, Steam Leaderboards, Pixel Graphics, Retro, controller support, Roguelike, Fast-Paced, overlay, Roguelite, Shoot 'Em Up
+
+DESCRIPCIÓN:
+This is a procedurally generated rogue-lite, that lets players to explore the depths of a well. Taking a role of Welltaro, local curious man, players will drop down the well to kill monsters and collect the treasure. Simple three button controls are consisting of left and right movement and an action button. The action button will make a character jump, and while airborne, pressing and holding the button will give players the ability to shoot below them from the gunboots. But ammo is limited and replenished only when players are landing on the platforms.
+Explorable well is built out of multiple stages where each has three levels with different environments. After beating a level, players will be offered to pick one of three perks. A total amount of existing different perks are 20. Downwell has a combo system, which gives players a buff that makes attacks stronger if the combo score is high enough. To make their character stronger, players can buy gunboot charge and health upgrades.

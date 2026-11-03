@@ -1,0 +1,23 @@
+JUEGO: Counter-Strike: Source
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: Shooter
+TEMAS: Acción
+MODOS DE JUEGO: Multijugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Valve, Hidden Path Entertainment, Turtle Rock Studios
+PUBLISHER: Valve
+FECHA DE LANZAMIENTO: 2004-10-07
+NOTA DE LA CRÍTICA (IGDB): 90/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 78/100 (543 votos)
+TAMBIÉN CONOCIDO COMO: Counterstrike: Source, Counter Strike Source, CS:S, CSS, cstrike.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1txv.jpg
+URL: https://www.igdb.com/games/counter-strike-source
+
+RESUMEN:
+Counter-Strike: Source is a team-based tactical first-person shooter and a remake of the original Counter-Strike built on Valve's Source engine. A team of Counter-Terrorists faces a team of Terrorists across a series of rounds, each won by completing an objective such as defusing a bomb or rescuing hostages, or by eliminating the opposing team. Eliminated players do not respawn until the next round, and moving while firing reduces accuracy, encouraging careful positioning. The Source engine added interactive physics objects, ragdoll effects, and higher-detail environments, and the game was later succeeded by Counter-Strike: Global Offensive.
+
+JUEGOS PARECIDOS:
+Si te gusta Counter-Strike: Source, también podrían gustarte: Counter-Strike, Counter-Strike: Condition Zero, Crossfire, Team Fortress Classic, Battlefield 2, Call of Duty 4: Modern Warfare, Half-Life 2: Deathmatch, Battlefield 2142, Day of Defeat, Quake III Arena.

@@ -1,0 +1,60 @@
+JUEGO: Ready or Not
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Aventura, Indie
+DESARROLLADOR: VOID Interactive
+PUBLISHER: VOID Interactive
+FECHA DE LANZAMIENTO: 13 DIC 2023
+PRECIO: $49.99
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (343613 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Conviértete en un gran comandante de los SWAT y pon orden en una ciudad abrumada por el caos y la corrupción.
+
+DESCRIPCIÓN DETALLADA:
+Conviértete en un gran comandante de los SWAT y pon orden en una ciudad abrumada por el caos y la corrupción.Lidera un equipo de agentes de élite de los SWAT durante misiones impredecibles de alto riesgo contra despiadados criminales para evitar que el caos se adueñe de la ciudad. Dótate de armas y equipamiento del mundo real para afrontar misiones inspiradas en casos reales contra los despiadados criminales de Los Sueños. Todas tus decisiones, desde la selección del equipo hasta la irrupción táctica y el enfrentamiento, marcan la diferencia entre la vida y la muerte.¿Estás listo?CARACTERÍSTICASToma el mandoReady or Not ofrece una experiencia SWAT inmersiva. Dota a tus agentes de armas y equipamiento auténticos y despliégalos en misiones de alto riesgo inspiradas en el mundo real para asegurar ubicaciones que ocultan amenazas delictivas desconocidas y posible presencia de civiles. Todas las misiones requieren precisión táctica y conocimiento de la situación. Las balas procedentes de amenazas conocidas y ocultas interactúan de un modo realista con el entorno, atravesando paredes, muebles y cuerpos. Cubre tus seis, despeja tus ángulos, detén a los criminales y rescata a los inocentes.El peso de tu placaAsume la responsabilidad de ser un comandante de los SWAT con la misión de afrontar las actividades criminales en Los Sueños y evitar que opriman a sus ciudadanos. Toda decisión táctica importa y sus resultados dependen de ti. Tus decisiones sobre el terreno determinarán el éxito de la misión, la supervivencia de tu equipo y la seguridad de los rehenes. Las pérdidas de compañeros de equipo y de rehenes tienen un profundo impacto psicológico en los agentes supervivientes y afectan a su rendimiento o incluso ponen punto final a sus carreras.Auténtica jugabilidad tácticaReady or Not es un auténtico shooter táctico. Cada misión es una operación de alto riesgo a vida o muerte. Forja estratégicamente a tu equipo de agentes de élite de los SWAT, dótalos de las armas y el equipamiento adecuados para la misión, sitúa a tu equipo para irrumpir tácticamente en los refugios de los criminales e identifica y neutraliza rápidamente las amenazas en escenarios tensos y letales. Sigue las reglas de enfrentamiento, comunícate con tu equipo y no cometas ningún error: el fracaso es propio de gente sin preparación.Tu misión es la historiaReady or Not te enfrenta al crudo e implacable crimen del mundo real: los horrores de la trata de personas, el tráfico de drogas, el contrabando de armas, el extremismo militante y el terrorismo, a través de tramas entrelazadas que se extienden a lo largo de múltiples misiones. Lidia con dilemas morales al verte obligado a mantener el equilibrio entre actuar con moderación y afrontar a los más despiadados criminales de Los Sueños.Compañerismo cruzadoÚnete a tus amigos para poner coto a la ola de delincuencia que asola la ciudad. Ready or Not, mejorado con crossplay, admite hasta cinco jugadores en una experiencia táctica cooperativa en todas las plataformas. Comunícate eficazmente para aumentar tu precisión táctica, cubrir las espaldas de tu equipo y completar tu misión con éxito.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10, Windows 11
+
+- Procesador: Intel Core i5-4430 / AMD FX-6300
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB
+
+- DirectX: Versión 11
+
+- Almacenamiento: 60 GB de espacio disponible
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: 64-bit Windows 10, 64-bit Windows 11
+
+- Procesador: AMD Ryzen 5-1600 / Intel Core i5-7600K
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Nvidia GTX 1060 6GB or better
+
+- DirectX: Versión 11
+
+- Almacenamiento: 60 GB de espacio disponible
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

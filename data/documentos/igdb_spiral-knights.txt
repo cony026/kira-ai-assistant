@@ -1,0 +1,26 @@
+JUEGO: Spiral Knights
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: RPG, Hack and slash, Aventura, Indie
+TEMAS: Acción, Ciencia ficción, Mundo abierto
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo, MMO
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Grey Havens
+PUBLISHER: Grey Havens
+FECHA DE LANZAMIENTO: 2011-04-04
+NOTA DE LA CRÍTICA (IGDB): 51/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 62/100 (31 votos)
+TAMBIÉN CONOCIDO COMO: javaw.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co1trn.jpg
+URL: https://www.igdb.com/games/spiral-knights
+
+RESUMEN:
+Join the ranks of the Spiral Knights. Stranded on an alien world, you must explore the ever-changing Clockworks beneath its surface.
+
+HISTORIA:
+You have crashed. You are stranded. But you are not alone. The Spiral Knights have awoken on an alien world. Their equipment stores have been raided and their starship, The Skylark, will not recover from the crash. Now they must work together to survive on a journey that will take them to the very core of the world.
+
+JUEGOS PARECIDOS:
+Si te gusta Spiral Knights, también podrían gustarte: Palworld, Puzzle Pirates, Snowbreak: Containment Zone, Punishing: Gray Raven, Honkai Impact 3rd, Rising World, The Baconing, Wuthering Waves, Crashlands, The Seven Deadly Sins: Origin.

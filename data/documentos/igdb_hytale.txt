@@ -1,0 +1,25 @@
+JUEGO: Hytale
+
+FUENTE: IGDB
+PLATAFORMA: Linux, PC (Microsoft Windows), Mac
+DISPONIBLE EN: Linux, PC (Microsoft Windows), Mac
+GÉNEROS: RPG, Simulación, Aventura, Indie, Arcade
+TEMAS: Acción, Fantasía, Sandbox, Mundo abierto
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Primera persona, Tercera persona
+DESARROLLADOR: Hypixel Studios
+PUBLISHER: Hypixel Studios
+FECHA DE LANZAMIENTO: 2026-01-13
+NOTA DE LA CRÍTICA (IGDB): 80/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 89/100 (93 votos)
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/cobc4t.jpg
+URL: https://www.igdb.com/games/hytale
+
+RESUMEN:
+Hytale combines the scope of a sandbox with the depth of a roleplaying game, immersing players in a procedurally generated world where teetering towers and deep dungeons promise rich rewards throughout their adventures. Hytale supports everything from block-by-block construction to scripting and minigame creation, delivered using easy to use and powerful tools.
+
+HISTORIA:
+Hytale is a sandbox game with procedurally generated worlds, block-based construction, and RPG-styled combat. While it features dungeons and boss encounters, it does not have a scripted narrative campaign at this stage of early access.
+
+JUEGOS PARECIDOS:
+Si te gusta Hytale, también podrían gustarte: Critter Cove, Dude Simulator, Rising World, The Seven Deadly Sins: Origin, Tales of Seikyu, Dawnlands, Savage Lands, Mortal Online 2, The Elder Scrolls VI, Project: Gorgon.

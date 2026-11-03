@@ -1,0 +1,23 @@
+JUEGO: Microsoft Minesweeper
+
+FUENTE: IGDB
+PLATAFORMA: PC (Microsoft Windows)
+DISPONIBLE EN: PC (Microsoft Windows)
+GÉNEROS: Puzle
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Isométrica
+PUBLISHER: Microsoft
+FECHA DE LANZAMIENTO: 1990-10-08
+NOTA DE USUARIOS (IGDB): 69/100 (101 votos)
+TAMBIÉN CONOCIDO COMO: Minesweeper
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co7mis.jpg
+URL: https://www.igdb.com/games/microsoft-minesweeper
+
+RESUMEN:
+Microsoft Minesweeper (formerly just Minesweeper, and also known as Flower Field) is a minesweeper-type video game created by Curt Johnson, originally for IBM's OS/2, that was ported to Microsoft Windows by Robert Donner, both Microsoft employees at the time.
+
+HISTORIA:
+The goal of Minesweeper is to uncover all the squares on a grid that do not contain mines without being "blown up" by clicking on a square with a mine underneath. The location of most mines is discovered through a logical process, but some require guessing, usually with a 50-50 chance of being correct.
+
+JUEGOS PARECIDOS:
+Si te gusta Microsoft Minesweeper, también podrían gustarte: Trainz Trouble, Microsoft Mahjong, Microsoft Solitaire, Doodle Jump, Mythic Wonders: The Philosopher's Stone, Glow Artisan, Microsoft Wordament, Zuma, Zup! 2, Zup!.

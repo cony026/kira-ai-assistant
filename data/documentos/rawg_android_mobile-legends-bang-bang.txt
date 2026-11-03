@@ -1,0 +1,13 @@
+JUEGO: Mobile Legends: Bang Bang
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: Android, iOS
+FECHA DE LANZAMIENTO: 2016-07-11
+DESARROLLADOR: Moonton
+PUBLISHER: Moonton
+GÉNEROS: Action, Strategy, Massively Multiplayer
+TAGS: Free to Play, MOBA, Multiplayer, PvP, Competitive, Esports
+
+DESCRIPCIÓN:
+Mobile Legends: Bang Bang is a 5v5 MOBA designed for short mobile sessions, where two teams of players each control a hero with unique abilities and battle across lanes to destroy the enemy base. It features a large and regularly updated hero roster, ranked competitive play, and an active global esports scene.

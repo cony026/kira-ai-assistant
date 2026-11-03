@@ -1,0 +1,23 @@
+JUEGO: Necropolis
+
+FUENTE: IGDB
+PLATAFORMA: PlayStation 4, PC (Microsoft Windows), Mac, Xbox One
+DISPONIBLE EN: PlayStation 4, PC (Microsoft Windows), Mac, Xbox One
+GÉNEROS: Puzle, Aventura, Indie
+TEMAS: Acción, Fantasía
+MODOS DE JUEGO: Un jugador, Multijugador, Cooperativo
+PERSPECTIVA: Tercera persona
+DESARROLLADOR: Harebrained Schemes
+PUBLISHER: Bandai Namco Entertainment, Harebrained Schemes
+FECHA DE LANZAMIENTO: 2016-07-12
+NOTA DE LA CRÍTICA (IGDB): 60/100 (15 críticas)
+NOTA DE USUARIOS (IGDB): 70/100 (18 votos)
+TAMBIÉN CONOCIDO COMO: NECROPOLIS: A Diabolical Dungeon Delve, Necropolis.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2qtc.jpg
+URL: https://www.igdb.com/games/necropolis
+
+RESUMEN:
+Necropolis is a third-person action roguelike, set in a living dungeon that changes every time you play, filled with monsters, myth and magic, and lorded over by the mad mystical intellect known only as the Brazen Head.
+
+JUEGOS PARECIDOS:
+Si te gusta Necropolis, también podrían gustarte: Unravel Two, Arcadegeddon, Devil May Cry 5, Orcs Must Die! 3, Hob, Teardown, Degrees of Separation, Citadel: Forged With Fire, Code Vein, Monster Hunter Wilds.

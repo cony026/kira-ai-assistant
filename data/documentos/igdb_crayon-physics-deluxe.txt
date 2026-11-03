@@ -1,0 +1,23 @@
+JUEGO: Crayon Physics Deluxe
+
+FUENTE: IGDB
+PLATAFORMA: Linux, Android, PC (Microsoft Windows), iOS
+DISPONIBLE EN: Linux, Android, PC (Microsoft Windows), iOS, Mac
+GÉNEROS: Puzle, Indie
+TEMAS: Sandbox
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Vista lateral
+DESARROLLADOR: Kloonigames
+PUBLISHER: Kloonigames
+FECHA DE LANZAMIENTO: 2008-12-29
+NOTA DE LA CRÍTICA (IGDB): 70/100 (1 críticas)
+NOTA DE USUARIOS (IGDB): 70/100 (31 votos)
+TAMBIÉN CONOCIDO COMO: Launcher.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co26eu.jpg
+URL: https://www.igdb.com/games/crayon-physics-deluxe
+
+RESUMEN:
+Crayon Physics Deluxe is a 2D physics puzzle / sandbox game, in which you get to experience what it would be like if your drawings would be magically transformed into real physical objects. Solve puzzles with your artistic vision and creative use of physics.
+
+JUEGOS PARECIDOS:
+Si te gusta Crayon Physics Deluxe, también podrían gustarte: Windosill, World of Goo, Spirits, Lume, Blueberry Garden, Machinarium, Zup! 2, Zup!, Klocki, Zen Bound 2.

@@ -1,0 +1,93 @@
+JUEGO: Bodycam
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Indie, Multijugador masivo, Simuladores, Estrategia, Acceso anticipado
+DESARROLLADOR: Reissad Studio
+PUBLISHER: Reissad Studio
+FECHA DE LANZAMIENTO: 7 JUN 2024
+PRECIO: $33.32
+RESEÑAS DE USUARIOS (STEAM): Mostly Positive (45875 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Bodycam es el primer FPS táctico multijugador con una vista real de la cámara corporal en Unreal Engine 5. Los combates cuerpo a cuerpo se sienten crudos y ruidosos. Cada ángulo, leyenda y viñeta importa. Juega Deathmatch, Team Deathmatch y Wingman en mapas fotorrealistas donde el juego en equipo.
+
+DESCRIPCIÓN DETALLADA:
+VIENE CON LA PRÓXIMA ACTUALIZACIÓN IMPORTANTE VER EL COMBATE A TRAVÉS DE LA LENTE
+Bodycam es el primer FPS multijugador ultrarrealista creado para recrear la intensidad del combate real. Experimenta tiroteos tácticos a través de la lente de una cámara corporal, donde cada ángulo que mantengas, cada decisión que tomes y cada bala que dispares pueden decidir el resultado. Pierde un cheque y lo pagas. Sin punto de mira. Sin contador de munición. Sin HUD. Se dedicaron innumerables horas a estudiar metraje real, óptica, movimiento de cámara, compresión, exposición, comportamiento del sonido y situaciones de combate para llevar el realismo lo más lejos posible.
+───────────────────────────────────────────────────────────────────────── LA VERDADERA SENSACIÓN EN PRIMERA PERSONA
+ A diferencia de los juegos FPS tradicionales , donde la cámara controla toda la experiencia y las manos flotantes simplemente se colocan en la pantalla , Bodycam adopta un enfoque completamente diferente.
+Tus brazos, torso, piernas y arma están todos conectados físicamente. Además de esto, desarrollamos nuestra tecnología True Body , que hace que cada movimiento se sienta más suave, más instintivo y más natural. Al principio toma un poco de tiempo adaptarse ,pero una vez que hace clic, tu arma se convierte en una extensión de tu cuerpo y la línea entre tú y el operador comienza a desaparecer.
+Una vez que hayas experimentado el combate de esta manera,no hay vuelta atrás.
+───────────────────────────────────────────────────────────────────────── ARMAS QUE SE SIENTEN REALES
+ Cada recarga es impulsada por un sistema de animación dinámica con estados de calma y estrés separados. Bajo presión, tu personaje puede cometer errores realistas , acelerar los movimientos y tener dificultades para completar una recarga, tal como lo haría una persona real. En lugar de reproducir la misma animación cada vez, creamos docenas de variaciones y errores de recarga únicos, haciendo que cada recarga se sienta diferente.
+───────────────────────────────────────────────────────────────────────── PERSONALIZACIÓN AVANZADA DE ARMAS
+Cada operador lucha de manera diferente. Tu arma también debería hacerlo.
+Construya su arma de fuego desde cero con cientos de accesorios y miles de millones de combinaciones posibles . Ya sea que priorices la velocidad, la estabilidad o la precisión, cada accesorio cambia la forma en que tu arma se siente y se desempeña, permitiéndote crear cualquier cosa, desde rifles CQB compactos hasta plataformas de precisión de largo alcance. Tú defines tu arma.
+───────────────────────────────────────────────────────────────────────── HERRAMIENTAS DE COMBATE MODERNAS - DRON FPV&COCHE RC
+ La guerra moderna ha sido transformada por los drones FPV. Bodycam recrea fielmente el auténtico pilotaje FPV con física de vuelo realista,modos de vuelo estabilizado y completamente manual (Acro) y opciones de ajuste avanzadas que incluyen velocidades, curvas de aceleración y perfiles de vuelo. Implementa drones FPV y vehículos RC de reconocimiento para explorar posiciones enemigas, recopilar inteligencia, atacar objetivos y apoyar a tu escuadrón.
+
+───────────────────────────────────────────────────────────────────────── COMBATE IMPULSADO POR LA FÍSICA
+Impulsada por física procesal avanzada, Bodycam cuenta con un sistema Ragdoll Stumbling que permite a los operadores perder el equilibrio, tropezar, recuperarse y reaccionar de forma natural ante el entorno. Cada movimiento está impulsado físicamente, lo que hace que el combate se sienta más dinámico, fundamentado e impredecible.
+───────────────────────────────────────────────────────────────────────── UN MUNDO SIN MENÚS
+ Olvídese de los menús de pantalla completa. Tu tableta táctica es tu centro de mando. Accede instantáneamente a tus equipamientos, dispositivos, inventario, configuraciones y emparejamiento mientras te mueves por el HUB del campo de tiro de Bodycam. Personaliza tus armas, prueba nuevas construcciones, practica tus disparos, vuela drones FPV o simplemente pasa tiempo con otros jugadores, todo dentro de un entorno de juego perfecto.
+───────────────────────────────────────────────────────────────────────── CONSTRUIDO PARA LA COMPETENCIA - TRAE A TU COMPAÑERO
+ Wingman es un modo táctico de búsqueda 2v2&Destruir donde la comunicación, el posicionamiento y la precisión deciden cada ronda. No hay habilidades de héroe, ni rachas de muertes ni hazañas de movimiento. La victoria proviene del trabajo en equipo, el conocimiento del mapa y las jugadas clave en solitario.
+───────────────────────────────────────────────────────────────────────── DEL TRABAJO EN EQUIPO AL CAOS TOTAL - MODOS DE JUEGO CASUAL
+Ya sea que disfrutes del juego táctico competitivo o de los trepidantes tiroteos , Bodycam ofrece una variedad de experiencias. Lucha por cada ronda en 2v2 Wingman y 5v5 Body Bomb, salta al caos de Team Deathmatch , Deathmatch , Hardpoint y Juego de armas o sobrevivir a las implacables hordas de zombis en modo cooperativo.
+───────────────────────────────────────────────────────────────────────── SOBREVIVIR ZOMBIS
+Lucha contra hordas implacables de infectados en un inmersivo modo cooperativo de zombies basado en rondas en múltiples mapas únicos. Administre sus municiones, explore entornos peligrosos, desbloquee nuevas áreas, restablezca la energía y sobreviva a oleadas cada vez más mortales a medida que se propaga la infección.
+───────────────────────────────────────────────────────────────────────── MAPAS FOTOREALISTAS CONECTADOS A TIERRA
+Lucha en entornos muy detallados inspirados o replicados en ubicaciones del mundo real , desde edificios CQB y bosques hasta hospitales abandonados y redes de trincheras.
+───────────────────────────────────────────────────────────────────────── AUDIO DE PRÓXIMA GENERACIÓN
+Un sistema de audio avanzado construido alrededor del realismo y la inmersión. La propagación del sonido en tiempo real, la reverberación realista, la oclusión y el audio espacial te permiten escuchar el campo de batalla tal como se desarrolla realmente, convirtiendo cada sonido en una ventaja táctica.
+───────────────────────────────────────────────────────────────────────── ACCESO TEMPRANO, EN CONSTANTE EVOLUCIÓN
+Las actualizaciones importantes continúan ampliando Bodycam con nuevas tecnologías, mapas, armas, sistemas y mejoras en el juego determinadas por los comentarios de la comunidad.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11
+
+- Procesador: AMD Ryzen 7 3700X, Intel Core i7-9700K
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: AMD Radeon RX 5700 (8 GB), NVIDIA GeForce RTX 2070 (8 GB)
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Notas adicionales: SSD recomendado
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- Requiere un procesador y un sistema operativo de 64 bits
+
+- SO: Windows 10/11
+
+- Procesador: AMD Ryzen 7 3800X, Intel Core i7-10700K
+
+- Memoria: 16 GB de RAM
+
+- Gráficos: AMD Radeon RX 6600 XT (8 GB), NVIDIA GeForce RTX 3060 (12 GB)
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 50 GB de espacio disponible
+
+- Notas adicionales: SSD Recommended
+
+REQUISITOS MÍNIMOS (MAC):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (MAC):
+Recomendado:
+
+REQUISITOS MÍNIMOS (LINUX):
+Mínimo:
+
+REQUISITOS RECOMENDADOS (LINUX):
+Recomendado:

@@ -1,0 +1,23 @@
+JUEGO: OlliOlli
+
+FUENTE: RAWG
+PLATAFORMA PRINCIPAL: Android
+DISPONIBLE EN: PlayStation 3, PlayStation 4, PS Vita, iOS, Xbox One, Android, Nintendo 3DS, Wii U, PC, Linux, macOS
+FECHA DE LANZAMIENTO: 2014-01-21
+DESARROLLADOR: Devolver Digital, Carbon, Roll7, General Arcade
+PUBLISHER: Devolver Digital, Curve Digital, GHI Media
+GÉNEROS: Action, Sports, Arcade, Indie, Platformer
+NOTA METACRITIC: 78
+RATING USUARIOS: 3.72/5 (145 votos)
+TIEMPO DE JUEGO MEDIO: 1 horas
+TAGS: Singleplayer, Steam Achievements, Full controller support, Great Soundtrack, 2D, Difficult, Steam Leaderboards, Pixel Graphics, stats, controller support, skateboarding, Skating
+
+DESCRIPCIÓN:
+OlliOlli is a skating simulator, is an indie-game developed initially for handhelds, e.g., PS Vita. It is the first title of the series with the second numerical part of the series a year afterward.
+
+###Gameplay
+The player is presented with the 2D world, which is filled with the ramps, cliffs, railings, and another environment to perform tricks on. As in many titles of its sort, the player gets bonuses for the number of stunts, safety landing and doing combos. The world consists of 50 levels: each one has 5 (250 overall) trophies, accomplishing every one of them unlocks the next level and so on. 
+
+###Stylistics
+The game features pixel-art graphics presuming the level design to be minimalistic. Such style, nevertheless, brings a unique trait to the game's mechanics. While it doesn't feature any of the usual skateboarding title's trampolines and pools, the minimalistic nature of the Olliolli brings the hardcore out and forces the one behind the controller to mash the buttons repeatedly, memorizing the playthrough during the entire level. Final parts of the game resemble the hardcore platformers like Super Meat Boy more than they resemble traditional skating games like Tony Hawk.
+The title is also being praised for the soundtrack — it matches the indie stylistics and is available for sale separately.

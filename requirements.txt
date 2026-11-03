@@ -1,0 +1,30 @@
+# Servidor web
+flask
+python-dotenv
+
+# Base de datos relacional (MySQL) + login
+SQLAlchemy>=2.0
+PyMySQL
+cryptography        # requerido por PyMySQL para la autenticación de MySQL 8
+PyJWT
+
+# RAG
+chromadb
+sentence-transformers
+google-genai
+nltk                # NLP: stemming del re-ranking BM25 y análisis del corpus (analisis_nlp.py)
+spacy>=3.8,<3.9     # NLP: NER para enmascarar nombres (privacidad) y red de entidades
+                    # después de instalar:  python -m spacy download es_core_news_sm
+rapidfuzz           # nombres de juegos mal escritos
+
+# Noticias y scrapers
+feedparser
+requests
+beautifulsoup4
+
+# Análisis NLP: red de enlaces entre entidades (red_entidades.py)
+networkx
+matplotlib
+
+# Pruebas automáticas (tests/)
+pytest

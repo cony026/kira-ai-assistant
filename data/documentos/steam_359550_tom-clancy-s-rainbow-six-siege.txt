@@ -1,0 +1,56 @@
+JUEGO: Tom Clancy's Rainbow Six Siege
+PLATAFORMA: PC (Steam)
+GÉNEROS: Acción, Free to Play
+DESARROLLADOR: Ubisoft Montreal
+PUBLISHER: Ubisoft
+FECHA DE LANZAMIENTO: 1 DIC 2015
+PRECIO: Gratis
+RESEÑAS DE USUARIOS (STEAM): Very Positive (1544472 reseñas de usuarios en Steam)
+
+RESEÑA / DESCRIPCIÓN:
+Tom Clancy's Rainbow Six Siege es un shooter táctico, de élite y por equipos donde una planificación y una ejecución cuidadosas son la clave para ganar.
+
+DESCRIPCIÓN DETALLADA:
+Tom Clancy's Rainbow Six Siege es el referente indiscutible de juegos de disparos tácticos de equipo, en el que la estrategia y la ejecución de élite triunfan.Disfruta de acceso gratuito a los modos de juego Partida rápida y No clasificatoria con una selección de agentes.Hace falta pagar para desbloquear ciertas características, como las listas del modo Clasificatorio, la Copa Siege, agentes adicionales y objetos estéticos.ALTO RIESGO 5C5 ATACANTES CONTRA DEFENSORESAlterna entre ataque y defensa, adapta tu forma de afrontar los mapas y a los agentes. Siente la emoción y la intensidad de la acción mientras te aprovechas de la destrucción y los dispositivos para superar a los rivales en todas y cada una de las rondas.En defensa, transforma tus alrededores en fuertes fortificados. Refuerza paredes, coloca barricadas y despliega trampas para controlar los movimientos del enemigo. Utiliza herramientas de vigilancia para reunir información y anticipar su plan de ataque. Defiende la posición, adáptate a sus tácticas y supera a los atacantes en todo momento.En ataque, reúne información sobre la posición de los enemigos y los nidos de bombas con los drones. Coordínate con tu equipo para superar defensas reforzadas, despejar trampas y crear aperturas inesperadas. Pilla a los enemigos por sorpresa con jugadas verticales: ataca desde arriba, abajo o arriésgate a entrar en la zona por las ventanas gracias al rápel. Planea el ataque, ejecútalo y desactiva el peligro de las situaciones.HERRAMIENTAS DE DESTRUCCIÓNLa destrucción no solo es el caos, es la herramienta para el éxito. Usa el entorno y aprovéchate de él: convierte las paredes en oportunidades. Utiliza tecnología de vanguardia para rastrear los movimientos del enemigo, destruye paredes para crear nuevas líneas de visión y manipula el entorno para asegurarte la ventaja táctica.DE RECLUTA A ÉLITEUna vía de iniciación de calidad para los jugadores nuevos, que incluye una nueva ruta de nivel de autorización para ayudarte con el aprendizaje de los conceptos básicos y a ganar la confianza y habilidad necesarias antes de lanzarte a la acción táctica.EVOLUCIÓN CONSTANTECada temporada incluye grandes actualizaciones, con nuevo contenido y características para una estrategia y jugabilidad renovadas.COMPETITIVIDAD ESTRATOSFÉRICAÚnete a una enorme comunidad online con más de 80 millones de jugadores. Disfruta de enfrentamientos entre equipos profesionales del más alto nivel en la prestigiosa competición de esports de Rainbow Six Siege.El acceso al juego es gratuito. Hace falta pagar para desbloquear ciertas características, como los modos de juego competitivo, agentes y objetos estéticos.
+
+REQUISITOS MÍNIMOS (WINDOWS):
+Mínimo:
+
+- SO: Windows 10, Windows 11 (64-bit versions)
+
+- Procesador: AMD Ryzen 3 3100 / Intel i3-8100
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: Nvidia GTX 1650 4GB / AMD RX 5500XT 4GB / Intel ARC A380 6GB
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 65 GB de espacio disponible
+
+- Tarjeta de sonido: DirectX® 9.0c compatible sound card with latest drivers
+
+- Notas adicionales: For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology.
+
+REQUISITOS RECOMENDADOS (WINDOWS):
+Recomendado:
+
+- SO: Windows 11 (64-bit versions)
+
+- Procesador: AMD Ryzen5 3600 / Intel i5-10400
+
+- Memoria: 8 GB de RAM
+
+- Gráficos: NVIDIA RTX 2060 6GB / AMD RX 6600 8GB
+
+- DirectX: Versión 12
+
+- Red: Conexión de banda ancha a Internet
+
+- Almacenamiento: 65 GB de espacio disponible
+
+- Tarjeta de sonido: DirectX® 9.0c compatible sound card 5.1 with latest drivers
+
+- Notas adicionales: For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology.

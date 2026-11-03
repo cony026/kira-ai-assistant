@@ -1,0 +1,26 @@
+JUEGO: Archon
+
+FUENTE: IGDB
+PLATAFORMA: Atari 8-bit, PC-8800 Series, Commodore C64/128/MAX, ZX Spectrum
+DISPONIBLE EN: Atari 8-bit, PC-8800 Series, Commodore C64/128/MAX, ZX Spectrum, Sharp X1, PC (Microsoft Windows), Mac, DOS, Amiga, Apple II, FM-7, Amstrad CPC
+GÉNEROS: Estrategia, Táctico
+TEMAS: Acción, Fantasía
+MODOS DE JUEGO: Un jugador, Multijugador
+PERSPECTIVA: Isométrica
+DESARROLLADOR: Free Fall Associates
+PUBLISHER: Ariolasoft, Electronic Arts, Bullet-Proof Software
+FECHA DE LANZAMIENTO: 1983-11-01
+NOTA DE USUARIOS (IGDB): 79/100 (32 votos)
+TAMBIÉN CONOCIDO COMO: Archon: The Light and the Dark
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co6zdp.jpg
+URL: https://www.igdb.com/games/archon
+
+RESUMEN:
+Archon: The Light and the Dark was a game developed by Free Fall Associates which loosely modeled the game of Chess, with a number of additions to the gameplay. It was programmed by Anne Westfall, and released originally for Atari 8-bit computers in 1983. It was quickly ported to a number of different systems, and was well-received.
+
+HISTORIA:
+Archon is loosely based after the game of chess, but with the added trait that pieces do not simply kill other pieces-when an individual piece attempts to kill an opposing player's piece, a battle screen ensues, and a fight occurs. Generally, but not always-stronger pieces are able to overcome weaker pieces. Fights can also result in double-kills, where each piece involved in the battle is killed.
+Other additions to the game include special abilities held by certain pieces, as well as a Spellcaster piece, which acts as the leader of each side.
+
+JUEGOS PARECIDOS:
+Si te gusta Archon, también podrían gustarte: Dota Underlords, Total War: Warhammer III, Raid: Shadow Legends, Thunder Tier One, Shardbound, Battle Chess, Warhammer 40,000: Battlesector, Teamfight Tactics, Moonbreaker, Dark Envoy.

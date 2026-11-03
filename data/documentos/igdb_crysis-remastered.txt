@@ -1,0 +1,27 @@
+JUEGO: Crysis Remastered
+
+FUENTE: IGDB
+PLATAFORMA: Xbox Series X|S, PlayStation 4, PC (Microsoft Windows), PlayStation 5
+DISPONIBLE EN: Xbox Series X|S, PlayStation 4, PC (Microsoft Windows), PlayStation 5, Xbox One, Nintendo Switch
+GÉNEROS: Shooter, Aventura
+TEMAS: Acción, Sandbox, Bélico, Misterio
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona
+DESARROLLADOR: Crytek, Saber Interactive
+PUBLISHER: Crytek
+FECHA DE LANZAMIENTO: 2020-07-23
+NOTA DE LA CRÍTICA (IGDB): 68/100 (7 críticas)
+NOTA DE USUARIOS (IGDB): 72/100 (62 votos)
+FRANQUICIA: Crysis
+TAMBIÉN CONOCIDO COMO: 크라이시스 리마스터, CrysisRemastered.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co2on5.jpg
+URL: https://www.igdb.com/games/crysis-remastered
+
+RESUMEN:
+With its 2007 release, Crysis set the industry standard for first person shooters with stunning visuals, highly evolved gameplay, and an enormous sandbox world. Crysis Remastered adds new graphic features, high-quality textures, and the CRYENGINE's native hardware- and API-agnostic ray tracing solution to update the game for a new generation of hardware.
+
+HISTORIA:
+In the year 2020, North Korean forces led by General Ri-Chan Kyong seize control of the remote Lingshan Islands in the Pacific. Stationed there, a team of American civilian archaeologists led by Dr. Rosenthal sends out an urgent distress call, claiming to have unearthed a discovery that could change the world forever. A week later, the United States Army dispatches Raptor Team, an elite Delta Force squad, to the islands with orders to evacuate the scientists and secure whatever they have found. Outfitted with cutting-edge Nanosuits that grant them enhanced strength, speed, armor, and cloaking abilities, the operatives, including the protagonist Nomad and his teammates, insert into hostile territory. But what begins as a straightforward rescue mission behind enemy lines soon spirals into something far stranger and more dangerous than any of them anticipated.
+
+JUEGOS PARECIDOS:
+Si te gusta Crysis Remastered, también podrían gustarte: Crysis, Crysis 3, SiN, Hell Let Loose, Halo Infinite, Pragmata, Sniper: Ghost Warrior, Outer Wilds, Star Wars Outlaws, Warface.

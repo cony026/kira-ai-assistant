@@ -1,0 +1,23 @@
+JUEGO: Everspace
+
+FUENTE: IGDB
+PLATAFORMA: Google Stadia, PlayStation 4, Linux, PC (Microsoft Windows)
+DISPONIBLE EN: Google Stadia, PlayStation 4, Linux, PC (Microsoft Windows), SteamVR, Mac, Xbox One
+GÉNEROS: Peleas, Shooter, Simulación, Indie
+TEMAS: Acción, Ciencia ficción
+MODOS DE JUEGO: Un jugador
+PERSPECTIVA: Primera persona, Tercera persona, Realidad virtual
+DESARROLLADOR: ROCKFISH Games
+PUBLISHER: ROCKFISH Games
+FECHA DE LANZAMIENTO: 2017-05-25
+NOTA DE LA CRÍTICA (IGDB): 82/100 (4 críticas)
+NOTA DE USUARIOS (IGDB): 72/100 (40 votos)
+TAMBIÉN CONOCIDO COMO: EVERSPACE, ES, RSG-Win64-Shipping.exe
+PORTADA: https://images.igdb.com/igdb/image/upload/t_cover_big/co24ms.jpg
+URL: https://www.igdb.com/games/everspace
+
+RESUMEN:
+Everspace is an action-focused single-player space shooter with rock solid 6DOF controls combining roguelike elements with top-notch visuals and a captivating non-linear story as well as VR support in the final version.
+
+JUEGOS PARECIDOS:
+Si te gusta Everspace, también podrían gustarte: Everspace 2, Chorus, Clone Drone in the Danger Zone, MechWarrior 5: Mercenaries, Slime Rancher, Ark: Survival Evolved, Risk of Rain 2, Metro Exodus, Gunfire Reborn, The Solus Project.
